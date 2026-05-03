@@ -1,0 +1,254 @@
+#	Labrune - C:\Users\FH\OneDrive\Games\NFSCO\Project Localization\Organiaztion\vanilla_loc\LANGUAGE\Thai_InGame.bin
+#	File created on: 19.04.2026 16:50:37
+#
+#Chunk	Hash (HEX)	Label	Value
+# ---------------------------------------------------------------------------------------------------------
+# Chunk 0 - InGame
+0	AUTO	MENU_POSTRACE_AVERAGE_DRIFT_LENGTH	ระยะทางเฉลี่ย
+0	AUTO	WM_ACQUISITION_AREA_CONQUERED	*พื้นที่ที่พิชิตได้*
+0	AUTO	MENU_POSTRACE_CAR_CLASS_SELECT	คุณต้องการจะใช้รถคันนี้เพื่อเริ่มอาชีพของคุณหรือไม่?
+0	AUTO	HUD_CANYON_COLLISION_PENALTY	มีการชน %$d คะแนน
+0	AUTO	POSTRACE_CREW_INVITE	คำเชิญทีม
+0	AUTO	HUD_YOUR_TIME	เวลาของคุณ:
+0	AUTO	MENU_PAUSE_QUIT_TO_FREEROAM	ออกไปสู่การขับรถอิสระ
+0	AUTO	HUD_SHIFT_PERFECT	ขึ้นเกียร์ได้สมบูรณ์แบบ!
+0	AUTO	HUD_DRIFT_KEEP_MOVING	ไปต่อเร็ว!
+0	AUTO	PURSUIT_MILESTONE_ACHIEVED	การหลบหนีไล่ล่าประสบผลสำเร็จ
+0	AUTO	HUD_WRNONG_WAY	ผิดทาง!
+0	AUTO	HUD_DRIFT_DRIFT_ENDED	ดริฟต์สิ้นสุด
+0	AUTO	QR_GHOST_UPLOAD	ขอแสดงความยินดี คุณได้ทำคะแนนใหม่ติด 1 ใน 3 อันดับแรกในสนามแข่งนี้! เงาที่แสดงการขับของคุณกำลังถูกอัพโหลดไปที่ กระดานผู้นำของ NeedforSpeed.com เพื่อให้ผู้เล่นอื่นได้ท้าทาย!
+0	AUTO	MENU_POSTRACE_CANYON_SECTION_ONE_COMPLETE	ช่วงที่ 1 จากทั้งหมด 2 ช่วง
+0	AUTO	HUD_DRIFT_PERFECT_ENTRY	เข้าได้เพอร์เฟคท์!
+0	AUTO	MENU_POSTRACE_SPEEDTRAPS	การตรวจจับความเร็ว
+0	AUTO	SMS_FROM	จาก:
+0	AUTO	SMS_TEXT	ขอความ
+0	AUTO	HUD_DRIFT_POINTS_EARNED	(ได้คะแนน)
+0	AUTO	MENU_POSTRACE_CREW_WIN	*%s ชนะ*
+0	AUTO	MENU_POSTRACE_OPP_OVERBOARD	คู่ต่อสู้ชนพัง!
+0	AUTO	HEADER_POSTRACE_CROSS_LOSE	คุณแพ้
+0	AUTO	DIALOG_MSG_CONFIRM_ENTER_CARLOT	คุณแน่ใจหรือว่าอยากจะเข้าไปในโชว์รูม?
+0	AUTO	MENU_POSTRACE_WAITING_FOR_OTHER_OPPONENTS	กำลังรอคู่ต่อสู้คนอื่น:
+0	AUTO	DEMO_BEAT_CANYON_HIGH_SCORE	คุณทำสถิติคะแนนสูงสุดสำหรับสนามนี้!
+0	AUTO	OL_NEW_GHOST	เงาใหม่
+0	AUTO	DIALOG_MSG_CONFIRM_QUIT_TO_FREEROAM	คุณแน่ใจหรือว่าต้องการออกไปที่การขับอิสระ? ความก้าวหน้าในการแข่งทั้งหมดจะสูญหาย
+0	AUTO	HUD_COPDESTROYED_COPSUVL	รถ SUV เบา^ค่าหัว: %$d
+0	AUTO	DIALOG_MSG_JUMP_TO_SAFEHOUSE	ไปที่เซฟเฮ้าส์
+0	AUTO	MENU_POSTRACE_VIEW_CHECKPOINTS	ดูจุดเช็ค
+0	AUTO	HUD_CANYON_RATING_0	เร็วเข้า!
+0	AUTO	HUD_CANYON_RATING_1	ช้า
+0	AUTO	HUD_CANYON_RATING_2	ปานกลาง
+0	AUTO	HUD_CANYON_RATING_3	ดี!
+0	AUTO	HUD_CANYON_RATING_4	เยี่ยม!
+0	AUTO	HUD_CANYON_RATING_5	สุดยอด!
+0	AUTO	HUD_SHIFT_EARLY	ขึ้นเกียร์เร็วไป!
+0	AUTO	MENU_POSTRACE_STAGES_TITLE	*ช่วง*
+0	AUTO	MENU_POSTRACE_TRAFFIC_COLLISIONS	การชนบนเส้นทางจราจร
+0	AUTO	MENU_POSTRACE_VIEW_LAPS	ดูตามรอบ
+0	AUTO	HUD_DRIFT_SCORING_ZONE_START	เริ่มโซนทำคะแนน!
+0	AUTO	MENU_POSTRACE_REP_REWARD	รางวัลชื่อเสียง
+0	AUTO	HUD_SHIFT_GOOD	ขึ้นเกียร์ได้ดี!
+0	AUTO	HUD_DRIFT_GREAT_DRIFT	ดริฟต์ได้เยี่ยม!
+0	AUTO	MENU_POSTRACE_CASH_REWARD	รางวัลเงินสด
+0	AUTO	WORLDMAP_INFO_RANDOM_ENCOUNTER	*การท้าทายของทีม*
+0	AUTO	MENU_POSTRACE_FINALIZEING_SCORE	กำลังรอผลขั้นสุดท้าย
+0	AUTO	HUD_DRIFT_NICE_DRIFT	ดริฟต์สวย
+0	AUTO	OL_SAVE_GHOST	เงา
+0	AUTO	MENU_PAUSE_WORLD_MAP	แผนที่โลก
+0	AUTO	HUD_GPS_CONNECTION_LOST_RECONNECTING	การเชื่อมต่อจีพีเอสหลุด^กำลังเชื่อมต่อใหม่...
+0	AUTO	MENU_POSTRACE_SCORE_WIN	ทำคะแนนให้ดีกว่าคะแนนคู่ต่อสู้ของคุณ
+0	AUTO	MENU_POSTRACE_PLAYER_TIMOUT_AHEAD	แซงคู่ต่อสู้แล้ว!
+0	AUTO	MENU_POSTRACE_TESTDRIVE_COMPLETE	การขับทดสอบเสร็จสิ้น
+0	AUTO	PURSUIT_REWARD_CARD_UNLOCKED	ปลดล็อคการ์ดรางวัลได้แล้ว!
+0	AUTO	MENU_POSTRACE_VIEW_SUMMARY	ดูสรุปรวม
+0	AUTO	HUD_CHECKPOINT	จุดเช็ค
+0	AUTO	HUD_BOUNTY	ค่าหัว
+0	AUTO	MENU_POSTRACE_WIN	*ทีมคุณชนะ*
+0	AUTO	HUD_TUTORIAL_GOOD_JOB	ทำได้ดี!
+0	AUTO	HUD_TUTORIAL_PRESS_NOW	เปิดใช้งานเดี๋ยวนี้^กดปุ่มเปิดใช้งานลูกทีม
+0	AUTO	MENU_POSTRACE_CHECKPOINT_TITLE	*จุดเช็ค *
+0	AUTO	HUD_DRIFT_RACE_OVER	การแข่งจบแล้ว!
+0	AUTO	DIALOG_MSG_CONFIRM_RESTART_RACE	คุณแน่ใจหรือว่าต้องการจะเริ่มแข่งใหม่? ความก้าวหน้าในการแข่งทั้งหมดจะสูญหาย
+0	AUTO	HUD_SPEEDTRAP	จับความเร็ว
+0	AUTO	WM_HELP_FIRSTIME_RANDOMENCOUNTER_OVERLAY	คุณถูกท้าทายจากคู่แข่งให้ลงแข่งขัน! เลือกเส้นชัย ใครถึงก่อนชนะ
+0	AUTO	MENU_PAUSE_RESUME_FREE_ROAM	ขับรถอิสระต่อ
+0	AUTO	MENU_POSTRACE_CANYON_COMPLETE	*เสร็จสมบูรณ์*
+0	AUTO	MENU_PAUSE_TITLE	*หยุดชั่วคราว*
+0	AUTO	HUD_IMMUNE	พ้นอันตราย
+0	AUTO	MENU_POSTRACE_POSITION	ตำแหน่ง
+0	AUTO	HUD_COPDESTROYED_COPSPORTGHOST	รถสายลับระดับชาติ^ค่าหัว: %$d
+0	AUTO	HUD_COPDESTROYED_COPSPORTHENCH	รถไล่ล่าระดับชาติ^ค่าหัว: %$d
+0	AUTO	MENU_POSTRACE_CROSS_LOSE	คุณหนีครอสไม่พ้น
+0	AUTO	SMS_CONFIRM_DELETE	คุณแน่ใจหรือว่าต้องการลบข้อความเอสเอ็มเอสนี้?
+0	AUTO	MENU_POSTRACE_BACK_TO_GAMEROOM	กำลังกลับเข้าไปในห้องเกมใน:
+0	AUTO	MENU_POSTRACE_PLAYER_TIMOUT_BEHIND	ช้าไป!
+0	AUTO	HUD_COMPLETE	วิ่งมาทั้งหมด
+0	AUTO	HUD_PASSED	ผ่านแล้ว!
+0	AUTO	MENU_POSTRACE_REWARD_CARDS_WON	ได้การ์ดรางวัล:
+0	AUTO	COP_ESCAPE_DONE	หลบหนีการไล่ล่าสำเร็จ!
+0	AUTO	HUD_GO	ไป!
+0	AUTO	MENU_POSTRACE_OPP_TIMOUT_AHEAD	ถูกแซง!
+0	AUTO	HUD_SPLIT_SCORE	คะแนนทิ้งระยะ:
+0	AUTO	HUD_COPDESTROYED_COPGTOGHOST	รถสายลับระดับรัฐ^ค่าหัว: %$d
+0	AUTO	DIALOG_MSG_GPS_TO_SAFEHOUSE	คุณต้องการใช้ระบบจีพีเอสไปยังเซฟเฮ้าส์หรือไม่?
+0	AUTO	POST_RACE_RACER_PROFILE	โปรไฟล์นักแข่งหลังการแข่ง
+0	AUTO	HUD_NEXT_CHECKPOINT	จุดเช็คต่อไป:
+0	AUTO	MENU_POSTRACE_SPEEDTRAPS_TITLE	*การตรวจจับความเร็ว*
+0	AUTO	TITLE_DEFENCE_RACE	*แข่งป้องกัน*
+0	AUTO	SMS_SUBJECT	เรื่อง:
+0	AUTO	MENU_POSTRACE_BEST_SPEEDTRAP_SPEED	ความเร็วที่ดีที่สุดในการตรวจจับความเร็ว
+0	AUTO	HUD_DRIFT_SPUN_OUT	หมุนออกไป!
+0	AUTO	SMS_MAILBOX	*กล่องรับจดหมาย*
+0	AUTO	HUD_DRIFT_AMAZING_DRIFT	ดริฟต์ได้แจ๋ว!
+0	AUTO	HUD_CANYON_PLAYER_AHEAD_OF_SCORING_ZONE_LEG_ONE	ขึ้นนำคู่แข่งแล้ว!
+0	AUTO	HUD_CANYON_PLAYER_AHEAD_OF_SCORING_ZONE_LEG_TWO	แซงให้ขาดเลย!
+0	AUTO	MENU_POSTRACE_STILL_RACING	ยังแข่งอยู่
+0	AUTO	MENU_POSTRACE_LEG_ONE_TIME	เวลาช่วงที่ 1
+0	AUTO	EATRAX_TICKER_SCORED	ดนตรีในนีดฟอร์สปีด™ คาร์บอน
+0	AUTO	MENU_POSTRACE_AVERAGE_SPEEDTRAP_SPEED	ความเร็วเฉลี่ยในการตรวจจับความเร็ว
+0	AUTO	MENU_POSTRACE_TIME_BEHIND	เวลาตามหลัง
+0	AUTO	HUD_FINISH_YOU_LOST	คุณแพ้!
+0	AUTO	MENU_POSTRACE_TOLLBOOTH_LOSE	ช้าไป!
+0	AUTO	HUD_DRIFT_POINTS_LOST	(เสียคะแนน)
+0	AUTO	HUD_CANYON_COLLISION_BONUS	ไม่มีการชน +%$d คะแนน
+0	AUTO	MENU_CM_HIRE_NOT_ENOUGH_MONEY	คุณไม่มีเงินพอจะจ้างลูกทีมคนนี้ได้!
+0	AUTO	HUD_LAP	รอบ
+0	AUTO	MENU_POSTRACE_WINGMAN_FINISHED_FIRST	ลูกทีมชนะ
+0	AUTO	MENU_POSTRACE_WIN_NO_CREW	*คุณชนะ*
+0	AUTO	HUD_SPEEDTRAP_PENALTY	โดนปรับความเร็ว
+0	AUTO	MENU_PAUSE_JUMP_TO_SAFEHOUSE	ข้ามไปที่เซฟเฮ้าส์
+0	AUTO	QR_GHOST_UPLOAD_ERROR	มีข้อผิดพลาดเกิดขึ้นระหว่างทำการอัพโหลดเงาของคุณ
+0	AUTO	HUD_DRIFT_GOOD_DRIFT	ดริฟต์ได้ดี!
+0	AUTO	HUD_COPDESTROYED_COPCROSS	ครอส^ค่าหัว: %$d
+0	AUTO	HUD_COPDESTROYED_COPGHOST	รถลาดตระเวนของสายลับระดับเมือง^ค่าหัว: %$d
+0	AUTO	HUD_DRIFT_AWESOME_DRIFT	ดริฟต์ได้สุดยอด!
+0	AUTO	HUD_DRIFT_BONUS_ZONE	โบนัสโซน
+0	AUTO	DIALOG_MSG_CONFIRM_QUIT_CAREER	คุณแน่ใจหรือว่าต้องการจะออกไปที่เมนูหลักโหมดอาชีพ? ความก้าวหน้าในการแข่งทั้งหมดจะสูญหาย
+0	AUTO	HUD_FOLLOWING	กำลังตาม
+0	AUTO	POST_RACE_EXIT	ออกจากสรุปหลังการแข่ง
+0	AUTO	HUD_COPDESTROYED_COPGTO	รถไล่ล่าระดับรัฐ^ค่าหัว: %$d
+0	AUTO	HUD_COPDESTROYED_COPSUV	รถ SUV หนัก^ค่าหัว: %$d
+0	AUTO	DIALOG_MSG_CONFIRM_JUMP_TO_SAFEHOUSE	คุณแน่ใจหรือว่าต้องการข้ามไปที่เซฟเฮ้าส์? ความก้าวหน้าทั้งหมดจะสูญหาย
+0	AUTO	HUD_COST_TO_STATE	ระดับความเสียหาย
+0	AUTO	MENU_PAUSE_RESTART	เริ่มใหม่
+0	AUTO	MENU_POSTRACE_PREWARD_CARD	การ์ดรางวัล:
+0	AUTO	MENU_PAUSE_RESUME_RACE	แข่งต่อ
+0	AUTO	HUD_DRIFT_COMBO_MULTIPLIER	ตัวคูณคอมโบ
+0	AUTO	MENU_POSTRACE_STANDINGS	*อันดับ*
+0	AUTO	HUD_DRIFT_SCORING_ZONE_FINISH	เสร็จสิ้นโซนทำคะแนน!
+0	AUTO	DIALOG_MSG_CONFIRM_JUMP_TO_SAFEHOUSE_NO_WARNINGS	คุณแน่ใจหรือว่าอยากจะข้ามไปที่เซฟเฮ้าส์?
+0	AUTO	MENU_POSTRACE_TOTAL_SPEED	ความเร็วทั้งหมด
+0	AUTO	MENU_POSTRACE_CHECKPOINT	จุดเช็ค
+0	AUTO	HUD_CANYON_OVER_THE_CLIFF	ตกเหว!
+0	AUTO	SMS_MAILBOXES	กล่องจดหมาย
+0	AUTO	MC_OVERWRITE	เขียนทับ
+0	AUTO	HUD_TACH_ABBREV_NEUTRAL	N
+0	AUTO	HUD_RACE_TIME_LEFT	เหลือเวลาแข่ง
+0	AUTO	POST_RACE_SAVE_GHOST	เงา
+0	AUTO	DEMO_BEAT_CIRCUIT_BEST_TIME	คุณทำสถิติเวลาดีที่สุดสำหรับสนามนี้!
+0	AUTO	SUBTITLES_NIS_INTROCAREER01_01	นายไม่ควรจะมาอยู่กับเขตแดนของฉัน^เรื่องที่คนอื่นเค้าสงสัยเกี่ยวกับนายท่าทางจะเป็นเรื่องจริงนะ
+0	AUTO	SUBTITLES_NIS_INTROCAREER02_01	จำฉันได้มั้ย?
+0	AUTO	SUBTITLES_NIS_INTROCAREER02_02	ฉันว่านายจำไม่ได้หรอก เพราะถ้าจำได้นายคงไม่มานั่งอยู่ตรงนี้แน่
+0	AUTO	SUBTITLES_NIS_INTROCAREER03_01	นายทำให้ฉันรอนะ
+0	AUTO	SUBTITLES_NIS_INTROCAREER03_02	ฉันประหลาดใจนะที่นายโง่ขนาดกล้าโผล่หัวออกมา
+0	AUTO	SUBTITLES_NIS_INTROCAREER04_01	รู้มั้ยว่าฉันใช้เงินนั่นยังไง? เงินที่คนคิดว่านายขโมยไปน่ะ?
+0	AUTO	SUBTITLES_NIS_INTROCAREER04_02	ฉันซื้อทุกสิ่งให้นิกกี้ ทุกสิ่งที่นายไม่สามารถหาได้
+0	AUTO	SUBTITLES_NIS_INTROCAREER06_01	เนวิลล์!? ไม่เอาน่า! ฉันไม่มีเวลานะ
+0	AUTO	SUBTITLES_NIS_INTROCAREER06_02	นิกกี้ใช้ได้ทีเดียว ฟังเธอบ้าง^ฉันจะอยู่คอยช่วยและไม่ให้เธอเล่นนายหนักเกินไป
+0	AUTO	SUBTITLES_NIS_INTROCAREER06_03	โอเค มาจัดการเรื่องนี้ให้เสร็จๆ เถอะ
+0	AUTO	SUBTITLES_NIS_INTROCAREER07_01	นายหายไปนานเลยนะ นายออกมาจากร็อคพอร์คแล้วหรอ?
+0	AUTO	SUBTITLES_NIS_INTROCAREER07_02	เพื่อนเอ๋ย หลายอย่างเปลี่ยนแปลงไปหมดตั้งแต่นายไป^ มีทีมในเมืองนี้เป็นกระบุงเลย มีกันอยู่ทุกที่ เพี้ยนสุดๆ!
+0	AUTO	SUBTITLES_NIS_INTROCAREER07_03	ระวัง ตำรวจ!
+0	AUTO	SUBTITLES_NIS_INTROCAREER07_04	เอานี่ไปกิน!
+0	AUTO	SUBTITLES_NIS_INTROCAREER07_05	โอ้ เป็นไง เจอของจริงซะหน่อยน้อง!
+0	AUTO	SUBTITLES_NIS_INTROCAREER07_06	ฉันระวังหลังให้นายแล้ว เดี๋ยวฉันจัดการกับรถตำรวจข้างหลังฉันก่อน^เหยียบคันเร่งไว้
+0	AUTO	SMS_VOICE	เสียง
+0	AUTO	HUD_GPS_CONNECTION_LOST	การเชื่อมต่อจีพีเอสหลุด
+0	AUTO	DIALOG_MSG_CONFIRM_EXIT	คุณแน่ใจหรือว่าต้องการออก? ^ความก้าวหน้าทั้งหมดจะสูญหาย
+0	AUTO	DIALOG_MSG_CONFIRM_RESTART_RACE_CANYON	คุณแน่ใจหรือว่าต้องการจะเริ่มแข่งใหม่? การแข่งจะถูกเริ่มต้นใหม่ในตอนแรกเริ่มของรอบแรก!
+0	AUTO	MENU_POSTRACE_VIEW_STAGES	ดูตามช่วง
+0	AUTO	DIALOG_MSG_CONFIRM_ENTER_SAFEHOUSE	คุณแน่ใจหรือว่าอยากจะเข้าไปในเซฟเฮ้าส์?
+0	AUTO	MENU_POSTRACE_OPP_TIMOUT_BEHIND	คู่ต่อสู้ถูกทิ้งห่าง!
+0	AUTO	HUD_LAUNCH_PERFECT	ออกตัวได้สมบูรณ์แบบ!
+0	AUTO	SUBTITLES_NIS_ENDINGCAREERCG20_01	ฉันคุมทุกอย่างทั้งตำรวจทั้งนักแข่ง แล้วฉันก็คุมนายมาตลอดด้วย
+0	AUTO	MENU_POSTRACE_PREWARD_CARD_REWARD	การ์ดที่ได้เป็นรางวัล:
+0	AUTO	SUBTITLES_NIS_INTRO24_01	โอกาสสุดท้ายของนายแล้วที่จะเผชิญหน้ากับความเป็นจริงแล้วถอยไปซะ
+0	AUTO	SUBTITLES_NIS_INTRO25_01	พอรึยัง?
+0	AUTO	SUBTITLES_NIS_INTRO26_01	เข้ามาเลย
+0	AUTO	SUBTITLES_NIS_INTRO27_01	ไม่มีใครตามฉันทันหรอก
+0	AUTO	HUD_DRIFT_HIT_THE_WALL	ชนกำแพง!
+0	AUTO	MENU_POSTRACE_CHECKPOINT_WON	คุณเข้าเส้นชัยทันเวลา
+0	AUTO	MENU_POSTRACE_VIEW_STANDINGS	ดูอันดับ
+0	AUTO	HUD_TACH_KPH	กม./ชม.
+0	AUTO	HUD_TACH_MPH	MPH
+0	AUTO	SUBTITLES_NIS_ENDINGCAREER10_01	นายทำได้แล้วเจ้าหนู ฉันพูดมาตลอดว่านายต้องทำได้^ตอนนี้คนอื่นก็เริ่มเชื่อแล้ว อย่าเพิ่งยอมแพ้ล่ะ นายใกล้เข้าไปแล้ว
+0	AUTO	SUBTITLES_NIS_ENDINGCAREER11_01	ฉันได้ยินว่านายกลับเข้ามาในเมือง^แต่ตอนนี้ฉันอยากได้ยินว่านายไปแล้วไปลับว่ะ
+0	AUTO	SUBTITLES_NIS_ENDINGCAREER12_01	ไม่รู้ว่าอย่างไหนน่าสมเพชกว่ากัน ระหว่างรถนายหรือทีมนาย
+0	AUTO	SUBTITLES_NIS_ENDINGCAREER15_01	ได้ยินว่านายเข้ามาในเมือง มาทางไหนก็กลับไปทางนั้นเถอะ
+0	AUTO	SUBTITLES_NIS_ENDINGCAREER16_01	นายคิดว่านายกำลังสั่งสมชื่อเสียงเหรอ? ลองแข่งผ่านเขตแดนฉันเรื่อยๆ^อย่างนี้ดูสิแล้วฉันจะขยี้นายและชื่อเสียงของนายซะ
+0	AUTO	SUBTITLES_NIS_ENDINGCAREER18_01	นายใช้เวลานานแค่ไหนในการใช้เงินที่ขโมยมาจากฉันจนหมดเกลี้ยง?
+0	AUTO	SUBTITLES_NIS_ENDINGCAREER19_01	ฉันคิดว่านายเข้าใจผิดแล้วล่ะ พื้นที่นี้สำหรับนักแข่งตัวจริงเท่านั้น^ไม่ใช่สำหรับหัวขโมยและคนตาขาว
+0	AUTO	SUBTITLES_NIS_ENDINGCAREER23_01	ดาเรียสให้เซฟเฮ้าส์นี้กับนาย^ให้นายได้ใช้ซ่อมรถหรือเข้ามาพักหลบหากเกิดเรื่อง
+0	AUTO	SUBTITLES_NIS_ENDINGCAREER23_02	นายต้องการผู้ช่วย และดูเหมือนว่าฉันจะเป็นผู้ช่วยนาย^เดี๋ยวฉันจะพาไปดูข้างใน
+0	AUTO	SUBTITLES_NIS_ENDINGCAREER24_01	เอาล่ะ นั่นคือทุกอย่างที่นายต้องใช้เพื่อเริ่มต้น ฉันเสียเวลากับนายมาพอละ
+0	AUTO	SUBTITLES_NIS_ENDINGCAREER24_02	ฉันว่าเราเหลือกันแค่ฉันกับนายแล้วล่ะ ออกไปหาเรื่องกันดีกว่า
+0	AUTO	HUD_LEADING	กำลังนำ
+0	AUTO	HUD_DRIFT_OUTRAGEOUS_DRIFT	ดริฟต์ระห่ำ!
+0	AUTO	HUD_DRIFT_HURRY_UP	เร็วเข้า!
+0	AUTO	MENU_POSTRACE_CREW_LOSE	*%s แพ้*
+0	AUTO	DEMO_RESTART_DEMO	เริ่มเดโมใหม่
+0	AUTO	MENU_PAUSE_OPTIONS	ตัวเลือก
+0	AUTO	HUD_FINISH_WINNER	ผู้ชนะ!
+0	AUTO	HUD_DRIFT_POINTS	คะแนน:
+0	AUTO	HUD_CLEAN_SECTION	ไม่มีการชน
+0	AUTO	MENU_POSTRACE_HIGHEST_DRIFT	ดริฟต์คะแนนสูงสุด
+0	AUTO	MENU_POSTRACE_LONGEST_DRIFT	ดริฟต์ระยะทางไกลสุด
+0	AUTO	HUD_TACH_ABBREV_REVERSE	R
+0	AUTO	MENU_PAUSE_EXIT	ออก
+0	AUTO	EATRAX_TICKER_SPA_SCORED	Need for Speed™ Carbono Composed Music
+0	AUTO	MENU_POSTRACE_AVERAGE_SPEED	ความเร็วเฉลี่ย
+0	AUTO	CREW_TUTORIAL_001	^คุณสามารถพาผู้ช่วย^เข้าร่วมแข่งได้
+0	AUTO	CREW_TUTORIAL_002	^โดยมีทักษะต่างกันสามทักษะ
+0	AUTO	CREW_TUTORIAL_003	^ตัวบล็อค นักดราฟต์และสเก๊าท์
+0	AUTO	CREW_TUTORIAL_004	^ถึงเวลาเรียนรู้^วิธีใช้งานผู้ช่วยแล้ว
+0	AUTO	CREW_TUTORIAL_005	^ฉันจะแสดงให้ดู
+0	AUTO	CREW_TUTORIAL_006	เปิดใช้แล้ว
+0	AUTO	CREW_TUTORIAL_007	^การเปิดใช้งานจะให้ผลเหมือนกัน^ทั้งตัวบล็อคและนักดราฟต์
+0	AUTO	CREW_TUTORIAL_008	^ตัวบล็อคจะเหมือนเป็นจรวดทางเรียบ^คอยกวาดคู่ต่อสู้
+0	AUTO	CREW_TUTORIAL_009	^ฉันจะแสดงให้ดู
+0	AUTO	CREW_TUTORIAL_010	การบล็อคเสร็จสิ้น
+0	AUTO	CREW_TUTORIAL_011	^เดี๋ยวฉันจะเป็นนักดราฟต์
+0	AUTO	CREW_TUTORIAL_012	^จ่อหลังฉันเพื่อไปให้เร็วขึ้น
+0	AUTO	CREW_TUTORIAL_013	^กดปุ่มอีกครั้งเพื่อดีดตัว^ออกจากการดราฟต์
+0	AUTO	CREW_TUTORIAL_014	การดราฟต์เสร็จสิ้น
+0	AUTO	CREW_TUTORIAL_015	^เดี๋ยวฉันจะเป็นสเก๊าท์
+0	AUTO	CREW_TUTORIAL_016	^สเก๊าท์จะหาเส้นทางที่ใกล้ที่สุด^ในสนามแข่ง
+0	AUTO	CREW_TUTORIAL_017	การสเก๊าท์เสร็จสิ้น
+0	AUTO	CREW_TUTORIAL_018	^ผู้ช่วยของคุณจะอยู่ช่วย^ในช่วงเวลาจำกัดเท่านั้น
+0	AUTO	CREW_TUTORIAL_019	^คุณต้องชาร์จให้ผู้ช่วยของคุณ^ด้วยความเร็ว
+0	AUTO	CREW_TUTORIAL_020	^เหมือนกับไนตรัส
+0	AUTO	CREW_TUTORIAL_021	^คิดว่าคุณคงเข้าใจหมดแล้ว
+0	AUTO	CREW_TUTORIAL_022	^แล้วเจอกันใหม่!
+0	AUTO	HUD_PURSUIT_BREAKER_BONUS	โบนัส
+0	AUTO	HUD_SHIFT_OVERREV	รอบสูงเกินไป!
+0	AUTO	DIALOG_MSG_GPS_TO_PURSUIT_BREAKER	คุณต้องการใช้ระบบจีพีเอสไปยังตัวหน่วงการไล่ล่าหรือไม่?
+0	AUTO	MENU_POSTRACE_LEG_TWO_TIME	เวลาช่วงที่ 2
+0	AUTO	MENU_POSTRACE_TOTALSPEED_BEHIND	ความเร็วทั้งหมดที่ตามหลังผู้ชนะ
+0	AUTO	MENU_POSTRACE_LOSE_NO_CREW	*คุณแพ้*
+0	AUTO	WM_AQUISITION_SKIP	ข้าม
+0	AUTO	DEMO_QUIT_DEMO	ออกจากเดโม
+0	AUTO	OL_PREVIOUS_GHOST	เงาก่อนหน้า
+0	AUTO	DIALOG_MSG_GPS_TO_HIDING_SPOT	คุณต้องการใช้ระบบจีพีเอสไปยังแหล่งกบดานหรือไม่?
+0	AUTO	MENU_POSTRACE_SCORE	คะแนน
+0	AUTO	MENU_POSTRACE_SPEED	ความเร็ว
+0	AUTO	HUD_CHALLENGE_COMPLETE	ภารกิจเสร็จสิ้น!^หลบหนีเพื่อจบการท้าทาย
+0	AUTO	MENU_POSTRACE_AVERAGE_DRIFT_SCORE	คะแนนเฉลี่ย
+0	AUTO	MENU_POSTRACE_STAGES	ช่วง
+0	AUTO	MENU_POSTRACE_PLAYER_OVERBOARD	ขับตกเขา!
+0	AUTO	CROSS_CHASE_1	หนีจากครอส!
+0	AUTO	HUD_COPDESTROYED_COPMIDSIZE	รถลาดตระเวนของตำรวจระดับเมือง^ค่าหัว: %$d
+0	AUTO	MENU_POSTRACE_NEW_UNLOCKS	คุณปลดล็อค:
+0	AUTO	MENU_POSTRACE_TOO_SLOW	ช้าไป!
+0	AUTO	QR_GHOST_TRUNCATED	เสียใจด้วย คุณต้องแข่งให้เสร็จภายใน 5 นาทีเพื่อบันทึกเงาของคุณ
+0	AUTO	QR_UPLOADING_GHOST	กำลังอัพโหลดเงาไปที่กระดานผู้นำของ NeedforSpeed.com
+0	AUTO	MENU_POSTRACE_LOSE	*ทีมคุณแพ้*
+0	AUTO	MENU_POSTRACE_TIME	เวลา

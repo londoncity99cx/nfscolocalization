@@ -1,0 +1,73 @@
+-- database: ./nfsco_loc_main.db
+
+ATTACH DATABASE "./nfsco_loc_hu.db" AS sub;
+PRAGMA sub.encoding = "UTF-8";
+
+CREATE TABLE sub."versionlist" (
+	"Version"	TEXT UNIQUE,
+	"Date"	TEXT,
+	"Author"	TEXT,
+	"Status"	TEXT,
+	"Changelog"	TEXT,
+	PRIMARY KEY("Version")
+);
+CREATE TABLE sub."tracklist" (
+	"Trackname (EN)"	TEXT,
+	"Version"	TEXT,
+	"Origin"	TEXT,
+	"Value_HU"	TEXT,
+	PRIMARY KEY("Trackname (EN)")
+);
+CREATE TABLE sub."ingame.bin" (
+	"V"	TEXT,
+	"HexRank"	TEXT,
+	"Chunk"	TEXT,
+	"Hash (Hex)"	TEXT,
+	"Label"	TEXT UNIQUE,
+	"Value_EN"	TEXT,
+	"Value_HU"	TEXT,
+	PRIMARY KEY("Label")
+);
+CREATE TABLE sub."global.bin" (
+	"V"	TEXT,
+	"HexRank"	TEXT,
+	"Chunk"	TEXT,
+	"Hash (Hex)"	TEXT,
+	"Label"	TEXT UNIQUE,
+	"Value_EN"	TEXT,
+	"Value_HU"	TEXT,
+	PRIMARY KEY("Label")
+);
+CREATE TABLE sub."frontend.bin" (
+	"V"	TEXT,
+	"HexRank"	TEXT,
+	"Chunk"	TEXT,
+	"Hash (Hex)"	TEXT,
+	"Label"	TEXT UNIQUE,
+	"Value_EN"	TEXT,
+	"Value_HU"	TEXT,
+	PRIMARY KEY("Label")
+);
+
+INSERT INTO sub."versionlist" ("Version", "Date", "Author", "Status", "Changelog")
+SELECT "Version", "Date", "Author", "Status", "Changelog"
+FROM versionlist;
+
+INSERT INTO sub."tracklist" ("Trackname (EN)", "Version", "Origin", "Value_HU")
+SELECT "Trackname (EN)", "Version", "Origin", "Value_HU"
+FROM tracklist;
+
+INSERT INTO sub."ingame.bin" ("V", "HexRank", "Chunk", "Hash (Hex)", "Label", "Value_EN", "Value_HU")
+SELECT "V", "HexRank", "Chunk", "Hash (Hex)", "Label", "Value_EN", "Value_HU"
+FROM "ingame.bin";
+
+INSERT INTO sub."global.bin" ("V", "HexRank", "Chunk", "Hash (Hex)", "Label", "Value_EN", "Value_HU")
+SELECT "V", "HexRank", "Chunk", "Hash (Hex)", "Label", "Value_EN", "Value_HU"
+FROM "global.bin";
+
+INSERT INTO sub."frontend.bin" ("V", "HexRank", "Chunk", "Hash (Hex)", "Label", "Value_EN", "Value_HU")
+SELECT "V", "HexRank", "Chunk", "Hash (Hex)", "Label", "Value_EN", "Value_HU"
+FROM "frontend.bin";
+
+VACUUM sub;
+DETACH DATABASE sub

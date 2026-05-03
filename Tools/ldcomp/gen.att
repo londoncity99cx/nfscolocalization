@@ -1,0 +1,10 @@
+Version: 		1.0
+Product Name: 		Labrune Dump Comparator
+File description:	Labrune Dump Comparator
+Copyright:		© 2026 LondonCity
+
+X - Graphic Output
+X - Suppress error output (-noError)
+X - Generate config file
+
+STA AnyCPU

@@ -1,0 +1,851 @@
+#	Labrune - C:\Users\FH\OneDrive\Games\NFSCO\Project Localization\Organiaztion\vanilla_loc\LANGUAGE\Finnish_Frontend.bin
+#	File created on: 19.04.2026 16:21:45
+#
+#Chunk	Hash (HEX)	Label	Value
+# ---------------------------------------------------------------------------------------------------------
+# Chunk 0 - Frontend
+0	AUTO	CUST_VINYLS_TRANSFORM_TITLE	*TARRANMUOKKAUS*
+0	AUTO	ON_STAT_HEADER_KNOCKOUTS	Pudotuskisat
+0	AUTO	MENU_CREW_LOGO	JENGIN TUNNUS
+0	AUTO	CARNAME_MAZDA_RX7	Mazda RX-7
+0	AUTO	MARKER_CATEGORY_DESC_MISC	Yllätyskortit voivat olla käteisbonuksia, vapautuskortteja, lunastuskortteja tai vastustajilta voitettujen autojen rekisteriotteita.
+0	AUTO	DEMO_CUSTOMIZATION_SELL	Autosculpt™-toiminnon avulla voit luoda omia osiasi ja muokata niillä kärryäsi.^Voit muokata korisarjoja, vanteita, konepeltejä, spoilereita ja kattoja ja tehdä niistä juuri sellaisia kuin haluat.^Muokkausvaihtoehdot eivät lopu siihen, vaan lisäksi voit vetää kärrysi pintaan oman maalin, lisätä siihen omat tarrat ja kuviot, sekä asentaa suorituskykyä parantavia osia, joiden avulla voit luoda itsellesi oman, persoonallisen tuunaus-, kiihdytys- tai tuontikärrysi.
+0	AUTO	CHAL_COMPLETED	Ajettu
+0	AUTO	MC_CONFIRM_CREATE_PROFILE	Haluatko luoda uuden kuljettajan? Jos et luo uutta kuljettajaa, tallentamattomat muutokset menetetään.
+0	AUTO	CHAL_SELECT_CREW_MODE	Valitse haluamasi yhteishaaste
+0	AUTO	CUST_PARTS_WHEELS_TITLE	*VANTEET*
+0	AUTO	MARKER_NAME_TRANSMISSION	Voimansiirtoparannus
+0	AUTO	CUST_VINYLS_COLOUR_TITLE	*TARROJEN VÄRI*
+0	AUTO	CARNAME_DODGE_VINTAGE_CHARGER69	Dodge Charger R/T
+0	AUTO	SHOPPING_CART_DLG_NO_CASH	Rahasi eivät riitä kaikkien osien ostamiseen. Poista ostoksistasi joitakin osia.
+0	AUTO	CARNAME_MERCEDES_CLK500	Mercedes-Benz CLK 500
+0	AUTO	LANG_FINNISH	Suomi
+0	AUTO	MARKER_NAME_DESCRIPTION_HUD	Oma mittari johonkin autoistasi.
+0	AUTO	MARKER_NAME_DESCRIPTION_NOS	Boostiparannus johonkin autoistasi.
+0	AUTO	STAT_PERC_AS_POLICE	Poliisina
+0	AUTO	HELP_RACE	Kilpamalli
+0	AUTO	RC_WIN_05_CAREER_RACES_DESCRIPTION	Voita viisi urapelin kisaa
+0	AUTO	CHAL_SOLO_CHALLENGE	Soolohaaste
+0	AUTO	MENU_MAIN_TITLE_CAREER	*URA*
+0	AUTO	STAT_NUM_TIMES_BUSTED	Pidätyskerrat
+0	AUTO	CUST_PARTS_WHEELS	VANTEET
+0	AUTO	STAT_NUM_CREW_MEMEBERS_HIRED	Värvättyjä jengin jäseniä
+0	AUTO	MARKER_NAME_DESCRIPTION_CASH	Sait juuri %$d ylimääräistä rahaa.
+0	AUTO	MARKER_NAME_DESCRIPTION_HOOD	Uusi konepeltiparannus haluamaasi autoon.
+0	AUTO	MARKER_NAME_DESCRIPTION_RIMS	Vanneparannus johonkin autoistasi.
+0	AUTO	MARKER_NAME_DESCRIPTION_TIRE	Rengasparannus johonkin autoistasi.
+0	AUTO	PART_KIT01_FRONT_BUMPER	STAG
+0	AUTO	LANG_HUNGARIAN_NO_TRANSLATION	MAGYAR
+0	AUTO	MC_CREATE	Luo
+0	AUTO	CUST_RIDE_HEIGHT_DROP	Maavara
+0	AUTO	HELP_CAREER_CONTROLS	Urakomennot
+0	AUTO	PART_KIT07_SKIRT	SLIPSTREAM
+0	AUTO	MENU_CREW_STYLE	JENGIN TYYLI
+0	AUTO	POST_RACE_PURSUIT_STATS	Takaa-ajon tilastot
+0	AUTO	MC_DELETE	Poista
+0	AUTO	MENU_QUICKRACE_GHOST_TIME	Varjotulos
+0	AUTO	CUST_VINYL_GRADIENT_0_0	SÄVY 0
+0	AUTO	CUST_VINYL_GRADIENT_1_0	SÄVY 1
+0	AUTO	RC_NAME_104	
+0	AUTO	LANG_SWEDISH	Ruotsi
+0	AUTO	PART_KIT07_REAR_BUMPER	SLIPSTREAM
+0	AUTO	MARKER_NAME_PAINT	Maaliparannus
+0	AUTO	GAME_OVER_WINGMEN_BUSTED_DESC	Jengisi jäsenet on napattu kiinni, eikä sinulla ei ole riittävästi rahaa kenenkään takuisiin.
+0	AUTO	CUST_VINYL_INNER_GLOW_0	SISÄINEN HEHKU
+0	AUTO	MARKER_NAME_BRAKES	Jarruparannukset
+0	AUTO	CUST_VINYL_GROUP_CAMOUFLAGE	MAASTOKUVIO
+0	AUTO	CARNAME_JAGUAR_XK	Jaguar XK
+0	AUTO	DEF_RACE_INFO_OWNERSHIP	Omistaja:
+0	AUTO	CUST_PERF_MENU_TIRES	RENKAAT
+0	AUTO	CUST_PERF_MENU_TURBO	TURBO
+0	AUTO	CUST_PERF_MENU_TRANSMISSION	VAIHTEET
+0	AUTO	CARNAME_PORSCHE_CARRERA_GT	Porsche Carrera GT
+0	AUTO	MARKER_NAME_CHASSI	Jousitusparannukset
+0	AUTO	STAT_INFRACTIONS_TOTAL	Rikkeet (yhteensä)
+0	AUTO	MARKER_NAME_DESCRIPTION_PINKSLIP	Sait juuri vastustajasi auton rekisteriotteen. Auto odottaa sinua turvatalossa.
+0	AUTO	CAR_SELECT_BUY_CAR	Osta auto
+0	AUTO	CAR_SELECT_DIALOG_GARAGE_FULL_NOTIFICATION	Autotallisi on täynnä. Myy joitakin autoja, niin saat tilaa uusille.
+0	AUTO	CHAL_CREW_CHALLENGE	Yhteishaaste
+0	AUTO	MARKER_NAME_DECALS	Valmistajatarrat
+0	AUTO	MENU_CAREER_SAVE_LOAD	TALLENNA
+0	AUTO	CARNAME_BMW_M3_GTRE46	BMW M3 GTR
+0	AUTO	LANG_POLISH_NO_TRANSLATION	POLSKI
+0	AUTO	STAT_TOTAL_CASH	Ansaittu käteinen yhteensä
+0	AUTO	CHALLENGE_SERIES_DESC_079	Päihitä helppo vastustaja kanjonikamppailussa Matkamiehen mutkassa.
+0	AUTO	CHALLENGE_SERIES_DESC_080	Päihitä keskivaikea vastustaja kanjonikamppailussa Gold Valleyssä.
+0	AUTO	CHALLENGE_SERIES_DESC_081	Päihitä vaikea vastustaja kanjonikamppailussa Eternity Passin teillä.
+0	AUTO	CHALLENGE_SERIES_DESC_082	Voita kanjonikisa Gold Valleyssä, kun vastus on helppo.
+0	AUTO	CHALLENGE_SERIES_DESC_083	Voita kanjonikisa Copper Ridgessä, kun vastus on keskivaikea.
+0	AUTO	CHALLENGE_SERIES_DESC_084	Voita kanjonikisa Deadfallin risteyksessä, kun vastus on vaikea.
+0	AUTO	CHALLENGE_SERIES_DESC_085	Suorita Eskuri Plazan tietullikisa määräajassa 3.44.
+0	AUTO	CHALLENGE_SERIES_DESC_086	Suorita Rabinowitz Driven tietullikisa määräajassa 3.02.
+0	AUTO	CHALLENGE_SERIES_DESC_087	Suorita Blackwell Roadin tietullikisa määräajassa 3.21.
+0	AUTO	CHALLENGE_SERIES_DESC_088	Suorita Lofty Heightsin tietullikisa määräajassa 2.39.
+0	AUTO	CHALLENGE_SERIES_DESC_089	Suorita Reunatien tietullikisa määräajassa 1.25.
+0	AUTO	CHALLENGE_SERIES_DESC_090	Suorita Hirsiharjanteen tietullikisa määräajassa 1.55.
+0	AUTO	CHALLENGE_SERIES_DESC_091	Kerää tässä kanjonidriftissä yli 25 000 pistettä.
+0	AUTO	CHALLENGE_SERIES_DESC_092	Kerää tässä kanjonidriftissä yli 100 000 pistettä.
+0	AUTO	CHALLENGE_SERIES_DESC_093	Kerää tässä kanjonidriftissä yli 150 000 pistettä.
+0	AUTO	CHALLENGE_SERIES_DESC_094	Hankkiudu vähintään %s minuuttia kestävään takaa-ajoon ja karkaa sitten poliiseilta.
+0	AUTO	CHALLENGE_SERIES_DESC_095	Hankkiudu vähintään %s minuuttia kestävään takaa-ajoon ja karkaa sitten poliiseilta.
+0	AUTO	CHALLENGE_SERIES_DESC_096	Hankkiudu vähintään %s minuuttia kestävään takaa-ajoon ja karkaa sitten poliiseilta.
+0	AUTO	CHALLENGE_SERIES_DESC_097	Tuhoa vähintään %s poliisiautoa ja karkaa sitten takaa-ajajiltasi.
+0	AUTO	CHALLENGE_SERIES_DESC_098	Tuhoa vähintään %s poliisiautoa ja karkaa sitten takaa-ajajiltasi.
+0	AUTO	CHALLENGE_SERIES_DESC_099	Tuhoa vähintään %s poliisiautoa ja karkaa sitten takaa-ajajiltasi.
+0	AUTO	CHALLENGE_SERIES_DESC_100	Voita Dover Streetin ratakisa, kun vastus on helppo.
+0	AUTO	CHALLENGE_SERIES_DESC_101	Voita Ocean View'n ratakisa, kun vastus on keskivaikea.
+0	AUTO	CHALLENGE_SERIES_DESC_102	Voita Starlight Streetin ratakisa, kun vastus on vaikea.
+0	AUTO	CHALLENGE_SERIES_DESC_103	Voita Condo Row'n pyrähdyskisa, kun vastus on helppo.
+0	AUTO	CHALLENGE_SERIES_DESC_104	Voita King's Parkin pyrähdyskisa, kun vastus on keskivaikea.
+0	AUTO	CHALLENGE_SERIES_DESC_105	Voita Canmor Roadin pyrähdyskisa, kun vastus on vaikea.
+0	AUTO	CHALLENGE_SERIES_DESC_106	Kerää tässä driftikisassa 50 000 pistettä.
+0	AUTO	CHALLENGE_SERIES_DESC_107	Kerää tässä driftikisassa 140 000 pistettä.
+0	AUTO	CHALLENGE_SERIES_DESC_108	Kerää tässä driftikisassa 250 000 pistettä.
+0	AUTO	CHALLENGE_SERIES_DESC_109	Voita Million Dollar Runin tutkakisa, kun vastus on helppo.
+0	AUTO	CHALLENGE_SERIES_DESC_110	Voita Infinity Parkin tutkakisa, kun vastus on keskivaikea.
+0	AUTO	CHALLENGE_SERIES_DESC_111	Voita Eskuri Wayn tutkakisa, kun vastus on vaikea.
+0	AUTO	CHALLENGE_SERIES_DESC_112	Voita Downtownin kilpasarja, kun vastus on helppo.
+0	AUTO	CHALLENGE_SERIES_DESC_113	Voita Fortunan kilpasarja, kun vastus on keskivaikea.
+0	AUTO	CHALLENGE_SERIES_DESC_114	Voita Silvertonin kilpasarja, kun vastus on vaikea.
+0	AUTO	LANG_GERMAN_NO_TRANSLATION	DEUTSCH
+0	AUTO	OL_BUTTON_TIME_PERIOD	Aika
+0	AUTO	CLASS_TUNER_DESCRIPTION	Tuunauskärryillä voit ottaa mutkat erittäin tiukasti.^Tuunauskärryt eivät pärjää suorilla, mutta mutkissa niitä on^vaikea päihittää. Jos pitoa riittää, pidä kaasu pohjassa,^ja kiilaa mutkissa vastustajiesi ohi.
+0	AUTO	CUST_VISUAL_RIMS_WARNING	Perusvanteita ei voi maalata. Hanki autoosi erikoisvanteet.
+0	AUTO	STAT_COPS_DISABLED_SINGLE	Tuhotut poliisiautot (yksittäinen takaa-ajo)
+0	AUTO	CUST_MAINMENU_RIDE_HEIGHT	MAAVARA
+0	AUTO	MARKER_NAME_ENGINE	Moottoriparannus
+0	AUTO	MC_PROMPT_SAVE_PROFILE	Haluatko kytkeä automaattisen tallennuksen päälle ja tallentaa kuljettajasi?
+0	AUTO	LANG_SPANISH_NO_TRANSLATION	ESPAÑOL
+0	AUTO	CUST_PARTS_TOP_TITLE	*MADALLA KATTO*
+0	AUTO	CARNAME_FORD_MUSTANGGT	Ford Mustang GT
+0	AUTO	STAT_KNOCKOUT_WINS	Pudotusvoittoja
+0	AUTO	SECONDARY_ROLE_HEAT_MAGNET_DESC	DELETE
+0	AUTO	CREW_VINYL_WARNING	Varoitus. Jos poistat tarran, et voi asettaa sitä uudelleen. Haluatko jatkaa?
+0	AUTO	MENU_CAREER_CREW	JENGI
+0	AUTO	MENU_CAREER_LOAD	LATAA
+0	AUTO	CUST_PARTS_REARBUMPER	TAKAPUSKURI
+0	AUTO	CUST_CHANGE_PAINT_SWATCH	Muuta väri
+0	AUTO	SHOPPING_CART_DLG_DELETE_ALL	Ostokset poistetaan. Haluatko varmasti jatkaa?
+0	AUTO	DEBUG_ARRAYSCROLLER	Selaa järjestystä
+0	AUTO	STAT_PEAK_SCORE	Ruuhkahuipun pisteet
+0	AUTO	PART_KIT10_REAR_BUMPER	CLASSIC
+0	AUTO	STAT_BEST_PERCENT_AS_RACER	Paras % jahdattavana
+0	AUTO	CARNAME_LAMBORGHINI_GALLARDO	Lamborghini Gallardo
+0	AUTO	STAT_BOUNTY_SINGLE	Takaa-ajopalkkio (yksittäinen takaa-ajo)
+0	AUTO	MC_AUTOSAVE_WARNING2_XENON	Älä kytke Xbox 360 -konsolin virtaa pois päältä, kun automaattitallennuksen kuvake on näkyvissä.
+0	AUTO	VINYLS_MEMORY_WARNING	Et voi enää lisätä autoosi kerroksia. Autossa on jo enimmäismäärä kerroksia.
+0	AUTO	CUST_EXHAUST_WARNING	Pakoputken asentamiseksi tarvitaan erikoispuskuri
+0	AUTO	CUST_PARTS_ROOFSCOOPS	KATOT
+0	AUTO	PART_KIT04_REAR_BUMPER	BORRILLO
+0	AUTO	OL_SUBTITLE_GAME_TAG	Pelaajatunnus
+0	AUTO	MC_AUTOSAVE_WARNING2_PS2	Älä poista memory card (muistikorttia) (PS2) tai ohjainta äläkä käynnistä konsolia uudelleen tai sammuta sitä, kun automaattisen tallennuksen kuvake on näkyvissä. Muutoin pelitiedot saattavat vahingoittua.
+0	AUTO	MC_AUTOSAVE_WARNING2_PS3	
+0	AUTO	CUST_PAINT_GROUP_CANDY	NEON
+0	AUTO	CUST_PAINT_GROUP_GLOSS	KIILTÄVÄ
+0	AUTO	CUST_PARTS_SPOILERS_TITLE	*SPOILERI*
+0	AUTO	COMMON_RACETYPE_PURSUIT_TAG	Takaa-ajohippa
+0	AUTO	CUST_PAINT_GROUP_MATTE	MATTA
+0	AUTO	OL_BUTTON_RACE_TYPE	Kisatyyppi
+0	AUTO	CROSS_SELL_MADDEN07	MADDEN NFL 07
+0	AUTO	CUST_PAINT_GROUP_PEARL	HELMIÄINEN
+0	AUTO	QR_NOT_ONLINE_FOR_GHOST	Jos haluat ladata varjoauton EA Nationin johtotaululta, sinun täytyy kirjautua sisään EA Onlinen käyttäjätilillesi. Voit kirjautua sisään verkkoasetuksista.
+0	AUTO	TITLE_STATISTICS	*TILASTOT*
+0	AUTO	STAT_HIGHEST_FINE	Suurin sakko
+0	AUTO	EA_TRAX_CAR_CLASS_FILTER_USE	Tilannekohtaiset
+0	AUTO	WII_OPT_ERROR	
+0	AUTO	MC_AUTOSAVE_WARNING_XBOX	Need for Speed™ Carbon käyttää automaattitallennusta, joka tallentaa edistymisesi automaattisesti Xboxin kiintolevylle. Peli tallennetaan, kun tallennuskuvake näkyy ruudulla.
+0	AUTO	WINGMAN_DESC_RACE_SAMSON	+10%% käteisbonus per voitto
+0	AUTO	CUST_VINYL_GROUP_PINSTRIPE	RAIDAT
+0	AUTO	PART_KIT04_SKIRT	BORRILLO
+0	AUTO	CHAL_CREW_MODE_ONLINE	Xbox Live
+0	AUTO	PART_WHEEL_GIOVANNA_1	GIOVANNA BRAKE
+0	AUTO	PART_WHEEL_GIOVANNA_2	GIOVANNA GELLO
+0	AUTO	PART_WHEEL_GIOVANNA_3	GIOVANNA ARARAT
+0	AUTO	FABRICATOR_2_POPUP	Kun värväät Colinin jengiisi, pääset muokkaamaan näitä Autosculpt-osia.
+0	AUTO	PART_WHEEL_ADR_1	ADR ADRENALINE
+0	AUTO	PART_WHEEL_ADR_2	ADR EMPIRE
+0	AUTO	PART_WHEEL_ADR_3	ADR GT-SPORT
+0	AUTO	PART_WHEEL_ADR_4	ADR M SPORT
+0	AUTO	PART_WHEEL_ADR_5	ADR SOKUDO8
+0	AUTO	PART_WHEEL_BBS_1	BBS GT
+0	AUTO	PART_WHEEL_BBS_2	BBS RS GT
+0	AUTO	PART_WHEEL_BBS_3	BBS LM
+0	AUTO	PART_WHEEL_BBS_4	BBS CH
+0	AUTO	PART_WHEEL_BBS_5	BBS RK
+0	AUTO	PART_WHEEL_BBS_6	BBS RX
+0	AUTO	QR_ERROR_DOWNLOADING_GHOST_DATA	Virhe varjoa ladattaessa
+0	AUTO	PART_WHEEL_HRE_1	HRE 943R
+0	AUTO	PART_WHEEL_HRE_2	HRE 541R
+0	AUTO	PART_WHEEL_HRE_3	HRE 549R
+0	AUTO	OL_BUTTON_PLAYER_FILTER	Pelaajasuodatin
+0	AUTO	MENU_QUICKRACE_OPTIONS_WINGMEN	Jengin jäsen
+0	AUTO	PART_WHEEL_TSW_1	TSW MONDELLO
+0	AUTO	PART_WHEEL_TSW_2	TSW ROCKET 5
+0	AUTO	PART_WHEEL_TSW_3	TSW LAGUNA
+0	AUTO	ON_ERROR_BAD_USERNAME	Käyttäjänimi on virheellinen. Nimessä tulee olla vähintään 4 merkkiä, jotka eivät ole välilyöntejä, ja kaiken kaikkiaan enintään 14 merkkiä välilyönnit mukaanlukien. Kirjaimet, numerot ja välilyönnit ovat kaikki hyväksyttäviä merkkejä.
+0	AUTO	STAT_COST_TO_STATE_SINGLE	Valtion kulut (yksittäinen takaa-ajo)
+0	AUTO	CHAL_SPLIT_MODE_TRANSMISSION_PROMPT	%s, haluatko käyttää automaatti- vai manuaalivaihteita?
+0	AUTO	WINGMAN_DESC_CAREER_NEVILLE	+200 käteisbonus per voitto
+0	AUTO	MARKER_CATEGORY_DESC_PARTS	Nämä kortit voivat olla mitä tahansa osia aina korisarjoista, katoista ja vanteista konepelteihin ja spoileriparannuksiin.
+0	AUTO	MC_CONFIRM_CREATE_PROFILE_AUTOLOGIN	Haluatko luoda uuden kuljettajan, johon tallennetaan automaattisen sisäänkirjautumisen tiedot?
+0	AUTO	CREW_MENU_VIEW_BIO_VIDEO	Katso esittelyvideo
+0	AUTO	STAT_BEST_DRIFT_DISTANCE	Pisin drifti
+0	AUTO	CARNAME_RENAULT_CLIO	Renault Clio V6
+0	AUTO	ON_PC_MSG_GAMESETUP_INSTRUCTION	Peliasetusten valintaruudulta voit lähettää kavereille yksityisiä pelikutsuja, valita autoja ja keskustella muiden pelaajien kanssa. Pelin johtaja voi määrittää pelin asetukset ja siirtyä sitten pelihuoneeseen painamalla VÄLILYÖNTIÄ. Muut verkkopelaajat voivat liittyä peliin pelihuoneessa ennen kisan alkamista.
+0	AUTO	STAT_PERC_AS_RACER	Jahdattavana
+0	AUTO	CARNAME_TOYOTA_SUPRA	Toyota Supra
+0	AUTO	CUST_PARTS_DIALOG_TITLE	Valitse perusosa tai Autosculpt-osa
+0	AUTO	MC_CONFIRM_DESTRUCTIVE_LOAD	Jos lataat kuljettajan, menetät nykyiseen kuljettajaan tehdyt tallentamattomat muutokset. Haluatko varmasti ladata kuljettajan?
+0	AUTO	RC_WIN_25_CAREER_RACES_DESCRIPTION	Voita kaksikymmentäviisi urapelin kisaa
+0	AUTO	CUST_PARTS_TOP	MADALLA KATTO
+0	AUTO	CUST_PARTS_EXHAUST	PAKOPUTKI
+0	AUTO	RC_WIN_10_CAREER_RACES_DESCRIPTION	Voita kymmenen urapelin kisaa
+0	AUTO	CUST_PARTSELECT_TITLE	*AUTOSCULPT-OSA*
+0	AUTO	CHAL_HEADER_BRONZE	Pronssi
+0	AUTO	CUST_VINYL_GROUP_DECALS	VALMISTAJATARRAT
+0	AUTO	CUST_PARTS_RIMS	Vanteet
+0	AUTO	PERFORMANCE_TUNE_HELP_SUPERCHARGER	Ahtimen osia vaihtamalla voit parantaa ahtimen nopeutta ja tehoa. Kun asennat ahtimeen pieniä osia, niin ahdin toimii nopeasti, mutta sen huipputeho on pieni (pieni kierrosnopeus). Jos taas asennat ahtimeen suurempia osia, se toimii hitaasti, mutta sen huipputeho on huomattavasti suurempi (suuri kierrosnopeus).
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_PS2	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game on the memory card (PS2) in MEMORY CARD slot 1 when the Autosave icon flashes as follows.
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_PS3	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game to the HDD when the Autosave icon flashes as follows.
+0	AUTO	PART_KIT01_REAR_BUMPER	STAG
+0	AUTO	MENU_CAR_CLASS_MODE_TEST_RACE	Koeajo
+0	AUTO	PART_KIT06_FRONT_BUMPER	CHICANE
+0	AUTO	EA_TRAX_CAR_CLASS_FILTER_DO_NOT_USE	Kaikki biisit
+0	AUTO	LANG_MEXICAN_NO_TRANSLATION	ESPAÑOL
+0	AUTO	CUST_VINYL_GROUP_SPECIAL	KUVAT
+0	AUTO	NGC_ALIAS_MAX	
+0	AUTO	MENU_MAIN_CAREER	URA
+0	AUTO	CUST_VISUAL_NOLAYERS	LISÄÄ KERROS
+0	AUTO	MENU_MAIN_CHALLENGE	HAASTESARJA
+0	AUTO	CHAL_UNLOCK_REQUIREMENT	Suorita %s/%s, niin haaste avataan.
+0	AUTO	QR_INFO_CAR_NAME	Auto
+0	AUTO	QR_INFO_CAR_TYPE	Auton tyyppi
+0	AUTO	CUST_VINYL_GROUP_BONUS	BONUSTARRAT
+0	AUTO	CHAL_CREW_MODE_SPLIT	Jaettu ruutu
+0	AUTO	STAT_CARS_SOLD	Myydyt autot
+0	AUTO	WII_CONTROLLER_SAFETY	
+0	AUTO	STAT_BEST_SCORE	Paras kisatulos
+0	AUTO	CREW_VINYL_EDIT	Et voi muuttaa tarroja, jotka on ennalta-asetettu jengisi jäsenen tai jengipomolta voitettuun autoon.
+0	AUTO	CARNAME_ASTON_MARTIN_DB9	Aston Martin DB9
+0	AUTO	CM_SET_AS_WINGMAN	Valitse apuriksi
+0	AUTO	STAT_BEST_LAP_TIME	Paras kierrosaika
+0	AUTO	CART_ITEM_DESC_AS_FRONT_WHEEL	AUTOSCULPT-VANTEET
+0	AUTO	PART_WHEEL_5ZIGEN_1	5ZIGEN FN01R
+0	AUTO	PART_WHEEL_5ZIGEN_2	5ZIGEN SUPERSIX
+0	AUTO	PART_WHEEL_5ZIGEN_3	5ZIGEN 5ZR
+0	AUTO	PART_WHEEL_5ZIGEN_4	5ZIGEN GN+
+0	AUTO	PART_WHEEL_5ZIGEN_5	5ZIGEN GRAVIS 1
+0	AUTO	MENU_CM_UNLOCK_NEW_CREW	Saatavilla on uusi hahmo. Voit värvätä jäsenen oman jengisi tiedoista.
+0	AUTO	CARNAME_NISSAN_SKYLINE	Nissan Skyline GT-R R34
+0	AUTO	PART_SPA_DECAL_141	Carbono Logo
+0	AUTO	CUST_PERF_MENU_NITROUS	BOOSTI
+0	AUTO	MC_CONFIRM_SAVE_PROFILE	Haluatko varmasti tallentaa kuljettajasi?
+0	AUTO	MENU_MAIN_STATISTICS	TILASTOT
+0	AUTO	MENU_QUICKRACE_OPTIONS_MAX_OPPONENTS	Vastustajien enimmäismäärä
+0	AUTO	WINGMAN_DESC_CAREER_SAL	Avaa Autosculptiin korisarjat, konepellit ja katot
+0	AUTO	CUST_MAINMENU_RIDEHEIGHT_TITLE	*MAAVARA*
+0	AUTO	PART_KIT01_SKIRT	STAG
+0	AUTO	MARKER_NAME_VINYLS	Tarraparannus
+0	AUTO	QUICK_RACE_TITLE_SPEEDTRAP	*TUTKAKISA*
+0	AUTO	MENU_CM_POOL_EMTPY	Ei värvättäviä jäseniä.
+0	AUTO	STAT_SPIKE_STRIPS_DODGED_TOTAL	Väistetyt piikkimatot (yhteensä)
+0	AUTO	MARKER_NAME_DESCRIPTION_BODYKIT	Korisarjaparannus mihin tahansa autoistasi.
+0	AUTO	WINGMAN_DESC_RACE_YUMI	25%% parannus boostiin
+0	AUTO	CARNAME_MERCEDES_SL65	Mercedes-Benz SL65 AMG
+0	AUTO	CUST_AUTOSCULPT_ZONE10	Alue 10
+0	AUTO	STAT_RACES_LOST	Hävityt kisat
+0	AUTO	CUST_MAINMENU_VISUALS_TITLE	*ULKOASU*
+0	AUTO	MARKER_NAME_RELEASE	Lunasta auto takavarikosta
+0	AUTO	MARKER_NAME_REDUCE_HEAT	Laske takaa-ajotasoa
+0	AUTO	PART_WHEEL_CL_1	CENTER LINE DAGGER
+0	AUTO	PART_WHEEL_CL_2	CENTER LINE INDY
+0	AUTO	PART_WHEEL_CL_3	CENTER LINE RETRO
+0	AUTO	PART_WHEEL_CL_4	CENTER LINE VIKING
+0	AUTO	PART_WHEEL_OZ_1	O.Z. SUPERLEGGERA
+0	AUTO	PART_WHEEL_OZ_2	O.Z. SUPERTURISMO
+0	AUTO	PART_WHEEL_OZ_3	O.Z. OPERA
+0	AUTO	PART_WHEEL_OZ_4	O.Z. SUPERLEGGERA III
+0	AUTO	PART_WHEEL_OZ_5	O.Z. LEONARDO
+0	AUTO	STAT_NUM_BUSTS	Pidätykset
+0	AUTO	CREW_MENU_FIRE	Potkut
+0	AUTO	PART_KIT02_FRONT_BUMPER	SWEEPER
+0	AUTO	CREW_BIO_INFO_HEIGHT	Korkeus:
+0	AUTO	CREW_TITLE_HIRE_CREW_MEMBER	*PALKKAA JÄSEN*
+0	AUTO	CUST_MAINMENU_WHEEL_PAINT_TITLE	*VANTEIDEN VÄRI*
+0	AUTO	STAT_ROADBLOCKS_DODGED_TOTAL	Väistetyt tiesulut (yhteensä)
+0	AUTO	WII_SPLIT_PROMPT	
+0	AUTO	HELP_CREW_STYLE	Jengin tyyli
+0	AUTO	PART_WHEEL_FOOSE_1	FOOSE SPEEDSTER
+0	AUTO	PART_WHEEL_FOOSE_2	FOOSE SPLITZ
+0	AUTO	PART_WHEEL_FOOSE_3	FOOSE NITROUS SILVER
+0	AUTO	CUST_VINYL_GROUP_NUMBER	NUMEROT
+0	AUTO	MENU_QUICKRACE_OPTIONS_TRACKING_MODE	Seuranta
+0	AUTO	RC_WIN_01_CAREER_RACES_DESCRIPTION	Voita yksi urapelin kisa
+0	AUTO	MENU_MAIN_MY_CARS	OMAT AUTOT
+0	AUTO	CUST_VINYL_GROUP_TRIBALBODY	TRIBAALIKORI
+0	AUTO	MARKER_CATEGORY_VISUAL	Ulkoasuparannukset
+0	AUTO	MC_PROMPT_SAVE_AUTOLOGIN_INFO	Haluatko tallentaa kuljettajatietoihin automaattisen sisäänkirjautumisen tiedot?
+0	AUTO	DEBUG_MENUSCREEN	Menu Screen
+0	AUTO	MY_CARS_TITLE	*OMAT AUTOT*
+0	AUTO	CUST_VINYLS_MIRROR_OFF	Molemmat sivut
+0	AUTO	MARKER_CATEGORY_PARTS	Osaparannukset
+0	AUTO	CARNAME_DODGE_VIPER	Dodge Viper SRT-10
+0	AUTO	BOSS_BONUS_CARDS_INFO	Valitse %$d korttia. Kortit luovuttaa %s.
+0	AUTO	CAREER_SELECT_CAR_CLASS_TITLE	*VALITSE AUTOLUOKKA*
+0	AUTO	CAR_SELECT_DIALOG_CANNOT_AFFORD_CAR_NOTIFICATION	Rahasi eivät riitä tämän auton ostoon. Tienaat lisää rahaa voittamalla kisoja.
+0	AUTO	OL_STAT_LOSSES	Arvokisatappiot
+0	AUTO	CARNAME_SHELBY_GT500_67	Shelby GT500
+0	AUTO	STATS_DOWNLOADING	Ladataan pelaajan verkkotilastoja...
+0	AUTO	CAR_CLASS_TESTING_SKIP_TRANSMISSION	Tämä on pelkkä testi, joten älä ota paineita voittamisesta. Pidä hauskaa radalla.
+0	AUTO	CUST_VINYL_INNER_SHADOW_0	VARJOSTUS
+0	AUTO	CUST_MAINMENU_RIM_PAINT	VANTEIDEN VÄRI
+0	AUTO	MARKER_NAME_DESCRIPTION_TRANSMISSION	Voimansiirtoparannus johonkin autoistasi.
+0	AUTO	REWARDS_OBJECTIVE_HEADER	Minitehtävä
+0	AUTO	STAT_FINISH_TIME	Loppuaika
+0	AUTO	MAIN_CARSELECT	VALITSE AUTO
+0	AUTO	HELP_OFFLINE_REWARDS	Palkintokortit
+0	AUTO	CARNAME_CHEVROLET_CAMARO	Chevrolet Camaro SS
+0	AUTO	STAT_BEST_SPEEDTRAP	Paras tutka
+0	AUTO	CART_ITEM_DESC_AS_ROOF_SCOOP	AUTOSCULPT-KATTO
+0	AUTO	WINGMAN_DESC_CAREER_COLIN	Avaa Autosculptiin vanteet, pakoputket, spoilerit ja katon madaltamisen
+0	AUTO	WINGMAN_DESC_CAREER_YUMI	10%% alennus kaikista viritysosista
+0	AUTO	WINGMAN_DESC_CAREER_NIKKI	10%% alennus kaikista auto-ostoksista
+0	AUTO	CROSS_SELL_NBA_LIVE	NBA LIVE 07
+0	AUTO	CHAL_HEADER_SILVER	Hopea
+0	AUTO	STAT_ROADBLOCKS_DODGED	Väistetyt tiesulut (yksittäinen takaa-ajo)
+0	AUTO	CARNAME_SUBARU_IMPREZZAWRX	Subaru Impreza WRX STi
+0	AUTO	CUST_MAINMENU_WINDOW_TINT_TITLE	*IKKUNAN VÄRIKALVO*
+0	AUTO	CUST_PARTS_EXHAUST_TITLE	*PAKOPUTKI*
+0	AUTO	PART_KIT08_SKIRT	SPEEDWAY
+0	AUTO	MARKER_NAME_DESCRIPTION_IMPOUND	Lunastuskortilla voi kasvattaa autolle sallittujen lunastusvaroitusten määrää yhdellä. Autokohtaisten lunastusvaroitusten määrän voi kohottaa enintään viiteen.
+0	AUTO	CUST_MAINMENU_PAINT	VÄRI
+0	AUTO	CUST_MAINMENU_PARTS	OSAT
+0	AUTO	PART_WHEEL_ROJA_1	RO_JA FORMULA 1
+0	AUTO	PART_WHEEL_ROJA_2	RO_JA FORMULA 7
+0	AUTO	PART_WHEEL_ROJA_3	RO_JA FORMULA 2
+0	AUTO	CUST_MAINMENU_TITLE	*MUOKKAUS*
+0	AUTO	MENU_QUICKRACE_TOP_ONLINE_GHOST	Nykyisen johtajan varjo
+0	AUTO	CARNAME_MAZDA_MAZDASPEED3	Mazda3 MPS
+0	AUTO	CAR_SELECT_DIALOG_RETURN_TO_FREE_ROAM	Haluatko palata vapaaseen ajoon?
+0	AUTO	CAR_SELECT_LEAVE_SHOP	Poistu
+0	AUTO	MENU_CREW_LOGO_SAVE_CONFIRM	Haluatko varmasti tallentaa tämän tunnuksen?
+0	AUTO	MENU_CAREER_CUSTOMIZE_LOGO	MUOKKAA TUNNUSTA
+0	AUTO	PART_KIT08_REAR_BUMPER	SPEEDWAY
+0	AUTO	CUST_PERF_SLIDERS_TITLE	*%s TUUNATTAVANA*
+0	AUTO	STAT_RACE_TITLE	*KISA*
+0	AUTO	STAT_TOP_SPEED	Huippunopeus
+0	AUTO	VINYLS_MEMORY_WARNING2	Et voi enää lisätä tätä tarraa. Tee tarralle tilaa poistamalla jokin aiemmin asettamistasi tarroista.
+0	AUTO	CART_ITEM_DESC_AS_SKIRT	AUTOSCULPT-HELMAT
+0	AUTO	CASTROL_CHEAT_UNLOCK_MSG	Sait juuri Castrol Cash -palkinnon.
+0	AUTO	STAT_BEST_CHAIN_DRIFT_SCORE	Paras driftiketju
+0	AUTO	QR_INFO_TYPE	Tyyppi
+0	AUTO	MAIN_MENU_TITLE_CREWS	*JENGIT*
+0	AUTO	MARKER_NAME_DESCRIPTION_SPOILER	Spoileriparannus johonkin autoistasi.
+0	AUTO	QUICK_RACE_TITLE_CAR_SELECT	*AUTOT*
+0	AUTO	PART_WHEEL_VOLK_1	VOLK TE37
+0	AUTO	PART_WHEEL_VOLK_2	VOLK CE28
+0	AUTO	PART_WHEEL_VOLK_3	VOLK GT-P
+0	AUTO	DEMO_AUTOMOTIVE_LEGAL2_PAL	
+0	AUTO	CUST_AUTOSCULPT	Autosculpt
+0	AUTO	CUST_PAINT_GROUP_IRIDESCENT	HOHTOMAALI
+0	AUTO	STAT_RACES_WON	Voitetut kisat
+0	AUTO	CUST_VINYL_GROUP_FLAMEBODY	LIEKKIKORI
+0	AUTO	PART_WHEEL_WORK_1	WORK VS SS
+0	AUTO	PART_WHEEL_WORK_2	WORK VS-KF
+0	AUTO	PART_WHEEL_WORK_3	WORK EUROLINE S2H
+0	AUTO	PART_WHEEL_WORK_4	WORK EUROLINE FE
+0	AUTO	STAT_BEST_SINGLE_SCORE	Paras tutkakisa
+0	AUTO	CREW_BIO_INFO_RACE_STYLE	Kisatyyli:
+0	AUTO	MARKER_NAME_PINKSLIP	Rekisteriote
+0	AUTO	PART_WHEEL_TENZO_1	TENZO PSYCHO
+0	AUTO	PART_WHEEL_TENZO_2	TENZO RS-5
+0	AUTO	PART_WHEEL_TENZO_3	TENZO SHU 10
+0	AUTO	WINGMAN_DESC_CAREER_SAMSON	Alentaa takaa-ajotasoa kaikilla alueillasi
+0	AUTO	STATS_ERROR_DOWNLOADING_XBOX	Virhe ladattaessa pelaajan Xbox Live -tilastoja
+0	AUTO	CHEAT_UNLOCK_1	Sait käyttöösi 2005 Aston Martin DB9:n!
+0	AUTO	CHEAT_UNLOCK_2	Sait käyttöösi 2006 Dodge Charger SRT8:n!
+0	AUTO	CHEAT_UNLOCK_3	Kaikki radat ovat nyt käytössäsi!
+0	AUTO	CHAL_INFO_TRACK	Rata
+0	AUTO	CART_ITEM_DESC_VINYLS	UUSI JÄRJESTYS
+0	AUTO	STAT_BEST_LAP	Paras kierros
+0	AUTO	CTRL_UNPLUGGED_BOOT_PS2	Ohjainta ei löydy.^Jatka asettamalla ohjain.
+0	AUTO	CLASS_EXOTIC_DESCRIPTION	Tuontikärryt ovat vauhdin perään vauhkoaville kaahareille.^Nämä autot ovat kovaa tekoa ja heikoin linkki onkin kuljettaja.^Koeta siis löytää mutkissa tasapaino kaasun ja jarrun välille, ^niin selviät mutkan leikkauspisteestä ulos ensimmäisenä.
+0	AUTO	HELP_VIEW_GAMER_CARD	Tarkasta pelaajakortti
+0	AUTO	MY_CARS_DELETE_CAR_HELP	Poista
+0	AUTO	STAT_CARS_UNLOCKED	Avatut autot
+0	AUTO	WII_CONTROL_SCREEN_INFO_6	
+0	AUTO	CUST_MAINMENU_PAINT_TITLE	*VÄRI*
+0	AUTO	STAT_HEADER_GAMES_PLAYED	Pelatut pelit
+0	AUTO	CUST_AUTOSCULPT_ERROR	Broken Autosculpt Art
+0	AUTO	CUST_AUTOSCULPT_TITLE	*AUTOSCULPT*
+0	AUTO	CUST_AUTOSCULPT_ZONE1	Alue 1
+0	AUTO	CUST_AUTOSCULPT_ZONE2	Alue 2
+0	AUTO	CUST_AUTOSCULPT_ZONE3	Alue 3
+0	AUTO	CUST_AUTOSCULPT_ZONE4	Alue 4
+0	AUTO	CUST_AUTOSCULPT_ZONE5	Alue 5
+0	AUTO	CUST_AUTOSCULPT_ZONE6	Alue 6
+0	AUTO	CUST_AUTOSCULPT_ZONE7	Alue 7
+0	AUTO	CUST_AUTOSCULPT_ZONE8	Alue 8
+0	AUTO	CUST_AUTOSCULPT_ZONE9	Alue 9
+0	AUTO	CAREER_SELECT_CAR_CLASS_HELP	Valitse auton luokka
+0	AUTO	CUST_PART_MISSINGSTRING	Missing Part String
+0	AUTO	CUST_PAINT_GROUP_METALLIC	METALLI
+0	AUTO	LANG_FINNISH_NO_TRANSLATION	SUOMI
+0	AUTO	PART_KIT07_FRONT_BUMPER	SLIPSTREAM
+0	AUTO	COMMON_RACETYPE_PURSUIT_KNOCKOUT	Pudotustakaa-ajo
+0	AUTO	CAR_CLASS_INTRO	Romutit autosi Crossia paetessasi. Valitse autoluokka, jolla haluat aloittaa urasi. Kun valtaat alueen, saat käyttöösi valintasi mukaisia autoja ja osia.
+0	AUTO	GAME_OVER_TITLE	*PELI OHI*
+0	AUTO	CAR_CLASS_TUNER	Tuunauskärryt
+0	AUTO	PART_KIT05_REAR_BUMPER	ARASHI
+0	AUTO	DEF_RACE_INFO_LAPS	Kierroksia:
+0	AUTO	DEF_RACE_INFO_TYPE	Tyyppi:
+0	AUTO	BOSS_BONUS_CARDS_SELECTIONS_LEFT	Kortteja jäljellä: %$d
+0	AUTO	PS2_START_MESSAGE	Paina toisen ohjaimen START-näppäintä.
+0	AUTO	MARKER_CATEGORY_DESC_PERFORMANCE	Suorituskykykortti voi tarkoittaa mitä tahansa parannusta jousitukseen, renkaisiin, jarruihin, moottoriin, voimansiirtoon, boostiin, turboahtimeen tai mekaaniseen ahtimeen.
+0	AUTO	DIALOG_MSG_CONFIRM_START_NEW_CAREER	Haluatko varmasti aloittaa uuden pelin? Tällöin menetät kaikki nykyiset uratietosi.
+0	AUTO	STAT_BEST_CLOCKED_SPEEDTRAP	Paras tutkanopeus
+0	AUTO	PART_KIT10_FRONT_BUMPER	CLASSIC
+0	AUTO	PART_KIT05_SKIRT	ARASHI
+0	AUTO	OL_TITLE_LEADERBOARD	*JOHTOTAULU*
+0	AUTO	OL_CD_KEY_REGISTRATION_TITLE	*CD-TUNNUS*
+0	AUTO	COMMON_FINISHED	Valmis
+0	AUTO	CREW_BIO_INFO_SKILL	TAIDOT:
+0	AUTO	MENU_QUICKRACE_OPTIONS_PRACTICE	Ei vaikutusta
+0	AUTO	BOSS_BONUS_CARDS_TITLE	*PALKINTOKORTIT*
+0	AUTO	CARNAME_MITSUBISHI_LANCEREVO9	Mitsubishi Lancer
+0	AUTO	OL_STAT_TOTAL_DISCONNECT_PERCENT	Keskeytysprosentti
+0	AUTO	ON_TITLE_SELECT_TRANSMISSION	*VALITSE VAIHTEET*
+0	AUTO	LANG_DUTCH	Hollanti
+0	AUTO	LANG_ITALIAN_NO_TRANSLATION	ITALIANO
+0	AUTO	MARKER_NAME_DESCRIPTION_FREEBAIL	Kun seuraavan kerran jäät kiinni, pääset ilmaiseksi putkasta.
+0	AUTO	MC_PROMPT_CREATE_CAREER	Jos haluat aloittaa uuden uran, sinun on luotava kuljettaja. Haluatko luoda uuden kuljettajan?
+0	AUTO	MARKER_NAME_CASH	Käteispalkinnot
+0	AUTO	MARKER_NAME_HOOD	Konepeltiparannus
+0	AUTO	MARKER_NAME_RIMS	Vanneparannus
+0	AUTO	MARKER_NAME_TIRE	Rengasparannus
+0	AUTO	LEADERBOARD_TOP_SPEED	Huippunopeus
+0	AUTO	STATS_ERROR_DOWNLOADING	Virhe ladattaessa pelaajan verkkotilastoja
+0	AUTO	MENU_CREW_LOGO_HELP	Täältä voit valita jengillesi tunnuksen, joka näkyy esimerkiksi kartalla. Auton muokkauksessa voit lisäksi koristaa autosi valitsemallasi tunnustarralla.
+0	AUTO	SELECT_LANGUAGE	VALITSE KIELI
+0	AUTO	CUST_VINYL_GROUP_BOSS	KOROSTUKSET
+0	AUTO	CUST_VINYL_GROUP_CREW	Jengin tunnus
+0	AUTO	CUST_VINYL_GROUP_LOGO	TUNNUS
+0	AUTO	CUST_PART_PURCHASED	OSTETTU
+0	AUTO	CUST_MAINMENU_AUTOSCULPT	AUTOSCULPT
+0	AUTO	DEBUG_ICONSCROLLER	ICON SCROLLER(DEBUG)
+0	AUTO	CART_ITEM_DESC_AS_HOOD	AUTOSCULPT-KONEPELTI
+0	AUTO	CART_ITEM_DESC_AS_ROOF	MADALLETTU AUTOSCULPT-KATTO
+0	AUTO	CREW_BIO_INFO_NAME	Nimi:
+0	AUTO	CREW_BIO_INFO_ROLE	ROOLI:
+0	AUTO	CREW_BIO_INFO_TYPE	TYYPPI:
+0	AUTO	MENU_CAREER_CUSTOMIZE	MUOKKAA
+0	AUTO	CUST_MAINMENU_HEADLIGHT_COLOR	VALOJEN VÄRI
+0	AUTO	CARNAME_DODGE_CHARGER06	Dodge Charger SRT8
+0	AUTO	CARNAME_DODGE_CHARGER69	Dodge Charger R/T
+0	AUTO	MARKER_NAME_DESCRIPTION_PAINT	Maaliparannus johonkin autoistasi.
+0	AUTO	CUST_PERF_MENU_BRAKES	JARRUT
+0	AUTO	OL_TITLE_ONLINE_REWARD_CARDS	*VERKON PALKINTOKORTTI*
+0	AUTO	COMMON_CAMERA_CONTROLS_EXIT	POISTU KUVAKULMAKOMENNOISTA
+0	AUTO	CUST_MAINMENU_HEADLIGHT_TITLE	*VALOJEN VÄRI*
+0	AUTO	CAR_SELECT_DIALOG_ADD_IMPOUND_BOX_NO_CARD	Sinulla ei ole lunastuskortteja. Voit hankkia kortteja voittamalla kisoja.
+0	AUTO	CUST_VINYL_DROP_SHADOW_0	Varjo 0
+0	AUTO	SHOPPING_CART_DLG_INSTALL	Haluatko varmasti ostaa kaikki nämä osat?
+0	AUTO	LANG_DANISH_NO_TRANSLATION	DANSK
+0	AUTO	PART_KIT03_FRONT_BUMPER	SHADOW
+0	AUTO	DEBUG_TEXTSCROLLER	Text Scroller
+0	AUTO	OL_STAT_WINS	Arvokisavoitot
+0	AUTO	CUST_MAINMENU_VISUALS	ULKOASU
+0	AUTO	PART_KIT02_REAR_BUMPER	SWEEPER
+0	AUTO	ON_MESSENGER_GAME_INVITE_CANCELLED	%s on peruuttanut pelikutsun.^
+0	AUTO	MC_OLD_SAVE_REWARD	Kiitos aiempien Need for Speed™ -pelien pelaamisesta. Saat uskollisuudestasi palkinnoksi 10 000 käteistä urapeliin.
+0	AUTO	STAT_COPS_DISABLED_TOTAL	Tuhotut poliisiautot (yhteensä)
+0	AUTO	PART_WHEEL_AMERICAN_1	AMERICAN RACING SHELBY RAZOR
+0	AUTO	PART_WHEEL_AMERICAN_2	AMERICAN RACING TORQ-THRUST II
+0	AUTO	PART_WHEEL_AMERICAN_3	AMERICAN RACING TORQ-THRUST ST
+0	AUTO	STAT_QUICK_RACE_WINS	Pikakisan voitot
+0	AUTO	MARKER_NAME_DESCRIPTION_BRAKES	Jarruparannus mihin tahansa autoistasi.
+0	AUTO	CAR_CLASS_EXOTIC	Tuontikärryt
+0	AUTO	MARKER_NAME_DESCRIPTION_REDUCE_HEAT	Voit poistaa poliisien haun jonkin autosi kohdalta. Auton takaa-ajotaso laskee nollaan.^
+0	AUTO	CHAL_INFO_BEST_SCORE	Paras tulos
+0	AUTO	CHAL_INFO_BEST_SPEED	Huippunopeus
+0	AUTO	MARKER_NAME_DESCRIPTION_CHASSI	Jousitusparannus mihin tahansa autoistasi.
+0	AUTO	MENU_RESUME_CAREER	JATKA URAA
+0	AUTO	MENU_QUICKRACE_OPTIONS_CATCH_UP	Kiriminen
+0	AUTO	QUICK_RACE_INFO_ACCELERATION	KIIHTYVYYS
+0	AUTO	CUST_PERF_MENU_ENGINE	MOOTTORI
+0	AUTO	PART_WHEEL_AUTOSCULPT_1	CARBON MO5
+0	AUTO	PART_WHEEL_AUTOSCULPT_2	CARBON HEX
+0	AUTO	PART_WHEEL_AUTOSCULPT_3	CARBON REDLINE
+0	AUTO	PART_WHEEL_AUTOSCULPT_4	CARBON GLITZ
+0	AUTO	PART_WHEEL_AUTOSCULPT_5	CARBON ST-8
+0	AUTO	PART_WHEEL_AUTOSCULPT_6	CARBON MULTI
+0	AUTO	PART_WHEEL_AUTOSCULPT_7	CARBON SF15
+0	AUTO	PART_WHEEL_AUTOSCULPT_8	CARBON RAZOR
+0	AUTO	PART_WHEEL_AUTOSCULPT_9	CARBON ST-5
+0	AUTO	WINGMAN_DESC_RACE_NEVILLE	Vyöhykkeen takaa-ajotaso ei nouse kisojen jälkeen^
+0	AUTO	STAT_TIMES_BUSTED	Pidätykset
+0	AUTO	PART_WHEEL_IFORGED_1	IFORGED AERO
+0	AUTO	PART_WHEEL_IFORGED_2	IFORGED EVOLUTION
+0	AUTO	PART_WHEEL_IFORGED_3	IFORGED MARQUIS
+0	AUTO	CART_ITEM_DESC_BODY	RUNKOSARJA
+0	AUTO	CUST_MOVELAYER_UP	Siirrä kerros ylemmäs
+0	AUTO	MARKER_NAME_DESCRIPTION_DECALS	Uusi valmistajan tarra johonkin autoistasi.
+0	AUTO	CARNAME_FORD_FORDGT	Ford GT
+0	AUTO	CUST_IN_SHOPPING_CART	KORISSA
+0	AUTO	MC_CONFIRM_DESTRUCTIVE_CREATE_PROFILE	Jos luot uuden kuljettajan, menetät nykyiseen kuljettajaan tehdyt tallentamattomat muutokset. Haluatko varmasti luoda kuljettajan?
+0	AUTO	XBOX_START_MESSAGE	Paina toisen ohjaimen START-näppäintä.
+0	AUTO	CARNAME_LEXUS_IS300	Lexus IS300
+0	AUTO	CUSTOMIZATION_MEMORY_WARNING	Et voi enää muokata autoja. Jos haluat jatkaa autojen muokkausta, poista jokin autoistasi.
+0	AUTO	ON_PROTO_DLC	DLC
+0	AUTO	MARKER_NAME_DESCRIPTION_ENGINE	Moottoriparannus mihin tahansa autoistasi.
+0	AUTO	MENU_CM_CANT_FIRE	Jengissäsi on oltava vähintään yksi jäsen.
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_PC	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game when the Autosave icon flashes as follows.
+0	AUTO	MARKER_NAME_BODYKIT	Korisarjaparannukset
+0	AUTO	PART_KIT02_SKIRT	SWEEPER
+0	AUTO	STAT_CHALLENGE_SERIES_COMPLETION	Haastesarjojen suoritus
+0	AUTO	OL_STAT_WINS_PERCENT	Voittoprosentti
+0	AUTO	VINYL_PART_MANUFACTURER_SHELBYVINTAGE	SHELBY
+0	AUTO	MARKER_NAME_ROOFSCOOPS	Kattoparannus
+0	AUTO	LANG_CZECH_NO_TRANSLATION	ČEŠTINA
+0	AUTO	MENU_CM_CREW_FULL	Jengisi on jo täynnä. Voit värvätä uuden jäsen vasta kun olet antanut yhdelle vanhalle jäsenelle potkut.
+0	AUTO	SECONDARY_ROLE_MECHANIC_DESC	kicks your car when broken
+0	AUTO	STAT_DRIFT_LENGTH	Driftin pituus
+0	AUTO	MC_ENTER_NAME	*NIMEÄ KULJETTAJASI*
+0	AUTO	MENU_CAREER_CHALLENGES	HAASTEET
+0	AUTO	NGC_START_MESSAGE	Pelaaja 2, paina START.
+0	AUTO	CUST_MAINMENU_PERFORMANCE	SUORITUSKYKY
+0	AUTO	CAR_SELECT_HEAT_COST	Jahdin rauhoitusmaksu:
+0	AUTO	CUST_MAINMENU_MARKETPLACE	XBOX LIVE -KAUPPAPAIKKA
+0	AUTO	QUICK_RACE_INFO_HANDLING	OHJAUSHERKKYYS
+0	AUTO	MENU_CAR_CLASS_MODE_TYPE	Haluatko koeajaa autoluokkaa, vai haluatko valita sen heti?
+0	AUTO	CONTROLLER_CFG_STEER_LEFT	Ohjaa vasemmalle
+0	AUTO	MENU_CAREER_START_NEW_CAREER	ALOITA UUSI URA
+0	AUTO	MC_AUTOSAVE_WARNING2_XBOX	Älä poista ohjainta, käynnistä Xbox-konsolia uudelleen tai katkaise Xbox-konsolin virtaa, kun automaattitallennuksen kuvake on näkyvissä. Muutoin tallennukset saattavat vahingoittua.
+0	AUTO	MARKER_CATEGORY_PERFORMANCE	Suorituskykyparannukset
+0	AUTO	CUST_VINYL_GROUP_TWOTONE	KAKSIVÄRISET
+0	AUTO	CHAL_UNLOCKS	%s avautuu
+0	AUTO	CARNAME_MCLAREN_SLR	Mercedes-Benz SLR McLaren
+0	AUTO	MENU_COMMON_PM_SHOWCASE	ESITTELYHUONE
+0	AUTO	MARKER_NAME_SUPERCHARGER	Ahdinparannus
+0	AUTO	MARKER_NAME_HUD	Mittariparannus
+0	AUTO	MARKER_NAME_NOS	Boostiparannus
+0	AUTO	STAT_LONGEST_PURSUIT	Pisin takaa-ajo
+0	AUTO	MENU_QUICKRACE_OPTIONS_AI_OPPONENTS	Tietokonevastustajat
+0	AUTO	CHALLENGE_SERIES_DESC_112_CG	Voita Downtownin ratakisa, kun vastus on helppo.
+0	AUTO	CHALLENGE_SERIES_DESC_113_CG	Voita Fortunan ratakisa, kun vastus on keskivaikea.
+0	AUTO	CHALLENGE_SERIES_DESC_114_CG	Voit Silvertonin ratakisa, kun vastus on vaikea.
+0	AUTO	OL_SUBTITLE_RANK	Sija
+0	AUTO	MC_NO_PROFILES_FOUND	Kuljettajia ei löytynyt.
+0	AUTO	CHALLENGE_SERIES_DESC_130_CG	Voita moottoritie 142:n ratakisa, kun vastus on helppo.
+0	AUTO	CHALLENGE_SERIES_DESC_131_CG	Voita Garcia Streetin ratakisa, kun vastus on keskivaikea.
+0	AUTO	CHALLENGE_SERIES_DESC_132_CG	Voita valtatie 21:n ratakisa, kun vastus on vaikea.
+0	AUTO	CAR_CLASS_MUSCLE	Kiihdytyskärryt
+0	AUTO	CREW_TITLE_YOUR_CREW	*OMA JENGI*
+0	AUTO	CREW_MENU_VIEW_CREW_CAR	Tarkastele autoa
+0	AUTO	QUICK_RACE_OPTIONS	Asetukset
+0	AUTO	LANG_SWEDISH_NO_TRANSLATION	SVENSKA
+0	AUTO	LANG_ENGLISH_NO_TRANSLATION	ENGLISH
+0	AUTO	STAT_WINS	Voittoja
+0	AUTO	CHAL_INFO_LENGTH	Pituus
+0	AUTO	PC_INSTALLER_01	
+0	AUTO	PC_INSTALLER_02	
+0	AUTO	PC_INSTALLER_03	
+0	AUTO	PC_INSTALLER_04	
+0	AUTO	PC_INSTALLER_05	
+0	AUTO	PC_INSTALLER_06	
+0	AUTO	PC_INSTALLER_07	
+0	AUTO	PC_INSTALLER_08	
+0	AUTO	PC_INSTALLER_09	
+0	AUTO	PC_INSTALLER_10	
+0	AUTO	PC_INSTALLER_11	
+0	AUTO	PC_INSTALLER_12	
+0	AUTO	PC_INSTALLER_13	
+0	AUTO	PC_INSTALLER_14	
+0	AUTO	PC_INSTALLER_15	
+0	AUTO	PC_INSTALLER_16	
+0	AUTO	MARKER_CATEGORY_MISC	Yllätyskortit
+0	AUTO	CUST_PAINT_GROUP_CHROME	KROMI
+0	AUTO	CUST_VINYL_STROKE_0	VIIVA
+0	AUTO	CUST_VINYL_STROKE_1	VIIVA 1
+0	AUTO	CUST_VINYL_STROKE_2	VIIVA 2
+0	AUTO	CUST_VINYL_STROKE_3	VIIVA 3
+0	AUTO	CUST_VINYL_STROKE_4	VIIVA 4
+0	AUTO	CUST_VINYL_STROKE_5	VIIVA 5
+0	AUTO	CAREER_TEST_CAR_HELP	Koeaja autoa
+0	AUTO	CREW_BIO_INFO_AGE	Ikä:
+0	AUTO	CREW_BIO_INFO_CAR	Auto
+0	AUTO	WII_BOOT_START	
+0	AUTO	STARTADVANCE_REV	jatkaaksesi
+0	AUTO	CUST_PARTS_HOODS	KONEPELTI
+0	AUTO	MENU_CM_FIRE_CONFIRMATION	Erotetaanko %s varmasti?
+0	AUTO	CUST_PARTS_SKIRT	HELMA
+0	AUTO	CUST_PARTS_TITLE	*OSAVALIKKO*
+0	AUTO	STAT_NUM_SAFEHOUSES_FOUND	Löydettyjä turvataloja
+0	AUTO	GAME_OVER_CARS_IMPOUNDED_DESC	Kaikki ajoneuvosi on takavarikoitu.
+0	AUTO	QUICK_RACE_TITLE_SPRINT	*PYRÄHDYS*
+0	AUTO	STAT_SPIKE_STRIPS_DODGED	Väistetyt piikkimatot (yksittäinen takaa-ajo)
+0	AUTO	MARKER_NAME_IMPOUND	Lunastuskortti
+0	AUTO	STATS_DOWNLOADING_XBOX	Ladataan pelaajan Xbox Live -tilastoja...
+0	AUTO	LANG_DANISH	Tanska
+0	AUTO	DEMO_HELP_CLASS_INFO	Luokkatiedot
+0	AUTO	CART_ITEM_DESC_AS_REAR_BUMPER	AUTOSCULPT-TAKAPUSKURI
+0	AUTO	CUST_PARTS_HOODS_TITLE	*KONEPELTI*
+0	AUTO	CUST_MAINMENU_INSTALL	OSTOKSET
+0	AUTO	STAT_PURSUITS_ESCAPED	Pakoja takaa-ajoista
+0	AUTO	REWARDS_COMPLETE_HEADER	Kokonaisesta kuvakkeesta avataan:
+0	AUTO	QUICK_RACE_TITLE_KEEPAWAY	*PYSY POISSA*
+0	AUTO	STAT_CAREER_TIME	Urapelin aika
+0	AUTO	STAT_CAREER_WINS	Voitetut urakisat
+0	AUTO	GAME_OVER_RELOAD_CURRENT_ALIAS	Lataa nykyiset kuljettajatiedot uudelleen
+0	AUTO	ON_LOGIN_NOT_REQUIRED	Valinnainen
+0	AUTO	CREW_MENU_CUSTOMIZE	Muokkaa
+0	AUTO	PART_KIT09_SKIRT	G-FORCE
+0	AUTO	HELP_TEST_DRIVE	Koeaja autoa
+0	AUTO	QUICK_RACE_TITLE_TIMETRIAL	*AIKAKISA*
+0	AUTO	PART_KIT08_FRONT_BUMPER	SPEEDWAY
+0	AUTO	LANG_FRENCH	Ranska
+0	AUTO	CUST_INSTALL	Asenna
+0	AUTO	MARKER_NAME_SPOILER	Spoileriparannus
+0	AUTO	LANG_GERMAN	Saksa
+0	AUTO	STAT_BEST_TIME_AS_RACER	Paras aika jahdattavana
+0	AUTO	CART_ITEM_NAME_VINYLS	TARRAT
+0	AUTO	CUST_PARTS_ROOFSCOOPS_TITLE	*KATTO*
+0	AUTO	MC_CONFIRM_TOO_MANY_PROFILES_TO_CREATE	Kuljettajia on tallennettu yli maksimäärä.
+0	AUTO	QUICK_RACE_TITLE_PURSUIT_TAG	*TAKAA-AJOHIPPA*
+0	AUTO	GAME_OVER_PLAYER_BUSTED_DESC	Jäit kiinni ja sinulla ei ole enää vapautuskortteja tai rahaa sakkojen maksuun.
+0	AUTO	MC_CONFIRM_TOO_MANY_PROFILES_TO_LIST	Kuljettajia ei voida luetella, sillä niitä on liian monta. Vain 10 viimeksi luotua kuljettajaa näytetään.
+0	AUTO	PART_KIT09_REAR_BUMPER	G-FORCE
+0	AUTO	MENU_OPTIONS_EATRAX	EA™ TRAX
+0	AUTO	MC_AUTOSAVE_WARNING_PC	Need for Speed™ Carbon käyttää automaattista tallennusta, joka tallentaa automaattisesti edistymisesi pelissä. Peli tallennetaan aina, kun tallennuskuvake näkyy ruudulla.
+0	AUTO	CAR_CLASS_EXIT_DIALOGUE	Jos poistut, palaat päävalikkoon. Et kuitenkaan menetä uratietojasi.
+0	AUTO	PART_WHEEL_LOWENHART_1	LÖWENHART XIR
+0	AUTO	PART_WHEEL_LOWENHART_2	LÖWENHART BR5
+0	AUTO	PART_WHEEL_LOWENHART_3	LÖWENHART LDR
+0	AUTO	PART_WHEEL_LOWENHART_4	LÖWENHART LC1
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_XBOX	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game on the Xbox hard disk when the Autosave icon flashes as follows.
+0	AUTO	ON_LOGIN_TOO_YOUNG	Et ole riittävän vanha luodaksesi tiliä!
+0	AUTO	MENU_QUICKRACE_OPTIONS_PLAYER_GHOST	Varjotoiminto
+0	AUTO	CUST_VINYL_GROUP_MANUFACTURER	VALMISTAJA
+0	AUTO	OL_STAT_TOTAL_GAMES	Arvokisat yhteensä
+0	AUTO	CUST_TUNING	Tuunaus
+0	AUTO	MC_AUTOSAVE_WARNING2_PC	Älä käynnistä tietokonetta uudelleen tai sammuta sitä, kun automaattisen tallennuksen kuvake on näkyvissä. Muutoin pelitiedot saattavat vahingoittua.
+0	AUTO	MC_AUTOSAVE_WARNING_NGC	Voit valita automaattitallennuksen, joka tallentaa edistymisesi pelissä ja asetuksiin tekemäsi muutokset automaattisesti. Tällöin vanhat tiedot korvataan kysymättä erikseen varmistusta. Kun seuraava kuvake on näkyvissä, älä koske Memory Card (muistikorttiin) tai POWER-painikkeeseen (virta).
+0	AUTO	MC_AUTOSAVE_WARNING_PS2	Need for Speed™ Carbon käyttää automaattista tallennusta, joka tallentaa edistymisesi automaattisesti MEMORY CARD -paikan 1 memory card (muistikortille) (PS2). Peli tallennetaan, kun tallennuskuvake näkyy ruudulla.
+0	AUTO	MC_AUTOSAVE_WARNING_PS3	
+0	AUTO	STAT_NUMBER_BUSTS	Pidätyksiä
+0	AUTO	MARKER_NAME_DESCRIPTION_VINYLS	Tarraparannus johonkin autoistasi.
+0	AUTO	CUST_PARTS_BODY_KIT	KORISARJA
+0	AUTO	CART_ITEM_DESC_AS_FRONT_BUMPER	AUTOSCULPT-ETUPUSKURI
+0	AUTO	MENU_CM_UNLOCK_NEW_CREW_NO_ROOM	Saatavilla on uusi hahmo, mutta jengisi on jo täynnä. Voit värvätä jengiisi uuden jäsenen, kun erotat jonkun nykyisistä jäsenistä. Voit erottaa vanhoja jäseniä ja värvätä uusia oman jengisi tiedoista.
+0	AUTO	CARNAME_DODGE_VINTAGE_CHALLENGER71	Dodge Challenger
+0	AUTO	DEBUG_WIDGETMENU	Widget Menu
+0	AUTO	STAT_COLLISIONS	Törmäykset
+0	AUTO	STAT_TITLE_PKO_RACE	Pud.tak.-ajo (Jahdat.)
+0	AUTO	MENU_CREW_LOGO_DISCARD_CONFIRM	Haluatko varmasti hylätä tämän tunnuksen ja säilyttää aiemman tunnuksen?
+0	AUTO	COMMON_RACETYPE_ALL	Kaikki
+0	AUTO	CAR_SELECT_DIALOG_BUY_CAR_CONFIRMATION	Haluatko varmasti ostaa tämän auton?
+0	AUTO	H_REORDER	Tilaa uudelleen
+0	AUTO	MENU_QUICKRACE_GHOST_CAR	Varjo:
+0	AUTO	MY_CARS_ADD_CUST_HELP	Lisää/muokkaa
+0	AUTO	QR_DOWNLOADING_GHOST_DATA	Ladataan varjoa NeedforSpeed.comista
+0	AUTO	HELP_HIRE_CREW_MEMEBER	Palkkaa jengin jäsen
+0	AUTO	QR_DOWNLOADING_GHOST_INFO	Ladataan varjon tietoja www.NeedforSpeed.comista
+0	AUTO	CAR_SELECT_DIALOG_CANNOT_REDUCE_HEAT	Rahasi tai korttisi eivät riitä poliisien lahjomiseen. Tienaat lisää rahaa voittamalla kisoja.
+0	AUTO	CART_ITEM_NAME_WHEEL_PAINT_SWATCH	VANTEIDEN VÄRI
+0	AUTO	CUST_PARTS_DIALOG_STANDARD	Perusosat
+0	AUTO	TITLE_PLAYERS_STATISTICS	PELAAJAKOHTAISET VERKKOTILASTOT
+0	AUTO	MENU_MAIN_CUSTOM_MATCH	MUKAUTETTU PELI
+0	AUTO	DEF_RACE_INFO_REWARDS	PALKINNOT:
+0	AUTO	CUST_VINYL_GROUP_STRIPEBODY	RAITAKORI
+0	AUTO	STARTADVANCE_XBOX	Jatka painamalla START-näppäintä
+0	AUTO	CUST_VINYL_GROUP_AFTERMARKET	OSAVALMISTAJA
+0	AUTO	PART_KIT04_FRONT_BUMPER	BORRILLO
+0	AUTO	MARKER_NAME_DESCRIPTION_ROOFSCOOPS	Kattoparannus johonkin autoistasi.
+0	AUTO	STAT_CAREER_REP	Uran katumaine
+0	AUTO	CUST_MAINMENU_LICENSE_PLATE	REKISTERIKILPI
+0	AUTO	MENU_MAIN_REWARD_CARDS	PALKINTOKORTIT
+0	AUTO	CARNAME_MAZDA_MAZDASPEED3_EUROPE	Mazda3 MPS
+0	AUTO	PART_KIT06_REAR_BUMPER	CHICANE
+0	AUTO	CART_ITEM_DESC_AS_EXHAUST	AUTOSCULPT-PAKOPUTKI
+0	AUTO	PART_KIT06_SKIRT	CHICANE
+0	AUTO	HELP_ONLINE_REWARDS	Verkkopalkinnot
+0	AUTO	STAT_CARS_PURCHASED	Ostetut autot
+0	AUTO	LANG_POLISH	Puola
+0	AUTO	STAT_BEST_MOVE	Paras törmäys
+0	AUTO	STAT_BEST_TIME	Paras kisa-aika
+0	AUTO	CHAL_TIME_TRIAL	Aikakisa
+0	AUTO	STAT_BEST_CAREER_COMPLETION_TIME	Nopein uran läpäisy
+0	AUTO	CHAL_HEADER_GOLD	Kulta
+0	AUTO	DEMO_PSA	Demossa tehtäviä temppuja ei pidä yrittääkään oikeilla kaduilla tai oikeassa liikenteessä. Aja aina varovaisesti, noudata liikennesääntöjä ja käytä turvavyötä.
+0	AUTO	QUICK_RACE_TITLE_SELECT_WINGMAN	*VALITSE JÄSEN*
+0	AUTO	CARNAME_CORVETTE_Z06	Chevrolet Corvette Z06
+0	AUTO	LANG_ENGLISH	Englanti
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_XENON	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game when the Autosave icon flashes as follows.
+0	AUTO	MENU_CM_HIRE_CONFIRMATION	Värvätäänkö %s varmasti?
+0	AUTO	HELP_GET_ONLINE_HELP	Yhteispeli verkossa
+0	AUTO	DEMO_MUSIC_LEGAL	Lisensoitu musiikki ^^Bounce^Esittäjä: Dynamite MC^Säveltänyt: D. Smith/D. Taylor^Tuottaja: Dave Taylor Solid Groove Productionsille^Julkaisija: Copyright Control/Haripa Music^Äänitteet myöntänyt: Strong Records^^Don't Speak (I Came To Make A Bang!)"^Esittäjä: Eagles Of Death Metal^Säveltänyt: Jesse "Boots Electric" Hughes ja Joshua "Baby Duck" Homme^© 2005 Fabulous Weapons Music (BMI) ja Board Stiff Music (BMI)^Äänitteet myöntänyt: Downtown Recordings^^Sugar (Jagz Kooner Mix)^Esittäjä: Ladytron ^Säveltänyt: Daniel Hunt^Julkaisija: Universal-Polygram Int. Publishing, Inc. (ASCAP) Universal Music Publishing Ltd:n puolesta. ^(p) & © 2005 Ladytron ^Äänitteet myöntänyt: Rykodisc
+0	AUTO	CROSS_SELL_FIFA	FIFA 07
+0	AUTO	ON_STAT_HEADER_BEST_DRIFT	Paras drifti
+0	AUTO	STAT_INFRACTIONS_SINGLE	Rikkeet (yksittäinen takaa-ajo)
+0	AUTO	CUST_PARTS_SPOILERS	SPOILERIT
+0	AUTO	MENU_MAIN_QUICK_MATCH	PIKAPELI
+0	AUTO	STAT_GAME_COMPLETION	Pelin suoritus
+0	AUTO	MENU_CREW_NEED_TO_SET_CREW_STYLE_TARGET	Jengisi tyylille ei ole malliautoa. Valitse tyylin malliauto autotallissa.
+0	AUTO	TITLE_REWARD_CARDS	*PALKINTOKORTIT*
+0	AUTO	CUST_RIDE_HEIGHT_PITCH	Kaltevuus
+0	AUTO	STAT_HIGHEST_FINE_PAID	Suurin maksettu sakko
+0	AUTO	PART_WHEEL_KONIG_1	KÖNIG BLATANT
+0	AUTO	PART_WHEEL_KONIG_2	KÖNIG IMAGINE
+0	AUTO	PART_WHEEL_KONIG_3	KÖNIG THEORY
+0	AUTO	CLASS_MUSCLE_DESCRIPTION	Kiihdytyskärryt ovat omiaan suoralla kiihdyttämiseen.^Kun lähdet maaliviivalta, älä tuijottele taustapeiliin.^Perä alkaa nimittäin heittelehtiä erittäin helposti.^Siksi on tärkeää olla erityisen varovainen kurveissa.
+0	AUTO	CUST_MAIN_CART_CONFIRM	Oletko varma, että haluat poistua? Ostoskärryssäsi on yhä osia ja poistuessasi menetät kaikki osat.
+0	AUTO	STAT_TOTAL_CLOCKED_SPEEDTRAP	Yhteenlasketut tutkanopeudet
+0	AUTO	MARKER_NAME_FREEBAIL	Vapaudu vankilasta
+0	AUTO	EA_TRAX_PLAY_TRACK	Soita biisi
+0	AUTO	CART_ITEM_DESC_ROOF_SCOOP	KATTO
+0	AUTO	MENU_CREW_MANAGEMENT	OMA JENGI
+0	AUTO	CUST_PARTS_SKIRT_TITLE	*HELMA*
+0	AUTO	CHAL_INFO_YOUR_TIME	Paras tulos
+0	AUTO	CUST_ADD_TO_CART	Osta
+0	AUTO	WII_CONTROLS_WARNING	
+0	AUTO	STAT_TRACKS_UNLOCKED	Avatut radat
+0	AUTO	MENU_CAREER_TURF_WARS	KARTTA
+0	AUTO	CHAL_INFO_DESCRIPTION	Kuvaus
+0	AUTO	DIALOG_MSG_NO_CREW_SOURCE	Et ole valinnut jengin malliautoa.
+0	AUTO	MENU_CM_HIRE	Värvää
+0	AUTO	CAR_SELECT_CAR_VALUE	Arvo:
+0	AUTO	STAT_LAP_SCORE	Kierrostulos
+0	AUTO	BULLET_TUTORIAL_TERRITORY_01_A	Tämä on kaupungin kartta.
+0	AUTO	BULLET_TUTORIAL_TERRITORY_01_B	Kartalta näet kuka hallitsee mitäkin aluetta
+0	AUTO	PART_KIT00_FRONT_BUMPER	PERUSMALLI
+0	AUTO	MYCARS_DIALOG_DELTE_CAR_CONFIRMATION	Haluatko varmasti poistaa tämän auton?
+0	AUTO	STAT_BOUNTY_TOTAL	Takaa-ajopalkkio (yhteensä)
+0	AUTO	CUST_PARTSELECT_PART	Osa
+0	AUTO	PART_KIT03_REAR_BUMPER	SHADOW
+0	AUTO	MC_NO_GHOST	Tälle radalle ei ole tallennettu varjoautoa.
+0	AUTO	PART_WHEEL_RACINGHART_1	RACINGHART MULTI C4
+0	AUTO	PART_WHEEL_RACINGHART_2	RACINGHART CX
+0	AUTO	PART_WHEEL_RACINGHART_3	RACINGHART CP
+0	AUTO	PART_WHEEL_RACINGHART_4	RACINGHART CR
+0	AUTO	MC_PROFILE_MANAGER	Kuljettajien hallinta
+0	AUTO	CARNAME_CHRYSLER_300C	Chrysler 300C Hemi SRT8
+0	AUTO	MC_PROMPT_CREATE_CHALLENGE	Voit osallistua haasteisiin vain kuljettajan valittuasi. Voit ladata kuljettajatiedot uravalikosta käsin tai luoda uudet kuljettajatiedot. Haluatko luoda uuden kuljettajan?
+0	AUTO	CHAL_LOCKED	Lukittu
+0	AUTO	CAR_CLASS_TESTING_TRANSMISSION	Haluatko käyttää automaatti- vai käsivaihteita?
+0	AUTO	ON_LOGIN_MSG_PARENTAL_CONSENT	Olet ilmoittamassa henkilötietojasi EA:lle. 18-vuotiaiden ja sitä nuorempien pelaajien henkilötietojen luovutukseen tarvitaan vanhempien suostumus. Haluatko lähettää tietosi?
+0	AUTO	STAT_BEST_SECTION_1_TIME	Paras aika osiolla 1
+0	AUTO	CARNAME_ALFA_ROMEO_BRERA	Alfa Romeo Brera
+0	AUTO	LANG_DUTCH_NO_TRANSLATION	NEDERLANDS
+0	AUTO	STAT_WIN_PERCENTAGE	Voittoprosentti
+0	AUTO	PART_KIT03_SKIRT	SHADOW
+0	AUTO	MENU_QUICKRACE_OPTIONS_COMPETITIVE	Tilastokisa
+0	AUTO	FABRICATOR_1_POPUP	Kun värväät Salin jengiisi, pääset muokkaamaan näitä Autosculpt-osia.
+0	AUTO	STAT_BEST_SECTION_2_TIME	Paras aika osiolla 2
+0	AUTO	STAT_BEST_LAP_SCORE	Parhaan kierroksen tulos
+0	AUTO	CUST_PARTS_CARBON	HIILIKUITU
+0	AUTO	MARKER_CATEGORY_DESC_VISUAL	Nämä kortit voivat sisältää ulkoasuparannuksia, kuten erikoistarroja.
+0	AUTO	CARNAME_DODGE_CHALLENGERN	Dodge Challenger Concept
+0	AUTO	OL_STAT_REP	Verkkokokemus
+0	AUTO	QUICK_RACE_TITLE_PURSUIT_KNOCKOUT	*PUDOTUSTAKAA-AJO*
+0	AUTO	MC_LOAD	Lataa
+0	AUTO	STAT_BEST_SECTION_3_TIME	Paras aika osiolla 3
+0	AUTO	MENU_CM_CURRENT_WINGMAN	Nykyinen apuri:
+0	AUTO	CUST_MAINMENU_MARKETPLACE_MIXEDCASE	Xbox Live -kauppapaikka
+0	AUTO	HELP_SELECT_CAR_FOR_CAREER	Valitse urapelin auto
+0	AUTO	PART_KIT10_SKIRT	CLASSIC
+0	AUTO	TITLE_CHALLENGE_SERIES	*HAASTESARJA*
+0	AUTO	MENU_CM_BIO_VIDEO	Esittelyvideo
+0	AUTO	CUST_PARTS_REARBUMPER_TITLE	*TAKAPUSKURI*
+0	AUTO	WINGMAN_DESC_RACE_COLIN	Edellä kulkevan auton taakse muodostuva ilmatasku on tavanomaista suurempi^
+0	AUTO	MENU_QUICKRACE_PLAYER_RECORD_GHOST	Tallenna varjo
+0	AUTO	WINGMAN_DESC_RACE_NIKKI	50%% parannus hidastukseen ja boostiin
+0	AUTO	ALL_SPECIAL_CHARACTERS	á à â ä ą å æ ª č ç ć ď é è ě ë ê ę í ì ï î ł ń ň ñ ó ò ø ö ô ő œ ř š ś ť ů ú ù ü û ű ý ž ż ź º °¿ ¡ ^Á À Â Å Ä Ą Æ Č Ć Ç Ď É È Ě Ë Ê Ę Í Ì Î Ï Ł Ň Ñ Ő Ó Ò Ø Ö Ô Œ Ř Ś Š Ť Ů Ú Ù Ü Ú Ű Û Ý Ż Ź Ž ß
+0	AUTO	CUST_PERF_MENU_SUSPENSION	JOUSITUS
+0	AUTO	CROSS_SELL_NHL07	NHL® 07
+0	AUTO	WINGMAN_DESC_RACE_SAL	Voitot itse asiassa laskevat alueen takaa-ajotasoa
+0	AUTO	CROSS_SELL_TIGER	Tiger Woods PGA TOUR® 07
+0	AUTO	CUST_MOVELAYER_DOWN	Siirrä kerros alemmaksi
+0	AUTO	CHAL_AVAILABLE	Saatavilla
+0	AUTO	MENU_CM_TUTORIAL	Neville liittyi jengiisi!^^Tämä on jengiruutu, jossa voit mm:^valita apurin mukaan kisoihin,^muokata jäsenten autoja,^katsoa jäsenten esittelyvideoita,^erottaa jäseniä (jengissä on oltava vähintään 1 jäsen),^värvätä uusia jäseniä (jengissä voi olla enintään 3 jäsentä).
+0	AUTO	SECONDARY_ROLE_FABRICATOR_DESC	DELETE
+0	AUTO	PART_KIT00_REAR_BUMPER	PERUSMALLI
+0	AUTO	CART_ITEM_DESC_AS_SPOILER	AUTOSCULPT-SPOILERI
+0	AUTO	QR_NO_GHOST_DATA	Tälle radalle ei ole varjoautoa.
+0	AUTO	CUST_VINYL_GROUP_PRIMITIVE	KUVIOT
+0	AUTO	MARKER_NAME_DESCRIPTION_SUPERCHARGER	Ahdinparannus johonkin autoistasi.
+0	AUTO	PART_KIT09_FRONT_BUMPER	G-FORCE
+0	AUTO	ON_MESSENGER_LISTS_SEARCH	Hae tuloksia
+0	AUTO	RC_DESCRIPTION_104	
+0	AUTO	STAT_COPS_RAMMED_TOTAL	Törmätyt poliisiautot (yhteensä)
+0	AUTO	MENU_CM_EMPYT	EI JENGIÄ
+0	AUTO	OL_NFS_WEBSITE_ADDRESS_LEADERBOARD	Lisää tilastoja on osoitteessa NeedforSpeed.com
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_1	CARBONO MO5
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_2	CARBONO HEX
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_3	CARBONO REDLINE
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_4	CARBONO GLITZ
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_5	CARBONO ST-8
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_6	CARBONO MULTI
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_7	CARBONO SF15
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_8	CARBONO RAZOR
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_9	CARBONO ST-5
+0	AUTO	CREW_LOGO_LAYER_1	Kerros 1
+0	AUTO	CREW_LOGO_LAYER_2	Kerros 2
+0	AUTO	CREW_LOGO_LAYER_3	Kerros 3
+0	AUTO	CUST_PERF_STAGE	Taso %d
+0	AUTO	CUST_VINYLS_MIRROR_ON	Toinen sivu
+0	AUTO	CUST_PARTS_FRONTBUMPER	ETUPUSKURI
+0	AUTO	STAT_BEST_JUMP_AIR_TIME	Pisin hyppy (aika)
+0	AUTO	MENU_BOSS_DEFEATED	*PÄIHITETTY*
+0	AUTO	STAT_TITLE_PKO_PURSUIT	Pud.tak.-ajo (Poliisi)
+0	AUTO	CREW_TITLE_LOGOS	*JENGIN TUNNUS*
+0	AUTO	CREW_BIO_INFO_BIRTHPLACE	Synnyinpaikka
+0	AUTO	CAR_CLASS_SELECTED_TRANSMISSION	Olet valinnut urapelin autoluokan. Haluatko käyttää automaattista vai manuaalista vaihteistoa?
+0	AUTO	STAT_COST_TO_STATE_TOTAL	Valtion kulut (yhteensä)
+0	AUTO	CHAL_CREW_MODE_SOLO	Yksinpeli
+0	AUTO	TITLE_QUICK_RACE_OPTIONS	*PIKAKISAN ASETUKSET*
+0	AUTO	PART_KIT00_SKIRT	PERUSMALLI
+0	AUTO	GAME_WON_TITLE	*VOITIT*
+0	AUTO	STAT_COMBO_SCORE	Yhdistelmä
+0	AUTO	CUST_VINYL_FILL_0	TÄYTÄ
+0	AUTO	CUST_VINYL_FILL_1	TÄYTÄ 1
+0	AUTO	CUST_VINYL_FILL_2	TÄYTÄ 2
+0	AUTO	CUST_VINYL_FILL_3	TÄYTÄ 3
+0	AUTO	LANG_FRENCH_NO_TRANSLATION	FRANCAIS
+0	AUTO	STAT_RANDOM_ENCOUNTERS_WON	Voitetut satunnaiskisat
+0	AUTO	SHOPPING_CART_DLG_EMPTY	Ei ostoksia.
+0	AUTO	CUST_PARTS_FRONTBUMPER_TITLE	*ETUPUSKURI*
+0	AUTO	MENU_QUICKRACE_PLAYER_SAVED_GHOST	Tallennettu varjo
+0	AUTO	DEF_RACE_INFO_RECORD	Tulokset:
+0	AUTO	MENU_MAIN_QUICK_RACE	PIKAKISA
+0	AUTO	CUST_PARTS_NORMAL	TAVALLINEN
+0	AUTO	CARNAME_NISSAN_350Z	Nissan 350Z
+0	AUTO	MENU_CAR_CLASS_MODE_SELECT_CLASS	Valitse luokka
+0	AUTO	MENU_RESUME_FREE_ROAM	VAPAA-AJO
+0	AUTO	STAT_COPS_RAMMED_SINGLE	Törmätyt poliisiautot (yksittäinen takaa-ajo)
+0	AUTO	MENU_QUICKRACE_OPTIONS_TRAFFIC_LEVEL	Liikenteen määrä
+0	AUTO	PART_KIT05_FRONT_BUMPER	ARASHI
+0	AUTO	CARNAME_PORSCHE_CAYMANS	Porsche Cayman S
+0	AUTO	CARNAME_MITSUBISHI_ECLIPSEGT	Mitsubishi Eclipse GT
+0	AUTO	CART_ITEM_NAME_BODY_PAINT_SWATCH	MAALIPINTA
+0	AUTO	STAT_RANK_POINTS	Arvopisteitä
+0	AUTO	PART_WHEEL_ENKEI_1	ENKEI NT03+M
+0	AUTO	PART_WHEEL_ENKEI_2	ENKEI J SPEED 3
+0	AUTO	PART_WHEEL_ENKEI_3	ENKEI ES-TARMAC
+0	AUTO	PART_WHEEL_ENKEI_4	ENKEI WRC TARMAC
+0	AUTO	HELP_RECRUIT	Värvää
+0	AUTO	COPCAR_TIER_1	Poliisin katumaasturi
+0	AUTO	COPCAR_TIER_2	Poliisin partioauto
+0	AUTO	COPCAR_TIER_3	Poliisin Corvette Z06
+0	AUTO	STAT_BEST_AVERAGE_SPEED	Paras yhteenlaskettu nopeus
+0	AUTO	MC_AUTOSAVE_WARNING_XENON	Need for Speed™ Carbon käyttää automaattitallennusta, joka tallentaa edistymisesi automaattisesti. Peli tallennetaan, kun tallennuskuvake näkyy ruudulla.
+0	AUTO	STAT_MOST_CARS_RAMMED	Eniten törmäyksiä
+0	AUTO	GAME_OVER_EXIT_TO_MAIN_MENU	Palaa päävalikkoon
+0	AUTO	MARKER_NAME_DESCRIPTION_RELEASE	Voit lunastaa minkä tahansa takavarikoidun auton.
+0	AUTO	STAT_HIGHEST_HEAT_LEVEL	Suurin takaa-ajotaso
+0	AUTO	CARNAME_PLYMOUTH_CUDA	Plymouth Hemi Cuda
+0	AUTO	CUST_VINYL_GROUP_ONLINE1	VERKKO
+0	AUTO	CUST_VINYL_GROUP_ONLINE2	
+0	AUTO	CUST_VINYL_GROUP_ONLINE3	VIRUS
+0	AUTO	STAT_SHORTEST_PURSUIT	Lyhin takaa-ajo
+0	AUTO	MENU_CAREER_START	ALOITA URA
+0	AUTO	CONTROLLER_CFG_STEER_RIGHT	Ohjaa oikealle

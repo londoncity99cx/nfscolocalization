@@ -1,0 +1,851 @@
+#	Labrune - C:\Users\FH\OneDrive\Games\NFSCO\Project Localization\Organiaztion\vanilla_loc\LANGUAGE\Danish_Frontend.bin
+#	File created on: 19.04.2026 16:19:09
+#
+#Chunk	Hash (HEX)	Label	Value
+# ---------------------------------------------------------------------------------------------------------
+# Chunk 0 - Frontend
+0	AUTO	CUST_VINYLS_TRANSFORM_TITLE	*JUSTÉR VINYL*
+0	AUTO	ON_STAT_HEADER_KNOCKOUTS	Knockouts
+0	AUTO	MENU_CREW_LOGO	SLÆNGETS LOGO
+0	AUTO	CARNAME_MAZDA_RX7	Mazda RX-7
+0	AUTO	MARKER_CATEGORY_DESC_MISC	Disse ikoner omfatter pengebonusser, ekstra beslaglæggelsesklip og registreringsattesten på boss-modstanderens bil.
+0	AUTO	DEMO_CUSTOMIZATION_SELL	Autosculpt™ giver dig muligheden for at fremstille dine egne dele og tilpasse din bil specielt til dig.^Du kan ændre på fælge, spoilere, luftindtag, kølerhjelme og karrosserier og skabe lige præcis de dele, du måtte ønske. Desuden kan du få personlige vinyler, ekstra ydelsesdele eller en specialtilpasset lakering og lave helt din egen stil til dig og dit slæng - hvad enten I kører i Tuner-, Muskel- eller Eksotiske biler.
+0	AUTO	CHAL_COMPLETED	Gennemført
+0	AUTO	MC_CONFIRM_CREATE_PROFILE	Opret et nyt alias? Hvis du ikke opretter et nyt alias, vil ændringer, der ikke er gemt, gå tabt.
+0	AUTO	CHAL_SELECT_CREW_MODE	Vælg type af Co-op-udfordring
+0	AUTO	CUST_PARTS_WHEELS_TITLE	*FÆLGE*
+0	AUTO	MARKER_NAME_TRANSMISSION	Unikke gearkasse-opgraderinger
+0	AUTO	CUST_VINYLS_COLOUR_TITLE	*VINYLFARVE*
+0	AUTO	CARNAME_DODGE_VINTAGE_CHARGER69	Dodge Charger R/T
+0	AUTO	SHOPPING_CART_DLG_NO_CASH	Du har ikke nok penge til alle disse dele. Fjern venligst et par dele fra indkøbsvognen.
+0	AUTO	CARNAME_MERCEDES_CLK500	Mercedes-Benz CLK 500
+0	AUTO	LANG_FINNISH	Finsk
+0	AUTO	MARKER_NAME_DESCRIPTION_HUD	En unik målerinstrument-opgradering på en af dine biler.
+0	AUTO	MARKER_NAME_DESCRIPTION_NOS	En unik nitro-opgradering på en af dine biler.
+0	AUTO	STAT_PERC_AS_POLICE	%% som politi
+0	AUTO	HELP_RACE	Race
+0	AUTO	RC_WIN_05_CAREER_RACES_DESCRIPTION	Skal vinde fem karriereløb
+0	AUTO	CHAL_SOLO_CHALLENGE	Solo
+0	AUTO	MENU_MAIN_TITLE_CAREER	*KARRIERE*
+0	AUTO	STAT_NUM_TIMES_BUSTED	Antal gange fanget
+0	AUTO	CUST_PARTS_WHEELS	FÆLGE
+0	AUTO	STAT_NUM_CREW_MEMEBERS_HIRED	Makkere hyret
+0	AUTO	MARKER_NAME_DESCRIPTION_CASH	Du scorede lige %$d ekstra i kontanter.
+0	AUTO	MARKER_NAME_DESCRIPTION_HOOD	En unik kølerhjelm-opgradering på en af dine biler.
+0	AUTO	MARKER_NAME_DESCRIPTION_RIMS	En unik hjul-opgradering på en af dine biler.
+0	AUTO	MARKER_NAME_DESCRIPTION_TIRE	En unik dæk-opgradering på en af dine biler.
+0	AUTO	PART_KIT01_FRONT_BUMPER	STAG
+0	AUTO	LANG_HUNGARIAN_NO_TRANSLATION	MAGYAR
+0	AUTO	MC_CREATE	Opret
+0	AUTO	CUST_RIDE_HEIGHT_DROP	Kørehøjde-justering
+0	AUTO	HELP_CAREER_CONTROLS	Din bil
+0	AUTO	PART_KIT07_SKIRT	SLIPSTREAM
+0	AUTO	MENU_CREW_STYLE	Slængets stil
+0	AUTO	POST_RACE_PURSUIT_STATS	Jagtstatistik
+0	AUTO	MC_DELETE	Slet
+0	AUTO	MENU_QUICKRACE_GHOST_TIME	Skyggebils score
+0	AUTO	CUST_VINYL_GRADIENT_0_0	FARVE 1
+0	AUTO	CUST_VINYL_GRADIENT_1_0	FARVE 2
+0	AUTO	RC_NAME_104	10 strissere
+0	AUTO	LANG_SWEDISH	Svensk
+0	AUTO	PART_KIT07_REAR_BUMPER	SLIPSTREAM
+0	AUTO	MARKER_NAME_PAINT	Unikke maling-opgraderinger
+0	AUTO	GAME_OVER_WINGMEN_BUSTED_DESC	Hele dit slæng er blevet nakket, og du har ikke nok penge til at betale for deres kaution.
+0	AUTO	CUST_VINYL_INNER_GLOW_0	GLØD
+0	AUTO	MARKER_NAME_BRAKES	Unikke bremse-opgraderinger
+0	AUTO	CUST_VINYL_GROUP_CAMOUFLAGE	CAMOUFLAGE
+0	AUTO	CARNAME_JAGUAR_XK	Jaguar XK
+0	AUTO	DEF_RACE_INFO_OWNERSHIP	Ejer:
+0	AUTO	CUST_PERF_MENU_TIRES	DÆK
+0	AUTO	CUST_PERF_MENU_TURBO	TURBO
+0	AUTO	CUST_PERF_MENU_TRANSMISSION	GEARKASSE
+0	AUTO	CARNAME_PORSCHE_CARRERA_GT	Porsche Carrera GT
+0	AUTO	MARKER_NAME_CHASSI	Unikke affjedrings-opgraderinger
+0	AUTO	STAT_INFRACTIONS_TOTAL	Overtrædelser (Samlet)
+0	AUTO	MARKER_NAME_DESCRIPTION_PINKSLIP	Du har netop vundet registreringsattesten til din modstanders bil. Næste gang du kigger forbi dit tilflugtssted, vil denne bil stå og vente på dig.
+0	AUTO	CAR_SELECT_BUY_CAR	Køb bil
+0	AUTO	CAR_SELECT_DIALOG_GARAGE_FULL_NOTIFICATION	Din garage er fuld. Du kan kun få plads til ekstra biler, hvis du sælger nogen af dem, du har.
+0	AUTO	CHAL_CREW_CHALLENGE	Co-op
+0	AUTO	MARKER_NAME_DECALS	Unikke mærkatopgraderinger
+0	AUTO	MENU_CAREER_SAVE_LOAD	GEM
+0	AUTO	CARNAME_BMW_M3_GTRE46	BMW M3 GTR
+0	AUTO	LANG_POLISH_NO_TRANSLATION	POLSKI
+0	AUTO	STAT_TOTAL_CASH	Samlet pengesum tjent
+0	AUTO	CHALLENGE_SERIES_DESC_079	Slå en let modstander i en Canyon-duel på Journeyman's Bane.
+0	AUTO	CHALLENGE_SERIES_DESC_080	Slå en trænet modstander i en Canyon-duel på Gold Valley.
+0	AUTO	CHALLENGE_SERIES_DESC_081	Slå en svær modstander i en Canyon-duel på Eternity Pass.
+0	AUTO	CHALLENGE_SERIES_DESC_082	Vind et Canyon-løb på Gold Valley mod lette modstandere.
+0	AUTO	CHALLENGE_SERIES_DESC_083	Vind et Canyon-løb på Copper Ridge mod trænede modstandere.
+0	AUTO	CHALLENGE_SERIES_DESC_084	Vind et Canyon-løb på Deadfall Junction mod svære modstandere.
+0	AUTO	CHALLENGE_SERIES_DESC_085	Gennemfør checkpoint-udfordringen på Eskuri Plaza på under 3.44.
+0	AUTO	CHALLENGE_SERIES_DESC_086	Gennemfør checkpoint-udfordringen på Rabinowitz Drive på under 3.02 for at vinde.
+0	AUTO	CHALLENGE_SERIES_DESC_087	Gennemfør checkpoint-udfordringen på Blackwell Road på under 3.21 for at vinde.
+0	AUTO	CHALLENGE_SERIES_DESC_088	Gennemfør checkpoint-udfordringen på Lofty Heights på under 2.39 for at vinde.
+0	AUTO	CHALLENGE_SERIES_DESC_089	Gennemfør checkpoint-udfordringen på Knife's Edge på under 1.25.
+0	AUTO	CHALLENGE_SERIES_DESC_090	Gennemfør checkpoint-udfordringen på Desperation Ridge på under 1.55.
+0	AUTO	CHALLENGE_SERIES_DESC_091	Scor over 25.000 point på denne Canyon-drift for at vinde.
+0	AUTO	CHALLENGE_SERIES_DESC_092	Scor over 100.000 point på denne Canyon-drift for at vinde.
+0	AUTO	CHALLENGE_SERIES_DESC_093	Scor over 150.000 point på denne Canyon-drift for at vinde.
+0	AUTO	CHALLENGE_SERIES_DESC_094	Bliv jagtet af politiet i mindst %s minutter og slip væk for at vinde.
+0	AUTO	CHALLENGE_SERIES_DESC_095	Bliv jagtet af politiet i mindst %s minutter og slip væk for at vinde.
+0	AUTO	CHALLENGE_SERIES_DESC_096	Bliv jagtet af politiet i mindst %s minutter og slip væk for at vinde.
+0	AUTO	CHALLENGE_SERIES_DESC_097	Uskadeliggør minimum %s politibiler og slip derefter væk for at vinde.
+0	AUTO	CHALLENGE_SERIES_DESC_098	Uskadeliggør minimum %s politibiler og slip derefter væk for at vinde.
+0	AUTO	CHALLENGE_SERIES_DESC_099	Uskadeliggør minimum %s politibiler og slip væk.
+0	AUTO	CHALLENGE_SERIES_DESC_100	Vind et Circuit-løb på Dover St. mod lette modstandere.
+0	AUTO	CHALLENGE_SERIES_DESC_101	Vind et Circuit-løb på Ocean View mod trænede modstandere.
+0	AUTO	CHALLENGE_SERIES_DESC_102	Vind et Circuit-løb på Starlight Street mod svære modstandere.
+0	AUTO	CHALLENGE_SERIES_DESC_103	Vind et Sprint-løb på Condo Row mod lette modstandere.
+0	AUTO	CHALLENGE_SERIES_DESC_104	Vind et Sprint-løb på Kings Park mod trænede modstandere.
+0	AUTO	CHALLENGE_SERIES_DESC_105	Vind et Sprint-løb på Canmor Road mod svære modstandere.
+0	AUTO	CHALLENGE_SERIES_DESC_106	Scor over 50.000 point på denne Drift for at vinde.
+0	AUTO	CHALLENGE_SERIES_DESC_107	Scor over 140.000 point på denne Drift for at vinde.
+0	AUTO	CHALLENGE_SERIES_DESC_108	Scor over 250.000 point på denne Drift for at vinde.
+0	AUTO	CHALLENGE_SERIES_DESC_109	Vind Fartfælde-løbet på Million Dollar mod lette modstandere.
+0	AUTO	CHALLENGE_SERIES_DESC_110	Vind et Fartfælde-løb på Infinity Park mod trænede modstandere.
+0	AUTO	CHALLENGE_SERIES_DESC_111	Vind et Fartfælde-løb på Eskuri Way mod svære modstandere.
+0	AUTO	CHALLENGE_SERIES_DESC_112	Vind Gaderæset i Downtown mod lette modstandere.
+0	AUTO	CHALLENGE_SERIES_DESC_113	Vind Gaderæset på Fortuna mod øvede modstandere.
+0	AUTO	CHALLENGE_SERIES_DESC_114	Vind Gaderæset på Silverton mod svære modstandere.
+0	AUTO	LANG_GERMAN_NO_TRANSLATION	DEUTSCH
+0	AUTO	OL_BUTTON_TIME_PERIOD	Tidsperiode
+0	AUTO	CLASS_TUNER_DESCRIPTION	Tunere har en stram styring og klarer sving som en leg. ^Det, tunere ikke har på lige strækninger, indhenter de^i svingene. Med et vejgreb i denne klasse kan man lige^så godt holde speederen i bund igennem hele svinget.
+0	AUTO	CUST_VISUAL_RIMS_WARNING	Du skal opgradere dine fælge for at kunne male dem
+0	AUTO	STAT_COPS_DISABLED_SINGLE	Politibiler uskadeliggjort (Enkelt jagt)
+0	AUTO	CUST_MAINMENU_RIDE_HEIGHT	KØREHØJDE
+0	AUTO	MARKER_NAME_ENGINE	Unikke motor-opgraderinger
+0	AUTO	MC_PROMPT_SAVE_PROFILE	Vil du slå autosave til og gemme dit alias nu?
+0	AUTO	LANG_SPANISH_NO_TRANSLATION	ESPAÑOL
+0	AUTO	CUST_PARTS_TOP_TITLE	*SÆNK TAG*
+0	AUTO	CARNAME_FORD_MUSTANGGT	Ford Mustang GT
+0	AUTO	STAT_KNOCKOUT_WINS	Knockout-sejre
+0	AUTO	SECONDARY_ROLE_HEAT_MAGNET_DESC	DELETE
+0	AUTO	CREW_VINYL_WARNING	Advarsel. Hvis du fjerner denne vinyl, vil du ikke kunne geninstallere den. Vil du fortsætte?
+0	AUTO	MENU_CAREER_CREW	SLÆNG
+0	AUTO	MENU_CAREER_LOAD	INDLÆS
+0	AUTO	CUST_PARTS_REARBUMPER	BAGERSTE KOFANGER
+0	AUTO	CUST_CHANGE_PAINT_SWATCH	Bevæg cursor
+0	AUTO	SHOPPING_CART_DLG_DELETE_ALL	Du er i færd med at tømme din indkøbsvogn. Er du sikker på, du vil fortsætte?
+0	AUTO	DEBUG_ARRAYSCROLLER	Array Scroller
+0	AUTO	STAT_PEAK_SCORE	Bedste score
+0	AUTO	PART_KIT10_REAR_BUMPER	KLASSISK
+0	AUTO	STAT_BEST_PERCENT_AS_RACER	Bedste procent som kører
+0	AUTO	CARNAME_LAMBORGHINI_GALLARDO	Lamborghini Gallardo
+0	AUTO	STAT_BOUNTY_SINGLE	Dusør (Enkelt jagt)
+0	AUTO	MC_AUTOSAVE_WARNING2_XENON	Sluk ikke for din Xbox 360-konsol, mens autosave-ikonet bliver vist.
+0	AUTO	VINYLS_MEMORY_WARNING	Du kan ikke tilføje flere lag. Det maksimale antal er nået.
+0	AUTO	CUST_EXHAUST_WARNING	Udstødning kræver opgraderet kofanger.
+0	AUTO	CUST_PARTS_ROOFSCOOPS	LUFTINDTAG
+0	AUTO	PART_KIT04_REAR_BUMPER	BORRILLO
+0	AUTO	OL_SUBTITLE_GAME_TAG	Gamertag
+0	AUTO	MC_AUTOSAVE_WARNING2_PS2	Du må ikke fjerne dit memory card (PS2) eller controlleren, trykke på reset eller slukke for konsollen, når autosave-ikonet bliver vist. Gør du det, kan spildata blive ødelagt.
+0	AUTO	MC_AUTOSAVE_WARNING2_PS3	
+0	AUTO	CUST_PAINT_GROUP_CANDY	GLASERET
+0	AUTO	CUST_PAINT_GROUP_GLOSS	HØJGLANS
+0	AUTO	CUST_PARTS_SPOILERS_TITLE	*SPOILER*
+0	AUTO	COMMON_RACETYPE_PURSUIT_TAG	Politi & røvere
+0	AUTO	CUST_PAINT_GROUP_MATTE	RÅSTEN
+0	AUTO	OL_BUTTON_RACE_TYPE	Løbstype
+0	AUTO	CROSS_SELL_MADDEN07	MADDEN NFL 07
+0	AUTO	CUST_PAINT_GROUP_PEARL	PERLEMOR
+0	AUTO	QR_NOT_ONLINE_FOR_GHOST	Du skal være logget på din EA Online-konto for at kunne hente en skyggebil fra EA Nation-ranglisten. Du kan logge ind manuelt fra Onlineindstillinger.
+0	AUTO	TITLE_STATISTICS	*STATISTIK*
+0	AUTO	STAT_HIGHEST_FINE	Højeste bøde
+0	AUTO	EA_TRAX_CAR_CLASS_FILTER_USE	Spilspecifik
+0	AUTO	WII_OPT_ERROR	
+0	AUTO	MC_AUTOSAVE_WARNING_XBOX	Need for Speed™ Carbon benytter en autosave-feature. Spilinformation bliver automatisk gemt på Xbox-harddisken, når autosave-ikonet bliver vist.
+0	AUTO	WINGMAN_DESC_RACE_SAMSON	10%% større pengebelønning
+0	AUTO	CUST_VINYL_GROUP_PINSTRIPE	FARTSTRIBER
+0	AUTO	PART_KIT04_SKIRT	BORRILLO
+0	AUTO	CHAL_CREW_MODE_ONLINE	Online
+0	AUTO	PART_WHEEL_GIOVANNA_1	GIOVANNA BRAKE
+0	AUTO	PART_WHEEL_GIOVANNA_2	GIOVANNA GELLO
+0	AUTO	PART_WHEEL_GIOVANNA_3	GIOVANNA ARARAT
+0	AUTO	FABRICATOR_2_POPUP	Hvis du tilføjer Colin til dit slæng, vil du kunne tilpasse disse Autosculpt-genstande.
+0	AUTO	PART_WHEEL_ADR_1	ADR ADRENALINE
+0	AUTO	PART_WHEEL_ADR_2	ADR EMPIRE
+0	AUTO	PART_WHEEL_ADR_3	ADR GT-SPORT
+0	AUTO	PART_WHEEL_ADR_4	ADR M SPORT
+0	AUTO	PART_WHEEL_ADR_5	ADR SOKUDO8
+0	AUTO	PART_WHEEL_BBS_1	BBS GT
+0	AUTO	PART_WHEEL_BBS_2	BBS RS GT
+0	AUTO	PART_WHEEL_BBS_3	BBS LM
+0	AUTO	PART_WHEEL_BBS_4	BBS CH
+0	AUTO	PART_WHEEL_BBS_5	BBS RK
+0	AUTO	PART_WHEEL_BBS_6	BBS RX
+0	AUTO	QR_ERROR_DOWNLOADING_GHOST_DATA	Fejl under download af skyggebil
+0	AUTO	PART_WHEEL_HRE_1	HRE 943R
+0	AUTO	PART_WHEEL_HRE_2	HRE 541R
+0	AUTO	PART_WHEEL_HRE_3	HRE 549R
+0	AUTO	OL_BUTTON_PLAYER_FILTER	Spillerfilter
+0	AUTO	MENU_QUICKRACE_OPTIONS_WINGMEN	Makker
+0	AUTO	PART_WHEEL_TSW_1	TSW MONDELLO
+0	AUTO	PART_WHEEL_TSW_2	TSW ROCKET 5
+0	AUTO	PART_WHEEL_TSW_3	TSW LAGUNA
+0	AUTO	ON_ERROR_BAD_USERNAME	Brugernavnet er ikke gyldigt. Det skal bestå af minimum 4 tegn uden mellemrum og op til 14 tegn inklusive mellemrum. Bogstaver, numre og mellemrum er tilladte tegn.
+0	AUTO	STAT_COST_TO_STATE_SINGLE	Omkostninger for stat (Enkelt jagt)
+0	AUTO	CHAL_SPLIT_MODE_TRANSMISSION_PROMPT	%s, vil du benytte manuelt eller automatisk gearskifte?
+0	AUTO	WINGMAN_DESC_CAREER_NEVILLE	Pengebonus på 200 pr. løb
+0	AUTO	MARKER_CATEGORY_DESC_PARTS	Disse ikoner kan omfatte opgraderinger til alt lige fra karrosserier, luftindtag, fælge, kølerhjelme og spoilere.
+0	AUTO	MC_CONFIRM_CREATE_PROFILE_AUTOLOGIN	Opret et nyt alias til at gemme informationer til auto-login?
+0	AUTO	CREW_MENU_VIEW_BIO_VIDEO	Se biografivideo
+0	AUTO	STAT_BEST_DRIFT_DISTANCE	Længste drift
+0	AUTO	CARNAME_RENAULT_CLIO	Renault Clio V6
+0	AUTO	ON_PC_MSG_GAMESETUP_INSTRUCTION	Spilopsætning er stedet, hvor du kan sende venner private spilinvitationer, vælge biler og chatte med andre spillere. Spillederen kan vælge spilindstillinger og derefter trykke på MELLEMRUM for at fortsætte til spilrummet. I spilrummet kan andre onlinespillere slutte sig til spillet før løbet begynder.
+0	AUTO	STAT_PERC_AS_RACER	%% som røver
+0	AUTO	CARNAME_TOYOTA_SUPRA	Toyota Supra
+0	AUTO	CUST_PARTS_DIALOG_TITLE	Vælg en standarddel eller Autosculpt-del.
+0	AUTO	MC_CONFIRM_DESTRUCTIVE_LOAD	Ved at indlæse et alias mister du alle de ændringer til det nuværende alias, der ikke er gemt. Er du sikker på, at du vil indlæse et alias?
+0	AUTO	RC_WIN_25_CAREER_RACES_DESCRIPTION	Skal vinde femogtyve  karriereløb
+0	AUTO	CUST_PARTS_TOP	SÆNK TAG
+0	AUTO	CUST_PARTS_EXHAUST	UDSTØDNING
+0	AUTO	RC_WIN_10_CAREER_RACES_DESCRIPTION	Skal vinde ti karriereløb
+0	AUTO	CUST_PARTSELECT_TITLE	*AUTOSCULPT-DEL*
+0	AUTO	CHAL_HEADER_BRONZE	Bronze
+0	AUTO	CUST_VINYL_GROUP_DECALS	MÆRKATER
+0	AUTO	CUST_PARTS_RIMS	FÆLGE
+0	AUTO	PERFORMANCE_TUNE_HELP_SUPERCHARGER	Du kan tune effekten af kompressoren ved at ændre kompressorens størrelse. Tun mod høje omdrejninger med en mindre kompressor. Det giver hurtigere acceleration, men mindre topfart. Tun mod lave omdrejninger med en større kompressor. Det giver højere topfart, men mindre acceleration.
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_PS2	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game on the memory card (PS2) in MEMORY CARD slot 1 when the Autosave icon flashes as follows.
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_PS3	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game to the HDD when the Autosave icon flashes as follows.
+0	AUTO	PART_KIT01_REAR_BUMPER	STAG
+0	AUTO	MENU_CAR_CLASS_MODE_TEST_RACE	Prøveløb
+0	AUTO	PART_KIT06_FRONT_BUMPER	CHICANE
+0	AUTO	EA_TRAX_CAR_CLASS_FILTER_DO_NOT_USE	Brug alle numre
+0	AUTO	LANG_MEXICAN_NO_TRANSLATION	ESPAÑOL
+0	AUTO	CUST_VINYL_GROUP_SPECIAL	SPECIEL
+0	AUTO	NGC_ALIAS_MAX	
+0	AUTO	MENU_MAIN_CAREER	KARRIERE
+0	AUTO	CUST_VISUAL_NOLAYERS	TILFØJ ET LAG
+0	AUTO	MENU_MAIN_CHALLENGE	UDFORDRINGER
+0	AUTO	CHAL_UNLOCK_REQUIREMENT	Gennemfør %s %s for at låse op for denne udfordring.
+0	AUTO	QR_INFO_CAR_NAME	Bilnavn
+0	AUTO	QR_INFO_CAR_TYPE	Biltype
+0	AUTO	CUST_VINYL_GROUP_BONUS	BONUS
+0	AUTO	CHAL_CREW_MODE_SPLIT	Split-screen
+0	AUTO	STAT_CARS_SOLD	Antal biler solgt
+0	AUTO	WII_CONTROLLER_SAFETY	
+0	AUTO	STAT_BEST_SCORE	Bedste løbsscore
+0	AUTO	CREW_VINYL_EDIT	Du kan ikke ændre fabriksvinyler på biler, der tilhører en makker eller har tilhørt en boss.
+0	AUTO	CARNAME_ASTON_MARTIN_DB9	Aston Martin DB9
+0	AUTO	CM_SET_AS_WINGMAN	Sæt som aktiv
+0	AUTO	STAT_BEST_LAP_TIME	Bedste omgangstid
+0	AUTO	CART_ITEM_DESC_AS_FRONT_WHEEL	AUTOSCULPT - FÆLGE
+0	AUTO	PART_WHEEL_5ZIGEN_1	5ZIGEN FN01R
+0	AUTO	PART_WHEEL_5ZIGEN_2	5ZIGEN SUPERSIX
+0	AUTO	PART_WHEEL_5ZIGEN_3	5ZIGEN 5ZR
+0	AUTO	PART_WHEEL_5ZIGEN_4	5ZIGEN GN+
+0	AUTO	PART_WHEEL_5ZIGEN_5	5ZIGEN GRAVIS 1
+0	AUTO	MENU_CM_UNLOCK_NEW_CREW	Du har låst op for en ny makker. Du kan tilføje den nye makker til dit slæng i menuen Mit slæng.
+0	AUTO	CARNAME_NISSAN_SKYLINE	Nissan Skyline GT-R R34
+0	AUTO	PART_SPA_DECAL_141	Carbono Logo
+0	AUTO	CUST_PERF_MENU_NITROUS	NITRO
+0	AUTO	MC_CONFIRM_SAVE_PROFILE	Er du sikker på, du vil gemme dit alias?
+0	AUTO	MENU_MAIN_STATISTICS	STATISTIK
+0	AUTO	MENU_QUICKRACE_OPTIONS_MAX_OPPONENTS	Maks. Modstandere
+0	AUTO	WINGMAN_DESC_CAREER_SAL	Autosculpt-karrosserier, -kølerhjelme og -luftindtag.
+0	AUTO	CUST_MAINMENU_RIDEHEIGHT_TITLE	*KØREHØJDE*
+0	AUTO	PART_KIT01_SKIRT	STAG
+0	AUTO	MARKER_NAME_VINYLS	Unikke vinyl-opgraderinger
+0	AUTO	QUICK_RACE_TITLE_SPEEDTRAP	*FARTFÆLDE*
+0	AUTO	MENU_CM_POOL_EMTPY	Der er ikke nogen ledige makkere.
+0	AUTO	STAT_SPIKE_STRIPS_DODGED_TOTAL	Sømmåtter undveget (samlet)
+0	AUTO	MARKER_NAME_DESCRIPTION_BODYKIT	En unik karrosseri-opgradering på en af dine biler.
+0	AUTO	WINGMAN_DESC_RACE_YUMI	25%% mere nitro
+0	AUTO	CARNAME_MERCEDES_SL65	Mercedes-Benz SL65 AMG
+0	AUTO	CUST_AUTOSCULPT_ZONE10	Zone 10
+0	AUTO	STAT_RACES_LOST	Løb tabt
+0	AUTO	CUST_MAINMENU_VISUALS_TITLE	*UDSEENDE*
+0	AUTO	MARKER_NAME_RELEASE	Frigiv fra beslaglæggelse
+0	AUTO	MARKER_NAME_REDUCE_HEAT	Sænk politiniveauet
+0	AUTO	PART_WHEEL_CL_1	CENTER LINE DAGGER
+0	AUTO	PART_WHEEL_CL_2	CENTER LINE INDY
+0	AUTO	PART_WHEEL_CL_3	CENTER LINE RETRO
+0	AUTO	PART_WHEEL_CL_4	CENTER LINE VIKING
+0	AUTO	PART_WHEEL_OZ_1	O.Z. SUPERLEGGERA
+0	AUTO	PART_WHEEL_OZ_2	O.Z. SUPERTURISMO
+0	AUTO	PART_WHEEL_OZ_3	O.Z. OPERA
+0	AUTO	PART_WHEEL_OZ_4	O.Z. SUPERLEGGERA III
+0	AUTO	PART_WHEEL_OZ_5	O.Z. LEONARDO
+0	AUTO	STAT_NUM_BUSTS	Antal arrestationer
+0	AUTO	CREW_MENU_FIRE	Fyr
+0	AUTO	PART_KIT02_FRONT_BUMPER	SWEEPER
+0	AUTO	CREW_BIO_INFO_HEIGHT	Højde:
+0	AUTO	CREW_TITLE_HIRE_CREW_MEMBER	*HYR MAKKER*
+0	AUTO	CUST_MAINMENU_WHEEL_PAINT_TITLE	*FÆLGMALING*
+0	AUTO	STAT_ROADBLOCKS_DODGED_TOTAL	Vejblokader undveget (samlet)
+0	AUTO	WII_SPLIT_PROMPT	
+0	AUTO	HELP_CREW_STYLE	Slængets stil
+0	AUTO	PART_WHEEL_FOOSE_1	FOOSE SPEEDSTER
+0	AUTO	PART_WHEEL_FOOSE_2	FOOSE SPLITZ
+0	AUTO	PART_WHEEL_FOOSE_3	FOOSE NITROUS SILVER
+0	AUTO	CUST_VINYL_GROUP_NUMBER	DØRNUMRE
+0	AUTO	MENU_QUICKRACE_OPTIONS_TRACKING_MODE	Resultater
+0	AUTO	RC_WIN_01_CAREER_RACES_DESCRIPTION	Skal vinde et enkelt karriereløb
+0	AUTO	MENU_MAIN_MY_CARS	MINE BILER
+0	AUTO	CUST_VINYL_GROUP_TRIBALBODY	STAMMEKARROSSERI
+0	AUTO	MARKER_CATEGORY_VISUAL	Unikke opgraderinger til udseende
+0	AUTO	MC_PROMPT_SAVE_AUTOLOGIN_INFO	Vil du gemme din auto-login-information til dit alias?
+0	AUTO	DEBUG_MENUSCREEN	Menu Screen
+0	AUTO	MY_CARS_TITLE	*MINE BILER*
+0	AUTO	CUST_VINYLS_MIRROR_OFF	Ene side
+0	AUTO	MARKER_CATEGORY_PARTS	Unikt ekstraudstyr
+0	AUTO	CARNAME_DODGE_VIPER	Dodge Viper SRT-10
+0	AUTO	BOSS_BONUS_CARDS_INFO	Du kan nu vælge %$d bonusikoner fra %s.
+0	AUTO	CAREER_SELECT_CAR_CLASS_TITLE	*VÆLG DIN BILKLASSE*
+0	AUTO	CAR_SELECT_DIALOG_CANNOT_AFFORD_CAR_NOTIFICATION	Du har ikke nok penge til at købe denne bil. Smut ud og vind lidt flere løb!
+0	AUTO	OL_STAT_LOSSES	Nederlag på rangliste
+0	AUTO	CARNAME_SHELBY_GT500_67	Shelby GT500
+0	AUTO	STATS_DOWNLOADING	Henter spillers online-statistik...
+0	AUTO	CAR_CLASS_TESTING_SKIP_TRANSMISSION	Det her er bare en test, så du behøver ikke at vinde. God fornøjelse.
+0	AUTO	CUST_VINYL_INNER_SHADOW_0	INDRE SKYGGE
+0	AUTO	CUST_MAINMENU_RIM_PAINT	FÆLGMALING
+0	AUTO	MARKER_NAME_DESCRIPTION_TRANSMISSION	En unik gearkasse-opgradering på en af dine biler.
+0	AUTO	REWARDS_OBJECTIVE_HEADER	Minimål
+0	AUTO	STAT_FINISH_TIME	Sluttid
+0	AUTO	MAIN_CARSELECT	VÆLG BIL
+0	AUTO	HELP_OFFLINE_REWARDS	Belønningskort
+0	AUTO	CARNAME_CHEVROLET_CAMARO	Chevrolet Camaro SS
+0	AUTO	STAT_BEST_SPEEDTRAP	Bst. fartfælde
+0	AUTO	CART_ITEM_DESC_AS_ROOF_SCOOP	AUTOSCULPT - LUFTINDTAG
+0	AUTO	WINGMAN_DESC_CAREER_COLIN	Autosculpt-fælge, -spoilere, -udstødning og fjernelse af tag.
+0	AUTO	WINGMAN_DESC_CAREER_YUMI	10%% rabat på ydelsesdele
+0	AUTO	WINGMAN_DESC_CAREER_NIKKI	10%% rabat på alle bilkøb
+0	AUTO	CROSS_SELL_NBA_LIVE	NBA LIVE 07
+0	AUTO	CHAL_HEADER_SILVER	Sølv
+0	AUTO	STAT_ROADBLOCKS_DODGED	Vejblokader undveget (Enkelt løb)
+0	AUTO	CARNAME_SUBARU_IMPREZZAWRX	Subaru Impreza WRX STi
+0	AUTO	CUST_MAINMENU_WINDOW_TINT_TITLE	*TONEDE RUDER*
+0	AUTO	CUST_PARTS_EXHAUST_TITLE	*UDSTØDNING*
+0	AUTO	PART_KIT08_SKIRT	SPEEDWAY
+0	AUTO	MARKER_NAME_DESCRIPTION_IMPOUND	Du har muligheden for at tilføje ét ekstra beslaglæggelsesklip for en af dine biler. Det maksimale antal beslaglæggelsesklip for en enkelt bil er 5.
+0	AUTO	CUST_MAINMENU_PAINT	MALING
+0	AUTO	CUST_MAINMENU_PARTS	EKSTRAUDSTYR
+0	AUTO	PART_WHEEL_ROJA_1	RO_JA FORMULA 1
+0	AUTO	PART_WHEEL_ROJA_2	RO_JA FORMULA 7
+0	AUTO	PART_WHEEL_ROJA_3	RO_JA FORMULA 2
+0	AUTO	CUST_MAINMENU_TITLE	*TILPAS BIL*
+0	AUTO	MENU_QUICKRACE_TOP_ONLINE_GHOST	Nuværende leders skyggebil
+0	AUTO	CARNAME_MAZDA_MAZDASPEED3	Mazda3 MPS
+0	AUTO	CAR_SELECT_DIALOG_RETURN_TO_FREE_ROAM	Vil du vende tilbage til Fri kørsel?
+0	AUTO	CAR_SELECT_LEAVE_SHOP	Forlad butik
+0	AUTO	MENU_CREW_LOGO_SAVE_CONFIRM	Er du sikker på, du vil gemme dette logo?
+0	AUTO	MENU_CAREER_CUSTOMIZE_LOGO	TILPAS LOGO
+0	AUTO	PART_KIT08_REAR_BUMPER	SPEEDWAY
+0	AUTO	CUST_PERF_SLIDERS_TITLE	*TUNING AF %s*
+0	AUTO	STAT_RACE_TITLE	*LØB*
+0	AUTO	STAT_TOP_SPEED	Højeste topfart
+0	AUTO	VINYLS_MEMORY_WARNING2	Der er ikke plads til denne vinyl. Du bliver nødt til at fjerne nogle af de tidligere installerede.
+0	AUTO	CART_ITEM_DESC_AS_SKIRT	AUTOSCULPT - SIDESKØRTER
+0	AUTO	CASTROL_CHEAT_UNLOCK_MSG	Du har tjent Castrol-knaster!
+0	AUTO	STAT_BEST_CHAIN_DRIFT_SCORE	Bedste score med kombineret drift
+0	AUTO	QR_INFO_TYPE	Type
+0	AUTO	MAIN_MENU_TITLE_CREWS	*SLÆNG*
+0	AUTO	MARKER_NAME_DESCRIPTION_SPOILER	En unik spoiler-opgradering på en af dine biler.
+0	AUTO	QUICK_RACE_TITLE_CAR_SELECT	*VÆLG BIL*
+0	AUTO	PART_WHEEL_VOLK_1	VOLK TE37
+0	AUTO	PART_WHEEL_VOLK_2	VOLK CE28
+0	AUTO	PART_WHEEL_VOLK_3	VOLK GT-P
+0	AUTO	DEMO_AUTOMOTIVE_LEGAL2_PAL	
+0	AUTO	CUST_AUTOSCULPT	Autosculpt
+0	AUTO	CUST_PAINT_GROUP_IRIDESCENT	FARVESPIL
+0	AUTO	STAT_RACES_WON	Løb vundet
+0	AUTO	CUST_VINYL_GROUP_FLAMEBODY	FLAMMEKARROSSERI
+0	AUTO	PART_WHEEL_WORK_1	WORK VS SS
+0	AUTO	PART_WHEEL_WORK_2	WORK VS-KF
+0	AUTO	PART_WHEEL_WORK_3	WORK EUROLINE S2H
+0	AUTO	PART_WHEEL_WORK_4	WORK EUROLINE FE
+0	AUTO	STAT_BEST_SINGLE_SCORE	Bedste enkelte fartfælde
+0	AUTO	CREW_BIO_INFO_RACE_STYLE	Løbsstil:
+0	AUTO	MARKER_NAME_PINKSLIP	Registreringsattest til boss-bil
+0	AUTO	PART_WHEEL_TENZO_1	TENZO PSYCHO
+0	AUTO	PART_WHEEL_TENZO_2	TENZO RS-5
+0	AUTO	PART_WHEEL_TENZO_3	TENZO SHU 10
+0	AUTO	WINGMAN_DESC_CAREER_SAMSON	Sænker politiniveauet i alle dine områder
+0	AUTO	STATS_ERROR_DOWNLOADING_XBOX	Der opstod en fejl under hentningen af spillers Xbox Live-statistik.
+0	AUTO	CHEAT_UNLOCK_1	2005 Aston Martin DB9 oplåst!
+0	AUTO	CHEAT_UNLOCK_2	2006 Dodge Charger SRT8 oplåst!
+0	AUTO	CHEAT_UNLOCK_3	Alle baner oplåst!
+0	AUTO	CHAL_INFO_TRACK	Bane
+0	AUTO	CART_ITEM_DESC_VINYLS	NYT LAYOUT
+0	AUTO	STAT_BEST_LAP	Bst. omgang
+0	AUTO	CTRL_UNPLUGGED_BOOT_PS2	Der er ikke tilsluttet en controller.^Indsæt venligst en controller for at fortsætte.
+0	AUTO	CLASS_EXOTIC_DESCRIPTION	Eksotiske biler er for entusiaster, der lever og ånder for topfart. ^Bilens svageste punkt er manden bag rattet. Men har^du styr på nedbremsning og acceleration gennem svingene, så ^klarer den resten.
+0	AUTO	HELP_VIEW_GAMER_CARD	Se gamer kort
+0	AUTO	MY_CARS_DELETE_CAR_HELP	Slet bil
+0	AUTO	STAT_CARS_UNLOCKED	Antal biler låst op
+0	AUTO	WII_CONTROL_SCREEN_INFO_6	
+0	AUTO	CUST_MAINMENU_PAINT_TITLE	*MALING*
+0	AUTO	STAT_HEADER_GAMES_PLAYED	Løb spillet
+0	AUTO	CUST_AUTOSCULPT_ERROR	Broken Autosculpt Art
+0	AUTO	CUST_AUTOSCULPT_TITLE	*AUTOSCULPT*
+0	AUTO	CUST_AUTOSCULPT_ZONE1	Zone 1
+0	AUTO	CUST_AUTOSCULPT_ZONE2	Zone 2
+0	AUTO	CUST_AUTOSCULPT_ZONE3	Zone 3
+0	AUTO	CUST_AUTOSCULPT_ZONE4	Zone 4
+0	AUTO	CUST_AUTOSCULPT_ZONE5	Zone 5
+0	AUTO	CUST_AUTOSCULPT_ZONE6	Zone 6
+0	AUTO	CUST_AUTOSCULPT_ZONE7	Zone 7
+0	AUTO	CUST_AUTOSCULPT_ZONE8	Zone 8
+0	AUTO	CUST_AUTOSCULPT_ZONE9	Zone 9
+0	AUTO	CAREER_SELECT_CAR_CLASS_HELP	Vælg bilklasse
+0	AUTO	CUST_PART_MISSINGSTRING	Missing Part String
+0	AUTO	CUST_PAINT_GROUP_METALLIC	METALLIC
+0	AUTO	LANG_FINNISH_NO_TRANSLATION	SUOMI
+0	AUTO	PART_KIT07_FRONT_BUMPER	SLIPSTREAM
+0	AUTO	COMMON_RACETYPE_PURSUIT_KNOCKOUT	Politi & røvere - Sidste mand
+0	AUTO	CAR_CLASS_INTRO	Din bil blev totalskadet, da du flygtede fra Cross. Nu skal du vælge og testkøre den bilklasse, du vil starte din karriere med. Dette valg har indflydelse på hvilke biler og bildele, du låser op for, når du erobrer områder.
+0	AUTO	GAME_OVER_TITLE	*SPILLET ER SLUT*
+0	AUTO	CAR_CLASS_TUNER	Tunerbil
+0	AUTO	PART_KIT05_REAR_BUMPER	ARASHI
+0	AUTO	DEF_RACE_INFO_LAPS	Omgange:
+0	AUTO	DEF_RACE_INFO_TYPE	Type:
+0	AUTO	BOSS_BONUS_CARDS_SELECTIONS_LEFT	%$d valg tilbage
+0	AUTO	PS2_START_MESSAGE	Tryk på START tasten på den anden controller.
+0	AUTO	MARKER_CATEGORY_DESC_PERFORMANCE	Ydelses-ikoner omfatter følgende opgraderinger: Affjedring, dæk, bremser, motor, gearkasse, nitro, turbo eller kompressor.
+0	AUTO	DIALOG_MSG_CONFIRM_START_NEW_CAREER	Er du sikker på, du vil starte et nyt spil? Din nuværende karrierestatus vil gå tabt.
+0	AUTO	STAT_BEST_CLOCKED_SPEEDTRAP	Højeste hastighed i fartfælde
+0	AUTO	PART_KIT10_FRONT_BUMPER	KLASSISK
+0	AUTO	PART_KIT05_SKIRT	ARASHI
+0	AUTO	OL_TITLE_LEADERBOARD	*RANGLISTE*
+0	AUTO	OL_CD_KEY_REGISTRATION_TITLE	*CD-NØGLE*
+0	AUTO	COMMON_FINISHED	Færdig
+0	AUTO	CREW_BIO_INFO_SKILL	FÆRDIGHED:
+0	AUTO	MENU_QUICKRACE_OPTIONS_PRACTICE	Uden for rangliste
+0	AUTO	BOSS_BONUS_CARDS_TITLE	*BOSS-BONUSIKONER*
+0	AUTO	CARNAME_MITSUBISHI_LANCEREVO9	Mitsubishi Lancer
+0	AUTO	OL_STAT_TOTAL_DISCONNECT_PERCENT	Frakoblinger i procent
+0	AUTO	ON_TITLE_SELECT_TRANSMISSION	*VÆLG GEARTYPE*
+0	AUTO	LANG_DUTCH	Hollandsk
+0	AUTO	LANG_ITALIAN_NO_TRANSLATION	ITALIANO
+0	AUTO	MARKER_NAME_DESCRIPTION_FREEBAIL	Kom gratis ud af fængslet, næste gang du bliver snuppet.
+0	AUTO	MC_PROMPT_CREATE_CAREER	Du skal oprette et nyt alias for at starte en ny karriere. Ønsker du at oprette et nyt alias?
+0	AUTO	MARKER_NAME_CASH	Ekstra pengebelønning
+0	AUTO	MARKER_NAME_HOOD	Unikke kølerhjelm-opgraderinger
+0	AUTO	MARKER_NAME_RIMS	Unikke hjul-opgraderinger
+0	AUTO	MARKER_NAME_TIRE	Unikke dæk-opgraderinger
+0	AUTO	LEADERBOARD_TOP_SPEED	Topfart
+0	AUTO	STATS_ERROR_DOWNLOADING	Der opstod en fejl under hentningen af spillers online-statistik.
+0	AUTO	MENU_CREW_LOGO_HELP	Her kan du vælge logoet til dit slæng. Det bliver vist på kortet samt andre steder i spillet. Du kan også sætte det på din bil - under vinyler, når du tilpasser den.
+0	AUTO	SELECT_LANGUAGE	VÆLG SPROG
+0	AUTO	CUST_VINYL_GROUP_BOSS	BOSS
+0	AUTO	CUST_VINYL_GROUP_CREW	SLÆNGETS LOGO
+0	AUTO	CUST_VINYL_GROUP_LOGO	LOGO
+0	AUTO	CUST_PART_PURCHASED	KØBT
+0	AUTO	CUST_MAINMENU_AUTOSCULPT	AUTOSCULPT
+0	AUTO	DEBUG_ICONSCROLLER	ICON SCROLLER(DEBUG)
+0	AUTO	CART_ITEM_DESC_AS_HOOD	AUTOSCULPT - KØLERHJELM
+0	AUTO	CART_ITEM_DESC_AS_ROOF	AUTOSCULPT - SÆNK TAG
+0	AUTO	CREW_BIO_INFO_NAME	Navn:
+0	AUTO	CREW_BIO_INFO_ROLE	ROLLE:
+0	AUTO	CREW_BIO_INFO_TYPE	TYPE:
+0	AUTO	MENU_CAREER_CUSTOMIZE	TILPAS BIL
+0	AUTO	CUST_MAINMENU_HEADLIGHT_COLOR	FORLYGTER - FARVE
+0	AUTO	CARNAME_DODGE_CHARGER06	Dodge Charger SRT8
+0	AUTO	CARNAME_DODGE_CHARGER69	Dodge Charger R/T
+0	AUTO	MARKER_NAME_DESCRIPTION_PAINT	En unik maling-opgradering på en af dine biler.
+0	AUTO	CUST_PERF_MENU_BRAKES	BREMSER
+0	AUTO	OL_TITLE_ONLINE_REWARD_CARDS	*BELØNNINGSKORT, ONLINE*
+0	AUTO	COMMON_CAMERA_CONTROLS_EXIT	FORLAD KAMERASTYRING
+0	AUTO	CUST_MAINMENU_HEADLIGHT_TITLE	*FORLYGTER - FARVE*
+0	AUTO	CAR_SELECT_DIALOG_ADD_IMPOUND_BOX_NO_CARD	Du har ikke nogen ekstra beslaglæggelsesklip. Gennemfør løb for at vinde dem.
+0	AUTO	CUST_VINYL_DROP_SHADOW_0	Lav skygge 0
+0	AUTO	SHOPPING_CART_DLG_INSTALL	Er du sikker på, du vil købe alle disse dele?
+0	AUTO	LANG_DANISH_NO_TRANSLATION	DANSK
+0	AUTO	PART_KIT03_FRONT_BUMPER	SHADOW
+0	AUTO	DEBUG_TEXTSCROLLER	Text Scroller
+0	AUTO	OL_STAT_WINS	Sejre på rangliste
+0	AUTO	CUST_MAINMENU_VISUALS	UDSEENDE
+0	AUTO	PART_KIT02_REAR_BUMPER	SWEEPER
+0	AUTO	ON_MESSENGER_GAME_INVITE_CANCELLED	%s har annulleret spilinvitationen.^
+0	AUTO	MC_OLD_SAVE_REWARD	Tak, fordi du har spillet tidligere Need for Speed™-titler. Vi har belønnet dig med 10.000 i Karrieredelen.
+0	AUTO	STAT_COPS_DISABLED_TOTAL	Politibiler uskadeliggjort (Samlet)
+0	AUTO	PART_WHEEL_AMERICAN_1	AMERICAN RACING SHELBY RAZOR
+0	AUTO	PART_WHEEL_AMERICAN_2	AMERICAN RACING TORQ-THRUST II
+0	AUTO	PART_WHEEL_AMERICAN_3	AMERICAN RACING TORQ-THRUST ST
+0	AUTO	STAT_QUICK_RACE_WINS	Antal sejre i Lynløb
+0	AUTO	MARKER_NAME_DESCRIPTION_BRAKES	En unik bremse-opgradering på en af dine biler.
+0	AUTO	CAR_CLASS_EXOTIC	Eksotisk Bil
+0	AUTO	MARKER_NAME_DESCRIPTION_REDUCE_HEAT	Du kan sænke politiniveauet helt for en af dine biler.
+0	AUTO	CHAL_INFO_BEST_SCORE	Bedste score
+0	AUTO	CHAL_INFO_BEST_SPEED	Højeste fart
+0	AUTO	MARKER_NAME_DESCRIPTION_CHASSI	En unik affjedrings-opgradering på en af dine biler.
+0	AUTO	MENU_RESUME_CAREER	FORTSÆT KARRIERE
+0	AUTO	MENU_QUICKRACE_OPTIONS_CATCH_UP	Indhent
+0	AUTO	QUICK_RACE_INFO_ACCELERATION	ACCELERATION
+0	AUTO	CUST_PERF_MENU_ENGINE	MOTOR
+0	AUTO	PART_WHEEL_AUTOSCULPT_1	CARBON MO5
+0	AUTO	PART_WHEEL_AUTOSCULPT_2	CARBON HEX
+0	AUTO	PART_WHEEL_AUTOSCULPT_3	CARBON REDLINE
+0	AUTO	PART_WHEEL_AUTOSCULPT_4	CARBON GLITZ
+0	AUTO	PART_WHEEL_AUTOSCULPT_5	CARBON ST-8
+0	AUTO	PART_WHEEL_AUTOSCULPT_6	CARBON MULTI
+0	AUTO	PART_WHEEL_AUTOSCULPT_7	CARBON SF15
+0	AUTO	PART_WHEEL_AUTOSCULPT_8	CARBON RAZOR
+0	AUTO	PART_WHEEL_AUTOSCULPT_9	CARBON ST-5
+0	AUTO	WINGMAN_DESC_RACE_NEVILLE	Politiaktiviteten forhøjes ikke i området efter løb.
+0	AUTO	STAT_TIMES_BUSTED	Gange fanget
+0	AUTO	PART_WHEEL_IFORGED_1	IFORGED AERO
+0	AUTO	PART_WHEEL_IFORGED_2	IFORGED EVOLUTION
+0	AUTO	PART_WHEEL_IFORGED_3	IFORGED MARQUIS
+0	AUTO	CART_ITEM_DESC_BODY	KARROSSERI
+0	AUTO	CUST_MOVELAYER_UP	Flyt lag op
+0	AUTO	MARKER_NAME_DESCRIPTION_DECALS	En unik mærkat-opgradering på en af dine biler.
+0	AUTO	CARNAME_FORD_FORDGT	Ford GT
+0	AUTO	CUST_IN_SHOPPING_CART	I indkøbsvogn
+0	AUTO	MC_CONFIRM_DESTRUCTIVE_CREATE_PROFILE	Hvis du opretter et nyt alias, vil alle ændringer, der ikke er gemt i dit nuværende alias, gå tabt. Er du sikker på, at du vil oprette et nyt alias?
+0	AUTO	XBOX_START_MESSAGE	Tryk på START på den anden controller.
+0	AUTO	CARNAME_LEXUS_IS300	Lexus IS300
+0	AUTO	CUSTOMIZATION_MEMORY_WARNING	Yderlige tilpasning er ikke mulig. Du bliver nødt til at slette en af dine biler, hvis du vil fortsætte med at tilpasse andre.
+0	AUTO	ON_PROTO_DLC	DLC
+0	AUTO	MARKER_NAME_DESCRIPTION_ENGINE	En unik motor-opgradering på en af dine biler.
+0	AUTO	MENU_CM_CANT_FIRE	Du skal have mindst én makker.
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_PC	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game when the Autosave icon flashes as follows.
+0	AUTO	MARKER_NAME_BODYKIT	Unikke karrosserier
+0	AUTO	PART_KIT02_SKIRT	SWEEPER
+0	AUTO	STAT_CHALLENGE_SERIES_COMPLETION	Gennemførte udfordringer
+0	AUTO	OL_STAT_WINS_PERCENT	Sejrsprocent
+0	AUTO	VINYL_PART_MANUFACTURER_SHELBYVINTAGE	SHELBY
+0	AUTO	MARKER_NAME_ROOFSCOOPS	Unikke luftindtag-opgraderinger
+0	AUTO	LANG_CZECH_NO_TRANSLATION	ČEŠTINA
+0	AUTO	MENU_CM_CREW_FULL	Dit slæng er allerede fyldt op. Du kan først hyre en ny makker, når du har fyret en af de nuværende.
+0	AUTO	SECONDARY_ROLE_MECHANIC_DESC	kicks your car when broken
+0	AUTO	STAT_DRIFT_LENGTH	Driftlængde
+0	AUTO	MC_ENTER_NAME	*INDTAST NAVN*
+0	AUTO	MENU_CAREER_CHALLENGES	UDFORDRINGER
+0	AUTO	NGC_START_MESSAGE	Spiller 2 - tryk på START.
+0	AUTO	CUST_MAINMENU_PERFORMANCE	YDELSE
+0	AUTO	CAR_SELECT_HEAT_COST	Pris for sænkelse af politiniveau:
+0	AUTO	CUST_MAINMENU_MARKETPLACE	XBOX LIVE MARKEDSPLADS
+0	AUTO	QUICK_RACE_INFO_HANDLING	MANØVRERING
+0	AUTO	MENU_CAR_CLASS_MODE_TYPE	Vil du køre et prøveløb med denne bilklasse eller vil du gerne vælge den?
+0	AUTO	CONTROLLER_CFG_STEER_LEFT	Styr til venstre
+0	AUTO	MENU_CAREER_START_NEW_CAREER	START NY KARRIERE
+0	AUTO	MC_AUTOSAVE_WARNING2_XBOX	Du må ikke fjerne controlleren, genstarte eller slukke for Xbox-konsollen, når autosave-ikonet bliver vist. Gør du det, kan spildata blive ødelagt.
+0	AUTO	MARKER_CATEGORY_PERFORMANCE	Unikke ydelses-opgraderinger
+0	AUTO	CUST_VINYL_GROUP_TWOTONE	DOBBELTTONEDE
+0	AUTO	CHAL_UNLOCKS	Låser op for %s
+0	AUTO	CARNAME_MCLAREN_SLR	Mercedes-Benz SLR McLaren
+0	AUTO	MENU_COMMON_PM_SHOWCASE	VIS BIL
+0	AUTO	MARKER_NAME_SUPERCHARGER	Unikke kompressor-opgraderinger
+0	AUTO	MARKER_NAME_HUD	Unikke måleinstrument-opgraderinger
+0	AUTO	MARKER_NAME_NOS	Unikke nitro-opgraderinger
+0	AUTO	STAT_LONGEST_PURSUIT	Længste jagt
+0	AUTO	MENU_QUICKRACE_OPTIONS_AI_OPPONENTS	AI-modstandere
+0	AUTO	CHALLENGE_SERIES_DESC_112_CG	Vind Circuit-løbet Downtown mod lette modstandere.
+0	AUTO	CHALLENGE_SERIES_DESC_113_CG	Vind Circuit-løbet på Fortuna mod trænede modstandere.
+0	AUTO	CHALLENGE_SERIES_DESC_114_CG	Vind Circuit-løbet på Silverton mod svære modstandere.
+0	AUTO	OL_SUBTITLE_RANK	Rang
+0	AUTO	MC_NO_PROFILES_FOUND	Der blev ikke fundet noget alias.
+0	AUTO	CHALLENGE_SERIES_DESC_130_CG	Vind Circuit-løbet på Highware 142 mod lette modstandere.
+0	AUTO	CHALLENGE_SERIES_DESC_131_CG	Vind Circuit-løbet på Garcia Street mod trænede modstandere.
+0	AUTO	CHALLENGE_SERIES_DESC_132_CG	Vind Circuit-løbet på Route 21 mod svære modstandere.
+0	AUTO	CAR_CLASS_MUSCLE	Muskelbil
+0	AUTO	CREW_TITLE_YOUR_CREW	*MIT SLÆNG*
+0	AUTO	CREW_MENU_VIEW_CREW_CAR	Se bil
+0	AUTO	QUICK_RACE_OPTIONS	Indstillinger
+0	AUTO	LANG_SWEDISH_NO_TRANSLATION	SVENSKA
+0	AUTO	LANG_ENGLISH_NO_TRANSLATION	ENGLISH
+0	AUTO	STAT_WINS	Sejre
+0	AUTO	CHAL_INFO_LENGTH	Længde
+0	AUTO	PC_INSTALLER_01	Kan ikke finde dvd-rom.
+0	AUTO	PC_INSTALLER_02	Kan ikke finde fil.
+0	AUTO	PC_INSTALLER_03	Forkert Windows-version.
+0	AUTO	PC_INSTALLER_04	En debugger er fundet.
+0	AUTO	PC_INSTALLER_05	Indsæt venligst den rigtige dvd-rom og vælg OK for at forsøge igen.
+0	AUTO	PC_INSTALLER_06	Indsæt venligst den rigtige dvd-rom, vælg OK og genstart programmet.
+0	AUTO	PC_INSTALLER_07	Fjern debuggeren og prøv igen.
+0	AUTO	PC_INSTALLER_08	Beklager, dette produkt er ikke understøttet på Win32.
+0	AUTO	PC_INSTALLER_09	Log venligst ind med administratorrettigheder og prøv igen.
+0	AUTO	PC_INSTALLER_10	Adgang nægtet.
+0	AUTO	PC_INSTALLER_11	Skub venligst cd-rom ud og indsæt den igen. Vælg OK og genstart programmet.
+0	AUTO	PC_INSTALLER_12	Kan ikke finde dvd-rom.
+0	AUTO	PC_INSTALLER_13	Indsæt venligst den rigtige dvd-rom og vælg OK for at forsøge igen.
+0	AUTO	PC_INSTALLER_14	Indsæt venligst den rigtige dvd-rom, vælg OK og genstart programmet.
+0	AUTO	PC_INSTALLER_15	cd/dvd-emulationssofware fundet. Slå venligst al cd/dvd-emulationssofware fra og genstart spillet.
+0	AUTO	PC_INSTALLER_16	Klik her for yderligere information vedrørende fejlen
+0	AUTO	MARKER_CATEGORY_MISC	Bonusikoner
+0	AUTO	CUST_PAINT_GROUP_CHROME	KROM
+0	AUTO	CUST_VINYL_STROKE_0	STREG
+0	AUTO	CUST_VINYL_STROKE_1	STREG 1
+0	AUTO	CUST_VINYL_STROKE_2	STREG 2
+0	AUTO	CUST_VINYL_STROKE_3	STREG 3
+0	AUTO	CUST_VINYL_STROKE_4	STREG 4
+0	AUTO	CUST_VINYL_STROKE_5	STREG 5
+0	AUTO	CAREER_TEST_CAR_HELP	Test bil
+0	AUTO	CREW_BIO_INFO_AGE	Alder:
+0	AUTO	CREW_BIO_INFO_CAR	Bil
+0	AUTO	WII_BOOT_START	
+0	AUTO	STARTADVANCE_REV	for at fortsætte
+0	AUTO	CUST_PARTS_HOODS	KØLERHJELM
+0	AUTO	MENU_CM_FIRE_CONFIRMATION	Er du sikker på, du vil vinke farvel til %s?
+0	AUTO	CUST_PARTS_SKIRT	SKØRTER
+0	AUTO	CUST_PARTS_TITLE	*EKSTRAUDSTYR*
+0	AUTO	STAT_NUM_SAFEHOUSES_FOUND	Tilflugssteder fundet
+0	AUTO	GAME_OVER_CARS_IMPOUNDED_DESC	Alle dine biler er beslaglagt.
+0	AUTO	QUICK_RACE_TITLE_SPRINT	*SPRINT*
+0	AUTO	STAT_SPIKE_STRIPS_DODGED	Sømmåtter undveget (Enkelt løb)
+0	AUTO	MARKER_NAME_IMPOUND	Ekstra beslaglæggelses-klip
+0	AUTO	STATS_DOWNLOADING_XBOX	Henter spillers Xbox Live-statistik...
+0	AUTO	LANG_DANISH	Dansk
+0	AUTO	DEMO_HELP_CLASS_INFO	Klasseinfo
+0	AUTO	CART_ITEM_DESC_AS_REAR_BUMPER	AUTOSCULPT - BAGERSTE KOFANGER
+0	AUTO	CUST_PARTS_HOODS_TITLE	*KØLERHJELME*
+0	AUTO	CUST_MAINMENU_INSTALL	INDKØBSVOGN
+0	AUTO	STAT_PURSUITS_ESCAPED	Jagter undsluppet
+0	AUTO	REWARDS_COMPLETE_HEADER	Udfyld ikonet for at låse op for:
+0	AUTO	QUICK_RACE_TITLE_KEEPAWAY	*HOLD DIG VÆK*
+0	AUTO	STAT_CAREER_TIME	Samlet karrieretid
+0	AUTO	STAT_CAREER_WINS	Karriereløb vundet
+0	AUTO	GAME_OVER_RELOAD_CURRENT_ALIAS	Indlæs nuværende Alias igen
+0	AUTO	ON_LOGIN_NOT_REQUIRED	Ikke nødvendigt
+0	AUTO	CREW_MENU_CUSTOMIZE	Tilpas bil
+0	AUTO	PART_KIT09_SKIRT	G-FORCE
+0	AUTO	HELP_TEST_DRIVE	Prøvekør
+0	AUTO	QUICK_RACE_TITLE_TIMETRIAL	*TIDSKØRSEL*
+0	AUTO	PART_KIT08_FRONT_BUMPER	SPEEDWAY
+0	AUTO	LANG_FRENCH	Fransk
+0	AUTO	CUST_INSTALL	Installér
+0	AUTO	MARKER_NAME_SPOILER	Unikke spoiler-opgraderinger
+0	AUTO	LANG_GERMAN	Tysk
+0	AUTO	STAT_BEST_TIME_AS_RACER	Bedste tid som kører
+0	AUTO	CART_ITEM_NAME_VINYLS	VINYLER
+0	AUTO	CUST_PARTS_ROOFSCOOPS_TITLE	*LUFTINDTAG*
+0	AUTO	MC_CONFIRM_TOO_MANY_PROFILES_TO_CREATE	Du har overskredet det maksimale antal gemte alias.
+0	AUTO	QUICK_RACE_TITLE_PURSUIT_TAG	*POLITI & RØVERE*
+0	AUTO	GAME_OVER_PLAYER_BUSTED_DESC	Du er blevet snuppet af politiet og har ikke nogen løsladelseskort eller nok penge til at betale dine bøder.
+0	AUTO	MC_CONFIRM_TOO_MANY_PROFILES_TO_LIST	Du har for mange alias til, at de kan vises. Kun de 10 senest oprettede alias bliver vist.
+0	AUTO	PART_KIT09_REAR_BUMPER	G-FORCE
+0	AUTO	MENU_OPTIONS_EATRAX	EA TRAX
+0	AUTO	MC_AUTOSAVE_WARNING_PC	Need for Speed™ Carbon benytter en autosave-funktion. Spildata bliver automatisk gemt i løbet af spillet, når autosave-ikonet bliver vist.
+0	AUTO	CAR_CLASS_EXIT_DIALOGUE	Du bliver sendt tilbage til hovedmenuen, når du forlader denne skærm. Dine karrierefremskridt går ikke tabt.
+0	AUTO	PART_WHEEL_LOWENHART_1	LÖWENHART XIR
+0	AUTO	PART_WHEEL_LOWENHART_2	LÖWENHART BR5
+0	AUTO	PART_WHEEL_LOWENHART_3	LÖWENHART LDR
+0	AUTO	PART_WHEEL_LOWENHART_4	LÖWENHART LC1
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_XBOX	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game on the Xbox hard disk when the Autosave icon flashes as follows.
+0	AUTO	ON_LOGIN_TOO_YOUNG	Du er ikke gammel nok til at oprette en konto!
+0	AUTO	MENU_QUICKRACE_OPTIONS_PLAYER_GHOST	Skyggebil
+0	AUTO	CUST_VINYL_GROUP_MANUFACTURER	BILFABRIKANT
+0	AUTO	OL_STAT_TOTAL_GAMES	Antal spil på rangliste
+0	AUTO	CUST_TUNING	Tuning
+0	AUTO	MC_AUTOSAVE_WARNING2_PC	Du må ikke genstarte eller slukke for computeren, når autosave-ikonet bliver vist. Gør du det, kan spildata blive ødelagt.
+0	AUTO	MC_AUTOSAVE_WARNING_NGC	Der findes en funktion, autosave, der automatisk gemmer dine fremskridt i løbet af spillet, samt de ændringer du måtte have foretaget i indstillingerne. Autosave vil overskrive data uden forudgående bekræftelse. Når det følgende ikon blinker, skal du ikke røre ved Memory Card (hukommelseskort) eller POWER-knappen.
+0	AUTO	MC_AUTOSAVE_WARNING_PS2	Need for Speed™ Carbon benytter en autosave-funktion. Spildata bliver automatisk gemt i løbet af spillet på memory card (PS2) i MEMORY CARD-slot 1, når autosave-ikonet bliver vist.
+0	AUTO	MC_AUTOSAVE_WARNING_PS3	
+0	AUTO	STAT_NUMBER_BUSTS	Gange fanget
+0	AUTO	MARKER_NAME_DESCRIPTION_VINYLS	En unik vinyl-opgradering på en af dine biler.
+0	AUTO	CUST_PARTS_BODY_KIT	KARROSSERI
+0	AUTO	CART_ITEM_DESC_AS_FRONT_BUMPER	AUTOSCULPT - FORRESTE KOFANGER
+0	AUTO	MENU_CM_UNLOCK_NEW_CREW_NO_ROOM	Du har låst op for en ny makker, men dit slæng er fyldt op. Du kan tilføje den nye makker til slænget ved at fyre ham eller hende under Mit slæng.
+0	AUTO	CARNAME_DODGE_VINTAGE_CHALLENGER71	Dodge Challenger
+0	AUTO	DEBUG_WIDGETMENU	Widget Menu
+0	AUTO	STAT_COLLISIONS	Sammenstød
+0	AUTO	STAT_TITLE_PKO_RACE	P&R SM (Røver)
+0	AUTO	MENU_CREW_LOGO_DISCARD_CONFIRM	Er du sikker på, du vil droppe dette logo og beholde dit forrige logo?
+0	AUTO	COMMON_RACETYPE_ALL	Alle
+0	AUTO	CAR_SELECT_DIALOG_BUY_CAR_CONFIRMATION	Er du sikker på, du vil købe denne bil?
+0	AUTO	H_REORDER	Sortér
+0	AUTO	MENU_QUICKRACE_GHOST_CAR	Skyggebil:
+0	AUTO	MY_CARS_ADD_CUST_HELP	Tilføj / Tilpas
+0	AUTO	QR_DOWNLOADING_GHOST_DATA	Henter skyggebil fra NeedforSpeed.com
+0	AUTO	HELP_HIRE_CREW_MEMEBER	Hyr makker
+0	AUTO	QR_DOWNLOADING_GHOST_INFO	Henter information om skyggebil fra NeedforSpeed.com
+0	AUTO	CAR_SELECT_DIALOG_CANNOT_REDUCE_HEAT	Du har ikke nok penge eller kort til at bestikke panserne. Smut ud og vind nogle løb!
+0	AUTO	CART_ITEM_NAME_WHEEL_PAINT_SWATCH	FÆLGMALING
+0	AUTO	CUST_PARTS_DIALOG_STANDARD	Ekstraudstyr
+0	AUTO	TITLE_PLAYERS_STATISTICS	SPILLERSTATISTIK - ONLINE
+0	AUTO	MENU_MAIN_CUSTOM_MATCH	TILPASSET MATCH
+0	AUTO	DEF_RACE_INFO_REWARDS	PRISER:
+0	AUTO	CUST_VINYL_GROUP_STRIPEBODY	STRIBEKARROSSERI
+0	AUTO	STARTADVANCE_XBOX	START for at fortsætte
+0	AUTO	CUST_VINYL_GROUP_AFTERMARKET	DELFABRIKANT
+0	AUTO	PART_KIT04_FRONT_BUMPER	BORRILLO
+0	AUTO	MARKER_NAME_DESCRIPTION_ROOFSCOOPS	En unik luftindtag-opgradering på en af dine biler.
+0	AUTO	STAT_CAREER_REP	Karriererespekt
+0	AUTO	CUST_MAINMENU_LICENSE_PLATE	NUMMERPLADE
+0	AUTO	MENU_MAIN_REWARD_CARDS	BELØNNINGSKORT
+0	AUTO	CARNAME_MAZDA_MAZDASPEED3_EUROPE	Mazda3 MPS
+0	AUTO	PART_KIT06_REAR_BUMPER	CHICANE
+0	AUTO	CART_ITEM_DESC_AS_EXHAUST	AUTOSCULPT - RØRHALE
+0	AUTO	PART_KIT06_SKIRT	CHICANE
+0	AUTO	HELP_ONLINE_REWARDS	Eksklusive onlinebelønninger
+0	AUTO	STAT_CARS_PURCHASED	Antal biler købt
+0	AUTO	LANG_POLISH	Polsk
+0	AUTO	STAT_BEST_MOVE	Bst. manøvre
+0	AUTO	STAT_BEST_TIME	Bedste løbstid
+0	AUTO	CHAL_TIME_TRIAL	Tidskørsel
+0	AUTO	STAT_BEST_CAREER_COMPLETION_TIME	Bedste gennemførselsestid i Karriere
+0	AUTO	CHAL_HEADER_GOLD	Guld
+0	AUTO	DEMO_PSA	Den kørsel, du og dit mandskab udfører i spillet, bør kun ske i spillet. I den virkelige verden skal du overholde færdselsreglerne, bruge sikkerhedssele og køre sikkert og forsvarligt.
+0	AUTO	QUICK_RACE_TITLE_SELECT_WINGMAN	*VÆLG MAKKER*
+0	AUTO	CARNAME_CORVETTE_Z06	Chevrolet Corvette Z06
+0	AUTO	LANG_ENGLISH	Engelsk
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_XENON	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game when the Autosave icon flashes as follows.
+0	AUTO	MENU_CM_HIRE_CONFIRMATION	Er du sikker på, du vil ansætte %s?
+0	AUTO	HELP_GET_ONLINE_HELP	Online Co-op
+0	AUTO	DEMO_MUSIC_LEGAL	Licenseret musik ^^"Bounce" ^Spillet af Dynamite MC^Skrevet af D. Smith/D. Taylor^Produceret af Dave Taylor for Solid Groove Productions^Udgivet af Copyright Control/Haripa Music^Med tilladelse fra Strong Records^^"Don't Speak (I Came To Make A Bang!)"^Spillet af Eagles Of Death Metal^Skrevet af Jesse "Boots Electric" Hughes og Joshua "Baby Duck" Homme^© 2005 Fabulous Weapons Music (BMI) og Board Stiff Music (BMI)^Med tilladelse fra Downtown Recordings^^"Sugar (Jagz Kooner Mix)"^Spillet af Ladytron ^Skrevet af  Daniel Hunt^Udgivet af Universal-Polygram Int. Publishing, Inc. (ASCAP) obo Universal Music Publishing Ltd. ^(p) & © 2005 Ladytron ^Med tilladelse fra Rykodisc
+0	AUTO	CROSS_SELL_FIFA	FIFA 07
+0	AUTO	ON_STAT_HEADER_BEST_DRIFT	Bedste drift
+0	AUTO	STAT_INFRACTIONS_SINGLE	Overtrædelser (Enkelt jagt)
+0	AUTO	CUST_PARTS_SPOILERS	SPOILER
+0	AUTO	MENU_MAIN_QUICK_MATCH	QUICK-PROFIL
+0	AUTO	STAT_GAME_COMPLETION	Spil gennemført
+0	AUTO	MENU_CREW_NEED_TO_SET_CREW_STYLE_TARGET	Ingen bil valgt, gå til garagen for at vælge en bil at give slængstil.
+0	AUTO	TITLE_REWARD_CARDS	*BELØNNINGSKORT*
+0	AUTO	CUST_RIDE_HEIGHT_PITCH	Kørehældning
+0	AUTO	STAT_HIGHEST_FINE_PAID	Højeste bøde
+0	AUTO	PART_WHEEL_KONIG_1	KÖNIG BLATANT
+0	AUTO	PART_WHEEL_KONIG_2	KÖNIG IMAGINE
+0	AUTO	PART_WHEEL_KONIG_3	KÖNIG THEORY
+0	AUTO	CLASS_MUSCLE_DESCRIPTION	Muskelbiler handler om hurtig acceleration. Men kig^ikke for længe i bakspejlet, når du forlader startlinjen, ^for bagenden skrider hurtigt ud - og pas på i svingene!
+0	AUTO	CUST_MAIN_CART_CONFIRM	Din indkøbsvogn er ikke tom - er du sikker på, du vil afslutte? (Alle genstande i indkøbsvognen vil gå tabt)
+0	AUTO	STAT_TOTAL_CLOCKED_SPEEDTRAP	Fartfælde-hastighed (samlet)
+0	AUTO	MARKER_NAME_FREEBAIL	Gratis løsladelse
+0	AUTO	EA_TRAX_PLAY_TRACK	Spil nummer
+0	AUTO	CART_ITEM_DESC_ROOF_SCOOP	LUFTINDTAG
+0	AUTO	MENU_CREW_MANAGEMENT	MIT SLÆNG
+0	AUTO	CUST_PARTS_SKIRT_TITLE	*SKØRTER
+0	AUTO	CHAL_INFO_YOUR_TIME	Bedste tid
+0	AUTO	CUST_ADD_TO_CART	Læg i indkøbsvogn
+0	AUTO	WII_CONTROLS_WARNING	
+0	AUTO	STAT_TRACKS_UNLOCKED	Antal baner låst op
+0	AUTO	MENU_CAREER_TURF_WARS	BYKORT
+0	AUTO	CHAL_INFO_DESCRIPTION	Beskrivelse
+0	AUTO	DIALOG_MSG_NO_CREW_SOURCE	Slængets bil er ikke valgt
+0	AUTO	MENU_CM_HIRE	Ansæt
+0	AUTO	CAR_SELECT_CAR_VALUE	Værdi:
+0	AUTO	STAT_LAP_SCORE	Banescore
+0	AUTO	BULLET_TUTORIAL_TERRITORY_01_A	Byen er en krigszone, slængene kæmper konstant om bydelene.
+0	AUTO	BULLET_TUTORIAL_TERRITORY_01_B	På dit kort kan du se hvem, der styrer hvert område.
+0	AUTO	PART_KIT00_FRONT_BUMPER	STANDARD
+0	AUTO	MYCARS_DIALOG_DELTE_CAR_CONFIRMATION	Er du sikker på, du vil slette denne bil?
+0	AUTO	STAT_BOUNTY_TOTAL	Dusør (Samlet)
+0	AUTO	CUST_PARTSELECT_PART	Del
+0	AUTO	PART_KIT03_REAR_BUMPER	SHADOW
+0	AUTO	MC_NO_GHOST	Du har ikke gemt nogen skyggebil på denne bane.
+0	AUTO	PART_WHEEL_RACINGHART_1	RACINGHART MULTI C4
+0	AUTO	PART_WHEEL_RACINGHART_2	RACINGHART CX
+0	AUTO	PART_WHEEL_RACINGHART_3	RACINGHART CP
+0	AUTO	PART_WHEEL_RACINGHART_4	RACINGHART CR
+0	AUTO	MC_PROFILE_MANAGER	Håndtering af alias
+0	AUTO	CARNAME_CHRYSLER_300C	Chrysler 300C Hemi SRT8
+0	AUTO	MC_PROMPT_CREATE_CHALLENGE	Du skal have et alias indlæst for at gå til Udfordringer. Du kan enten indlæse et alias i karrieremenuen eller oprette et nyt. Vil du oprette et nyt alias?
+0	AUTO	CHAL_LOCKED	Låst
+0	AUTO	CAR_CLASS_TESTING_TRANSMISSION	Vil du bruge automatgear eller manuelt gear?
+0	AUTO	ON_LOGIN_MSG_PARENTAL_CONSENT	Din personlige information er i færd med at blive overfært til EA. Hvis du er under 18 år, skal du have din forældres samtykke til at sende personlige informationer til EA. Vil du sende dine informationer?
+0	AUTO	STAT_BEST_SECTION_1_TIME	Sektion 1 - bedste tid
+0	AUTO	CARNAME_ALFA_ROMEO_BRERA	Alfa Romeo Brera
+0	AUTO	LANG_DUTCH_NO_TRANSLATION	NEDERLANDS
+0	AUTO	STAT_WIN_PERCENTAGE	Sejrsprocent
+0	AUTO	PART_KIT03_SKIRT	SHADOW
+0	AUTO	MENU_QUICKRACE_OPTIONS_COMPETITIVE	På rangliste
+0	AUTO	FABRICATOR_1_POPUP	Hvis du tilføjer Sal til dit slæng, vil du kunne tilpasse disse Autosculpt-genstande.
+0	AUTO	STAT_BEST_SECTION_2_TIME	Sektion 2 - bedste tid
+0	AUTO	STAT_BEST_LAP_SCORE	Bedste omgangsscore
+0	AUTO	CUST_PARTS_CARBON	KARBONFIBER
+0	AUTO	MARKER_CATEGORY_DESC_VISUAL	Disse markører kan inkludere ting som unikke vinyler.
+0	AUTO	CARNAME_DODGE_CHALLENGERN	Dodge Challenger Concept
+0	AUTO	OL_STAT_REP	Online-erfaring
+0	AUTO	QUICK_RACE_TITLE_PURSUIT_KNOCKOUT	*POLITI & RØVERE - SIDSTE MAND*
+0	AUTO	MC_LOAD	Indlæs
+0	AUTO	STAT_BEST_SECTION_3_TIME	Sektion 3 - bedste tid
+0	AUTO	MENU_CM_CURRENT_WINGMAN	Aktiv makker:
+0	AUTO	CUST_MAINMENU_MARKETPLACE_MIXEDCASE	Xbox Live Markedsplads
+0	AUTO	HELP_SELECT_CAR_FOR_CAREER	Vælg karrierebil
+0	AUTO	PART_KIT10_SKIRT	KLASSISK
+0	AUTO	TITLE_CHALLENGE_SERIES	*UDFORDRINGER*
+0	AUTO	MENU_CM_BIO_VIDEO	BIOGRAFI-video
+0	AUTO	CUST_PARTS_REARBUMPER_TITLE	*BAGERSTE KOFANGER*
+0	AUTO	WINGMAN_DESC_RACE_COLIN	Større draft-område bag makker.
+0	AUTO	MENU_QUICKRACE_PLAYER_RECORD_GHOST	Optag skyggebil
+0	AUTO	WINGMAN_DESC_RACE_NIKKI	50%% mere fartknuser og nitro
+0	AUTO	ALL_SPECIAL_CHARACTERS	á à â ä ą å æ ª č ç ć ď é è ě ë ê ę í ì ï î ł ń ň ñ ó ò ø ö ô ő œ ř š ś ť ů ú ù ü û ű ý ž ż ź º °¿ ¡ ^Á À Â Å Ä Ą Æ Č Ć Ç Ď É È Ě Ë Ê Ę Í Ì Î Ï Ł Ň Ñ Ő Ó Ò Ø Ö Ô Œ Ř Ś Š Ť Ů Ú Ù Ü Ú Ű Û Ý Ż Ź Ž ß
+0	AUTO	CUST_PERF_MENU_SUSPENSION	AFFJEDRING
+0	AUTO	CROSS_SELL_NHL07	NHL® 07
+0	AUTO	WINGMAN_DESC_RACE_SAL	Lavere politiniveau for hvert vundet løb.
+0	AUTO	CROSS_SELL_TIGER	Tiger Woods PGA TOUR® 07
+0	AUTO	CUST_MOVELAYER_DOWN	Flyt lag ned
+0	AUTO	CHAL_AVAILABLE	Tilgængelig
+0	AUTO	MENU_CM_TUTORIAL	Neville har sluttet sig til dit slæng!^^Dette er stedet, hvor du styrer dit slæng. Du kan blandt andet:^Vælge en makker, der skal køre med dig i løbene^Tilpasse makkernes biler^Se dine makkeres videoer.^Fyre makkere (ned til minimum 1)^Ansætte nye, tilgængelige makkere (op til maksimalt 3)
+0	AUTO	SECONDARY_ROLE_FABRICATOR_DESC	DELETE
+0	AUTO	PART_KIT00_REAR_BUMPER	STANDARD
+0	AUTO	CART_ITEM_DESC_AS_SPOILER	AUTOSCULPT - SPOILER
+0	AUTO	QR_NO_GHOST_DATA	Der er ikke nogen skyggebil til denne bane.
+0	AUTO	CUST_VINYL_GROUP_PRIMITIVE	FIGURER
+0	AUTO	MARKER_NAME_DESCRIPTION_SUPERCHARGER	En unik kompressor-opgradering på en af dine biler.
+0	AUTO	PART_KIT09_FRONT_BUMPER	G-FORCE
+0	AUTO	ON_MESSENGER_LISTS_SEARCH	Søgeresultater
+0	AUTO	RC_DESCRIPTION_104	Uskadeliggør 10 politibiler i Fri kørsel
+0	AUTO	STAT_COPS_RAMMED_TOTAL	Politibiler påkørt (Samlet)
+0	AUTO	MENU_CM_EMPYT	INTET SLÆNG
+0	AUTO	OL_NFS_WEBSITE_ADDRESS_LEADERBOARD	Flere statistikker på www.NeedForSpeed.com
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_1	CARBONO MO5
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_2	CARBONO HEX
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_3	CARBONO REDLINE
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_4	CARBONO GLITZ
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_5	CARBONO ST-8
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_6	CARBONO MULTI
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_7	CARBONO SF15
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_8	CARBONO RAZOR
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_9	CARBONO ST-5
+0	AUTO	CREW_LOGO_LAYER_1	Lag 1
+0	AUTO	CREW_LOGO_LAYER_2	Lag 2
+0	AUTO	CREW_LOGO_LAYER_3	Lag 3
+0	AUTO	CUST_PERF_STAGE	Runde %d
+0	AUTO	CUST_VINYLS_MIRROR_ON	Begge sider
+0	AUTO	CUST_PARTS_FRONTBUMPER	FORRESTE KOFANGER
+0	AUTO	STAT_BEST_JUMP_AIR_TIME	Længst tid i luften
+0	AUTO	MENU_BOSS_DEFEATED	*BESEJRET*
+0	AUTO	STAT_TITLE_PKO_PURSUIT	P&R SM (Politi)
+0	AUTO	CREW_TITLE_LOGOS	*SLÆNGETS LOGO*
+0	AUTO	CREW_BIO_INFO_BIRTHPLACE	Fødested:
+0	AUTO	CAR_CLASS_SELECTED_TRANSMISSION	Du har valgt en bilklasse til din karriere. Vil du bruge manuelt eller automatisk gearskifte?
+0	AUTO	STAT_COST_TO_STATE_TOTAL	Omkostninger for stat (Samlet)
+0	AUTO	CHAL_CREW_MODE_SOLO	Enkelt spiller
+0	AUTO	TITLE_QUICK_RACE_OPTIONS	*INDSTILLINGER FOR LYNLØB*
+0	AUTO	PART_KIT00_SKIRT	STANDARD
+0	AUTO	GAME_WON_TITLE	*DU VANDT*
+0	AUTO	STAT_COMBO_SCORE	Fordoblerscore
+0	AUTO	CUST_VINYL_FILL_0	FYLD
+0	AUTO	CUST_VINYL_FILL_1	FYLD 1
+0	AUTO	CUST_VINYL_FILL_2	FYLD 2
+0	AUTO	CUST_VINYL_FILL_3	FYLD 3
+0	AUTO	LANG_FRENCH_NO_TRANSLATION	FRANCAIS
+0	AUTO	STAT_RANDOM_ENCOUNTERS_WON	Løbsudfordringer vundet
+0	AUTO	SHOPPING_CART_DLG_EMPTY	Din indkøbsvogn er tom.
+0	AUTO	CUST_PARTS_FRONTBUMPER_TITLE	*FORRESTE KOFANGER*
+0	AUTO	MENU_QUICKRACE_PLAYER_SAVED_GHOST	Gemt skyggebil
+0	AUTO	DEF_RACE_INFO_RECORD	Rekord:
+0	AUTO	MENU_MAIN_QUICK_RACE	LYNLØB
+0	AUTO	CUST_PARTS_NORMAL	NORMAL
+0	AUTO	CARNAME_NISSAN_350Z	Nissan 350Z
+0	AUTO	MENU_CAR_CLASS_MODE_SELECT_CLASS	Vælg klasse
+0	AUTO	MENU_RESUME_FREE_ROAM	FRI KØRSEL
+0	AUTO	STAT_COPS_RAMMED_SINGLE	Politibiler påkørt (Enkelt jagt)
+0	AUTO	MENU_QUICKRACE_OPTIONS_TRAFFIC_LEVEL	Trafiktæthed
+0	AUTO	PART_KIT05_FRONT_BUMPER	ARASHI
+0	AUTO	CARNAME_PORSCHE_CAYMANS	Porsche Cayman S
+0	AUTO	CARNAME_MITSUBISHI_ECLIPSEGT	Mitsubishi Eclipse GT
+0	AUTO	CART_ITEM_NAME_BODY_PAINT_SWATCH	KARROSSERIMALING
+0	AUTO	STAT_RANK_POINTS	Rangpoint
+0	AUTO	PART_WHEEL_ENKEI_1	ENKEI NT03+M
+0	AUTO	PART_WHEEL_ENKEI_2	ENKEI J SPEED 3
+0	AUTO	PART_WHEEL_ENKEI_3	ENKEI ES-TARMAC
+0	AUTO	PART_WHEEL_ENKEI_4	ENKEI WRC TARMAC
+0	AUTO	HELP_RECRUIT	Rekruttér
+0	AUTO	COPCAR_TIER_1	Politi-SUV
+0	AUTO	COPCAR_TIER_2	Politi-cruiser
+0	AUTO	COPCAR_TIER_3	Politi-Corvette Z06
+0	AUTO	STAT_BEST_AVERAGE_SPEED	Bedste gennemsnitshastighed
+0	AUTO	MC_AUTOSAVE_WARNING_XENON	Need for Speed™ Carbon benytter en autosave-funktion. Spilinformation bliver automatisk gemt i løbet af spillet, når autosave-ikonet bliver vist.
+0	AUTO	STAT_MOST_CARS_RAMMED	Flest biler kørt ind i
+0	AUTO	GAME_OVER_EXIT_TO_MAIN_MENU	Afslut til hovedmenu
+0	AUTO	MARKER_NAME_DESCRIPTION_RELEASE	Få en bil efter eget ønske ud af beslaglæggelse.
+0	AUTO	STAT_HIGHEST_HEAT_LEVEL	Højeste politiniveau
+0	AUTO	CARNAME_PLYMOUTH_CUDA	Plymouth Hemi Cuda
+0	AUTO	CUST_VINYL_GROUP_ONLINE1	ONLINE
+0	AUTO	CUST_VINYL_GROUP_ONLINE2	
+0	AUTO	CUST_VINYL_GROUP_ONLINE3	VIRUS
+0	AUTO	STAT_SHORTEST_PURSUIT	Korteste jagt
+0	AUTO	MENU_CAREER_START	START KARRIERE
+0	AUTO	CONTROLLER_CFG_STEER_RIGHT	Styr til højre

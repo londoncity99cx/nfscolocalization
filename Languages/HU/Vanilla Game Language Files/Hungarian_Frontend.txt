@@ -1,0 +1,851 @@
+#	Labrune - C:\Users\FH\OneDrive\Games\NFSCO\Project Localization\Organiaztion\vanilla_loc\LANGUAGE\Hungarian_Frontend.bin
+#	File created on: 19.04.2026 16:34:01
+#
+#Chunk	Hash (HEX)	Label	Value
+# ---------------------------------------------------------------------------------------------------------
+# Chunk 0 - Frontend
+0	AUTO	CUST_VINYLS_TRANSFORM_TITLE	*FÓLIA ÁTALAKÍTÁSA*
+0	AUTO	ON_STAT_HEADER_KNOCKOUTS	Kiesések
+0	AUTO	MENU_CREW_LOGO	CSAPATLOGÓ
+0	AUTO	CARNAME_MAZDA_RX7	Mazda RX-7
+0	AUTO	MARKER_CATEGORY_DESC_MISC	Ezek a kártyák készpénzbónuszokat, Szabad elvonulás kártyákat, büntetéshatár-kitolásokat tartalmazhatnak, vagy az éppen megvert főnökautó papírjait.
+0	AUTO	DEMO_CUSTOMIZATION_SELL	Az Autosculpt™ lehetővé teszi a verda testreszabását saját készítésű alkatrészekkel.^Módosíthatod a karosszériaelemeket, a kerekeket, a motorháztetőt, a légterelőket és a tetőnyílást, hogy pontosan az általad kívánt alkatrész jöjjön létre.^A testreszabás nem csupán ennyiből áll. Fújj a kocsira saját festést, alkalmazz saját fóliákat, matricákat, és változtass kedvedre a kocsi jellemzőin, így kialakítva Csapatod egyedi Tuning, Izom vagy Egzotikum stílusát.
+0	AUTO	CHAL_COMPLETED	Teljesítve
+0	AUTO	MC_CONFIRM_CREATE_PROFILE	Új személyiséget hozol létre? Ha nem hozol létre új személyiséget, a változtatások elveszhetnek.
+0	AUTO	CHAL_SELECT_CREW_MODE	Kooperatív kihívás mód választása
+0	AUTO	CUST_PARTS_WHEELS_TITLE	*KEREKEK*
+0	AUTO	MARKER_NAME_TRANSMISSION	Egyedi sebváltóalkatrészek
+0	AUTO	CUST_VINYLS_COLOUR_TITLE	*FÓLIAFESTÉS*
+0	AUTO	CARNAME_DODGE_VINTAGE_CHARGER69	Dodge Charger R/T
+0	AUTO	SHOPPING_CART_DLG_NO_CASH	Nincs elég pénzed az összes alkatrész megvásárlására. Kérjük, törölj néhány tételt.
+0	AUTO	CARNAME_MERCEDES_CLK500	Mercedes-Benz CLK 500
+0	AUTO	LANG_FINNISH	Finn
+0	AUTO	MARKER_NAME_DESCRIPTION_HUD	Egyedi műszerek bármelyik autódra.
+0	AUTO	MARKER_NAME_DESCRIPTION_NOS	Egyedi nitrórendszer bármelyik kocsidra.
+0	AUTO	STAT_PERC_AS_POLICE	%% rendőrként
+0	AUTO	HELP_RACE	Verseny
+0	AUTO	RC_WIN_05_CAREER_RACES_DESCRIPTION	Meg kell nyerned öt versenyt Karriermódban
+0	AUTO	CHAL_SOLO_CHALLENGE	Egyéni kihívás
+0	AUTO	MENU_MAIN_TITLE_CAREER	*KARRIER*
+0	AUTO	STAT_NUM_TIMES_BUSTED	Letartóztatások száma
+0	AUTO	CUST_PARTS_WHEELS	KEREKEK
+0	AUTO	STAT_NUM_CREW_MEMEBERS_HIRED	Felvett csapattagok
+0	AUTO	MARKER_NAME_DESCRIPTION_CASH	Extra %$d pénzjutalmat kaptál.
+0	AUTO	MARKER_NAME_DESCRIPTION_HOOD	Egyedi motorháztető bármelyik autódra.
+0	AUTO	MARKER_NAME_DESCRIPTION_RIMS	Egyedi kerekek bármelyik autódra.
+0	AUTO	MARKER_NAME_DESCRIPTION_TIRE	Egyedi gumik bármelyik autódra.
+0	AUTO	PART_KIT01_FRONT_BUMPER	STAG
+0	AUTO	LANG_HUNGARIAN_NO_TRANSLATION	MAGYAR
+0	AUTO	MC_CREATE	Létrehozás
+0	AUTO	CUST_RIDE_HEIGHT_DROP	Hasmagasság csökkentése
+0	AUTO	HELP_CAREER_CONTROLS	Karrierbeállítások
+0	AUTO	PART_KIT07_SKIRT	SLIPSTREAM
+0	AUTO	MENU_CREW_STYLE	CSAPATSTÍLUS
+0	AUTO	POST_RACE_PURSUIT_STATS	Üldözési statisztikák
+0	AUTO	MC_DELETE	Törlés
+0	AUTO	MENU_QUICKRACE_GHOST_TIME	Edzőautó eredménye
+0	AUTO	CUST_VINYL_GRADIENT_0_0	SZÍN 0
+0	AUTO	CUST_VINYL_GRADIENT_1_0	SZÍN 1
+0	AUTO	RC_NAME_104	10 zsaru
+0	AUTO	LANG_SWEDISH	Svéd
+0	AUTO	PART_KIT07_REAR_BUMPER	SLIPSTREAM
+0	AUTO	MARKER_NAME_PAINT	Egyedi festés
+0	AUTO	GAME_OVER_WINGMEN_BUSTED_DESC	Minden csapattagod elkapták, és nincs elég pénzed, hogy kifizesd értük az óvadékot.
+0	AUTO	CUST_VINYL_INNER_GLOW_0	BELSŐ FÉNY
+0	AUTO	MARKER_NAME_BRAKES	Egyedi fékek
+0	AUTO	CUST_VINYL_GROUP_CAMOUFLAGE	TEREPSZÍN
+0	AUTO	CARNAME_JAGUAR_XK	Jaguar XK
+0	AUTO	DEF_RACE_INFO_OWNERSHIP	Tulajdon:
+0	AUTO	CUST_PERF_MENU_TIRES	GUMIK
+0	AUTO	CUST_PERF_MENU_TURBO	TURBÓ
+0	AUTO	CUST_PERF_MENU_TRANSMISSION	SEBVÁLTÓ
+0	AUTO	CARNAME_PORSCHE_CARRERA_GT	Porsche Carrera GT
+0	AUTO	MARKER_NAME_CHASSI	Egyedi felfüggesztés-alkatrész
+0	AUTO	STAT_INFRACTIONS_TOTAL	Kihágások (összes)
+0	AUTO	MARKER_NAME_DESCRIPTION_PINKSLIP	Elnyerted a főnökkocsi papírjait. Ha legközelebb a Rejtekhelyre mész, az autót ott találod.
+0	AUTO	CAR_SELECT_BUY_CAR	Autó megvásárlása
+0	AUTO	CAR_SELECT_DIALOG_GARAGE_FULL_NOTIFICATION	Tele van a garázs. El kell adnod pár kocsit, hogy legyen hely újaknak.
+0	AUTO	CHAL_CREW_CHALLENGE	Kooperatív kihívás
+0	AUTO	MARKER_NAME_DECALS	Egyedi matricák
+0	AUTO	MENU_CAREER_SAVE_LOAD	MENTÉS
+0	AUTO	CARNAME_BMW_M3_GTRE46	BMW M3 GTR
+0	AUTO	LANG_POLISH_NO_TRANSLATION	POLSKI
+0	AUTO	STAT_TOTAL_CASH	Összes megkeresett pénz
+0	AUTO	CHALLENGE_SERIES_DESC_079	Győzz le az Elátkozott Úton egy könnyű ellenfelet Kanyonpárbajban!
+0	AUTO	CHALLENGE_SERIES_DESC_080	Győzz le egy közepes ellenfelet a Gold Valley-i Kanyonpárbajban!
+0	AUTO	CHALLENGE_SERIES_DESC_081	Győzz le egy kemény ellenfelet Kanyonpárbajban az Eternity Hágónál!
+0	AUTO	CHALLENGE_SERIES_DESC_082	Nyerj Kanyonversenyt Gold Valley-ben könnyű ellenfelekkel szemben!
+0	AUTO	CHALLENGE_SERIES_DESC_083	Nyerj Kanyonversenyt közepes ellenfelekkel szemben a Copper Hegygerincen!
+0	AUTO	CHALLENGE_SERIES_DESC_084	Nyerj Kanyonversenyt kemény ellenfelekkel szemben a Deadfall Elágazásnál!
+0	AUTO	CHALLENGE_SERIES_DESC_085	Haladj át az Eskuri Plaza Ellenőrzőpontjain 3:44 percnél rövidebb idő alatt, és győzöl!
+0	AUTO	CHALLENGE_SERIES_DESC_086	Haladj át a Rainbowitz Drive Ellenőrzőpontjain 3:02 percnél rövidebb idő alatt, és győzöl!
+0	AUTO	CHALLENGE_SERIES_DESC_087	Haladj át a Blackwell Road Ellenőrzőpontjain 3:21 percnél rövidebb idő alatt, és győzöl!
+0	AUTO	CHALLENGE_SERIES_DESC_088	Haladj át a Lofty Heights Ellenőrzőpontjain 2:39 percnél rövidebb idő alatt, és győzöl!
+0	AUTO	CHALLENGE_SERIES_DESC_089	Haladj át a Knife's Edge Ellenőrzőpontjain 1:25 percnél rövidebb idő alatt, és győzöl!
+0	AUTO	CHALLENGE_SERIES_DESC_090	Haladj át a Halálkanyar Ellenőrzőpontjain 1:55 percnél rövidebb idő alatt, és győzöl!
+0	AUTO	CHALLENGE_SERIES_DESC_091	Nyerj legalább 25.000 pont megszerzésével ebben a Kanyondriftben!
+0	AUTO	CHALLENGE_SERIES_DESC_092	Nyerj legalább 100.000 pont megszerzésével ebben a Kanyondriftben!
+0	AUTO	CHALLENGE_SERIES_DESC_093	Nyerj legalább 150.000 pont megszerzésével ebben a Kanyondriftben!
+0	AUTO	CHALLENGE_SERIES_DESC_094	Rázd le az üldöző rendőröket legalább %s perc után a győzelemhez!
+0	AUTO	CHALLENGE_SERIES_DESC_095	Rázd le az üldöző rendőröket legalább %s perc után a győzelemhez!
+0	AUTO	CHALLENGE_SERIES_DESC_096	Rázd le az üldöző rendőröket legalább %s perc után a győzelemhez!
+0	AUTO	CHALLENGE_SERIES_DESC_097	Iktass ki legalább %s járőrkocsit, és rázd le az üldözőket a győzelemhez!
+0	AUTO	CHALLENGE_SERIES_DESC_098	Iktass ki legalább %s járőrkocsit, és rázd le az üldözőket a győzelemhez!
+0	AUTO	CHALLENGE_SERIES_DESC_099	Iktass ki legalább %s járőrkocsit, és rázd le az üldözőket a győzelemhez!
+0	AUTO	CHALLENGE_SERIES_DESC_100	Könnyű ellenfelekkel szemben nyerd meg a Dover Street-i Körversenyt!
+0	AUTO	CHALLENGE_SERIES_DESC_101	Közepes ellenfelekkel szemben nyerd meg az Ocean View-i Körversenyt!
+0	AUTO	CHALLENGE_SERIES_DESC_102	Kemény ellenfelekkel szemben nyerd meg a Starlight Street-i Körversenyt!
+0	AUTO	CHALLENGE_SERIES_DESC_103	Küzdj meg könnyű ellenfelekkel Sprintversenyben az Apartmansoron!
+0	AUTO	CHALLENGE_SERIES_DESC_104	Küzdj meg közepes ellenfelekkel Sprintversenyben a Kings Parkban!
+0	AUTO	CHALLENGE_SERIES_DESC_105	Küzdj meg kemény ellenfelekkel Sprintversenyben a Canmor Road-on!
+0	AUTO	CHALLENGE_SERIES_DESC_106	Nyerj legalább 50.000 pont megszerzésével ebben a Driftben!
+0	AUTO	CHALLENGE_SERIES_DESC_107	Nyerj legalább 140.000 pont megszerzésével ebben a Driftben!
+0	AUTO	CHALLENGE_SERIES_DESC_108	Nyerj legalább 250.000 pont megszerzésével ebben a Driftben!
+0	AUTO	CHALLENGE_SERIES_DESC_109	Nyerd meg a Millió Dolláros Traffipaxversenyt könnyű ellenfelek ellen!
+0	AUTO	CHALLENGE_SERIES_DESC_110	Küzdj meg közepes ellenfelekkel egy Traffipaxversenyben az Infinity Parkban!
+0	AUTO	CHALLENGE_SERIES_DESC_111	Küzdj meg kemény ellenfelekkel egy Traffipaxversenyben az Eskuri Way-en!
+0	AUTO	CHALLENGE_SERIES_DESC_112	Nyerj Versenyháborút könnyű ellenfelekkel szemben Downtownban!
+0	AUTO	CHALLENGE_SERIES_DESC_113	Nyerd meg a Fortuna Versenyháborút közepes ellenfelekkel szemben!
+0	AUTO	CHALLENGE_SERIES_DESC_114	Nyerd meg a Silvertoni Versenyháborút kemény ellenfelekkel szemben!
+0	AUTO	LANG_GERMAN_NO_TRANSLATION	DEUTSCH
+0	AUTO	OL_BUTTON_TIME_PERIOD	Időtartam
+0	AUTO	CLASS_TUNER_DESCRIPTION	A tuningolt kocsik a kanyarokban igazán jók, mivel ^fantasztikusan irányíthatók. Olyan útfekvésük van, hogy le se ^kell venned a lábad a gázról a kanyarban.
+0	AUTO	CUST_VISUAL_RIMS_WARNING	A gyári alapkerekeket nem festheted le
+0	AUTO	STAT_COPS_DISABLED_SINGLE	Kiiktatott zsaruk (egyetlen üldözés)
+0	AUTO	CUST_MAINMENU_RIDE_HEIGHT	HASMAGASSÁG
+0	AUTO	MARKER_NAME_ENGINE	Egyedi motoralkatrész
+0	AUTO	MC_PROMPT_SAVE_PROFILE	Szeretnéd bekapcsolni az automatikus mentést, és most elmenteni a személyiségedet?
+0	AUTO	LANG_SPANISH_NO_TRANSLATION	ESPAÑOL
+0	AUTO	CUST_PARTS_TOP_TITLE	*ALACSONY TETŐ*
+0	AUTO	CARNAME_FORD_MUSTANGGT	Ford Mustang GT
+0	AUTO	STAT_KNOCKOUT_WINS	Kieséses győzelmek
+0	AUTO	SECONDARY_ROLE_HEAT_MAGNET_DESC	DELETE
+0	AUTO	CREW_VINYL_WARNING	Vigyázat! Ha eltávolítod ezt a fóliát, akkor nem fogod tudni újra feltenni. Biztos el akarod távolítani?
+0	AUTO	MENU_CAREER_CREW	CSAPAT
+0	AUTO	MENU_CAREER_LOAD	BETÖLTÉS
+0	AUTO	CUST_PARTS_REARBUMPER	HÁTSÓ LÖKHÁRÍTÓ
+0	AUTO	CUST_CHANGE_PAINT_SWATCH	Szín választása
+0	AUTO	SHOPPING_CART_DLG_DELETE_ALL	Ki akarod üríteni a bevásárlókosarat. Biztosan továbblépsz?
+0	AUTO	DEBUG_ARRAYSCROLLER	Sormozgató
+0	AUTO	STAT_PEAK_SCORE	Csúcspontszám
+0	AUTO	PART_KIT10_REAR_BUMPER	KLASSZIKUS
+0	AUTO	STAT_BEST_PERCENT_AS_RACER	Legjobb százalékarány versenyzőként
+0	AUTO	CARNAME_LAMBORGHINI_GALLARDO	Lamborghini Gallardo
+0	AUTO	STAT_BOUNTY_SINGLE	Vérdíj (egyetlen üldözés)
+0	AUTO	MC_AUTOSAVE_WARNING2_XENON	Kérjük, ne kapcsold ki Az Xbox 360 konzolt, amíg az automatikus mentés ikon látható.
+0	AUTO	VINYLS_MEMORY_WARNING	Nem adhatsz hozzá több réteget. Elérted a maximális rétegszámot.
+0	AUTO	CUST_EXHAUST_WARNING	A kipufogócsőhöz különleges lökhárító kell
+0	AUTO	CUST_PARTS_ROOFSCOOPS	TETŐNYÍLÁS
+0	AUTO	PART_KIT04_REAR_BUMPER	BORRILLO
+0	AUTO	OL_SUBTITLE_GAME_TAG	Játékosnév
+0	AUTO	MC_AUTOSAVE_WARNING2_PS2	Ne távolíts el memory card (PS2) egységet, vezérlőt, valamint ne kapcsold ki, vagy ne indítsd újra a konzolt, amikor megjelenik az automatikus mentési ikon. Ellenkező esetben adatvesztés következhet be.
+0	AUTO	MC_AUTOSAVE_WARNING2_PS3	
+0	AUTO	CUST_PAINT_GROUP_CANDY	ÉDESSÉG
+0	AUTO	CUST_PAINT_GROUP_GLOSS	FÉNYES
+0	AUTO	CUST_PARTS_SPOILERS_TITLE	*LÉGTERELŐ*
+0	AUTO	COMMON_RACETYPE_PURSUIT_TAG	Fogócska
+0	AUTO	CUST_PAINT_GROUP_MATTE	MATT
+0	AUTO	OL_BUTTON_RACE_TYPE	Versenytípus
+0	AUTO	CROSS_SELL_MADDEN07	MADDEN NFL 07
+0	AUTO	CUST_PAINT_GROUP_PEARL	GYÖNGY
+0	AUTO	QR_NOT_ONLINE_FOR_GHOST	Be kell jelentkezned az EA online felhasználói fiókodba, ha le akarsz tölteni egy Edzőautót az EA Nation eredményjelző tábláról.
+0	AUTO	TITLE_STATISTICS	*STATISZTIKÁK*
+0	AUTO	STAT_HIGHEST_FINE	Legmagasabb bírság
+0	AUTO	EA_TRAX_CAR_CLASS_FILTER_USE	Játékmenetfüggő
+0	AUTO	WII_OPT_ERROR	
+0	AUTO	MC_AUTOSAVE_WARNING_XBOX	A Need for Speed™ Carbon automatikus mentési funkcióval rendelkezik. A játékinformációk automatikusan mentődnek játék közben az Xbox merevlemezre, amikor az automatikus mentés ikon a következőképpen villog.
+0	AUTO	WINGMAN_DESC_RACE_SAMSON	+10%% készpénzbónusz győzelmenként^
+0	AUTO	CUST_VINYL_GROUP_PINSTRIPE	VÉKONY CSÍK
+0	AUTO	PART_KIT04_SKIRT	BORRILLO
+0	AUTO	CHAL_CREW_MODE_ONLINE	Online
+0	AUTO	PART_WHEEL_GIOVANNA_1	GIOVANNA BRAKE
+0	AUTO	PART_WHEEL_GIOVANNA_2	GIOVANNA GELLO
+0	AUTO	PART_WHEEL_GIOVANNA_3	GIOVANNA ARARAT
+0	AUTO	FABRICATOR_2_POPUP	Ha hozzáadod Colint a Csapatodhoz, testreszabhatod ezeket az Autosculpt-alkatrészeket.
+0	AUTO	PART_WHEEL_ADR_1	ADR ADRENALINE
+0	AUTO	PART_WHEEL_ADR_2	ADR EMPIRE
+0	AUTO	PART_WHEEL_ADR_3	ADR GT-SPORT
+0	AUTO	PART_WHEEL_ADR_4	ADR M SPORT
+0	AUTO	PART_WHEEL_ADR_5	ADR SOKUDO8
+0	AUTO	PART_WHEEL_BBS_1	BBS GT
+0	AUTO	PART_WHEEL_BBS_2	BBS RS GT
+0	AUTO	PART_WHEEL_BBS_3	BBS LM
+0	AUTO	PART_WHEEL_BBS_4	BBS CH
+0	AUTO	PART_WHEEL_BBS_5	BBS RK
+0	AUTO	PART_WHEEL_BBS_6	BBS RX
+0	AUTO	QR_ERROR_DOWNLOADING_GHOST_DATA	Hiba az Edzőautó letöltése során!
+0	AUTO	PART_WHEEL_HRE_1	HRE 943R
+0	AUTO	PART_WHEEL_HRE_2	HRE 541R
+0	AUTO	PART_WHEEL_HRE_3	HRE 549R
+0	AUTO	OL_BUTTON_PLAYER_FILTER	Játékosszűrő
+0	AUTO	MENU_QUICKRACE_OPTIONS_WINGMEN	Csapattárs
+0	AUTO	PART_WHEEL_TSW_1	TSW MONDELLO
+0	AUTO	PART_WHEEL_TSW_2	TSW ROCKET 5
+0	AUTO	PART_WHEEL_TSW_3	TSW LAGUNA
+0	AUTO	ON_ERROR_BAD_USERNAME	A felhasználónév érvénytelen. Legalább 4 karaktert (nem szóköz) tartalmazzon, vagy legfeljebb 14 karaktert (szóközökkel). Csak betűket, számokat és szóközöket tartalmazhat.
+0	AUTO	STAT_COST_TO_STATE_SINGLE	Okozott kár (egyetlen üldözés)
+0	AUTO	CHAL_SPLIT_MODE_TRANSMISSION_PROMPT	%s: kézi vagy automata váltót szeretnél használni?
+0	AUTO	WINGMAN_DESC_CAREER_NEVILLE	+200 készpénzbónusz győzelmenként^
+0	AUTO	MARKER_CATEGORY_DESC_PARTS	Ezek a kártyák tartalmazhatnak bármilyen fejlesztést a karosszériakészletektől a tetőnyílásokon és kerekeken át a motorháztetőkig és légterelőkig.
+0	AUTO	MC_CONFIRM_CREATE_PROFILE_AUTOLOGIN	Létrehozol új személyiséget az automatikus bejelentkezési információ tárolásához?
+0	AUTO	CREW_MENU_VIEW_BIO_VIDEO	Életrajz videó megtekintése
+0	AUTO	STAT_BEST_DRIFT_DISTANCE	Leghosszabb drift
+0	AUTO	CARNAME_RENAULT_CLIO	Renault Clio V6
+0	AUTO	ON_PC_MSG_GAMESETUP_INSTRUCTION	A Játék beállítása képernyőn játékmeghívásokat küldhetsz haveroknak, kocsikat választhatsz és más játékosokkal cseveghetsz. A Játékirányító beállíthatja a játék jellemzőit, majd a SZÓKÖZ billentyű megnyomásával léphet tovább a Játékszobába. A Játékszobában más online játékosok csatlakoznak a versenyhez, mielőtt az megkezdődik.
+0	AUTO	STAT_PERC_AS_RACER	%% versenyzőként
+0	AUTO	CARNAME_TOYOTA_SUPRA	Toyota Supra
+0	AUTO	CUST_PARTS_DIALOG_TITLE	Válassz egy standard vagy Autosculpt-alkatrészt
+0	AUTO	MC_CONFIRM_DESTRUCTIVE_LOAD	Az új személyiség betöltése a jelenlegi személyiség minden nem mentett változtatásának elvesztését eredményezi. Biztos, hogy új személyiséget akarsz betölteni?
+0	AUTO	RC_WIN_25_CAREER_RACES_DESCRIPTION	Meg kell nyerned huszonöt versenyt Karriermódban
+0	AUTO	CUST_PARTS_TOP	ALACSONY TETŐ
+0	AUTO	CUST_PARTS_EXHAUST	KIPUFOGÓVÉGEK
+0	AUTO	RC_WIN_10_CAREER_RACES_DESCRIPTION	Meg kell nyerned tíz versenyt Karriermódban
+0	AUTO	CUST_PARTSELECT_TITLE	*AUTOSCULPT-ALKATRÉSZ*
+0	AUTO	CHAL_HEADER_BRONZE	Bronz
+0	AUTO	CUST_VINYL_GROUP_DECALS	MATRICÁK
+0	AUTO	CUST_PARTS_RIMS	KEREKEK
+0	AUTO	PERFORMANCE_TUNE_HELP_SUPERCHARGER	A kompresszor alkatrészeinek tuningja befolyásolja a kompresszor méretét. A kisebb alkatrészek gyorsabban beindítják a kompresszort, de a teljese ereje kevesebb lesz, mint a lassabban beinduló nagy kompresszoroké.
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_PS2	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game on the memory card (PS2) in MEMORY CARD slot 1 when the Autosave icon flashes as follows.
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_PS3	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game to the HDD when the Autosave icon flashes as follows.
+0	AUTO	PART_KIT01_REAR_BUMPER	STAG
+0	AUTO	MENU_CAR_CLASS_MODE_TEST_RACE	Tesztverseny
+0	AUTO	PART_KIT06_FRONT_BUMPER	CHICANE
+0	AUTO	EA_TRAX_CAR_CLASS_FILTER_DO_NOT_USE	Minden szám
+0	AUTO	LANG_MEXICAN_NO_TRANSLATION	ESPAÑOL
+0	AUTO	CUST_VINYL_GROUP_SPECIAL	KÜLÖNLEGES
+0	AUTO	NGC_ALIAS_MAX	
+0	AUTO	MENU_MAIN_CAREER	KARRIER
+0	AUTO	CUST_VISUAL_NOLAYERS	ADJ HOZZÁ EGY RÉTEGET
+0	AUTO	MENU_MAIN_CHALLENGE	KIHÍVÁSSOROZAT
+0	AUTO	CHAL_UNLOCK_REQUIREMENT	E kihívás feloldásához teljesítsd a következőt: %s %s
+0	AUTO	QR_INFO_CAR_NAME	Autó neve
+0	AUTO	QR_INFO_CAR_TYPE	Autótípus
+0	AUTO	CUST_VINYL_GROUP_BONUS	BÓNUSZ
+0	AUTO	CHAL_CREW_MODE_SPLIT	Osztott képernyő
+0	AUTO	STAT_CARS_SOLD	Eladott kocsik száma
+0	AUTO	WII_CONTROLLER_SAFETY	
+0	AUTO	STAT_BEST_SCORE	Legjobb versenypontszám
+0	AUTO	CREW_VINYL_EDIT	A csapattagok autóira előre felrakott fóliákat nem szerkesztheted.
+0	AUTO	CARNAME_ASTON_MARTIN_DB9	Aston Martin DB9
+0	AUTO	CM_SET_AS_WINGMAN	Beállítás aktívra
+0	AUTO	STAT_BEST_LAP_TIME	Legjobb köridő
+0	AUTO	CART_ITEM_DESC_AS_FRONT_WHEEL	AUTOSCULPT KEREKEK
+0	AUTO	PART_WHEEL_5ZIGEN_1	5ZIGEN FN01R
+0	AUTO	PART_WHEEL_5ZIGEN_2	5ZIGEN SUPERSIX
+0	AUTO	PART_WHEEL_5ZIGEN_3	5ZIGEN 5ZR
+0	AUTO	PART_WHEEL_5ZIGEN_4	5ZIGEN GN+
+0	AUTO	PART_WHEEL_5ZIGEN_5	5ZIGEN GRAVIS 1
+0	AUTO	MENU_CM_UNLOCK_NEW_CREW	Új csapattag vált elérhetővé. Az új csapattagot a Csapatom oldalon fogadhatod fel.
+0	AUTO	CARNAME_NISSAN_SKYLINE	Nissan Skyline GT-R R34
+0	AUTO	PART_SPA_DECAL_141	Carbono Logo
+0	AUTO	CUST_PERF_MENU_NITROUS	NITRÓ
+0	AUTO	MC_CONFIRM_SAVE_PROFILE	Biztosan el akarod menteni a személyiséget?
+0	AUTO	MENU_MAIN_STATISTICS	STATISZTIKÁK
+0	AUTO	MENU_QUICKRACE_OPTIONS_MAX_OPPONENTS	Legtöbb ellenfél
+0	AUTO	WINGMAN_DESC_CAREER_SAL	Autosculpt karosszériaelemeket, motorháztetőket és tetőnyílásokat tesz elérhetővé.
+0	AUTO	CUST_MAINMENU_RIDEHEIGHT_TITLE	*HASMAGASSÁG*
+0	AUTO	PART_KIT01_SKIRT	STAG
+0	AUTO	MARKER_NAME_VINYLS	Egyedi fólia
+0	AUTO	QUICK_RACE_TITLE_SPEEDTRAP	*TRAFFIPAX*
+0	AUTO	MENU_CM_POOL_EMTPY	Nincsenek felbérelhető csapattagok.
+0	AUTO	STAT_SPIKE_STRIPS_DODGED_TOTAL	Elkerült Abroncslyukasztók (összes)
+0	AUTO	MARKER_NAME_DESCRIPTION_BODYKIT	Egy egyedi karosszériakészlet bármelyik autódra.
+0	AUTO	WINGMAN_DESC_RACE_YUMI	25%%-kal több nitró^
+0	AUTO	CARNAME_MERCEDES_SL65	Mercedes-Benz SL65 AMG
+0	AUTO	CUST_AUTOSCULPT_ZONE10	10. zóna
+0	AUTO	STAT_RACES_LOST	Elveszített versenyek
+0	AUTO	CUST_MAINMENU_VISUALS_TITLE	*LÁTVÁNY MENÜ*
+0	AUTO	MARKER_NAME_RELEASE	Autó kiváltása a lefoglalásból
+0	AUTO	MARKER_NAME_REDUCE_HEAT	Hírhedtség csökkentése
+0	AUTO	PART_WHEEL_CL_1	CENTER LINE DAGGER
+0	AUTO	PART_WHEEL_CL_2	CENTER LINE INDY
+0	AUTO	PART_WHEEL_CL_3	CENTER LINE RETRO
+0	AUTO	PART_WHEEL_CL_4	CENTER LINE VIKING
+0	AUTO	PART_WHEEL_OZ_1	O.Z. SUPERLEGGERA
+0	AUTO	PART_WHEEL_OZ_2	O.Z. SUPERTURISMO
+0	AUTO	PART_WHEEL_OZ_3	O.Z. OPERA
+0	AUTO	PART_WHEEL_OZ_4	O.Z. SUPERLEGGERA III
+0	AUTO	PART_WHEEL_OZ_5	O.Z. LEONARDO
+0	AUTO	STAT_NUM_BUSTS	Letartóztatottak száma
+0	AUTO	CREW_MENU_FIRE	Kirúgás
+0	AUTO	PART_KIT02_FRONT_BUMPER	SWEEPER
+0	AUTO	CREW_BIO_INFO_HEIGHT	Magasság:
+0	AUTO	CREW_TITLE_HIRE_CREW_MEMBER	*CSAPATTAG FELFOGADÁSA*
+0	AUTO	CUST_MAINMENU_WHEEL_PAINT_TITLE	*KERÉKFESTÉS*
+0	AUTO	STAT_ROADBLOCKS_DODGED_TOTAL	Kikerült útlezárások (összes)
+0	AUTO	WII_SPLIT_PROMPT	
+0	AUTO	HELP_CREW_STYLE	Csapatstílus
+0	AUTO	PART_WHEEL_FOOSE_1	FOOSE SPEEDSTER
+0	AUTO	PART_WHEEL_FOOSE_2	FOOSE SPLITZ
+0	AUTO	PART_WHEEL_FOOSE_3	FOOSE NITROUS SILVER
+0	AUTO	CUST_VINYL_GROUP_NUMBER	SZÁMOK
+0	AUTO	MENU_QUICKRACE_OPTIONS_TRACKING_MODE	Verseny követése
+0	AUTO	RC_WIN_01_CAREER_RACES_DESCRIPTION	Meg kell nyerned egyetlen versenyt Karriermódban
+0	AUTO	MENU_MAIN_MY_CARS	AUTÓIM
+0	AUTO	CUST_VINYL_GROUP_TRIBALBODY	TÖRZSI MOTÍVUMOS
+0	AUTO	MARKER_CATEGORY_VISUAL	Egyedi vizuális elemek
+0	AUTO	MC_PROMPT_SAVE_AUTOLOGIN_INFO	Szeretnéd elmenteni az automatikus bejelentkezési információt a személyiséged számára?
+0	AUTO	DEBUG_MENUSCREEN	Menu Screen
+0	AUTO	MY_CARS_TITLE	*AUTÓIM*
+0	AUTO	CUST_VINYLS_MIRROR_OFF	Tükrözés ki
+0	AUTO	MARKER_CATEGORY_PARTS	Egyedi alkatrészek
+0	AUTO	CARNAME_DODGE_VIPER	Dodge Viper SRT-10
+0	AUTO	BOSS_BONUS_CARDS_INFO	Most választhatsz %$d bónuszkártyát innen: %s
+0	AUTO	CAREER_SELECT_CAR_CLASS_TITLE	*VÁLASSZ AUTÓOSZTÁLYT*
+0	AUTO	CAR_SELECT_DIALOG_CANNOT_AFFORD_CAR_NOTIFICATION	Nincs elég pénzed, hogy megvedd a kocsit. Meg kell még nyerned pár versenyt!
+0	AUTO	OL_STAT_LOSSES	Rangsorolt vereségek
+0	AUTO	CARNAME_SHELBY_GT500_67	Shelby GT500
+0	AUTO	STATS_DOWNLOADING	Játékos online statisztikáinak letöltése...
+0	AUTO	CAR_CLASS_TESTING_SKIP_TRANSMISSION	Ez csak próba, nem fontos nyerni. Érezd jól magad.
+0	AUTO	CUST_VINYL_INNER_SHADOW_0	BELSŐ ÁRNYÉK
+0	AUTO	CUST_MAINMENU_RIM_PAINT	KERÉKFESTÉS
+0	AUTO	MARKER_NAME_DESCRIPTION_TRANSMISSION	Egyedi sebváltóalkatrész bármelyik autódra.
+0	AUTO	REWARDS_OBJECTIVE_HEADER	Miniküldetés
+0	AUTO	STAT_FINISH_TIME	Befejezés ideje
+0	AUTO	MAIN_CARSELECT	AUTÓ VÁLASZTÁSA
+0	AUTO	HELP_OFFLINE_REWARDS	Jutalomkártyák
+0	AUTO	CARNAME_CHEVROLET_CAMARO	Chevrolet Camaro SS
+0	AUTO	STAT_BEST_SPEEDTRAP	Legjobb traffipax
+0	AUTO	CART_ITEM_DESC_AS_ROOF_SCOOP	AUTOSCULPT TETŐNYÍLÁS
+0	AUTO	WINGMAN_DESC_CAREER_COLIN	Autosculpt kerekeket, kipufogókat, légterelőket és alacsony tetőt tesz elérhetővé.
+0	AUTO	WINGMAN_DESC_CAREER_YUMI	10%% kedvezmény minden teljesítményalkatrészre^
+0	AUTO	WINGMAN_DESC_CAREER_NIKKI	10%% kedvezmény minden autóvásárlásnál^
+0	AUTO	CROSS_SELL_NBA_LIVE	NBA LIVE 07
+0	AUTO	CHAL_HEADER_SILVER	Ezüst
+0	AUTO	STAT_ROADBLOCKS_DODGED	Kikerült útelzárások (egyetlen üldözés)
+0	AUTO	CARNAME_SUBARU_IMPREZZAWRX	Subaru Impreza WRX STi
+0	AUTO	CUST_MAINMENU_WINDOW_TINT_TITLE	*ABLAKSZÍNEZÉS*
+0	AUTO	CUST_PARTS_EXHAUST_TITLE	*KIPUFOGÓVÉGEK*
+0	AUTO	PART_KIT08_SKIRT	SPEEDWAY
+0	AUTO	MARKER_NAME_DESCRIPTION_IMPOUND	Lehetőséged van a megengedett lefoglalásszámot eggyel növelni bármelyik autódon. A maximális lefoglalásszám autónként 5 lehet.
+0	AUTO	CUST_MAINMENU_PAINT	FESTÉS
+0	AUTO	CUST_MAINMENU_PARTS	ALKATRÉSZPIAC
+0	AUTO	PART_WHEEL_ROJA_1	RO_JA FORMULA 1
+0	AUTO	PART_WHEEL_ROJA_2	RO_JA FORMULA 7
+0	AUTO	PART_WHEEL_ROJA_3	RO_JA FORMULA 2
+0	AUTO	CUST_MAINMENU_TITLE	*TESTRESZABÁS*
+0	AUTO	MENU_QUICKRACE_TOP_ONLINE_GHOST	Jelenlegi legjobb Edzőautója
+0	AUTO	CARNAME_MAZDA_MAZDASPEED3	Mazda3 MPS
+0	AUTO	CAR_SELECT_DIALOG_RETURN_TO_FREE_ROAM	Szeretnél visszatérni a Szabad Kóborláshoz?
+0	AUTO	CAR_SELECT_LEAVE_SHOP	Üzlet elhagyása
+0	AUTO	MENU_CREW_LOGO_SAVE_CONFIRM	Biztos, hogy elmented ezt a logót?
+0	AUTO	MENU_CAREER_CUSTOMIZE_LOGO	LOGÓ TESTRESZABÁSA
+0	AUTO	PART_KIT08_REAR_BUMPER	SPEEDWAY
+0	AUTO	CUST_PERF_SLIDERS_TITLE	*TUNING: %s*
+0	AUTO	STAT_RACE_TITLE	*VERSENY*
+0	AUTO	STAT_TOP_SPEED	Legnagyobb csúcssebesség
+0	AUTO	VINYLS_MEMORY_WARNING2	Nem adhatod hozzá ezt a fóliát. Csinálj helyet egy pár régebben feltett fólia eltávolításával.
+0	AUTO	CART_ITEM_DESC_AS_SKIRT	AUTOSCULPT OLDALSZOKNYÁK
+0	AUTO	CASTROL_CHEAT_UNLOCK_MSG	Castrol jutalmat nyertél!
+0	AUTO	STAT_BEST_CHAIN_DRIFT_SCORE	Legjobb láncdrift pontszám
+0	AUTO	QR_INFO_TYPE	Típus
+0	AUTO	MAIN_MENU_TITLE_CREWS	*CSAPAT*
+0	AUTO	MARKER_NAME_DESCRIPTION_SPOILER	Egyedi légterelő bármelyik autódra.
+0	AUTO	QUICK_RACE_TITLE_CAR_SELECT	*AUTÓ VÁLASZTÁSA*
+0	AUTO	PART_WHEEL_VOLK_1	VOLK TE37
+0	AUTO	PART_WHEEL_VOLK_2	VOLK CE28
+0	AUTO	PART_WHEEL_VOLK_3	VOLK GT-P
+0	AUTO	DEMO_AUTOMOTIVE_LEGAL2_PAL	
+0	AUTO	CUST_AUTOSCULPT	Autosculpt
+0	AUTO	CUST_PAINT_GROUP_IRIDESCENT	SZIVÁRVÁNYSZÍN
+0	AUTO	STAT_RACES_WON	Megnyert versenyek
+0	AUTO	CUST_VINYL_GROUP_FLAMEBODY	LÁNG
+0	AUTO	PART_WHEEL_WORK_1	WORK VS SS
+0	AUTO	PART_WHEEL_WORK_2	WORK VS-KF
+0	AUTO	PART_WHEEL_WORK_3	WORK EUROLINE S2H
+0	AUTO	PART_WHEEL_WORK_4	WORK EUROLINE FE
+0	AUTO	STAT_BEST_SINGLE_SCORE	Legjobb egyéni traffipax
+0	AUTO	CREW_BIO_INFO_RACE_STYLE	Versenystílus:
+0	AUTO	MARKER_NAME_PINKSLIP	Főnökkocsi papírjai
+0	AUTO	PART_WHEEL_TENZO_1	TENZO PSYCHO
+0	AUTO	PART_WHEEL_TENZO_2	TENZO RS-5
+0	AUTO	PART_WHEEL_TENZO_3	TENZO SHU 10
+0	AUTO	WINGMAN_DESC_CAREER_SAMSON	Minden körzetedben csökkenti a Hírhedtséget^
+0	AUTO	STATS_ERROR_DOWNLOADING_XBOX	Hiba a játékos Xbox Live statisztikáinak letöltése során.
+0	AUTO	CHEAT_UNLOCK_1	2005 Aston Martin DB9 Elérhető!
+0	AUTO	CHEAT_UNLOCK_2	2006 Dodge Charger SRT8 Elérhető!
+0	AUTO	CHEAT_UNLOCK_3	Minden Pálya Elérhető!
+0	AUTO	CHAL_INFO_TRACK	Pálya
+0	AUTO	CART_ITEM_DESC_VINYLS	ÚJ ELRENDEZÉS
+0	AUTO	STAT_BEST_LAP	Legjobb kör
+0	AUTO	CTRL_UNPLUGGED_BOOT_PS2	Nincs vezérlő csatlakoztatva.^Kérjük, a folytatáshoz helyezz be egy vezérlőt.
+0	AUTO	CLASS_EXOTIC_DESCRIPTION	Az egzotikumok: letisztult versenyautók. Leggyengébb pontjuk a sofőr, ezért ha úgy érzed, képes vagy tökéletesen kiegyensúlyozni a gáz és a fék használatát, a többit már elvégzi az autó.
+0	AUTO	HELP_VIEW_GAMER_CARD	Játékoskártya megtekintése
+0	AUTO	MY_CARS_DELETE_CAR_HELP	Autó törlése
+0	AUTO	STAT_CARS_UNLOCKED	Elérhetővé tett kocsik száma
+0	AUTO	WII_CONTROL_SCREEN_INFO_6	
+0	AUTO	CUST_MAINMENU_PAINT_TITLE	*FESTÉS*
+0	AUTO	STAT_HEADER_GAMES_PLAYED	Lejátszott versenyek
+0	AUTO	CUST_AUTOSCULPT_ERROR	Broken Autosculpt Art
+0	AUTO	CUST_AUTOSCULPT_TITLE	*AUTOSCULPT*
+0	AUTO	CUST_AUTOSCULPT_ZONE1	1. zóna
+0	AUTO	CUST_AUTOSCULPT_ZONE2	2. zóna
+0	AUTO	CUST_AUTOSCULPT_ZONE3	3. zóna
+0	AUTO	CUST_AUTOSCULPT_ZONE4	4. zóna
+0	AUTO	CUST_AUTOSCULPT_ZONE5	5. zóna
+0	AUTO	CUST_AUTOSCULPT_ZONE6	6. zóna
+0	AUTO	CUST_AUTOSCULPT_ZONE7	7. zóna
+0	AUTO	CUST_AUTOSCULPT_ZONE8	8. zóna
+0	AUTO	CUST_AUTOSCULPT_ZONE9	9. zóna
+0	AUTO	CAREER_SELECT_CAR_CLASS_HELP	Autóosztály kiválasztása
+0	AUTO	CUST_PART_MISSINGSTRING	Missing Part String
+0	AUTO	CUST_PAINT_GROUP_METALLIC	FÉMES
+0	AUTO	LANG_FINNISH_NO_TRANSLATION	SUOMI
+0	AUTO	PART_KIT07_FRONT_BUMPER	SLIPSTREAM
+0	AUTO	COMMON_RACETYPE_PURSUIT_KNOCKOUT	Kiütéses üldözés
+0	AUTO	CAR_CLASS_INTRO	A Cross elől való menekülés közben összetörted a kocsid. Most válassz és próbálj ki egy autóosztályt, amellyel kezdeni szeretnéd a Karrieredet. E választás meghatározza, milyen autókat és alkatrészeket tehetsz elérhetővé, amikor területeket hódítasz meg.
+0	AUTO	GAME_OVER_TITLE	*VÉGE A JÁTÉKNAK*
+0	AUTO	CAR_CLASS_TUNER	Tuning
+0	AUTO	PART_KIT05_REAR_BUMPER	ARASHI
+0	AUTO	DEF_RACE_INFO_LAPS	Körök:
+0	AUTO	DEF_RACE_INFO_TYPE	Típus:
+0	AUTO	BOSS_BONUS_CARDS_SELECTIONS_LEFT	Megmaradt választások: %$d
+0	AUTO	PS2_START_MESSAGE	Kérjük, nyomd meg a START gombot a második vezérlőn.
+0	AUTO	MARKER_CATEGORY_DESC_PERFORMANCE	A teljesítményfejlesztés kártyák a következőket tartalmazhatják: felfüggesztés, gumik, fékek, motor, sebváltó, nitró, turbó vagy kompresszor.
+0	AUTO	DIALOG_MSG_CONFIRM_START_NEW_CAREER	Biztos, hogy új játékot akarsz kezdeni? Jelenlegi Karrierállásod elveszik.
+0	AUTO	STAT_BEST_CLOCKED_SPEEDTRAP	Legnagyobb mért sebesség
+0	AUTO	PART_KIT10_FRONT_BUMPER	KLASSZIKUS
+0	AUTO	PART_KIT05_SKIRT	ARASHI
+0	AUTO	OL_TITLE_LEADERBOARD	*RANGLISTA*
+0	AUTO	OL_CD_KEY_REGISTRATION_TITLE	*CD KULCS*
+0	AUTO	COMMON_FINISHED	Befejez
+0	AUTO	CREW_BIO_INFO_SKILL	KÉPZETTSÉG:
+0	AUTO	MENU_QUICKRACE_OPTIONS_PRACTICE	Nem rangsorolt
+0	AUTO	BOSS_BONUS_CARDS_TITLE	*FŐNÖK BÓNUSZKÁRTYÁK*
+0	AUTO	CARNAME_MITSUBISHI_LANCEREVO9	Mitsubishi Lancer
+0	AUTO	OL_STAT_TOTAL_DISCONNECT_PERCENT	Teljes kilépési %
+0	AUTO	ON_TITLE_SELECT_TRANSMISSION	*SEBVÁLTÓ VÁLASZTÁSA*
+0	AUTO	LANG_DUTCH	Holland
+0	AUTO	LANG_ITALIAN_NO_TRANSLATION	ITALIANO
+0	AUTO	MARKER_NAME_DESCRIPTION_FREEBAIL	Ingyen kijutsz a sittről, amikor legközelebb elkapnak.
+0	AUTO	MC_PROMPT_CREATE_CAREER	Új személyiséget kell létrehoznod az új Karrier elkezdéséhez. Kívánsz új személyiséget létrehozni?
+0	AUTO	MARKER_NAME_CASH	Extra pénzjutalom
+0	AUTO	MARKER_NAME_HOOD	Egyedi motorháztető
+0	AUTO	MARKER_NAME_RIMS	Egyedi kerekek
+0	AUTO	MARKER_NAME_TIRE	Egyedi gumik
+0	AUTO	LEADERBOARD_TOP_SPEED	Csúcssebesség
+0	AUTO	STATS_ERROR_DOWNLOADING	Hiba a játékos online statisztikáinak letöltése során.
+0	AUTO	MENU_CREW_LOGO_HELP	Itt választhatod ki a Csapatod logóját, mely a térképen és másutt látható majd. A Testreszabás Fóliák menüjében az autódon is elhelyezheted.
+0	AUTO	SELECT_LANGUAGE	VÁLASSZ NYELVET
+0	AUTO	CUST_VINYL_GROUP_BOSS	FŐNÖK
+0	AUTO	CUST_VINYL_GROUP_CREW	CSAPATLOGÓ
+0	AUTO	CUST_VINYL_GROUP_LOGO	LOGÓ
+0	AUTO	CUST_PART_PURCHASED	MEGVÉVE
+0	AUTO	CUST_MAINMENU_AUTOSCULPT	AUTOSCULPT
+0	AUTO	DEBUG_ICONSCROLLER	ICON SCROLLER(DEBUG)
+0	AUTO	CART_ITEM_DESC_AS_HOOD	AUTOSCULPT MOTORHÁZTETŐ
+0	AUTO	CART_ITEM_DESC_AS_ROOF	AUTOSCULPT ALACSONY TETŐ
+0	AUTO	CREW_BIO_INFO_NAME	Név:
+0	AUTO	CREW_BIO_INFO_ROLE	SZEREP:
+0	AUTO	CREW_BIO_INFO_TYPE	TÍPUS:
+0	AUTO	MENU_CAREER_CUSTOMIZE	TESTRESZABÁS
+0	AUTO	CUST_MAINMENU_HEADLIGHT_COLOR	FÉNYSZÓRÓ SZÍNE
+0	AUTO	CARNAME_DODGE_CHARGER06	Dodge Charger SRT8
+0	AUTO	CARNAME_DODGE_CHARGER69	Dodge Charger R/T
+0	AUTO	MARKER_NAME_DESCRIPTION_PAINT	Egyedi festés bármelyik kocsidra.
+0	AUTO	CUST_PERF_MENU_BRAKES	FÉKEK
+0	AUTO	OL_TITLE_ONLINE_REWARD_CARDS	*ONLINE JUTALOMKÁRTYA*
+0	AUTO	COMMON_CAMERA_CONTROLS_EXIT	KILÉPÉS A KAMERAIRÁNYÍTÁSBÓL
+0	AUTO	CUST_MAINMENU_HEADLIGHT_TITLE	*FÉNYSZÓRÓ SZÍNE*
+0	AUTO	CAR_SELECT_DIALOG_ADD_IMPOUND_BOX_NO_CARD	Egyetlen Lefoglalási lehetőségek növelése kártyád sincs. Teljesíts versenyeket, hogy megszerezd őket.
+0	AUTO	CUST_VINYL_DROP_SHADOW_0	Árnyékolás 0
+0	AUTO	SHOPPING_CART_DLG_INSTALL	Biztosan meg akarod venni ezeket az alkatrészeket?
+0	AUTO	LANG_DANISH_NO_TRANSLATION	DANSK
+0	AUTO	PART_KIT03_FRONT_BUMPER	SHADOW
+0	AUTO	DEBUG_TEXTSCROLLER	Text Scroller
+0	AUTO	OL_STAT_WINS	Rangsorolt győzelmek
+0	AUTO	CUST_MAINMENU_VISUALS	LÁTVÁNY
+0	AUTO	PART_KIT02_REAR_BUMPER	SWEEPER
+0	AUTO	ON_MESSENGER_GAME_INVITE_CANCELLED	%s visszavonta a játékmeghívást.^
+0	AUTO	MC_OLD_SAVE_REWARD	Köszönjük, hogy játszottál a korábbi Need for Speed™ játékokkal. Hűségedért 10 000 jutalmat kapsz Karriermódban.
+0	AUTO	STAT_COPS_DISABLED_TOTAL	Kiiktatott zsaruk (összes)
+0	AUTO	PART_WHEEL_AMERICAN_1	AMERICAN RACING SHELBY RAZOR
+0	AUTO	PART_WHEEL_AMERICAN_2	AMERICAN RACING TORQ-THRUST II
+0	AUTO	PART_WHEEL_AMERICAN_3	AMERICAN RACING TORQ-THRUST ST
+0	AUTO	STAT_QUICK_RACE_WINS	Gyorsverseny-győzelmek száma
+0	AUTO	MARKER_NAME_DESCRIPTION_BRAKES	Egyedi fékalkatrészek bármelyik autódra.
+0	AUTO	CAR_CLASS_EXOTIC	Egzotikus
+0	AUTO	MARKER_NAME_DESCRIPTION_REDUCE_HEAT	Valamelyik autód Hírhedtséget lenullázhatod.
+0	AUTO	CHAL_INFO_BEST_SCORE	Legjobb pontszám
+0	AUTO	CHAL_INFO_BEST_SPEED	Legnagyobb sebesség
+0	AUTO	MARKER_NAME_DESCRIPTION_CHASSI	Egyedi felfüggesztés-alkatrész bármelyik autódra.
+0	AUTO	MENU_RESUME_CAREER	VISSZA A KARRIERHEZ
+0	AUTO	MENU_QUICKRACE_OPTIONS_CATCH_UP	Felzárkózás
+0	AUTO	QUICK_RACE_INFO_ACCELERATION	GYORSULÁS
+0	AUTO	CUST_PERF_MENU_ENGINE	MOTOR
+0	AUTO	PART_WHEEL_AUTOSCULPT_1	CARBON MO5
+0	AUTO	PART_WHEEL_AUTOSCULPT_2	CARBON HEX
+0	AUTO	PART_WHEEL_AUTOSCULPT_3	CARBON REDLINE
+0	AUTO	PART_WHEEL_AUTOSCULPT_4	CARBON GLITZ
+0	AUTO	PART_WHEEL_AUTOSCULPT_5	CARBON ST-8
+0	AUTO	PART_WHEEL_AUTOSCULPT_6	CARBON MULTI
+0	AUTO	PART_WHEEL_AUTOSCULPT_7	CARBON SF15
+0	AUTO	PART_WHEEL_AUTOSCULPT_8	CARBON RAZOR
+0	AUTO	PART_WHEEL_AUTOSCULPT_9	CARBON ST-5
+0	AUTO	WINGMAN_DESC_RACE_NEVILLE	Versenyek után nem nő a körzet Hírhedtsége^
+0	AUTO	STAT_TIMES_BUSTED	Lebukások száma
+0	AUTO	PART_WHEEL_IFORGED_1	IFORGED AERO
+0	AUTO	PART_WHEEL_IFORGED_2	IFORGED EVOLUTION
+0	AUTO	PART_WHEEL_IFORGED_3	IFORGED MARQUIS
+0	AUTO	CART_ITEM_DESC_BODY	KAROSSZÉRIA
+0	AUTO	CUST_MOVELAYER_UP	Réteg mozgatása felfelé
+0	AUTO	MARKER_NAME_DESCRIPTION_DECALS	Egyedi matrica bármelyik autódra.
+0	AUTO	CARNAME_FORD_FORDGT	Ford GT
+0	AUTO	CUST_IN_SHOPPING_CART	KOSÁRBAN
+0	AUTO	MC_CONFIRM_DESTRUCTIVE_CREATE_PROFILE	Az új személyiség létrehozása a jelenlegi személyiség minden nem mentett változtatásának elvesztését eredményezi. Biztosan új személyiséget akarsz létrehozni?
+0	AUTO	XBOX_START_MESSAGE	Kérjük, nyomd meg a START gombot a második vezérlőn.
+0	AUTO	CARNAME_LEXUS_IS300	Lexus IS300
+0	AUTO	CUSTOMIZATION_MEMORY_WARNING	Nem csinálhatsz több testreszabást. Törölnöd kell valamelyik meglévő kocsidat, ha a többit tovább akarod alakítani.
+0	AUTO	ON_PROTO_DLC	DLC
+0	AUTO	MARKER_NAME_DESCRIPTION_ENGINE	Egyedi motor-alkatrész bármelyik autódra.
+0	AUTO	MENU_CM_CANT_FIRE	Legalább egy csapattaggal kell rendelkezned.
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_PC	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game when the Autosave icon flashes as follows.
+0	AUTO	MARKER_NAME_BODYKIT	Egyedi karosszériaelem-készletek
+0	AUTO	PART_KIT02_SKIRT	SWEEPER
+0	AUTO	STAT_CHALLENGE_SERIES_COMPLETION	Kihívássorozat teljesítve
+0	AUTO	OL_STAT_WINS_PERCENT	Gyözelmi %
+0	AUTO	VINYL_PART_MANUFACTURER_SHELBYVINTAGE	SHELBY
+0	AUTO	MARKER_NAME_ROOFSCOOPS	Egyedi tetőnyílás
+0	AUTO	LANG_CZECH_NO_TRANSLATION	ČEŠTINA
+0	AUTO	MENU_CM_CREW_FULL	Csapatod már teljes létszámú. Csak akkor vehetsz fel új tagot, ha egy régit kirúgsz.
+0	AUTO	SECONDARY_ROLE_MECHANIC_DESC	kicks your car when broken
+0	AUTO	STAT_DRIFT_LENGTH	Drift hossza
+0	AUTO	MC_ENTER_NAME	*ÍRD BE A NEVED*
+0	AUTO	MENU_CAREER_CHALLENGES	KIHÍVÁSOK
+0	AUTO	NGC_START_MESSAGE	2. játékos, nyomd meg a START gombot!
+0	AUTO	CUST_MAINMENU_PERFORMANCE	TELJESÍTMÉNY
+0	AUTO	CAR_SELECT_HEAT_COST	Hírhedtség csökkentésének ára:
+0	AUTO	CUST_MAINMENU_MARKETPLACE	XBOX LIVE PIACTÉR
+0	AUTO	QUICK_RACE_INFO_HANDLING	KEZELHETŐSÉG
+0	AUTO	MENU_CAR_CLASS_MODE_TYPE	Szeretnéd tesztversenyen kipróbálni ezt az autóosztályt, vagy ki akarod választani?
+0	AUTO	CONTROLLER_CFG_STEER_LEFT	Kormány balra
+0	AUTO	MENU_CAREER_START_NEW_CAREER	ÚJ KARRIER ELKEZDÉSE
+0	AUTO	MC_AUTOSAVE_WARNING2_XBOX	Ne távolítsd el a kontrollert és ne kapcsold ki az Xbox konzolt, amikor az automatikus mentési ikon megjelenik. Ellenkező esetben az elmentett játékállás megsérülhet.
+0	AUTO	MARKER_CATEGORY_PERFORMANCE	Egyedi teljesítményfejlesztések
+0	AUTO	CUST_VINYL_GROUP_TWOTONE	KÉTTÓNUSÚ
+0	AUTO	CHAL_UNLOCKS	%s feloldása
+0	AUTO	CARNAME_MCLAREN_SLR	Mercedes-Benz SLR McLaren
+0	AUTO	MENU_COMMON_PM_SHOWCASE	KIRAKATTEREM
+0	AUTO	MARKER_NAME_SUPERCHARGER	Egyedi kompresszoralkatrész
+0	AUTO	MARKER_NAME_HUD	Egyedi műszerek
+0	AUTO	MARKER_NAME_NOS	Egyedi nitrórendszer
+0	AUTO	STAT_LONGEST_PURSUIT	Leghosszabb üldözés
+0	AUTO	MENU_QUICKRACE_OPTIONS_AI_OPPONENTS	Gépi ellenfelek
+0	AUTO	CHALLENGE_SERIES_DESC_112_CG	Nyerd meg a Downtown Körversenyt könnyű ellenfelek ellen!
+0	AUTO	CHALLENGE_SERIES_DESC_113_CG	Nyerd meg a Fortuna Körversenyt közepes ellenfelek ellen!
+0	AUTO	CHALLENGE_SERIES_DESC_114_CG	Nyerd meg a Silvertoni Körversenyt kemény ellenfelek ellen!
+0	AUTO	OL_SUBTITLE_RANK	Rang
+0	AUTO	MC_NO_PROFILES_FOUND	Nem találtunk személyiséget.
+0	AUTO	CHALLENGE_SERIES_DESC_130_CG	Nyerj egy Körversenyt a 142-es autópályán könnyű ellenfelekkel szemben!
+0	AUTO	CHALLENGE_SERIES_DESC_131_CG	Nyerj Körversenyt a Garcia Streeten közepes ellenfelekkel szemben!
+0	AUTO	CHALLENGE_SERIES_DESC_132_CG	Nyerj Körversenyt a 21-es úton kemény ellenfelekkel szemben!
+0	AUTO	CAR_CLASS_MUSCLE	Izom
+0	AUTO	CREW_TITLE_YOUR_CREW	*CSAPATOM*
+0	AUTO	CREW_MENU_VIEW_CREW_CAR	Autó megtekintése
+0	AUTO	QUICK_RACE_OPTIONS	Beállítások
+0	AUTO	LANG_SWEDISH_NO_TRANSLATION	SVENSKA
+0	AUTO	LANG_ENGLISH_NO_TRANSLATION	ENGLISH
+0	AUTO	STAT_WINS	Győzelmek
+0	AUTO	CHAL_INFO_LENGTH	Hossz
+0	AUTO	PC_INSTALLER_01	Nem található a CD-ROM
+0	AUTO	PC_INSTALLER_02	Nem található a fájl
+0	AUTO	PC_INSTALLER_03	Nem megfelelő Windows verzió
+0	AUTO	PC_INSTALLER_04	Debuggert észleltünk
+0	AUTO	PC_INSTALLER_05	Kérjük, helyezd be a megfelelő lemezt és válaszd az OK gombot az újrapróbálkozáshoz.
+0	AUTO	PC_INSTALLER_06	Kérjük, helyezd be a megfelelő lemezt és válaszd az OK gombot az alkalmazás újraindításához
+0	AUTO	PC_INSTALLER_07	Kapcsold ki a debuggert és próbáld újra
+0	AUTO	PC_INSTALLER_08	Sajnáljuk, ez a termék Win32s alatt nem támogatott
+0	AUTO	PC_INSTALLER_09	Kérjük, jelentkezz be adminisztrátori jogokkal és próbáld újra
+0	AUTO	PC_INSTALLER_10	Hozzáférés megtagadva
+0	AUTO	PC_INSTALLER_11	Kérjük vedd ki, majd helyezd vissza a lemezt és válaszd az OK-t az alkalmazás újraindításához.
+0	AUTO	PC_INSTALLER_12	DVD-ROM nem található
+0	AUTO	PC_INSTALLER_13	Kérjük, helyezd be a megfelelő lemezt és válaszd az OK gombot az újrapróbálkozáshoz.
+0	AUTO	PC_INSTALLER_14	Kérjük, helyezd be a megfelelő lemezt és válaszd az OK gombot az alkalmazás újraindításához
+0	AUTO	PC_INSTALLER_15	CD/DVD emulátort észleltünk
+0	AUTO	PC_INSTALLER_16	Kattints ide, hogy bővebben értesülj erről a hibáról
+0	AUTO	MARKER_CATEGORY_MISC	Bónuszkártyák
+0	AUTO	CUST_PAINT_GROUP_CHROME	KRÓM
+0	AUTO	CUST_VINYL_STROKE_0	ECSETVONÁS
+0	AUTO	CUST_VINYL_STROKE_1	ECSETVONÁS 1
+0	AUTO	CUST_VINYL_STROKE_2	ECSETVONÁS 2
+0	AUTO	CUST_VINYL_STROKE_3	ECSETVONÁS 3
+0	AUTO	CUST_VINYL_STROKE_4	ECSETVONÁS 4
+0	AUTO	CUST_VINYL_STROKE_5	ECSETVONÁS 5
+0	AUTO	CAREER_TEST_CAR_HELP	Autó tesztelése
+0	AUTO	CREW_BIO_INFO_AGE	Kor:
+0	AUTO	CREW_BIO_INFO_CAR	Autó
+0	AUTO	WII_BOOT_START	
+0	AUTO	STARTADVANCE_REV	a folytatáshoz
+0	AUTO	CUST_PARTS_HOODS	MOTORHÁZTETŐ
+0	AUTO	MENU_CM_FIRE_CONFIRMATION	Biztos, hogy el akarod küldeni a következő csapattagot: %s?
+0	AUTO	CUST_PARTS_SKIRT	SZOKNYA
+0	AUTO	CUST_PARTS_TITLE	*ALKATRÉSZMENÜ*
+0	AUTO	STAT_NUM_SAFEHOUSES_FOUND	Megtalált Rejtekhelyek
+0	AUTO	GAME_OVER_CARS_IMPOUNDED_DESC	Minden járművedet lefoglalták.
+0	AUTO	QUICK_RACE_TITLE_SPRINT	*SPRINT*
+0	AUTO	STAT_SPIKE_STRIPS_DODGED	Elkerült Abroncslyukasztók (egyetlen üldözés)
+0	AUTO	MARKER_NAME_IMPOUND	A büntetésszámhatár kitolása eggyel
+0	AUTO	STATS_DOWNLOADING_XBOX	Játékos Xbox Live statisztikáinak letöltése...
+0	AUTO	LANG_DANISH	Dán
+0	AUTO	DEMO_HELP_CLASS_INFO	Osztályinfó
+0	AUTO	CART_ITEM_DESC_AS_REAR_BUMPER	AUTOSCULPT HÁTSÓ LÖKHÁRÍTÓ
+0	AUTO	CUST_PARTS_HOODS_TITLE	*MOTORHÁZTETŐ*
+0	AUTO	CUST_MAINMENU_INSTALL	BEVÁSÁRLÓKOSÁR
+0	AUTO	STAT_PURSUITS_ESCAPED	Lerázások
+0	AUTO	REWARDS_COMPLETE_HEADER	Egészítsd ki az ikont a megszerzéshez:
+0	AUTO	QUICK_RACE_TITLE_KEEPAWAY	*TÁVOLTARTÁS*
+0	AUTO	STAT_CAREER_TIME	Teljes Karrieridő
+0	AUTO	STAT_CAREER_WINS	Megnyert Karrierversenyek
+0	AUTO	GAME_OVER_RELOAD_CURRENT_ALIAS	Jelenlegi személyiség betöltése
+0	AUTO	ON_LOGIN_NOT_REQUIRED	Nem kötelező
+0	AUTO	CREW_MENU_CUSTOMIZE	Testreszabás
+0	AUTO	PART_KIT09_SKIRT	G-FORCE
+0	AUTO	HELP_TEST_DRIVE	Tesztvezetés
+0	AUTO	QUICK_RACE_TITLE_TIMETRIAL	*IDŐKORLÁTOS VERSENY*
+0	AUTO	PART_KIT08_FRONT_BUMPER	SPEEDWAY
+0	AUTO	LANG_FRENCH	Francia
+0	AUTO	CUST_INSTALL	Felhelyezés
+0	AUTO	MARKER_NAME_SPOILER	Egyedi légterelő
+0	AUTO	LANG_GERMAN	Német
+0	AUTO	STAT_BEST_TIME_AS_RACER	Legjobb idő versenyzőként
+0	AUTO	CART_ITEM_NAME_VINYLS	FÓLIÁK
+0	AUTO	CUST_PARTS_ROOFSCOOPS_TITLE	*TETŐNYÍLÁSO*
+0	AUTO	MC_CONFIRM_TOO_MANY_PROFILES_TO_CREATE	Az elmenthető személyiségek száma meghaladta a maximumot.
+0	AUTO	QUICK_RACE_TITLE_PURSUIT_TAG	*FOGÓCSKA*
+0	AUTO	GAME_OVER_PLAYER_BUSTED_DESC	Elkaptak, és nincs nálad „Szabad elvonulás” kártya, sem pedig elég pénz a bírságok kifizetésére
+0	AUTO	MC_CONFIRM_TOO_MANY_PROFILES_TO_LIST	Nem jeleníthető meg minden személyiséged. Csak az utolsó 10 személyiség jelenik meg a képernyőn.
+0	AUTO	PART_KIT09_REAR_BUMPER	G-FORCE
+0	AUTO	MENU_OPTIONS_EATRAX	EA TRAX
+0	AUTO	MC_AUTOSAVE_WARNING_PC	A Need for Speed™ Carbon automatikus mentési funkcióval rendelkezik. A játékinformációk automatikusan mentésre kerülnek a játék közben, amikor az automatikus mentés ikon a következőképpen villog.
+0	AUTO	CAR_CLASS_EXIT_DIALOGUE	Ha kilépsz erről a képernyőről, visszatérsz a Főmenübe. Karriered fejlődése nem veszik el.
+0	AUTO	PART_WHEEL_LOWENHART_1	LÖWENHART XIR
+0	AUTO	PART_WHEEL_LOWENHART_2	LÖWENHART BR5
+0	AUTO	PART_WHEEL_LOWENHART_3	LÖWENHART LDR
+0	AUTO	PART_WHEEL_LOWENHART_4	LÖWENHART LC1
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_XBOX	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game on the Xbox hard disk when the Autosave icon flashes as follows.
+0	AUTO	ON_LOGIN_TOO_YOUNG	Nem vagy elég idős fiók létrehozásához!
+0	AUTO	MENU_QUICKRACE_OPTIONS_PLAYER_GHOST	Edzőautó-opció
+0	AUTO	CUST_VINYL_GROUP_MANUFACTURER	GYÁRTÓ
+0	AUTO	OL_STAT_TOTAL_GAMES	Összes rangsorolt játék
+0	AUTO	CUST_TUNING	Tuning
+0	AUTO	MC_AUTOSAVE_WARNING2_PC	Ne indítsd újra és ne kapcsold ki a számítógépet, amikor megjelenik az automatikus mentési ikon. Ellenkező esetben adatvesztés következhet be.
+0	AUTO	MC_AUTOSAVE_WARNING_NGC	Az automatikus mentéssel a játékban történő változások, beállítások és fejlődés automatikusan mentésre kerül. Az automatikus mentés megerősítés nélkül felülírja az adatokat. Az alábbi ikon villogásakor ne vedd ki a memory card egységet és ne nyomd meg a POWER gombot.
+0	AUTO	MC_AUTOSAVE_WARNING_PS2	A Need for Speed™ Carbon automatikus mentési funkcióval rendelkezik. A játékinformációk automatikusan mentésre kerülnek a MEMORY CARD hely 1 memory card (PS2) egységére, amikor az automatikus mentés ikon a következőképpen villog.
+0	AUTO	MC_AUTOSAVE_WARNING_PS3	
+0	AUTO	STAT_NUMBER_BUSTS	Lebuktatások
+0	AUTO	MARKER_NAME_DESCRIPTION_VINYLS	Egyedi fólia bármelyik autódra.
+0	AUTO	CUST_PARTS_BODY_KIT	KAROSSZÉRIA
+0	AUTO	CART_ITEM_DESC_AS_FRONT_BUMPER	AUTOSCULPT ELSŐ LÖKHÁRÍTÓ
+0	AUTO	MENU_CM_UNLOCK_NEW_CREW_NO_ROOM	Új csapattag vált elérhetővé, de a Csapatod teljes létszámú. Akkor bérelheted felé az új csapattagot, ha kirúgsz egy másikat a jelenlegiek közül a Csapatom képernyőn.
+0	AUTO	CARNAME_DODGE_VINTAGE_CHALLENGER71	Dodge Challenger
+0	AUTO	DEBUG_WIDGETMENU	Widget Menu
+0	AUTO	STAT_COLLISIONS	Ütközések
+0	AUTO	STAT_TITLE_PKO_RACE	Kiüt. Üld. (versenyzőként)
+0	AUTO	MENU_CREW_LOGO_DISCARD_CONFIRM	Biztos, hogy elveted ezt a logót és megtartod az előző logódat?
+0	AUTO	COMMON_RACETYPE_ALL	Mind
+0	AUTO	CAR_SELECT_DIALOG_BUY_CAR_CONFIRMATION	Biztos, hogy meg akarod venni ezt az autót?
+0	AUTO	H_REORDER	Átrendezés
+0	AUTO	MENU_QUICKRACE_GHOST_CAR	Edzőautó:
+0	AUTO	MY_CARS_ADD_CUST_HELP	Hozzáadás / Testreszabás
+0	AUTO	QR_DOWNLOADING_GHOST_DATA	Edzőautó letöltése a NeedforSpeed.com oldalról
+0	AUTO	HELP_HIRE_CREW_MEMEBER	Csapattag felfogadása
+0	AUTO	QR_DOWNLOADING_GHOST_INFO	Edzőautó információk letöltése a NeedforSpeed.com oldalról.
+0	AUTO	CAR_SELECT_DIALOG_CANNOT_REDUCE_HEAT	Nincs elég pénzed a büntetések kifizetésére. Nyerj meg pár újabb versenyt!
+0	AUTO	CART_ITEM_NAME_WHEEL_PAINT_SWATCH	KERÉKFESTÉS
+0	AUTO	CUST_PARTS_DIALOG_STANDARD	Alkatrészpiac
+0	AUTO	TITLE_PLAYERS_STATISTICS	ONLINE JÁTÉKOS STATISZTIKÁI
+0	AUTO	MENU_MAIN_CUSTOM_MATCH	EGYEDI MECCS
+0	AUTO	DEF_RACE_INFO_REWARDS	DÍJAK:
+0	AUTO	CUST_VINYL_GROUP_STRIPEBODY	CSÍKOS
+0	AUTO	STARTADVANCE_XBOX	Nyomd meg a START gombot az előrelépéshez
+0	AUTO	CUST_VINYL_GROUP_AFTERMARKET	ALKATRÉSZPIACOS
+0	AUTO	PART_KIT04_FRONT_BUMPER	BORRILLO
+0	AUTO	MARKER_NAME_DESCRIPTION_ROOFSCOOPS	Egyedi tetőnyílás bármelyik autódra.
+0	AUTO	STAT_CAREER_REP	Karrier hírnév
+0	AUTO	CUST_MAINMENU_LICENSE_PLATE	RENDSZÁMTÁBLA
+0	AUTO	MENU_MAIN_REWARD_CARDS	JUTALOMKÁRTYÁK
+0	AUTO	CARNAME_MAZDA_MAZDASPEED3_EUROPE	Mazda3 MPS
+0	AUTO	PART_KIT06_REAR_BUMPER	CHICANE
+0	AUTO	CART_ITEM_DESC_AS_EXHAUST	AUTOSCULPT KIPUFOGÓVÉG
+0	AUTO	PART_KIT06_SKIRT	CHICANE
+0	AUTO	HELP_ONLINE_REWARDS	Exkluzív online díjak
+0	AUTO	STAT_CARS_PURCHASED	Megvett kocsik száma
+0	AUTO	LANG_POLISH	Lengyel
+0	AUTO	STAT_BEST_MOVE	Legjobb akció
+0	AUTO	STAT_BEST_TIME	Legjobb versenyidő
+0	AUTO	CHAL_TIME_TRIAL	Verseny időre
+0	AUTO	STAT_BEST_CAREER_COMPLETION_TIME	Leggyorsabban teljesített Karrier
+0	AUTO	CHAL_HEADER_GOLD	Arany
+0	AUTO	DEMO_PSA	Minden, amit te és Csapatod a játékban véghezvisztek, maradjon is a játékban. A való világban vezess óvatosan, tartsd be az országút törvényeit, és mindig kapcsold be a biztonsági övet.
+0	AUTO	QUICK_RACE_TITLE_SELECT_WINGMAN	*VÁLASSZ CSAPATTÁRSAT*
+0	AUTO	CARNAME_CORVETTE_Z06	Chevrolet Corvette Z06
+0	AUTO	LANG_ENGLISH	Angol
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_XENON	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game when the Autosave icon flashes as follows.
+0	AUTO	MENU_CM_HIRE_CONFIRMATION	Biztos, hogy fel akarod fogadni a következő csapattagot: %s?
+0	AUTO	HELP_GET_ONLINE_HELP	Online Kooperatív
+0	AUTO	DEMO_MUSIC_LEGAL	Licencelt zene ^^^^"Bounce" ^^Előadó: Dynamite MC^^Írta: D. Smith/D. Taylor^^Producer: Dave Taylor a Solid Groove Productionstól^^Kiadja a Copyright Control/Haripa Music^^A felvétel a Strong Records ajándéka ^^^^"Don't Speak (I Came To Make A Bang!)"^^Előadó: Eagles Of Death Metal^^Írta: Jesse "Boots Electric" Hughes és Joshua "Baby Duck" Homme^^© 2005 Fabulous Weapons Music (BMI) és Board Stiff Music (BMI)^^A felvétel a Downtown Recordings ajándéka ^^^^"Sugar (Jagz Kooner Mix)"^^Előadó: Ladytron ^^Írta: Daniel Hunt^^Kiadja a Universal-Polygram Int. Publishing, Inc. (ASCAP) obo Universal Music Publishing Ltd. ^^(p) & © 2005 Ladytron ^^A felvétel a Rykodisc ajándéka
+0	AUTO	CROSS_SELL_FIFA	FIFA 07
+0	AUTO	ON_STAT_HEADER_BEST_DRIFT	Legjobb drift
+0	AUTO	STAT_INFRACTIONS_SINGLE	Kihágások (egyetlen üldözés)
+0	AUTO	CUST_PARTS_SPOILERS	LÉGTERELŐ
+0	AUTO	MENU_MAIN_QUICK_MATCH	GYORSMECCS
+0	AUTO	STAT_GAME_COMPLETION	Játék teljesítve
+0	AUTO	MENU_CREW_NEED_TO_SET_CREW_STYLE_TARGET	Nincs megadva csapatstílus-célautó, menj a garázsba, és válassz egyet!
+0	AUTO	TITLE_REWARD_CARDS	*JUTALOMKÁRTYÁK*
+0	AUTO	CUST_RIDE_HEIGHT_PITCH	Hasmagasság növelése
+0	AUTO	STAT_HIGHEST_FINE_PAID	Legmagasabb kifizetett bírság
+0	AUTO	PART_WHEEL_KONIG_1	KÖNIG BLATANT
+0	AUTO	PART_WHEEL_KONIG_2	KÖNIG IMAGINE
+0	AUTO	PART_WHEEL_KONIG_3	KÖNIG THEORY
+0	AUTO	CLASS_MUSCLE_DESCRIPTION	Az izom az egyenes vonalban történő gyorsulásról szól. Ha elhagyod ^a többieket, ne bámulj sokáig a visszapillantóba, ^mert a kanyarokban könnyen pórul járhatsz!
+0	AUTO	CUST_MAIN_CART_CONFIRM	A bevásárlókosaradban van néhány tétel, biztos, hogy ki akarsz lépni? (Minden cikk elvész a kosárból)
+0	AUTO	STAT_TOTAL_CLOCKED_SPEEDTRAP	Összes mért sebesség
+0	AUTO	MARKER_NAME_FREEBAIL	Szabad elvonulás
+0	AUTO	EA_TRAX_PLAY_TRACK	Szám lejátszása
+0	AUTO	CART_ITEM_DESC_ROOF_SCOOP	TETŐNYÍLÁS
+0	AUTO	MENU_CREW_MANAGEMENT	CSAPATOM
+0	AUTO	CUST_PARTS_SKIRT_TITLE	*SZOKNYA*
+0	AUTO	CHAL_INFO_YOUR_TIME	Legjobb idő
+0	AUTO	CUST_ADD_TO_CART	Kosárba
+0	AUTO	WII_CONTROLS_WARNING	
+0	AUTO	STAT_TRACKS_UNLOCKED	Elérhetővé tett pályák száma
+0	AUTO	MENU_CAREER_TURF_WARS	TÉRKÉP
+0	AUTO	CHAL_INFO_DESCRIPTION	Leírás
+0	AUTO	DIALOG_MSG_NO_CREW_SOURCE	A csapatstílus forrásautója még nem került kiválasztásra
+0	AUTO	MENU_CM_HIRE	Felfogadás
+0	AUTO	CAR_SELECT_CAR_VALUE	Érték:
+0	AUTO	STAT_LAP_SCORE	Körpontszám
+0	AUTO	BULLET_TUTORIAL_TERRITORY_01_A	Ez a térképed.
+0	AUTO	BULLET_TUTORIAL_TERRITORY_01_B	Nyomon követheted rajta, ahogy a területek gazdát cserélnek.
+0	AUTO	PART_KIT00_FRONT_BUMPER	RAKTÁRKÉSZLET
+0	AUTO	MYCARS_DIALOG_DELTE_CAR_CONFIRMATION	Biztosan törölni akarod ezt az autót?
+0	AUTO	STAT_BOUNTY_TOTAL	Vérdíj (összes)
+0	AUTO	CUST_PARTSELECT_PART	Alkatrész
+0	AUTO	PART_KIT03_REAR_BUMPER	SHADOW
+0	AUTO	MC_NO_GHOST	Erre a pályára nincs elmentett Edzőautód.
+0	AUTO	PART_WHEEL_RACINGHART_1	RACINGHART MULTI C4
+0	AUTO	PART_WHEEL_RACINGHART_2	RACINGHART CX
+0	AUTO	PART_WHEEL_RACINGHART_3	RACINGHART CP
+0	AUTO	PART_WHEEL_RACINGHART_4	RACINGHART CR
+0	AUTO	MC_PROFILE_MANAGER	Személyiségkezelő
+0	AUTO	CARNAME_CHRYSLER_300C	Chrysler 300C Hemi SRT8
+0	AUTO	MC_PROMPT_CREATE_CHALLENGE	A Kihívássorozatba való belépéshez rendelkezned kell egy személyiséggel. A Karrier menüben betölthetsz egy személyiséget, vagy létrehozhatsz egy újat. Szeretnél új személyiséget létrehozni?
+0	AUTO	CHAL_LOCKED	Lezárva
+0	AUTO	CAR_CLASS_TESTING_TRANSMISSION	Kézi vagy automata sebváltót szeretnél?
+0	AUTO	ON_LOGIN_MSG_PARENTAL_CONSENT	Személyes információkat készülsz megadni az EA-nek. Ha még nem vagy 18 éves, szüleid beleegyezése szükséges ahhoz, hogy az EA részére személyes információkat adj meg. Szeretnéd benyújtani az információt?
+0	AUTO	STAT_BEST_SECTION_1_TIME	1. szekció legjobb ideje
+0	AUTO	CARNAME_ALFA_ROMEO_BRERA	Alfa Romeo Brera
+0	AUTO	LANG_DUTCH_NO_TRANSLATION	NEDERLANDS
+0	AUTO	STAT_WIN_PERCENTAGE	Győzelmi százalék
+0	AUTO	PART_KIT03_SKIRT	SHADOW
+0	AUTO	MENU_QUICKRACE_OPTIONS_COMPETITIVE	Rangsorolt
+0	AUTO	FABRICATOR_1_POPUP	Ha hozzáadod Salt a Csapatodhoz, testreszabhatod ezeket az Autosculpt-alkatrészeket.
+0	AUTO	STAT_BEST_SECTION_2_TIME	2. szekció legjobb ideje
+0	AUTO	STAT_BEST_LAP_SCORE	Legjobb körpontszám
+0	AUTO	CUST_PARTS_CARBON	SZÉNSZÁL
+0	AUTO	MARKER_CATEGORY_DESC_VISUAL	Ezek a kártyák sok mindent tartalmazhatnak, például egyedi fóliákat.
+0	AUTO	CARNAME_DODGE_CHALLENGERN	Dodge Challenger Concept
+0	AUTO	OL_STAT_REP	Online TP
+0	AUTO	QUICK_RACE_TITLE_PURSUIT_KNOCKOUT	*KIÜTÉSES ÜLDÖZÉS*
+0	AUTO	MC_LOAD	Betöltés
+0	AUTO	STAT_BEST_SECTION_3_TIME	3. szekció legjobb ideje
+0	AUTO	MENU_CM_CURRENT_WINGMAN	Jelenlegi csapattárs:
+0	AUTO	CUST_MAINMENU_MARKETPLACE_MIXEDCASE	
+0	AUTO	HELP_SELECT_CAR_FOR_CAREER	Válassz autót a Karrierhez
+0	AUTO	PART_KIT10_SKIRT	KLASSZIKUS
+0	AUTO	TITLE_CHALLENGE_SERIES	*KIHÍVÁSSOROZAT*
+0	AUTO	MENU_CM_BIO_VIDEO	ELŐÉLET videó
+0	AUTO	CUST_PARTS_REARBUMPER_TITLE	*HÁTSÓ LÖKHÁRÍTÓ*
+0	AUTO	WINGMAN_DESC_RACE_COLIN	Növelt szélzóna a csapattárs mögött^
+0	AUTO	MENU_QUICKRACE_PLAYER_RECORD_GHOST	Edzőautó elmentése
+0	AUTO	WINGMAN_DESC_RACE_NIKKI	50%%-kal több időlassítás és nitró^
+0	AUTO	ALL_SPECIAL_CHARACTERS	á à â ä ą å æ ª č ç ć ď é è ě ë ê ę í ì ï î ł ń ň ñ ó ò ø ö ô ő œ ř š ś ť ů ú ù ü û ű ý ž ż ź º °¿ ¡ ^Á À Â Å Ä Ą Æ Č Ć Ç Ď É È Ě Ë Ê Ę Í Ì Î Ï Ł Ň Ñ Ő Ó Ò Ø Ö Ô Œ Ř Ś Š Ť Ů Ú Ù Ü Ú Ű Û Ý Ż Ź Ž ß
+0	AUTO	CUST_PERF_MENU_SUSPENSION	FELFÜGGESZTÉS
+0	AUTO	CROSS_SELL_NHL07	NHL® 07
+0	AUTO	WINGMAN_DESC_RACE_SAL	Minden győzelemmel csökken a rendőrség figyelme.^
+0	AUTO	CROSS_SELL_TIGER	Tiger Woods PGA TOUR® 07
+0	AUTO	CUST_MOVELAYER_DOWN	Réteg mozgatása lefelé
+0	AUTO	CHAL_AVAILABLE	Elérhető
+0	AUTO	MENU_CM_TUTORIAL	Neville csatlakozott a Csapatodhoz!^Ez a Csapatkezelő képernyő. Itt a következőket teheted:^Csapattársat választhatsz, aki csatlakozik hozzád a versenyeken.^Testreszabhatod a csapattagok autóit.^Megnézheted a csapattagok előéletvideóit.^Kirúghatod a csapattagokat (legalább 1 maradjon).^Felfogadhatsz új csapattagot (legfeljebb hármat).
+0	AUTO	SECONDARY_ROLE_FABRICATOR_DESC	DELETE
+0	AUTO	PART_KIT00_REAR_BUMPER	RAKTÁRKÉSZLET
+0	AUTO	CART_ITEM_DESC_AS_SPOILER	AUTOSCULPT LÉGTERELŐ
+0	AUTO	QR_NO_GHOST_DATA	Ehhez a pályához nincs elérhető Edzőautó
+0	AUTO	CUST_VINYL_GROUP_PRIMITIVE	FORMÁK
+0	AUTO	MARKER_NAME_DESCRIPTION_SUPERCHARGER	Egyedi kompresszoralkatrész bármelyik autódra.
+0	AUTO	PART_KIT09_FRONT_BUMPER	G-FORCE
+0	AUTO	ON_MESSENGER_LISTS_SEARCH	Keresési eredmények
+0	AUTO	RC_DESCRIPTION_104	Iktass ki 10 zsarut karrier módban, szabad kószálás közben
+0	AUTO	STAT_COPS_RAMMED_TOTAL	Lezúzott zsaruk (összes)
+0	AUTO	MENU_CM_EMPYT	NINCS CSAPAT
+0	AUTO	OL_NFS_WEBSITE_ADDRESS_LEADERBOARD	További statisztikákért látogass el a www.NeedForSpeed.com oldalra
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_1	CARBONO MO5
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_2	CARBONO HEX
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_3	CARBONO REDLINE
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_4	CARBONO GLITZ
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_5	CARBONO ST-8
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_6	CARBONO MULTI
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_7	CARBONO SF15
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_8	CARBONO RAZOR
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_9	CARBONO ST-5
+0	AUTO	CREW_LOGO_LAYER_1	1. réteg
+0	AUTO	CREW_LOGO_LAYER_2	2. réteg
+0	AUTO	CREW_LOGO_LAYER_3	3. réteg
+0	AUTO	CUST_PERF_STAGE	%d. szint
+0	AUTO	CUST_VINYLS_MIRROR_ON	Tükrözés be
+0	AUTO	CUST_PARTS_FRONTBUMPER	ELSŐ LÖKHÁRÍTÓ
+0	AUTO	STAT_BEST_JUMP_AIR_TIME	Legnagyobb ugratás ideje
+0	AUTO	MENU_BOSS_DEFEATED	*LEGYŐZVE*
+0	AUTO	STAT_TITLE_PKO_PURSUIT	Kiüt. Üld. (rendőrként)
+0	AUTO	CREW_TITLE_LOGOS	*CSAPATLOGÓ*
+0	AUTO	CREW_BIO_INFO_BIRTHPLACE	Születési hely
+0	AUTO	CAR_CLASS_SELECTED_TRANSMISSION	Kiválasztottál egy autóosztályt a Karrieredehez. Kézi, vagy automata sebváltót akarsz használni?
+0	AUTO	STAT_COST_TO_STATE_TOTAL	Okozott kár (összes)
+0	AUTO	CHAL_CREW_MODE_SOLO	Egyszemélyes játék
+0	AUTO	TITLE_QUICK_RACE_OPTIONS	*GYORSVERSENY-BEÁLLÍTÁSOK*
+0	AUTO	PART_KIT00_SKIRT	RAKTÁRKÉSZLET
+0	AUTO	GAME_WON_TITLE	*NYERTÉL*
+0	AUTO	STAT_COMBO_SCORE	Kombó
+0	AUTO	CUST_VINYL_FILL_0	KITÖLTÉS
+0	AUTO	CUST_VINYL_FILL_1	1. KITÖLTÉS
+0	AUTO	CUST_VINYL_FILL_2	2. KITÖLTÉS
+0	AUTO	CUST_VINYL_FILL_3	3. KITÖLTÉS
+0	AUTO	LANG_FRENCH_NO_TRANSLATION	FRANCAIS
+0	AUTO	STAT_RANDOM_ENCOUNTERS_WON	Megnyert véletlen találkozások
+0	AUTO	SHOPPING_CART_DLG_EMPTY	A bevásárlókosár üres
+0	AUTO	CUST_PARTS_FRONTBUMPER_TITLE	*ELSŐ LÖKHÁRÍTÓ*
+0	AUTO	MENU_QUICKRACE_PLAYER_SAVED_GHOST	Elmentett Edzőautó
+0	AUTO	DEF_RACE_INFO_RECORD	Adatok:
+0	AUTO	MENU_MAIN_QUICK_RACE	GYORSVERSENY
+0	AUTO	CUST_PARTS_NORMAL	NORMÁL
+0	AUTO	CARNAME_NISSAN_350Z	Nissan 350Z
+0	AUTO	MENU_CAR_CLASS_MODE_SELECT_CLASS	Osztály kiválasztása
+0	AUTO	MENU_RESUME_FREE_ROAM	SZABAD KÓBORLÁS
+0	AUTO	STAT_COPS_RAMMED_SINGLE	Lezúzott zsaruk (egyetlen üldözés)
+0	AUTO	MENU_QUICKRACE_OPTIONS_TRAFFIC_LEVEL	Forgalom szintje
+0	AUTO	PART_KIT05_FRONT_BUMPER	ARASHI
+0	AUTO	CARNAME_PORSCHE_CAYMANS	Porsche Cayman S
+0	AUTO	CARNAME_MITSUBISHI_ECLIPSEGT	Mitsubishi Eclipse GT
+0	AUTO	CART_ITEM_NAME_BODY_PAINT_SWATCH	KAROSSZÉRIAFESTÉS
+0	AUTO	STAT_RANK_POINTS	Rangpontok
+0	AUTO	PART_WHEEL_ENKEI_1	ENKEI NT03+M
+0	AUTO	PART_WHEEL_ENKEI_2	ENKEI J SPEED 3
+0	AUTO	PART_WHEEL_ENKEI_3	ENKEI ES-TARMAC
+0	AUTO	PART_WHEEL_ENKEI_4	ENKEI WRC TARMAC
+0	AUTO	HELP_RECRUIT	Felfogad
+0	AUTO	COPCAR_TIER_1	Rendőrterepjáró
+0	AUTO	COPCAR_TIER_2	Rendőrjárőr
+0	AUTO	COPCAR_TIER_3	Rendőr-Corvette Z06
+0	AUTO	STAT_BEST_AVERAGE_SPEED	Legjobb összegzett sebesség
+0	AUTO	MC_AUTOSAVE_WARNING_XENON	A Need for Speed™ Carbon automatikus mentési funkcióval rendelkezik. A játékinformációk automatikusan mentődnek játék közben, amikor az automatikus mentés ikon a következőképpen villog.
+0	AUTO	STAT_MOST_CARS_RAMMED	Legtöbb lezúzott kocsi
+0	AUTO	GAME_OVER_EXIT_TO_MAIN_MENU	Kilépés a Főmenübe
+0	AUTO	MARKER_NAME_DESCRIPTION_RELEASE	Bármelyik autót mentesítheted a lefoglalás alól.
+0	AUTO	STAT_HIGHEST_HEAT_LEVEL	Legmagasabb Hírhedtségi szint
+0	AUTO	CARNAME_PLYMOUTH_CUDA	Plymouth Hemi Cuda
+0	AUTO	CUST_VINYL_GROUP_ONLINE1	ONLINE
+0	AUTO	CUST_VINYL_GROUP_ONLINE2	
+0	AUTO	CUST_VINYL_GROUP_ONLINE3	VÍRUS
+0	AUTO	STAT_SHORTEST_PURSUIT	Legrövidebb üldözés
+0	AUTO	MENU_CAREER_START	KARRIER INDÍTÁSA
+0	AUTO	CONTROLLER_CFG_STEER_RIGHT	Kormány jobbra

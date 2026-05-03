@@ -1,0 +1,846 @@
+#	Labrune - C:\Users\FH\OneDrive\Games\NFSCO\Project Localization\Organiaztion\vanilla_loc\LANGUAGE\Russian_Frontend.bin
+#	File created on: 19.04.2026 16:39:15
+#
+#Chunk	Hash (HEX)	Label	Value
+# ---------------------------------------------------------------------------------------------------------
+# Chunk 0 - Frontend
+0	AUTO	CUST_VINYLS_TRANSFORM_TITLE	*ТРАНСФОРМАЦИЯ АППЛИКАЦИЙ*
+0	AUTO	ON_STAT_HEADER_KNOCKOUTS	Гонки на выб.
+0	AUTO	MENU_CREW_LOGO	ЛОГОТИП
+0	AUTO	CARNAME_MAZDA_RX7	Mazda RX-7
+0	AUTO	MARKER_CATEGORY_DESC_MISC	В эту категорию входят жетоны, позволяющие решить проблемы с полицией, и денежные призы. А если вам повезет, вы можете получить автомобиль соперника!
+0	AUTO	DEMO_CUSTOMIZATION_SELL	Технология Autosculpt™ позволяет создавать уникальные запчасти для различных типов машин.^Вы можете изменять кузова, диски, капоты, спойлеры и воздухозаборники.^Используя эту технологию, а также наклейки, аппликации и необычные варианты окраски, вы смож
+0	AUTO	CHAL_COMPLETED	Завершенные
+0	AUTO	MC_CONFIRM_CREATE_PROFILE	Создать новый профиль? Если вы не сделаете этого, все изменения будут утрачены.
+0	AUTO	CHAL_SELECT_CREW_MODE	Выбери режим командной погони
+0	AUTO	CUST_PARTS_WHEELS_TITLE	*ДИСКИ*
+0	AUTO	MARKER_NAME_TRANSMISSION	Уникальная трансмиссия
+0	AUTO	CUST_VINYLS_COLOUR_TITLE	*ЦВЕТ АППЛИКАЦИИ*
+0	AUTO	CARNAME_DODGE_VINTAGE_CHARGER69	Dodge Charger R/T
+0	AUTO	SHOPPING_CART_DLG_NO_CASH	У вас не хватит денег, чтобы оплатить все покупки. Пожалуйста, удалите часть покупок из списка.
+0	AUTO	CARNAME_MERCEDES_CLK500	Mercedes-Benz CLK 500
+0	AUTO	LANG_FINNISH	ФИНСКИЙ
+0	AUTO	MARKER_NAME_DESCRIPTION_HUD	Возможность установить уникальные приборы.
+0	AUTO	MARKER_NAME_DESCRIPTION_NOS	Возможность установить уникальную систему впрыска закиси азота.
+0	AUTO	STAT_PERC_AS_POLICE	За полицию
+0	AUTO	HELP_RACE	Гонки
+0	AUTO	RC_WIN_05_CAREER_RACES_DESCRIPTION	Необходимо выиграть 5 карьерных гонок
+0	AUTO	CHAL_SOLO_CHALLENGE	Погоня без команды
+0	AUTO	MENU_MAIN_TITLE_CAREER	*КАРЬЕРА*
+0	AUTO	STAT_NUM_TIMES_BUSTED	Number of Times Busted
+0	AUTO	CUST_PARTS_WHEELS	ДИСКИ
+0	AUTO	STAT_NUM_CREW_MEMEBERS_HIRED	Нанятые гонщики
+0	AUTO	MARKER_NAME_DESCRIPTION_CASH	Вы заработали %$d.
+0	AUTO	MARKER_NAME_DESCRIPTION_HOOD	Возможность установить уникальный капот.
+0	AUTO	MARKER_NAME_DESCRIPTION_RIMS	Возможность установить уникальные диски.
+0	AUTO	MARKER_NAME_DESCRIPTION_TIRE	Возможность установить уникальные шины.
+0	AUTO	PART_KIT01_FRONT_BUMPER	STAG
+0	AUTO	LANG_HUNGARIAN_NO_TRANSLATION	MAGYAR
+0	AUTO	MC_CREATE	Создать
+0	AUTO	CUST_RIDE_HEIGHT_DROP	Уменьшение дорожного просвета
+0	AUTO	HELP_CAREER_CONTROLS	Упр. карьерой
+0	AUTO	PART_KIT07_SKIRT	SLIPSTREAM
+0	AUTO	MENU_CREW_STYLE	СТИЛЬ КОМАНДЫ
+0	AUTO	POST_RACE_PURSUIT_STATS	Статистика погони
+0	AUTO	MC_DELETE	Удалить
+0	AUTO	MENU_QUICKRACE_GHOST_TIME	Счет двойника
+0	AUTO	CUST_VINYL_GRADIENT_0_0	ПЕРЕХОД 0
+0	AUTO	CUST_VINYL_GRADIENT_1_0	ПЕРЕХОД 1
+0	AUTO	RC_NAME_104	10 копов
+0	AUTO	LANG_SWEDISH	ШВЕДСКИЙ
+0	AUTO	PART_KIT07_REAR_BUMPER	SLIPSTREAM
+0	AUTO	MARKER_NAME_PAINT	Уникальные обновления краски
+0	AUTO	GAME_OVER_WINGMEN_BUSTED_DESC	Машины всех твоих помощников конфискованы полицией, а у тебя не хватает денег на выкуп.
+0	AUTO	CUST_VINYL_INNER_GLOW_0	ПОДСВЕТКА
+0	AUTO	MARKER_NAME_BRAKES	Уникальные тормоза
+0	AUTO	CUST_VINYL_GROUP_CAMOUFLAGE	КАМУФЛЯЖ
+0	AUTO	CARNAME_JAGUAR_XK	Jaguar XK
+0	AUTO	DEF_RACE_INFO_OWNERSHIP	Территория:
+0	AUTO	CUST_PERF_MENU_TIRES	ШИНЫ
+0	AUTO	CUST_PERF_MENU_TURBO	ТУРБОНАДДУВ
+0	AUTO	CUST_PERF_MENU_TRANSMISSION	ТРАНСМИССИЯ
+0	AUTO	CARNAME_PORSCHE_CARRERA_GT	Porsche Carrera GT
+0	AUTO	MARKER_NAME_CHASSI	Уникальная подвеска
+0	AUTO	STAT_INFRACTIONS_TOTAL	Нарушений (всего)
+0	AUTO	MARKER_NAME_DESCRIPTION_PINKSLIP	Ты выиграл автомобиль соперника! Загляни в убежище!
+0	AUTO	CAR_SELECT_BUY_CAR	Приобрести машину
+0	AUTO	CAR_SELECT_DIALOG_GARAGE_FULL_NOTIFICATION	В убежище не хватает места. Чтобы поставить туда новую тачку, продай одну из старых.
+0	AUTO	CHAL_CREW_CHALLENGE	Командная погоня
+0	AUTO	MARKER_NAME_DECALS	Уникальные обновления наклеек
+0	AUTO	MENU_CAREER_SAVE_LOAD	СОХРАНЕНИЕ
+0	AUTO	CARNAME_BMW_M3_GTRE46	BMW M3 GTR
+0	AUTO	LANG_POLISH_NO_TRANSLATION	POLSKI
+0	AUTO	STAT_TOTAL_CASH	Заработанные деньги
+0	AUTO	CHALLENGE_SERIES_DESC_079	Выиграй гонку против слабого соперника в каньоне "Проклятие туриста"
+0	AUTO	CHALLENGE_SERIES_DESC_080	Выиграй гонку против опытного соперника в каньоне "Голд Вэлли"
+0	AUTO	CHALLENGE_SERIES_DESC_081	Выиграй гонку против сильного соперника в каньоне "Этернити"
+0	AUTO	CHALLENGE_SERIES_DESC_082	Выиграй гонку против слабого соперника в каньоне "Голд Вэлли"
+0	AUTO	CHALLENGE_SERIES_DESC_083	Выиграй гонку против опытного соперника в каньоне "Коппер Ридж"
+0	AUTO	CHALLENGE_SERIES_DESC_084	Выиграй гонку против сильного соперника в каньоне "Проезд Дэдфолл"
+0	AUTO	CHALLENGE_SERIES_DESC_085	Пройди гонку "Площадь Эскури" за 3 минуты 44 секунды.
+0	AUTO	CHALLENGE_SERIES_DESC_086	Пройди гонку "Проезд Рабиновича" за 3 минуты 2 секунды.
+0	AUTO	CHALLENGE_SERIES_DESC_087	Пройди гонку "Блэквелл Роуд" за 3 минуты 21 секунду.
+0	AUTO	CHALLENGE_SERIES_DESC_088	Пройди гонку "Холмы" за 2 минуты 39 секунд.
+0	AUTO	CHALLENGE_SERIES_DESC_089	Пройди гонку "Лезвие ножа" за 1 минуту 25 секунд.
+0	AUTO	CHALLENGE_SERIES_DESC_090	Пройди гонку "Десперадо" за 1 минуту 55 секунд.
+0	AUTO	CHALLENGE_SERIES_DESC_091	Набери 25 000 очков в дрифтинге по каньону.
+0	AUTO	CHALLENGE_SERIES_DESC_092	Набери 100 000 очков в дрифтинге по каньону.
+0	AUTO	CHALLENGE_SERIES_DESC_093	Набери 150 000 очков в дрифтинге по каньону.
+0	AUTO	CHALLENGE_SERIES_DESC_094	Полицейская погоня за тобой должна продлиться не менее %s мин.
+0	AUTO	CHALLENGE_SERIES_DESC_095	Полицейская погоня за тобой должна продлиться не менее %s мин.
+0	AUTO	CHALLENGE_SERIES_DESC_096	Полицейская погоня за тобой должна продлиться не менее %s мин.
+0	AUTO	CHALLENGE_SERIES_DESC_097	Выведи из строя не менее %s полицейских машин.
+0	AUTO	CHALLENGE_SERIES_DESC_098	Выведи из строя не менее %s полицейских машин.
+0	AUTO	CHALLENGE_SERIES_DESC_099	Выведи из строя не менее %s полицейских машин.
+0	AUTO	CHALLENGE_SERIES_DESC_100	Выиграй кольцевую гонку "Давер стрит" против слабого соперника.
+0	AUTO	CHALLENGE_SERIES_DESC_101	Выиграй кольцевую гонку "Побережье" против опытного соперника.
+0	AUTO	CHALLENGE_SERIES_DESC_102	Выиграй кольцевую гонку "Старлайт стрит" против сильного соперника.
+0	AUTO	CHALLENGE_SERIES_DESC_103	Выиграй спринт "Жилой квартал" против слабого соперника.
+0	AUTO	CHALLENGE_SERIES_DESC_104	Выиграй спринт "Кингс парк" против опытного соперника.
+0	AUTO	CHALLENGE_SERIES_DESC_105	Выиграй спринт "Кэнмор роуд" против сильного соперника.
+0	AUTO	CHALLENGE_SERIES_DESC_106	Набери 50 000 очков в дрифтинге.
+0	AUTO	CHALLENGE_SERIES_DESC_107	Набери 140 000 очков в дрифтинге.
+0	AUTO	CHALLENGE_SERIES_DESC_108	Набери 250 000 очков в дрифтинге.
+0	AUTO	CHALLENGE_SERIES_DESC_109	Выиграй скоростную гонку "Миллион" против слабых соперников.
+0	AUTO	CHALLENGE_SERIES_DESC_110	Выиграй скоростную гонку "Инфинити парк" против опытных соперников.
+0	AUTO	CHALLENGE_SERIES_DESC_111	Выиграй скоростную гонку "Проезд Эскури" против сильных соперников.
+0	AUTO	CHALLENGE_SERIES_DESC_112	Выиграй битву команд "Центр" против слабых соперников.
+0	AUTO	CHALLENGE_SERIES_DESC_113	Выиграй битву команд "Фортуна" против опытных соперников.
+0	AUTO	CHALLENGE_SERIES_DESC_114	Выиграй битву команд "Силвертон" против сильных соперников.
+0	AUTO	LANG_GERMAN_NO_TRANSLATION	DEUTSCH
+0	AUTO	OL_BUTTON_TIME_PERIOD	Промежуток времени
+0	AUTO	CLASS_TUNER_DESCRIPTION	Машины вида тюниг проходят повороты как по рельсам и отлично слушаются управления. ^Слабоватые при разгоне по прямой, они наверстывают упущенное ^на поворотах. Поэтому ты смело можешь давить на газ на поворотах, ^в то время как противники будут пересчитывать боками углы.
+0	AUTO	CUST_VISUAL_RIMS_WARNING	Заводские диски невозможно перекрасить
+0	AUTO	STAT_COPS_DISABLED_SINGLE	Разбито полиц. машин (одна погоня)
+0	AUTO	CUST_MAINMENU_RIDE_HEIGHT	ДОРОЖНЫЙ ПРОСВЕТ
+0	AUTO	MARKER_NAME_ENGINE	Уникальный двигатель
+0	AUTO	MC_PROMPT_SAVE_PROFILE	Включить автосохранение и сохранить профиль?
+0	AUTO	LANG_SPANISH_NO_TRANSLATION	ESPAÑOL
+0	AUTO	CUST_PARTS_TOP_TITLE	*СРЕЗ КРЫШИ*
+0	AUTO	CARNAME_FORD_MUSTANGGT	Ford Mustang GT
+0	AUTO	STAT_KNOCKOUT_WINS	Выигранные гонки на выбывание
+0	AUTO	SECONDARY_ROLE_HEAT_MAGNET_DESC	DELETE
+0	AUTO	CREW_VINYL_WARNING	Предупреждение: данная аппликация не подлежит восстановлению. Удалить аппликацию?
+0	AUTO	MENU_CAREER_CREW	КОМАНДА
+0	AUTO	MENU_CAREER_LOAD	ЗАГРУЗКА
+0	AUTO	CUST_PARTS_REARBUMPER	ЗАДНИЙ БАМПЕР
+0	AUTO	CUST_CHANGE_PAINT_SWATCH	Сменить образец
+0	AUTO	SHOPPING_CART_DLG_DELETE_ALL	Очистить список?
+0	AUTO	DEBUG_ARRAYSCROLLER	Управление стрелками
+0	AUTO	STAT_PEAK_SCORE	Лучший счет
+0	AUTO	PART_KIT10_REAR_BUMPER	ТУРНИР
+0	AUTO	STAT_BEST_PERCENT_AS_RACER	Лучшее время в роли гонщика
+0	AUTO	CARNAME_LAMBORGHINI_GALLARDO	Lamborghini Gallardo
+0	AUTO	STAT_BOUNTY_SINGLE	Рейтинг (одна погоня)
+0	AUTO	VINYLS_MEMORY_WARNING	Достигнуто максимальное количество слоев.
+0	AUTO	CUST_EXHAUST_WARNING	Для установки системы выхлопа требуется нестандартный бампер
+0	AUTO	CUST_PARTS_ROOFSCOOPS	ВОЗДУХОЗАБОРНИК
+0	AUTO	PART_KIT04_REAR_BUMPER	BORRILLO
+0	AUTO	OL_SUBTITLE_GAME_TAG	Идентификатор
+0	AUTO	MC_AUTOSAVE_WARNING2_PS2	Если на экране отображается пиктограмма автосохранения, не извлекайте карту Memory Card (PS2) и не выключайте консоль. В противном случае возможно повреждение данных.
+0	AUTO	MC_AUTOSAVE_WARNING2_PS3	При появлении пиктограммы автосохранения не выключайте и не перезагружайте консоль. В противном случае возможно повреждение данных.
+0	AUTO	CUST_PAINT_GROUP_CANDY	КРИСТАЛЛИЧЕСКАЯ
+0	AUTO	CUST_PAINT_GROUP_GLOSS	ГЛЯНЦЕВАЯ
+0	AUTO	CUST_PARTS_SPOILERS_TITLE	*СПОЙЛЕРЫ*
+0	AUTO	COMMON_RACETYPE_PURSUIT_TAG	Салочки
+0	AUTO	CUST_PAINT_GROUP_MATTE	МАТОВАЯ
+0	AUTO	OL_BUTTON_RACE_TYPE	Тип гонки
+0	AUTO	CROSS_SELL_MADDEN07	MADDEN NFL 07
+0	AUTO	CUST_PAINT_GROUP_PEARL	ПЕРЛАМУТРОВАЯ
+0	AUTO	QR_NOT_ONLINE_FOR_GHOST	Чтобы загрузить двойника с сервера EA Nation, вы должны войти на сервер под своими регистрационными данными. Зайдите в раздел "Настройка сети" и введите регистрационные данные.
+0	AUTO	TITLE_STATISTICS	*СТАТИСТИКА*
+0	AUTO	STAT_HIGHEST_FINE	Наибольший штраф
+0	AUTO	EA_TRAX_CAR_CLASS_FILTER_USE	Спец. списки
+0	AUTO	WII_OPT_ERROR	Произошла ошибка. Выключите контроллер и попробуйте устранить неполадку с помощью руководства пользователя Wii.
+0	AUTO	WINGMAN_DESC_RACE_SAMSON	Увеличивает сумму выигрыша на 10%%^
+0	AUTO	CUST_VINYL_GROUP_PINSTRIPE	ШТРИХ
+0	AUTO	PART_KIT04_SKIRT	BORRILLO
+0	AUTO	CHAL_CREW_MODE_ONLINE	Итернет
+0	AUTO	PART_WHEEL_GIOVANNA_1	GIOVANNA BRAKE
+0	AUTO	PART_WHEEL_GIOVANNA_2	GIOVANNA GELLO
+0	AUTO	PART_WHEEL_GIOVANNA_3	GIOVANNA ARARAT
+0	AUTO	FABRICATOR_2_POPUP	Умелец 2 в команде открывает доступ к деталям "Autosculpt".
+0	AUTO	PART_WHEEL_ADR_1	ADR ADRENALINE
+0	AUTO	PART_WHEEL_ADR_2	ADR EMPIRE
+0	AUTO	PART_WHEEL_ADR_3	ADR GT-SPORT
+0	AUTO	PART_WHEEL_ADR_4	ADR M SPORT
+0	AUTO	PART_WHEEL_ADR_5	ADR SOKUDO8
+0	AUTO	PART_WHEEL_BBS_1	BBS GT
+0	AUTO	PART_WHEEL_BBS_2	BBS RS GT
+0	AUTO	PART_WHEEL_BBS_3	BBS LM
+0	AUTO	PART_WHEEL_BBS_4	BBS CH
+0	AUTO	PART_WHEEL_BBS_5	BBS RK
+0	AUTO	PART_WHEEL_BBS_6	BBS RX
+0	AUTO	QR_ERROR_DOWNLOADING_GHOST_DATA	Ошибка загрузки двойника
+0	AUTO	PART_WHEEL_HRE_1	HRE 943R
+0	AUTO	PART_WHEEL_HRE_2	HRE 541R
+0	AUTO	PART_WHEEL_HRE_3	HRE 549R
+0	AUTO	OL_BUTTON_PLAYER_FILTER	Фильтр
+0	AUTO	MENU_QUICKRACE_OPTIONS_WINGMEN	Член команды
+0	AUTO	PART_WHEEL_TSW_1	TSW MONDELLO
+0	AUTO	PART_WHEEL_TSW_2	TSW ROCKET 5
+0	AUTO	PART_WHEEL_TSW_3	TSW LAGUNA
+0	AUTO	ON_ERROR_BAD_USERNAME	Введено неверное имя пользователя. Оно должно быть от 4 до 14 символов. Допустимые символы - буквы латинского алфавита, цифры и пробел.
+0	AUTO	STAT_COST_TO_STATE_SINGLE	Урон государству (одна погоня)
+0	AUTO	CHAL_SPLIT_MODE_TRANSMISSION_PROMPT	%s хотите использовать автоматическую или ручную коробку передач?
+0	AUTO	WINGMAN_DESC_CAREER_NEVILLE	+200 долларов за каждую победу^
+0	AUTO	MARKER_CATEGORY_DESC_PARTS	Жетоны этой категории можно обменять на элитные запчасти для стайлинга - от воздухозаборников до спойлеров.
+0	AUTO	MC_CONFIRM_CREATE_PROFILE_AUTOLOGIN	Создать новый профиль для хранения информации о пользователе?
+0	AUTO	CREW_MENU_VIEW_BIO_VIDEO	Просмотреть ролик
+0	AUTO	STAT_BEST_DRIFT_DISTANCE	Лучшая длина заноса
+0	AUTO	CARNAME_RENAULT_CLIO	Renault Clio V6
+0	AUTO	ON_PC_MSG_GAMESETUP_INSTRUCTION	Экран настройки позволяет вам общаться с другими игроками в чате, выбирать машины, отправлять личные сообщения друзьям. Если вы - лидер в текущей игре, вы можете задать параметры игры и сохранить их, затем войти в игровую комнату. Позже в игровую комнату зайдут другие игроки и можно будет начать гонку.
+0	AUTO	STAT_PERC_AS_RACER	За гонщика
+0	AUTO	CARNAME_TOYOTA_SUPRA	Toyota Supra
+0	AUTO	CUST_PARTS_DIALOG_TITLE	Выберите стандартную деталь или деталь Autosculpt
+0	AUTO	MC_CONFIRM_DESTRUCTIVE_LOAD	Загрузка нового профиля может привести к потере всех несохраненных данных текущего профиля. Загрузить новый профиль?
+0	AUTO	RC_WIN_25_CAREER_RACES_DESCRIPTION	Необходимо выиграть 25 карьерных гонок
+0	AUTO	CUST_PARTS_TOP	СРЕЗ КРЫШИ
+0	AUTO	CUST_PARTS_EXHAUST	НАСАДКА ГЛУШИТЕЛЯ
+0	AUTO	RC_WIN_10_CAREER_RACES_DESCRIPTION	Необходимо выиграть 10 карьерных гонок
+0	AUTO	CUST_PARTSELECT_TITLE	*ДЕТАЛЬ ИЗ КОЛЛЕКЦИИ AUTOSCULPT*
+0	AUTO	CHAL_HEADER_BRONZE	Бронза
+0	AUTO	CUST_VINYL_GROUP_DECALS	НАКЛЕЙКИ
+0	AUTO	CUST_PARTS_RIMS	ДИСКИ
+0	AUTO	PERFORMANCE_TUNE_HELP_SUPERCHARGER	Нагнетатель подает воздух в камеру сгорания ДВС, повышая его мощность. Рост мощности и максимальная мощность зависят от размера деталей, из которых собран нагнетатель. Если в нагнетатель установлены большие детали, максимальная мощность будет больше, но скорость набора мощности упадет.
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_PS2	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game on the memorycard(PS2) in MEMORYCARDslot1 when the Autosave icon flashes as follows.
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_PS3	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game to the HDD when the Autosave icon flashes as follows.
+0	AUTO	PART_KIT01_REAR_BUMPER	STAG
+0	AUTO	MENU_CAR_CLASS_MODE_TEST_RACE	Пробный заезд
+0	AUTO	PART_KIT06_FRONT_BUMPER	CHICANE
+0	AUTO	EA_TRAX_CAR_CLASS_FILTER_DO_NOT_USE	Включить все
+0	AUTO	LANG_MEXICAN_NO_TRANSLATION	ESPAÑOL
+0	AUTO	CUST_VINYL_GROUP_SPECIAL	ОСОБЕННЫЕ
+0	AUTO	NGC_ALIAS_MAX	Достигнуто максимальное количество сохраненных профилей. Продолжить?
+0	AUTO	MENU_MAIN_CAREER	КАРЬЕРА
+0	AUTO	CUST_VISUAL_NOLAYERS	ДОБАВЬТЕ СЛОЙ
+0	AUTO	MENU_MAIN_CHALLENGE	ПОГОНЯ
+0	AUTO	CHAL_UNLOCK_REQUIREMENT	Чтобы получить доступ к этой погоне, заверши %s %s
+0	AUTO	QR_INFO_CAR_NAME	Машина
+0	AUTO	QR_INFO_CAR_TYPE	Вид машины
+0	AUTO	CUST_VINYL_GROUP_BONUS	ПРИЗОВЫЕ
+0	AUTO	CHAL_CREW_MODE_SPLIT	Разделение экрана
+0	AUTO	STAT_CARS_SOLD	Проданные машины
+0	AUTO	WII_CONTROLLER_SAFETY	Убедитесь, что контроллер Wii Remote подключен и при его использовании не пострадают окружающие предметы.^
+0	AUTO	STAT_BEST_SCORE	Лучший счет за гонку
+0	AUTO	CREW_VINYL_EDIT	Аппликации, поставленные по умолчанию на машины команды, изменять нельзя.
+0	AUTO	CARNAME_ASTON_MARTIN_DB9	Aston Martin DB9
+0	AUTO	CM_SET_AS_WINGMAN	Активировать
+0	AUTO	STAT_BEST_LAP_TIME	Рекорд круга
+0	AUTO	CART_ITEM_DESC_AS_FRONT_WHEEL	ДИСКИ  "AUTOSCULPT"
+0	AUTO	PART_WHEEL_5ZIGEN_1	5ZIGEN FN01R
+0	AUTO	PART_WHEEL_5ZIGEN_2	5ZIGEN SUPERSIX
+0	AUTO	PART_WHEEL_5ZIGEN_3	5ZIGEN 5ZR
+0	AUTO	PART_WHEEL_5ZIGEN_4	5ZIGEN GN+
+0	AUTO	PART_WHEEL_5ZIGEN_5	5ZIGEN GRAVIS 1
+0	AUTO	MENU_CM_UNLOCK_NEW_CREW	Ты получил доступ к найму еще одного гонщика. Ты можешь нанять его, зайдя на панель управления командой.
+0	AUTO	CARNAME_NISSAN_SKYLINE	Nissan Skyline GT-R R34
+0	AUTO	PART_SPA_DECAL_141	Carbono Logo
+0	AUTO	CUST_PERF_MENU_NITROUS	ЗАКИСЬ АЗОТА
+0	AUTO	MC_CONFIRM_SAVE_PROFILE	Сохранить профиль?
+0	AUTO	MENU_MAIN_STATISTICS	СТАТИСТИКА
+0	AUTO	MENU_QUICKRACE_OPTIONS_MAX_OPPONENTS	Макс. количество противников
+0	AUTO	WINGMAN_DESC_CAREER_SAL	Доступ к кузовам, капотам и воздухозаборникам Autosculpt
+0	AUTO	CUST_MAINMENU_RIDEHEIGHT_TITLE	*ДОРОЖНЫЙ ПРОСВЕТ*
+0	AUTO	PART_KIT01_SKIRT	STAG
+0	AUTO	MARKER_NAME_VINYLS	Уникальная аппликация
+0	AUTO	QUICK_RACE_TITLE_SPEEDTRAP	*ИСТРЕБИТЕЛЬ*
+0	AUTO	MENU_CM_POOL_EMTPY	Нет доступных гонщиков для найма.
+0	AUTO	STAT_SPIKE_STRIPS_DODGED_TOTAL	Загр. с шипами пройдено (всего)
+0	AUTO	MARKER_NAME_DESCRIPTION_BODYKIT	Возможность установить уникальный комплект кузовных деталей.
+0	AUTO	WINGMAN_DESC_RACE_YUMI	На 25%% увеличивает запас закиси азота
+0	AUTO	CARNAME_MERCEDES_SL65	Mercedes-Benz SL65 AMG
+0	AUTO	CUST_AUTOSCULPT_ZONE10	Зона 10
+0	AUTO	STAT_RACES_LOST	Проигранные гонки
+0	AUTO	CUST_MAINMENU_VISUALS_TITLE	*СТАЙЛИНГ*
+0	AUTO	MARKER_NAME_RELEASE	Выкуп автомобиля
+0	AUTO	MARKER_NAME_REDUCE_HEAT	Убрать опасность
+0	AUTO	PART_WHEEL_CL_1	CENTER LINE DAGGER
+0	AUTO	PART_WHEEL_CL_2	CENTER LINE INDY
+0	AUTO	PART_WHEEL_CL_3	CENTER LINE RETRO
+0	AUTO	PART_WHEEL_CL_4	CENTER LINE VIKING
+0	AUTO	PART_WHEEL_OZ_1	O.Z. SUPERLEGGERA
+0	AUTO	PART_WHEEL_OZ_2	O.Z. SUPERTURISMO
+0	AUTO	PART_WHEEL_OZ_3	O.Z. OPERA
+0	AUTO	PART_WHEEL_OZ_4	O.Z. SUPERLEGGERA III
+0	AUTO	PART_WHEEL_OZ_5	O.Z. LEONARDO
+0	AUTO	STAT_NUM_BUSTS	Кол-во задержаний
+0	AUTO	CREW_MENU_FIRE	Уволить
+0	AUTO	PART_KIT02_FRONT_BUMPER	SWEEPER
+0	AUTO	CREW_BIO_INFO_HEIGHT	Рост:
+0	AUTO	CREW_TITLE_HIRE_CREW_MEMBER	*НАНЯТЬ ЧЛЕНА КОМАНДЫ*
+0	AUTO	CUST_MAINMENU_WHEEL_PAINT_TITLE	*ПОКРАСКА ДИСКОВ*
+0	AUTO	STAT_ROADBLOCKS_DODGED_TOTAL	Заграждений пройдено (всего)
+0	AUTO	WII_SPLIT_PROMPT	Игрок 2, нажмите кнопку "+".
+0	AUTO	HELP_CREW_STYLE	Стиль команды
+0	AUTO	PART_WHEEL_FOOSE_1	FOOSE SPEEDSTER
+0	AUTO	PART_WHEEL_FOOSE_2	FOOSE SPLITZ
+0	AUTO	PART_WHEEL_FOOSE_3	FOOSE NITROUS SILVER
+0	AUTO	CUST_VINYL_GROUP_NUMBER	НОМЕРА
+0	AUTO	MENU_QUICKRACE_OPTIONS_TRACKING_MODE	Режим трассы
+0	AUTO	RC_WIN_01_CAREER_RACES_DESCRIPTION	Необходимо выиграть 1 карьерную гонку
+0	AUTO	MENU_MAIN_MY_CARS	АВТОМОБИЛИ
+0	AUTO	CUST_VINYL_GROUP_TRIBALBODY	КУЗОВНЫЕ АППЛИКАЦИИ "ТОТЕМ"
+0	AUTO	MARKER_CATEGORY_VISUAL	Уникальная отделка
+0	AUTO	MC_PROMPT_SAVE_AUTOLOGIN_INFO	Сохранить информацию о входе в систему в профиль?
+0	AUTO	DEBUG_MENUSCREEN	Menu Screen
+0	AUTO	MY_CARS_TITLE	*АВТОМОБИЛИ*
+0	AUTO	CUST_VINYLS_MIRROR_OFF	Выкл. зеркало
+0	AUTO	MARKER_CATEGORY_PARTS	Уникальный стайлинг
+0	AUTO	CARNAME_DODGE_VIPER	Dodge Viper SRT-10
+0	AUTO	BOSS_BONUS_CARDS_INFO	Теперь ты можешь выбрать %$d жет.  (%s)
+0	AUTO	CAREER_SELECT_CAR_CLASS_TITLE	*ВИД МАШИНЫ*
+0	AUTO	CAR_SELECT_DIALOG_CANNOT_AFFORD_CAR_NOTIFICATION	У вас не хватает денег на покупку машины. Заработайте их на гонках!
+0	AUTO	OL_STAT_LOSSES	Поражения в ранговых гонках
+0	AUTO	CARNAME_SHELBY_GT500_67	Shelby GT500
+0	AUTO	STATS_DOWNLOADING	Загрузка игровой статистики…
+0	AUTO	CAR_CLASS_TESTING_SKIP_TRANSMISSION	Это просто тест, побеждать не обязательно. Отрывайся.
+0	AUTO	CUST_VINYL_INNER_SHADOW_0	ТЕНЬ
+0	AUTO	CUST_MAINMENU_RIM_PAINT	ПОКРАСКА ДИСКОВ
+0	AUTO	MARKER_NAME_DESCRIPTION_TRANSMISSION	Возможность установить уникальную трансмиссию.
+0	AUTO	REWARDS_OBJECTIVE_HEADER	Мини-цель
+0	AUTO	STAT_FINISH_TIME	Время финиша
+0	AUTO	MAIN_CARSELECT	ВЫБОР АВТОМОБИЛЯ
+0	AUTO	HELP_OFFLINE_REWARDS	Карточки
+0	AUTO	CARNAME_CHEVROLET_CAMARO	Chevrolet Camaro SS
+0	AUTO	STAT_BEST_SPEEDTRAP	Радар
+0	AUTO	CART_ITEM_DESC_AS_ROOF_SCOOP	ВОЗДУХОЗАБОРНИК "AUTOSCULPT"
+0	AUTO	WINGMAN_DESC_CAREER_COLIN	Открывает доступ к дискам Autosculpt и другому стайлингу
+0	AUTO	WINGMAN_DESC_CAREER_YUMI	Дает 10%% скидку на запчасти для тюнинга^
+0	AUTO	WINGMAN_DESC_CAREER_NIKKI	Дает 10%% скидку на приобретение всех автомобилей^
+0	AUTO	CROSS_SELL_NBA_LIVE	NBA LIVE 07
+0	AUTO	CHAL_HEADER_SILVER	Серебро
+0	AUTO	STAT_ROADBLOCKS_DODGED	Заграждений пройдено (одна погоня)
+0	AUTO	CARNAME_SUBARU_IMPREZZAWRX	Subaru Impreza WRX STi
+0	AUTO	CUST_MAINMENU_WINDOW_TINT_TITLE	*ТОНИРОВКА*
+0	AUTO	CUST_PARTS_EXHAUST_TITLE	*НАСАДКА ГЛУШИТЕЛЯ *
+0	AUTO	PART_KIT08_SKIRT	SPEEDWAY
+0	AUTO	MARKER_NAME_DESCRIPTION_IMPOUND	Увеличение количества арестов, приводящих к конфискации машины, на единицу. Это количество не может превышать 5 для одной машины.
+0	AUTO	CUST_MAINMENU_PAINT	ПОКРАСКА КУЗОВА
+0	AUTO	CUST_MAINMENU_PARTS	ЗАПЧАСТИ
+0	AUTO	PART_WHEEL_ROJA_1	RO_JA FORMULA 1
+0	AUTO	PART_WHEEL_ROJA_2	RO_JA FORMULA 7
+0	AUTO	PART_WHEEL_ROJA_3	RO_JA FORMULA 2
+0	AUTO	CUST_MAINMENU_TITLE	*ТЮНИНГ И СТАЙЛИНГ*
+0	AUTO	MENU_QUICKRACE_TOP_ONLINE_GHOST	Двойник лидера
+0	AUTO	CARNAME_MAZDA_MAZDASPEED3	Mazda Mazdaspeed3
+0	AUTO	CAR_SELECT_DIALOG_RETURN_TO_FREE_ROAM	Вернуться в город?
+0	AUTO	CAR_SELECT_LEAVE_SHOP	Выход
+0	AUTO	MENU_CREW_LOGO_SAVE_CONFIRM	Сохранить логотип? Предыдущий логотип будет утерян.
+0	AUTO	MENU_CAREER_CUSTOMIZE_LOGO	ИЗМЕНЕНИЕ ЛОГОТИПА
+0	AUTO	PART_KIT08_REAR_BUMPER	SPEEDWAY
+0	AUTO	CUST_PERF_SLIDERS_TITLE	*%s - РЕГУЛИРОВКА*
+0	AUTO	STAT_RACE_TITLE	*ГОНКА*
+0	AUTO	STAT_TOP_SPEED	Лучшая скорость
+0	AUTO	VINYLS_MEMORY_WARNING2	Чтобы освободить место для аппликаций, удалите одну из уже наклеенных аппликаций.
+0	AUTO	CART_ITEM_DESC_AS_SKIRT	НАКЛ. НА ПОРОГИ AUTOSCULPT
+0	AUTO	CASTROL_CHEAT_UNLOCK_MSG	Ты заработал средства на покупку продуктов Castrol!
+0	AUTO	STAT_BEST_CHAIN_DRIFT_SCORE	Лучший счет за дрифтинг
+0	AUTO	QR_INFO_TYPE	Тип
+0	AUTO	MAIN_MENU_TITLE_CREWS	*КОМАНДА*
+0	AUTO	MARKER_NAME_DESCRIPTION_SPOILER	Возможность установить уникальный спойлер.
+0	AUTO	QUICK_RACE_TITLE_CAR_SELECT	*ВЫБОР АВТОМОБИЛЯ*
+0	AUTO	PART_WHEEL_VOLK_1	VOLK TE37
+0	AUTO	PART_WHEEL_VOLK_2	VOLK CE28
+0	AUTO	PART_WHEEL_VOLK_3	VOLK GT-P
+0	AUTO	DEMO_AUTOMOTIVE_LEGAL2_PAL	Название Cooper и логотип Cooper Tires logo являются товарными знаками Cooper Tire & Rubber Company. Названия Dodge и HEMI являются товарными знаками DaimlerChrysler Corporation. Названия Dodge Challenger Concept, Dodge HEMI и их оформление используются по лицензии Electronic Arts.  © DaimlerChrysler Corporation 2006  Товарные знаки Lamborghini, Gallardo и все сопутствующие логотипы используются по лицензии Lamborghini ArtiMarca S.p.A., Италия.  Названия Mazda, RX-7 и все сопутствующие знаки, эмблемы и элементы оформленияand используются с согласия Mazda Motor Corporation.  Названия Mitsubishi и Lancer Evolution, эмблемы и элементы дизайна являются товарными знаками и/или интеллектуальной собственностью MITSUBISHI MOTORS CORPORATION и используются по лицензии, данной Electronic Arts Inc. Названия и логотипы всех компаний-производителей деталей являются товарными знаками соответствующих владельцев и используются с их разрешения.^
+0	AUTO	CUST_AUTOSCULPT	В корзину
+0	AUTO	CUST_PAINT_GROUP_IRIDESCENT	РАДУЖНАЯ
+0	AUTO	STAT_RACES_WON	Победы в гонках
+0	AUTO	CUST_VINYL_GROUP_FLAMEBODY	КУЗОВНЫЕ АППЛИКАЦИИ "ПЛАМЯ"
+0	AUTO	PART_WHEEL_WORK_1	WORK VS SS
+0	AUTO	PART_WHEEL_WORK_2	WORK VS-KF
+0	AUTO	PART_WHEEL_WORK_3	WORK EUROLINE S2H
+0	AUTO	PART_WHEEL_WORK_4	WORK EUROLINE FE
+0	AUTO	STAT_BEST_SINGLE_SCORE	Лучший одиночный результат в гонке "Истребитель"
+0	AUTO	CREW_BIO_INFO_RACE_STYLE	Стиль:
+0	AUTO	MARKER_NAME_PINKSLIP	Машина соперника
+0	AUTO	PART_WHEEL_TENZO_1	TENZO PSYCHO
+0	AUTO	PART_WHEEL_TENZO_2	TENZO RS-5
+0	AUTO	PART_WHEEL_TENZO_3	TENZO SHU 10
+0	AUTO	WINGMAN_DESC_CAREER_SAMSON	Захваченные районы меньше привлекают внимание полиции.
+0	AUTO	STATS_ERROR_DOWNLOADING_XBOX	Ошибка загрузки статистики игроков Xbox.
+0	AUTO	CHEAT_UNLOCK_1	Доступен Aston Martin DB9 2005 года!
+0	AUTO	CHEAT_UNLOCK_2	Доступен Dodge Charger SRT8 2006 года!
+0	AUTO	CHEAT_UNLOCK_3	Открыт доступ ко всем трассам!
+0	AUTO	CHAL_INFO_TRACK	Трасса
+0	AUTO	CART_ITEM_DESC_VINYLS	НОВЫЙ СЛОЙ
+0	AUTO	STAT_BEST_LAP	Лучший круг
+0	AUTO	CTRL_UNPLUGGED_BOOT_PS2	Контроллер отключен.^Подключите контроллер.
+0	AUTO	CLASS_EXOTIC_DESCRIPTION	Иномарки - для тех, кто любит чистую скорость.^Слабое звено в иномарке - это водитель.^Поэтому если ты уверен, что сможешь^справиться с ней, то машина сделает^все остальное за тебя.
+0	AUTO	HELP_VIEW_GAMER_CARD	Показать карточку игрока
+0	AUTO	MY_CARS_DELETE_CAR_HELP	Удалить
+0	AUTO	STAT_CARS_UNLOCKED	Доступные машины
+0	AUTO	WII_CONTROL_SCREEN_INFO_6	
+0	AUTO	CUST_MAINMENU_PAINT_TITLE	*ПОКРАСКА КУЗОВА*
+0	AUTO	STAT_HEADER_GAMES_PLAYED	Всего игр
+0	AUTO	CUST_AUTOSCULPT_ERROR	Невозможно загрузить коллекцию
+0	AUTO	CUST_AUTOSCULPT_TITLE	*AUTOSCULPT*
+0	AUTO	CUST_AUTOSCULPT_ZONE1	Зона 1
+0	AUTO	CUST_AUTOSCULPT_ZONE2	Зона 2
+0	AUTO	CUST_AUTOSCULPT_ZONE3	Зона 3
+0	AUTO	CUST_AUTOSCULPT_ZONE4	Зона 4
+0	AUTO	CUST_AUTOSCULPT_ZONE5	Зона 5
+0	AUTO	CUST_AUTOSCULPT_ZONE6	Зона 6
+0	AUTO	CUST_AUTOSCULPT_ZONE7	Зона 7
+0	AUTO	CUST_AUTOSCULPT_ZONE8	Зона 8
+0	AUTO	CUST_AUTOSCULPT_ZONE9	Зона 9
+0	AUTO	CAREER_SELECT_CAR_CLASS_HELP	Выбрать вид машины
+0	AUTO	CUST_PART_MISSINGSTRING	Missing Part String
+0	AUTO	CUST_PAINT_GROUP_METALLIC	МЕТАЛЛИК
+0	AUTO	LANG_FINNISH_NO_TRANSLATION	SUOMI
+0	AUTO	PART_KIT07_FRONT_BUMPER	SLIPSTREAM
+0	AUTO	COMMON_RACETYPE_PURSUIT_KNOCKOUT	Погоня на выбывание
+0	AUTO	CAR_CLASS_INTRO	Во время бегства от Кросса ты разбил машину. Выбери вид машины, на которой ты начнешь строить свою карьеру. Это определит вид запчастей и машин, доступ к которым ты будешь открывать по мере завоевания территории.
+0	AUTO	GAME_OVER_TITLE	*ИГРА ОКОНЧЕНА*
+0	AUTO	CAR_CLASS_TUNER	Тюнер
+0	AUTO	PART_KIT05_REAR_BUMPER	ARASHI
+0	AUTO	DEF_RACE_INFO_LAPS	Круги:
+0	AUTO	DEF_RACE_INFO_TYPE	Тип:
+0	AUTO	BOSS_BONUS_CARDS_SELECTIONS_LEFT	Осталось жетонов: %$d
+0	AUTO	PS2_START_MESSAGE	Пожалуйста, нажмите кнопку START на втором контроллере.
+0	AUTO	MARKER_CATEGORY_DESC_PERFORMANCE	В обмен на жетоны этой категории можно приобрести элитные запчасти для тюнинга подвески, тормозной системы, двигателя, трансмиссии, впрыска закиси азота, турбонаддува, нагнетателя или шин.
+0	AUTO	DIALOG_MSG_CONFIRM_START_NEW_CAREER	Начать новую игру? Гонка начнется с первого заезда!
+0	AUTO	STAT_BEST_CLOCKED_SPEEDTRAP	Лучшая скорость в "Истребителе"
+0	AUTO	PART_KIT10_FRONT_BUMPER	ТУРНИР
+0	AUTO	PART_KIT05_SKIRT	ARASHI
+0	AUTO	OL_TITLE_LEADERBOARD	*РЕКОРДЫ*
+0	AUTO	OL_CD_KEY_REGISTRATION_TITLE	*РЕГ. НОМЕР*
+0	AUTO	COMMON_FINISHED	Завершено
+0	AUTO	CREW_BIO_INFO_SKILL	МАСТЕРСТВО:
+0	AUTO	MENU_QUICKRACE_OPTIONS_PRACTICE	Обычная
+0	AUTO	BOSS_BONUS_CARDS_TITLE	*ЖЕТОНЫ СОПЕРНИКА*
+0	AUTO	CARNAME_MITSUBISHI_LANCEREVO9	Mitsubishi Lancer EVOLUTION IX MR-edition
+0	AUTO	OL_STAT_TOTAL_DISCONNECT_PERCENT	Процент отсоединений
+0	AUTO	ON_TITLE_SELECT_TRANSMISSION	*ВЫБЕРИТЕ ТИП КОРОБКИ ПЕРЕДАЧ*
+0	AUTO	LANG_DUTCH	ГОЛЛАНДСКИЙ
+0	AUTO	LANG_ITALIAN_NO_TRANSLATION	ITALIANO
+0	AUTO	MARKER_NAME_DESCRIPTION_FREEBAIL	Попавшись, дай полиции взятку, и они забудут о тебе.
+0	AUTO	MC_PROMPT_CREATE_CAREER	Для новой карьеры необходим новый профиль. Создать его?
+0	AUTO	MARKER_NAME_CASH	Денежный приз
+0	AUTO	MARKER_NAME_HOOD	Уникальные капоты
+0	AUTO	MARKER_NAME_RIMS	Уникальные диски
+0	AUTO	MARKER_NAME_TIRE	Уникальные шины
+0	AUTO	LEADERBOARD_TOP_SPEED	Макс. скорость
+0	AUTO	STATS_ERROR_DOWNLOADING	Ошибка загрузки статистики игроков.
+0	AUTO	MENU_CREW_LOGO_HELP	Здесь ты можешь выбрать логотип для своей команды. Он будет отображаться на карте. Также ты можешь приобрести аппликации со своим логотипом.
+0	AUTO	SELECT_LANGUAGE	ВЫБЕРИТЕ ЯЗЫК
+0	AUTO	CUST_VINYL_GROUP_BOSS	ГЛАВАРЬ
+0	AUTO	CUST_VINYL_GROUP_CREW	ЛОГОТИП
+0	AUTO	CUST_VINYL_GROUP_LOGO	ЛОГО
+0	AUTO	CUST_PART_PURCHASED	КУПЛЕНО
+0	AUTO	CUST_MAINMENU_AUTOSCULPT	AUTOSCULPT
+0	AUTO	DEBUG_ICONSCROLLER	ICON SCROLLER(DEBUG)
+0	AUTO	CART_ITEM_DESC_AS_HOOD	КАПОТ "AUTOSCULPT"
+0	AUTO	CART_ITEM_DESC_AS_ROOF	СРЕЗ КРЫШИ "AUTOSCULPT"
+0	AUTO	CREW_BIO_INFO_NAME	Имя:
+0	AUTO	CREW_BIO_INFO_ROLE	РОЛЬ:
+0	AUTO	CREW_BIO_INFO_TYPE	ТИП:
+0	AUTO	MENU_CAREER_CUSTOMIZE	ТЮНИНГ И СТАЙЛИНГ
+0	AUTO	CUST_MAINMENU_HEADLIGHT_COLOR	ЦВЕТ ФАР
+0	AUTO	CARNAME_DODGE_CHARGER06	Dodge Charger SRT8
+0	AUTO	CARNAME_DODGE_CHARGER69	Dodge Charger R/T
+0	AUTO	MARKER_NAME_DESCRIPTION_PAINT	Уникальная краска на любую из твоих машин.
+0	AUTO	CUST_PERF_MENU_BRAKES	ТОРМОЗА
+0	AUTO	OL_TITLE_ONLINE_REWARD_CARDS	*КАРТОЧКА СЕТЕВОЙ ИГРЫ*
+0	AUTO	COMMON_CAMERA_CONTROLS_EXIT	ВЫХОД ИЗ МЕНЮ НАСТРОЙКИ КАМЕРЫ
+0	AUTO	CUST_MAINMENU_HEADLIGHT_TITLE	*ЦВЕТ ФАР*
+0	AUTO	CAR_SELECT_DIALOG_ADD_IMPOUND_BOX_NO_CARD	У вас нет карточек задержания. Их можно заработать, побеждая в гонках.
+0	AUTO	CUST_VINYL_DROP_SHADOW_0	Тень 0
+0	AUTO	SHOPPING_CART_DLG_INSTALL	Приобрести заказанные товары?
+0	AUTO	LANG_DANISH_NO_TRANSLATION	DANSK
+0	AUTO	PART_KIT03_FRONT_BUMPER	SHADOW
+0	AUTO	DEBUG_TEXTSCROLLER	Text Scroller
+0	AUTO	OL_STAT_WINS	Победы в р. г.
+0	AUTO	CUST_MAINMENU_VISUALS	СТАЙЛИНГ
+0	AUTO	PART_KIT02_REAR_BUMPER	SWEEPER
+0	AUTO	ON_MESSENGER_GAME_INVITE_CANCELLED	%s: приглашение проигнорировано.^
+0	AUTO	MC_OLD_SAVE_REWARD	Спасибо за то, что выбрали предыдущие игры серии "Need for Speed™". За верность игре вам присуждается приз в 10 000, которые вы можете потратить в режиме карьеры.
+0	AUTO	STAT_COPS_DISABLED_TOTAL	Разбито полиц. машин (всего)
+0	AUTO	PART_WHEEL_AMERICAN_1	AMERICAN RACING SHELBY RAZOR
+0	AUTO	PART_WHEEL_AMERICAN_2	AMERICAN RACING TORQ-THRUST II
+0	AUTO	PART_WHEEL_AMERICAN_3	AMERICAN RACING TORQ-THRUST ST
+0	AUTO	STAT_QUICK_RACE_WINS	Выигранные заезды
+0	AUTO	MARKER_NAME_DESCRIPTION_BRAKES	Возможность установить уникальные запчасти для тормозной системы.
+0	AUTO	CAR_CLASS_EXOTIC	Иномарка
+0	AUTO	MARKER_NAME_DESCRIPTION_REDUCE_HEAT	Ты можешь понизить интерес полиции к твоей машине до нуля.^
+0	AUTO	CHAL_INFO_BEST_SCORE	Лучший счет
+0	AUTO	CHAL_INFO_BEST_SPEED	Лучшая скорость
+0	AUTO	MARKER_NAME_DESCRIPTION_CHASSI	Возможность установить уникальные запчасти для подвески.
+0	AUTO	MENU_RESUME_CAREER	ПРОДОЛЖИТЬ КАРЬЕРУ
+0	AUTO	MENU_QUICKRACE_OPTIONS_CATCH_UP	Фора
+0	AUTO	QUICK_RACE_INFO_ACCELERATION	УСКОРЕНИЕ
+0	AUTO	CUST_PERF_MENU_ENGINE	ДВИГАТЕЛЬ
+0	AUTO	PART_WHEEL_AUTOSCULPT_1	CARBON MO5
+0	AUTO	PART_WHEEL_AUTOSCULPT_2	CARBON HEX
+0	AUTO	PART_WHEEL_AUTOSCULPT_3	CARBON REDLINE
+0	AUTO	PART_WHEEL_AUTOSCULPT_4	CARBON GLITZ
+0	AUTO	PART_WHEEL_AUTOSCULPT_5	CARBON ST-8
+0	AUTO	PART_WHEEL_AUTOSCULPT_6	CARBON MULTI
+0	AUTO	PART_WHEEL_AUTOSCULPT_7	CARBON SF15
+0	AUTO	PART_WHEEL_AUTOSCULPT_8	CARBON RAZOR
+0	AUTO	PART_WHEEL_AUTOSCULPT_9	CARBON ST-5
+0	AUTO	WINGMAN_DESC_RACE_NEVILLE	После гонок интерес полиции к тебе не меняется.
+0	AUTO	STAT_TIMES_BUSTED	Задержания
+0	AUTO	PART_WHEEL_IFORGED_1	IFORGED AERO
+0	AUTO	PART_WHEEL_IFORGED_2	IFORGED EVOLUTION
+0	AUTO	PART_WHEEL_IFORGED_3	IFORGED MARQUIS
+0	AUTO	CART_ITEM_DESC_BODY	КУЗОВ
+0	AUTO	CUST_MOVELAYER_UP	Сместить слой вверх
+0	AUTO	MARKER_NAME_DESCRIPTION_DECALS	Уникальная наклейка на любую из твоих машин.
+0	AUTO	CARNAME_FORD_FORDGT	Ford GT
+0	AUTO	CUST_IN_SHOPPING_CART	В КОРЗИНЕ
+0	AUTO	MC_CONFIRM_DESTRUCTIVE_CREATE_PROFILE	Creating a new alias will result in any unsaved changes to the current alias being lost. Are you sure you want to create a new alias?
+0	AUTO	XBOX_START_MESSAGE	Нажмите кнопку START на втором контроллере.
+0	AUTO	CARNAME_LEXUS_IS300	Lexus IS300
+0	AUTO	CUSTOMIZATION_MEMORY_WARNING	Ограничения памяти не позволяют вносить дальнейшие изменения. Удалите одну из машин, чтобы продолжить вносить изменения.
+0	AUTO	ON_PROTO_DLC	DLC
+0	AUTO	MARKER_NAME_DESCRIPTION_ENGINE	Возможность установить уникальные запчасти для двигателя.
+0	AUTO	MENU_CM_CANT_FIRE	В команде должен быть хотя бы один человек.
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_PC	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game when the Autosave icon flashes as follows.
+0	AUTO	MARKER_NAME_BODYKIT	Уникальные кузовные детали
+0	AUTO	PART_KIT02_SKIRT	SWEEPER
+0	AUTO	STAT_CHALLENGE_SERIES_COMPLETION	Режим погони
+0	AUTO	OL_STAT_WINS_PERCENT	Процент побед
+0	AUTO	VINYL_PART_MANUFACTURER_SHELBYVINTAGE	SHELBY
+0	AUTO	MARKER_NAME_ROOFSCOOPS	Уникальные воздухозаборники
+0	AUTO	LANG_CZECH_NO_TRANSLATION	ČEŠTINA
+0	AUTO	MENU_CM_CREW_FULL	В команде уже есть три человека. Чтобы добавить в команду этого гонщика, тебе нужно уволить кого-нибудь из действующих членов команды.
+0	AUTO	SECONDARY_ROLE_MECHANIC_DESC	kicks your car when broken
+0	AUTO	STAT_DRIFT_LENGTH	Длина заноса
+0	AUTO	MC_ENTER_NAME	*ВВЕДИТЕ ИМЯ*
+0	AUTO	MENU_CAREER_CHALLENGES	ПОГОНИ
+0	AUTO	NGC_START_MESSAGE	Игрок 2, нажмите START.
+0	AUTO	CUST_MAINMENU_PERFORMANCE	ТЮНИНГ
+0	AUTO	CAR_SELECT_HEAT_COST	Стоимость понижения опасности:
+0	AUTO	CUST_MAINMENU_MARKETPLACE	МАГАЗИН XBOX
+0	AUTO	QUICK_RACE_INFO_HANDLING	УПРАВЛЯЕМОСТЬ
+0	AUTO	MENU_CAR_CLASS_MODE_TYPE	Начать пробный заезд или выбрать данный вид машины?
+0	AUTO	CONTROLLER_CFG_STEER_LEFT	Поворот налево
+0	AUTO	MENU_CAREER_START_NEW_CAREER	НОВАЯ КАРЬЕРА
+0	AUTO	MARKER_CATEGORY_PERFORMANCE	Уникальный тюнинг
+0	AUTO	CUST_VINYL_GROUP_TWOTONE	ДВУХТОНОВЫЙ
+0	AUTO	CHAL_UNLOCKS	Открывает доступ: %s
+0	AUTO	CARNAME_MCLAREN_SLR	Mercedes-Benz SLR McLaren
+0	AUTO	MENU_COMMON_PM_SHOWCASE	ЗАЛ ПОКАЗА
+0	AUTO	MARKER_NAME_SUPERCHARGER	Уникальные нагнетатели
+0	AUTO	MARKER_NAME_HUD	Уникальные приборы
+0	AUTO	MARKER_NAME_NOS	Уникальный впрыск N2O
+0	AUTO	STAT_LONGEST_PURSUIT	Самая долгая погоня
+0	AUTO	MENU_QUICKRACE_OPTIONS_AI_OPPONENTS	Компьютерные противники
+0	AUTO	CHALLENGE_SERIES_DESC_112_CG	Выиграй кольцевую гонку "Центр" против слабых соперников.
+0	AUTO	CHALLENGE_SERIES_DESC_113_CG	Выиграй кольцевую гонку "Фортуна" против опытных соперников.
+0	AUTO	CHALLENGE_SERIES_DESC_114_CG	Выиграй кольцевую гонку "Силвертон" против сильных соперников.
+0	AUTO	OL_SUBTITLE_RANK	Ранг
+0	AUTO	MC_NO_PROFILES_FOUND	Профили не найдены.
+0	AUTO	CHALLENGE_SERIES_DESC_130_CG	Выиграй кольцевую гонку "Магистраль 142" против слабых соперников.
+0	AUTO	CHALLENGE_SERIES_DESC_131_CG	Выиграй кольцевую гонку "Гарсия стрит" против опытных соперников.
+0	AUTO	CHALLENGE_SERIES_DESC_132_CG	Выиграй кольцевую гонку "Шоссе 21" против сильных соперников.
+0	AUTO	CAR_CLASS_MUSCLE	Олдовые
+0	AUTO	CREW_TITLE_YOUR_CREW	*КОМАНДА*
+0	AUTO	CREW_MENU_VIEW_CREW_CAR	Осмотр автомобиля
+0	AUTO	QUICK_RACE_OPTIONS	Настройка
+0	AUTO	LANG_SWEDISH_NO_TRANSLATION	SVENSKA
+0	AUTO	LANG_ENGLISH_NO_TRANSLATION	ENGLISH
+0	AUTO	STAT_WINS	Победы
+0	AUTO	CHAL_INFO_LENGTH	Дистанция
+0	AUTO	PC_INSTALLER_01	Компакт-диск не найден
+0	AUTO	PC_INSTALLER_02	Файл не найден
+0	AUTO	PC_INSTALLER_03	Неподдерживаемая версия Windows
+0	AUTO	PC_INSTALLER_04	Обнаружена программа-отладчик
+0	AUTO	PC_INSTALLER_05	Вставьте нужный компакт-диск и щелкните на кнопке OK
+0	AUTO	PC_INSTALLER_06	Вставьте нужный компакт-диск, щелкните на кнопке OK и перезапустите программу
+0	AUTO	PC_INSTALLER_07	Завершите работу отладчика и повторите попытку
+0	AUTO	PC_INSTALLER_08	Эта программа не поддерживает Win32
+0	AUTO	PC_INSTALLER_09	Войдите в систему с правами администратора и повторите попытку
+0	AUTO	PC_INSTALLER_10	Доступ запрещен
+0	AUTO	PC_INSTALLER_11	Извлеките и снова вставьте компакт-диск, щелкните на кнопке OK и перезапустите программу
+0	AUTO	PC_INSTALLER_12	DVD диск не найден
+0	AUTO	PC_INSTALLER_13	Вставьте нужный DVD диск и щелкните на кнопке OK
+0	AUTO	PC_INSTALLER_14	Вставьте нужный DVD диск, щелкните на кнопке OK и перезапустите программу
+0	AUTO	PC_INSTALLER_15	Обнаружена программа эмуляции компакт-диска или DVD диска. Завершите работу всех подобных программ и перезапустите игру.
+0	AUTO	PC_INSTALLER_16	Для получения дополнительной информации об ошибке щелкните здесь
+0	AUTO	MARKER_CATEGORY_MISC	Призовые жетоны
+0	AUTO	CUST_PAINT_GROUP_CHROME	ХРОМ
+0	AUTO	CUST_VINYL_STROKE_0	КОНТУР
+0	AUTO	CUST_VINYL_STROKE_1	КОНТУР 1
+0	AUTO	CUST_VINYL_STROKE_2	КОНТУР 2
+0	AUTO	CUST_VINYL_STROKE_3	КОНТУР 3
+0	AUTO	CUST_VINYL_STROKE_4	КОНТУР 4
+0	AUTO	CUST_VINYL_STROKE_5	КОНТУР 5
+0	AUTO	CAREER_TEST_CAR_HELP	Пробный заезд
+0	AUTO	CREW_BIO_INFO_AGE	Возраст:
+0	AUTO	CREW_BIO_INFO_CAR	Авто
+0	AUTO	WII_BOOT_START	Нажмите кнопку
+0	AUTO	STARTADVANCE_REV	начать
+0	AUTO	CUST_PARTS_HOODS	КАПОТ
+0	AUTO	MENU_CM_FIRE_CONFIRMATION	Ты уверен, что %s тебе больше не понадобится?
+0	AUTO	CUST_PARTS_SKIRT	НАКЛАДКА НА ПОРОГИ
+0	AUTO	CUST_PARTS_TITLE	*ЗАПЧАСТИ*
+0	AUTO	STAT_NUM_SAFEHOUSES_FOUND	Найденные убежища
+0	AUTO	GAME_OVER_CARS_IMPOUNDED_DESC	Все твои машины конфискованы.
+0	AUTO	QUICK_RACE_TITLE_SPRINT	*СПРИНТ*
+0	AUTO	STAT_SPIKE_STRIPS_DODGED	Загр. с шипами пройдено (одна погоня)
+0	AUTO	MARKER_NAME_IMPOUND	Отсрочка конфискации
+0	AUTO	STATS_DOWNLOADING_XBOX	Загрузка статистики игроков Xbox…
+0	AUTO	LANG_DANISH	ДАТСКИЙ
+0	AUTO	DEMO_HELP_CLASS_INFO	Информация
+0	AUTO	CART_ITEM_DESC_AS_REAR_BUMPER	ЗАДНИЙ БАМПЕР "AUTOSCULPT"
+0	AUTO	CUST_PARTS_HOODS_TITLE	*КАПОТ*
+0	AUTO	CUST_MAINMENU_INSTALL	КОРЗИНА
+0	AUTO	STAT_PURSUITS_ESCAPED	Уходы от погонь
+0	AUTO	REWARDS_COMPLETE_HEADER	Выполни, чтобы получить доступ:
+0	AUTO	QUICK_RACE_TITLE_KEEPAWAY	*ДИСТАНЦИЯ*
+0	AUTO	STAT_CAREER_TIME	Длительность карьеры
+0	AUTO	STAT_CAREER_WINS	Выигранные гонки
+0	AUTO	GAME_OVER_RELOAD_CURRENT_ALIAS	Загрузка текущей игры
+0	AUTO	ON_LOGIN_NOT_REQUIRED	Не требуется
+0	AUTO	CREW_MENU_CUSTOMIZE	Выбор
+0	AUTO	PART_KIT09_SKIRT	G-FORCE
+0	AUTO	HELP_TEST_DRIVE	Пробный заезд
+0	AUTO	QUICK_RACE_TITLE_TIMETRIAL	*СЕКУНДОМЕР*
+0	AUTO	PART_KIT08_FRONT_BUMPER	SPEEDWAY
+0	AUTO	LANG_FRENCH	ФРАНЦУЗСКИЙ
+0	AUTO	CUST_INSTALL	Установить
+0	AUTO	MARKER_NAME_SPOILER	Уникальные спойлеры
+0	AUTO	LANG_GERMAN	НЕМЕЦКИЙ
+0	AUTO	STAT_BEST_TIME_AS_RACER	Лучшее время в роли гонщика
+0	AUTO	CART_ITEM_NAME_VINYLS	АППЛИКАЦИИ
+0	AUTO	CUST_PARTS_ROOFSCOOPS_TITLE	*ВОЗДУХОЗАБОРНИКИ*
+0	AUTO	MC_CONFIRM_TOO_MANY_PROFILES_TO_CREATE	Превышено максимально допустимое количество учетных записей.
+0	AUTO	QUICK_RACE_TITLE_PURSUIT_TAG	*САЛОЧКИ*
+0	AUTO	GAME_OVER_PLAYER_BUSTED_DESC	Тебя арестовали! У тебя не хватает денег на то, чтобы откупиться от полицейских, и нет ни одного жетона откупа.
+0	AUTO	MC_CONFIRM_TOO_MANY_PROFILES_TO_LIST	Сохранено слишком много профилей. На экран будут выведены только последние 10.
+0	AUTO	PART_KIT09_REAR_BUMPER	G-FORCE
+0	AUTO	MENU_OPTIONS_EATRAX	EA TRAX
+0	AUTO	MC_AUTOSAVE_WARNING_PC	В игре Need for Speed™ Carbon используется функция автосохранения. В процессе игры информация время от времени автоматически сохраняется, в это время на экране мигает соответствующая пиктограмма.
+0	AUTO	CAR_CLASS_EXIT_DIALOGUE	Выход в главное меню. Данные не будут утеряны.
+0	AUTO	PART_WHEEL_LOWENHART_1	LÖWENHART XIR
+0	AUTO	PART_WHEEL_LOWENHART_2	LÖWENHART BR5
+0	AUTO	PART_WHEEL_LOWENHART_3	LÖWENHART LDR
+0	AUTO	PART_WHEEL_LOWENHART_4	LÖWENHART LC1
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_XBOX	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game on the Xbox hard disk when the Autosave icon flashes as follows.
+0	AUTO	ON_LOGIN_TOO_YOUNG	Вы не можете создавать учетные записи - ваш возраст не соответствует условиям.
+0	AUTO	MENU_QUICKRACE_OPTIONS_PLAYER_GHOST	Настройка двойника
+0	AUTO	CUST_VINYL_GROUP_MANUFACTURER	МАРКИ МАШИН
+0	AUTO	OL_STAT_TOTAL_GAMES	Всего ранговых гонок
+0	AUTO	CUST_TUNING	Тюнинг
+0	AUTO	MC_AUTOSAVE_WARNING2_PC	При появлении пиктограммы автосохранения не выключайте и не перезагружайте компьютер. В противном случае возможно повреждение данных.
+0	AUTO	MC_AUTOSAVE_WARNING_PS2	В игре Need for Speed™ Carbon используется функция автосохранения. Игра время от времени автоматически сохраняется на карту Memory Card (PS2) в гнезде MEMORY CARD 1. В такие моменты на экране появляется соответствующая пиктограмма.
+0	AUTO	MC_AUTOSAVE_WARNING_PS3	В игре Need for Speed™ Carbon используется функция автосохранения. В процессе игры информация время от времени автоматически сохраняется, в это время на экране мигает соответствующая пиктограмма.
+0	AUTO	STAT_NUMBER_BUSTS	Задержаний
+0	AUTO	MARKER_NAME_DESCRIPTION_VINYLS	Возможность установить уникальную аппликацию.
+0	AUTO	CUST_PARTS_BODY_KIT	КУЗОВ
+0	AUTO	CART_ITEM_DESC_AS_FRONT_BUMPER	ПЕРЕД. БАМПЕР AUTOSCULPT
+0	AUTO	MENU_CM_UNLOCK_NEW_CREW_NO_ROOM	Ты получил доступ к найму еще одного гонщика, но у тебя уже есть три человека в команде. Ты можешь уволить кого-нибудь, а после этого нанять нового члена команды.
+0	AUTO	CARNAME_DODGE_VINTAGE_CHALLENGER71	Dodge Challenger
+0	AUTO	DEBUG_WIDGETMENU	Widget Menu
+0	AUTO	STAT_COLLISIONS	Столкновения
+0	AUTO	STAT_TITLE_PKO_RACE	За гонщика
+0	AUTO	MENU_CREW_LOGO_DISCARD_CONFIRM	Сбросить изменения и сохранить предыдущий логотип?
+0	AUTO	COMMON_RACETYPE_ALL	Все
+0	AUTO	CAR_SELECT_DIALOG_BUY_CAR_CONFIRMATION	Желаете приобрести машину?
+0	AUTO	H_REORDER	HD
+0	AUTO	MENU_QUICKRACE_GHOST_CAR	Двойник:
+0	AUTO	MY_CARS_ADD_CUST_HELP	Добавить/Изменить
+0	AUTO	QR_DOWNLOADING_GHOST_DATA	Загрузка двойника с сервера NeedforSpeed.com
+0	AUTO	HELP_HIRE_CREW_MEMEBER	Нанять члена команды
+0	AUTO	QR_DOWNLOADING_GHOST_INFO	Загрузка информации о двойнике с сервера NeedforSpeed.com
+0	AUTO	CAR_SELECT_DIALOG_CANNOT_REDUCE_HEAT	У вас не хватает денег и карточек, чтобы откупиться от легавых. Заработайте их на гонках!
+0	AUTO	CART_ITEM_NAME_WHEEL_PAINT_SWATCH	ПОКРАСКА ДИСКОВ
+0	AUTO	CUST_PARTS_DIALOG_STANDARD	Запчасти
+0	AUTO	TITLE_PLAYERS_STATISTICS	СТАТИСТИКА ИГРЫ ПО СЕТИ
+0	AUTO	MENU_MAIN_CUSTOM_MATCH	ИНТЕРНЕТ
+0	AUTO	DEF_RACE_INFO_REWARDS	ПРИЗЫ:
+0	AUTO	CUST_VINYL_GROUP_STRIPEBODY	КУЗОВНЫЕ АППЛИКАЦИИ "ПОЛОСЫ"
+0	AUTO	STARTADVANCE_XBOX	Нажмите START, чтобы продолжить игру
+0	AUTO	CUST_VINYL_GROUP_AFTERMARKET	ЗАПЧАСТИ
+0	AUTO	PART_KIT04_FRONT_BUMPER	BORRILLO
+0	AUTO	MARKER_NAME_DESCRIPTION_ROOFSCOOPS	Возможность установить уникальный воздухозаборник.
+0	AUTO	STAT_CAREER_REP	Репутация
+0	AUTO	CUST_MAINMENU_LICENSE_PLATE	ГОСНОМЕР
+0	AUTO	MENU_MAIN_REWARD_CARDS	КАРТОЧКИ
+0	AUTO	CARNAME_MAZDA_MAZDASPEED3_EUROPE	Mazda3 MPS
+0	AUTO	PART_KIT06_REAR_BUMPER	CHICANE
+0	AUTO	CART_ITEM_DESC_AS_EXHAUST	НАС. ГЛУШИТЕЛЯ AUTOSCULPT
+0	AUTO	PART_KIT06_SKIRT	CHICANE
+0	AUTO	HELP_ONLINE_REWARDS	Призы сетевой игры
+0	AUTO	STAT_CARS_PURCHASED	Приобретенные машины
+0	AUTO	LANG_POLISH	ПОЛЬСКИЙ
+0	AUTO	STAT_BEST_MOVE	Лучший финт
+0	AUTO	STAT_BEST_TIME	Лучшее время гонки
+0	AUTO	CHAL_TIME_TRIAL	Оценка времени
+0	AUTO	STAT_BEST_CAREER_COMPLETION_TIME	Лучшее время прохождения карьеры
+0	AUTO	CHAL_HEADER_GOLD	Золото
+0	AUTO	DEMO_PSA	Игра - это всего лишь игра. На дорогах будьте осторожны, соблюдайте правила и всегда пристегивайтесь!
+0	AUTO	QUICK_RACE_TITLE_SELECT_WINGMAN	*ВЫБОР ЧЛЕНА КОМАНДЫ*
+0	AUTO	CARNAME_CORVETTE_Z06	Chevrolet Corvette Z06
+0	AUTO	LANG_ENGLISH	АНГЛИЙСКИЙ
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_XENON	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game when the Autosave icon flashes as follows.
+0	AUTO	MENU_CM_HIRE_CONFIRMATION	Ты уверен, что %s приведет тебя к победе?
+0	AUTO	HELP_GET_ONLINE_HELP	Сетевая командная игра
+0	AUTO	DEMO_MUSIC_LEGAL	Музыка ^^"Bounce" ^Исполнитель Dynamite MC^Композитор D. Smith/D. Taylor^Продюсер Dave Taylor для Solid Groove Productions^Издатель Copyright Control/Haripa Music^По лицензии Strong Records^^"Don't Speak (I Came To Make A Bang!)"^Исполнитель Eagles Of Death Metal^Композиторы Jesse "Boots Electric" Hughes и Joshua "Baby Duck" Homme^© 2005 Fabulous Weapons Music (BMI) and Board Stiff Music (BMI)^По лицензии Downtown Recordings^^"Sugar (Jagz Kooner Mix)"^Исполнитель Ladytron ^Композитор Daniel Hunt^Издатель Universal-Polygram Int. Publishing, Inc. (ASCAP) obo Universal Music Publishing Ltd. ^(p) & © 2005 Ladytron ^По лицензии Rykodisc
+0	AUTO	CROSS_SELL_FIFA	FIFA 07
+0	AUTO	ON_STAT_HEADER_BEST_DRIFT	Дрифт
+0	AUTO	STAT_INFRACTIONS_SINGLE	Нарушений (одна погоня)
+0	AUTO	CUST_PARTS_SPOILERS	СПОЙЛЕР
+0	AUTO	MENU_MAIN_QUICK_MATCH	БЫСТРЫЙ СТАРТ
+0	AUTO	STAT_GAME_COMPLETION	Завершение игры
+0	AUTO	MENU_CREW_NEED_TO_SET_CREW_STYLE_TARGET	Не выбрана ключевая машина для команды. Выбери машину из своего убежища.
+0	AUTO	TITLE_REWARD_CARDS	*КАРТОЧКИ*
+0	AUTO	CUST_RIDE_HEIGHT_PITCH	Увеличить высоту машины
+0	AUTO	STAT_HIGHEST_FINE_PAID	Наибольший выплаченный штраф
+0	AUTO	PART_WHEEL_KONIG_1	KÖNIG BLATANT
+0	AUTO	PART_WHEEL_KONIG_2	KÖNIG IMAGINE
+0	AUTO	PART_WHEEL_KONIG_3	KÖNIG THEORY
+0	AUTO	CLASS_MUSCLE_DESCRIPTION	Олдовые тачки хорошо себя показывают в разгоне по прямой. Когда ^ты оставляешь противников далеко позади, не заглядывайся в зеркало ^заднего вида, иначе на первом же повороте ^тебе не сдобровать!
+0	AUTO	CUST_MAIN_CART_CONFIRM	В корзине еще есть товары. Покинуть магазин?
+0	AUTO	STAT_TOTAL_CLOCKED_SPEEDTRAP	Лучший результат в "Истребителе"
+0	AUTO	MARKER_NAME_FREEBAIL	Взятка полиции
+0	AUTO	EA_TRAX_PLAY_TRACK	Прослушать
+0	AUTO	CART_ITEM_DESC_ROOF_SCOOP	ВОЗДУХОЗАБОРНИК
+0	AUTO	MENU_CREW_MANAGEMENT	КОМАНДА
+0	AUTO	CUST_PARTS_SKIRT_TITLE	*НАКЛАДКА НА ПОРОГИ*
+0	AUTO	CHAL_INFO_YOUR_TIME	Лучшее время
+0	AUTO	CUST_ADD_TO_CART	В корзину
+0	AUTO	WII_CONTROLS_WARNING	
+0	AUTO	STAT_TRACKS_UNLOCKED	Открытые трассы
+0	AUTO	MENU_CAREER_TURF_WARS	КАРТА
+0	AUTO	CHAL_INFO_DESCRIPTION	Описание
+0	AUTO	DIALOG_MSG_NO_CREW_SOURCE	Ключевая машина для определения стиля команды не выбрана.
+0	AUTO	MENU_CM_HIRE	Нанять
+0	AUTO	CAR_SELECT_CAR_VALUE	Цена:
+0	AUTO	STAT_LAP_SCORE	Счет за круг
+0	AUTO	BULLET_TUTORIAL_TERRITORY_01_A	Это твоя карта.
+0	AUTO	BULLET_TUTORIAL_TERRITORY_01_B	Следи за тем, как происходит передел территории.
+0	AUTO	PART_KIT00_FRONT_BUMPER	СЕРИЙНЫЕ
+0	AUTO	MYCARS_DIALOG_DELTE_CAR_CONFIRMATION	Удалить машину?
+0	AUTO	STAT_BOUNTY_TOTAL	Рейтинг (всего)
+0	AUTO	CUST_PARTSELECT_PART	Деталь
+0	AUTO	PART_KIT03_REAR_BUMPER	SHADOW
+0	AUTO	MC_NO_GHOST	У вас нет двойников на этой трассе.
+0	AUTO	PART_WHEEL_RACINGHART_1	RACINGHART MULTI C4
+0	AUTO	PART_WHEEL_RACINGHART_2	RACINGHART CX
+0	AUTO	PART_WHEEL_RACINGHART_3	RACINGHART CP
+0	AUTO	PART_WHEEL_RACINGHART_4	RACINGHART CR
+0	AUTO	MC_PROFILE_MANAGER	профили
+0	AUTO	CARNAME_CHRYSLER_300C	Chrysler® 300C® Hemi® SRT8
+0	AUTO	MC_PROMPT_CREATE_CHALLENGE	Для участия в режиме погони необходимо создать профиль или загрузить его из режима карьеры. Создать новый профиль?
+0	AUTO	CHAL_LOCKED	Доступ закрыт
+0	AUTO	CAR_CLASS_TESTING_TRANSMISSION	Какая передача вам больше нравится - ручная или автоматическая?
+0	AUTO	ON_LOGIN_MSG_PARENTAL_CONSENT	Сейчас информация о вас будет отправлена на сервер ЕА. Если вам меньше 18 лет, ваши родители должны дать согласие на отправку ваших личных данных на сервер ЕА. Отправить информацию?
+0	AUTO	STAT_BEST_SECTION_1_TIME	Лучшее время в 1 сегменте
+0	AUTO	CARNAME_ALFA_ROMEO_BRERA	Alfa Romeo Brera
+0	AUTO	LANG_DUTCH_NO_TRANSLATION	NEDERLANDS
+0	AUTO	STAT_WIN_PERCENTAGE	Процент побед
+0	AUTO	PART_KIT03_SKIRT	SHADOW
+0	AUTO	MENU_QUICKRACE_OPTIONS_COMPETITIVE	Ранговые
+0	AUTO	FABRICATOR_1_POPUP	Умелец 1 в команде открывает доступ к деталям "Autosculpt".
+0	AUTO	STAT_BEST_SECTION_2_TIME	Лучшее время во 2 сегменте
+0	AUTO	STAT_BEST_LAP_SCORE	Лучший счет за круг
+0	AUTO	CUST_PARTS_CARBON	УГЛЕПЛАСТИК
+0	AUTO	MARKER_CATEGORY_DESC_VISUAL	За эти жетоны можно приобрести уникальные аппликации и другие детали.
+0	AUTO	CARNAME_DODGE_CHALLENGERN	Dodge Challenger Concept
+0	AUTO	OL_STAT_REP	Опыт
+0	AUTO	QUICK_RACE_TITLE_PURSUIT_KNOCKOUT	*ПОГОНЯ НА ВЫБЫВАНИЕ*
+0	AUTO	MC_LOAD	Загрузка
+0	AUTO	STAT_BEST_SECTION_3_TIME	Лучшее время в 3 сегменте
+0	AUTO	MENU_CM_CURRENT_WINGMAN	Член команды:
+0	AUTO	CUST_MAINMENU_MARKETPLACE_MIXEDCASE	Магазин Xbox Live
+0	AUTO	HELP_SELECT_CAR_FOR_CAREER	Выбор машины
+0	AUTO	PART_KIT10_SKIRT	ТУРНИР
+0	AUTO	TITLE_CHALLENGE_SERIES	*ПОГОНЯ*
+0	AUTO	MENU_CM_BIO_VIDEO	Видеоролик
+0	AUTO	CUST_PARTS_REARBUMPER_TITLE	*ЗАДНИЙ БАМПЕР*
+0	AUTO	WINGMAN_DESC_RACE_COLIN	Расширенная зона драфтинга^
+0	AUTO	MENU_QUICKRACE_PLAYER_RECORD_GHOST	Запись двойника
+0	AUTO	WINGMAN_DESC_RACE_NIKKI	На 50%% увеличивает запас закиси азота и ускорения времени
+0	AUTO	ALL_SPECIAL_CHARACTERS	á à â ä ą å æ ª č ç ć ď é è ě ë ê ę í ì ï î ł ń ň ñ ó ò ø ö ô ő œ ř š ś ť ů ú ù ü û ű ý ž ż ź º °¿ ¡ ^Á À Â Å Ä Ą Æ Č Ć Ç Ď É È Ě Ë Ê Ę Í Ì Î Ï Ł Ň Ñ Ő Ó Ò Ø Ö Ô Œ Ř Ś Š Ť Ů Ú Ù Ü Ú Ű Û Ý Ż Ź Ž ß
+0	AUTO	CUST_PERF_MENU_SUSPENSION	ПОДВЕСКА
+0	AUTO	CROSS_SELL_NHL07	NHL® 07
+0	AUTO	WINGMAN_DESC_RACE_SAL	После победы опасность столкновения с полицией будет уменьшаться.
+0	AUTO	CROSS_SELL_TIGER	Tiger Woods PGA TOUR® 07
+0	AUTO	CUST_MOVELAYER_DOWN	Сместить слой вниз
+0	AUTO	CHAL_AVAILABLE	Доступные
+0	AUTO	MENU_CM_TUTORIAL	Невилл присоединился к твоей команде!^^Это панель управления командой. Здесь ты можешь:^Выбирать помощника перед гонкой.^Менять внешний вид машин своей команды.^Смотреть видеоролики о своей команде.^Увольнять членов команды (оставляя как минимум одного).^Нанимать новых членов команды (максимум трех).
+0	AUTO	SECONDARY_ROLE_FABRICATOR_DESC	DELETE
+0	AUTO	PART_KIT00_REAR_BUMPER	СЕРИЙНЫЕ
+0	AUTO	CART_ITEM_DESC_AS_SPOILER	СПОЙЛЕР "AUTOSCULPT"
+0	AUTO	QR_NO_GHOST_DATA	На данной трассе не существует двойников
+0	AUTO	CUST_VINYL_GROUP_PRIMITIVE	ГЕОМЕТРИЯ
+0	AUTO	MARKER_NAME_DESCRIPTION_SUPERCHARGER	Возможность установить уникальный нагнетатель. Нагнетатели можно устанавливать только на некоторые марки автомобилей.
+0	AUTO	PART_KIT09_FRONT_BUMPER	G-FORCE
+0	AUTO	ON_MESSENGER_LISTS_SEARCH	Результаты поиска
+0	AUTO	RC_DESCRIPTION_104	Выведи из строя 10 полицейских машин при поездке по городу.
+0	AUTO	STAT_COPS_RAMMED_TOTAL	Задето полиц. машин (всего)
+0	AUTO	MENU_CM_EMPYT	КОМАНДЫ НЕТ
+0	AUTO	OL_NFS_WEBSITE_ADDRESS_LEADERBOARD	Статистика расположена на сайте NeedforSpeed.com
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_1	CARBONO MO5
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_2	CARBONO HEX
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_3	CARBONO REDLINE
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_4	CARBONO GLITZ
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_5	CARBONO ST-8
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_6	CARBONO MULTI
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_7	CARBONO SF15
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_8	CARBONO RAZOR
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_9	CARBONO ST-5
+0	AUTO	CREW_LOGO_LAYER_1	Слой 1
+0	AUTO	CREW_LOGO_LAYER_2	Слой 2
+0	AUTO	CREW_LOGO_LAYER_3	Слой 3
+0	AUTO	CUST_PERF_STAGE	Зал %d
+0	AUTO	CUST_VINYLS_MIRROR_ON	Вкл. зеркало
+0	AUTO	CUST_PARTS_FRONTBUMPER	ПЕРЕДНИЙ БАМПЕР
+0	AUTO	STAT_BEST_JUMP_AIR_TIME	Лучшее время прыжка
+0	AUTO	MENU_BOSS_DEFEATED	*ПОРАЖЕНИЕ*
+0	AUTO	STAT_TITLE_PKO_PURSUIT	За полицейского
+0	AUTO	CREW_TITLE_LOGOS	*ЛОГОТИП*
+0	AUTO	CREW_BIO_INFO_BIRTHPLACE	Место рождения
+0	AUTO	CAR_CLASS_SELECTED_TRANSMISSION	Ты выбрал вид машины. Какая передача тебе больше нравится - ручная или автоматическая?
+0	AUTO	STAT_COST_TO_STATE_TOTAL	Урон государству (всего)
+0	AUTO	CHAL_CREW_MODE_SOLO	Один игрок
+0	AUTO	TITLE_QUICK_RACE_OPTIONS	*НАСТРОЙКА ЗАЕЗДА*
+0	AUTO	PART_KIT00_SKIRT	СЕРИЙНЫЕ
+0	AUTO	GAME_WON_TITLE	*ТЫ ВЫИГРАЛ*
+0	AUTO	STAT_COMBO_SCORE	Комбо
+0	AUTO	CUST_VINYL_FILL_0	ЗАЛИВКА
+0	AUTO	CUST_VINYL_FILL_1	ЗАЛИВКА 1
+0	AUTO	CUST_VINYL_FILL_2	ЗАЛИВКА 2
+0	AUTO	CUST_VINYL_FILL_3	ЗАЛИВКА 3
+0	AUTO	LANG_FRENCH_NO_TRANSLATION	FRANCAIS
+0	AUTO	STAT_RANDOM_ENCOUNTERS_WON	Выигранные дуэли
+0	AUTO	SHOPPING_CART_DLG_EMPTY	Список пуст.
+0	AUTO	CUST_PARTS_FRONTBUMPER_TITLE	*ПЕРЕДНИЙ БАМПЕР*
+0	AUTO	MENU_QUICKRACE_PLAYER_SAVED_GHOST	Загрузка двойника
+0	AUTO	DEF_RACE_INFO_RECORD	Рекорд:
+0	AUTO	MENU_MAIN_QUICK_RACE	ЗАЕЗД
+0	AUTO	CUST_PARTS_NORMAL	СТАНДАРТ
+0	AUTO	CARNAME_NISSAN_350Z	Nissan 350Z
+0	AUTO	MENU_CAR_CLASS_MODE_SELECT_CLASS	Выберите вид машины
+0	AUTO	MENU_RESUME_FREE_ROAM	СВОБОДНОЕ ВОЖДЕНИЕ
+0	AUTO	STAT_COPS_RAMMED_SINGLE	Задето полиц. машин (одна погоня)
+0	AUTO	MENU_QUICKRACE_OPTIONS_TRAFFIC_LEVEL	Движение
+0	AUTO	PART_KIT05_FRONT_BUMPER	ARASHI
+0	AUTO	CARNAME_PORSCHE_CAYMANS	Porsche Cayman S
+0	AUTO	CARNAME_MITSUBISHI_ECLIPSEGT	Mitsubishi Eclipse GT
+0	AUTO	CART_ITEM_NAME_BODY_PAINT_SWATCH	ПОКРАСКА КУЗОВА
+0	AUTO	STAT_RANK_POINTS	Очки ранга
+0	AUTO	PART_WHEEL_ENKEI_1	ENKEI NT03+M
+0	AUTO	PART_WHEEL_ENKEI_2	ENKEI J SPEED 3
+0	AUTO	PART_WHEEL_ENKEI_3	ENKEI ES-TARMAC
+0	AUTO	PART_WHEEL_ENKEI_4	ENKEI WRC TARMAC
+0	AUTO	HELP_RECRUIT	Нанять
+0	AUTO	COPCAR_TIER_1	Полицейский джип
+0	AUTO	COPCAR_TIER_2	Патрульная машина
+0	AUTO	COPCAR_TIER_3	Полиц. Corvette Z06
+0	AUTO	STAT_BEST_AVERAGE_SPEED	Лучшая общая скорость
+0	AUTO	STAT_MOST_CARS_RAMMED	Наибольшее количество разбитых машин
+0	AUTO	GAME_OVER_EXIT_TO_MAIN_MENU	Выход в главное меню
+0	AUTO	MARKER_NAME_DESCRIPTION_RELEASE	Возможность бесплатно забрать любую из ваших машин со штрафстоянки.
+0	AUTO	STAT_HIGHEST_HEAT_LEVEL	Наибольший уровень опасности
+0	AUTO	CARNAME_PLYMOUTH_CUDA	Plymouth® Hemi® Cuda
+0	AUTO	CUST_VINYL_GROUP_ONLINE1	ИНТЕРНЕТ
+0	AUTO	CUST_VINYL_GROUP_ONLINE2	online placeholder 2
+0	AUTO	CUST_VINYL_GROUP_ONLINE3	ВИРУС
+0	AUTO	STAT_SHORTEST_PURSUIT	Кратчайшая погоня
+0	AUTO	MENU_CAREER_START	НАЧАЛО КАРЬЕРЫ
+0	AUTO	CONTROLLER_CFG_STEER_RIGHT	Поворот направо

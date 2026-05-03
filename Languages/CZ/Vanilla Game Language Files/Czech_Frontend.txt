@@ -1,0 +1,851 @@
+#	Labrune - C:\Users\FH\OneDrive\Games\NFSCO\Project Localization\Organiaztion\vanilla_loc\LANGUAGE\Czech_Frontend.bin
+#	File created on: 19.04.2026 16:18:16
+#
+#Chunk	Hash (HEX)	Label	Value
+# ---------------------------------------------------------------------------------------------------------
+# Chunk 0 - Frontend
+0	AUTO	CUST_VINYLS_TRANSFORM_TITLE	*VINYLOVÁ PROMĚNA*
+0	AUTO	ON_STAT_HEADER_KNOCKOUTS	Vyřazení
+0	AUTO	MENU_CREW_LOGO	LOGO POSÁDKY
+0	AUTO	CARNAME_MAZDA_RX7	Mazda RX-7
+0	AUTO	MARKER_CATEGORY_DESC_MISC	Mezi tyto bonusy patří peněžité bonusy, propustky z vězení a konfiskační bonusy.
+0	AUTO	DEMO_CUSTOMIZATION_SELL	Autosculpt™ umožňuje vytvářet vlastní díly a doplňky pro vaše auto.^Můžete upravovat kity, kola, karosérie, spojlery i křídla přesně podle své potřeby.^Tím ovšem možnosti nastavení nekončí. Pomocí vinylů, potisků, vlastních laků nebo různých součástek pro zvýšení výkonu, si můžete vybudovat vlastní image jako Tuner, Muscle nebo Exotic.
+0	AUTO	CHAL_COMPLETED	Dokončeno
+0	AUTO	MC_CONFIRM_CREATE_PROFILE	Chcete vytvořit nový profil? Pokud nevytvoříte nový profil, můžete přijít o všechny dosavadní změny.
+0	AUTO	CHAL_SELECT_CREW_MODE	Vyberte režim kooperativní soutěže
+0	AUTO	CUST_PARTS_WHEELS_TITLE	*KOLA*
+0	AUTO	MARKER_NAME_TRANSMISSION	Vzácné vylepšení převodovky
+0	AUTO	CUST_VINYLS_COLOUR_TITLE	*VINYLOVÝ LAK*
+0	AUTO	CARNAME_DODGE_VINTAGE_CHARGER69	Dodge Charger R/T
+0	AUTO	SHOPPING_CART_DLG_NO_CASH	Na vybrané díly nemáte dostatek peněz. Odeberte některé produkty z nákupního košíku.
+0	AUTO	CARNAME_MERCEDES_CLK500	Mercedes-Benz CLK 500
+0	AUTO	LANG_FINNISH	Finsky
+0	AUTO	MARKER_NAME_DESCRIPTION_HUD	Vzácné vylepšení přístrojové desky pro jedno z vašich aut.
+0	AUTO	MARKER_NAME_DESCRIPTION_NOS	Vzácné nitro pro jedno z vašich aut.
+0	AUTO	STAT_PERC_AS_POLICE	%% jako policista
+0	AUTO	HELP_RACE	Závod
+0	AUTO	RC_WIN_05_CAREER_RACES_DESCRIPTION	Musíte vyhrát pět závodů v Kariéře
+0	AUTO	CHAL_SOLO_CHALLENGE	Sólo výzva
+0	AUTO	MENU_MAIN_TITLE_CAREER	*KARIÉRA*
+0	AUTO	STAT_NUM_TIMES_BUSTED	Kolikrát chycen
+0	AUTO	CUST_PARTS_WHEELS	KOLA
+0	AUTO	STAT_NUM_CREW_MEMEBERS_HIRED	Najatí parťáci
+0	AUTO	MARKER_NAME_DESCRIPTION_CASH	Extra %$d v hotovosti.
+0	AUTO	MARKER_NAME_DESCRIPTION_HOOD	Vzácná kapota pro jedno z vašich aut.
+0	AUTO	MARKER_NAME_DESCRIPTION_RIMS	Vzácná kola pro jedno z vašich aut.
+0	AUTO	MARKER_NAME_DESCRIPTION_TIRE	Vzácné pneumatiky pro jedno z vašich aut.
+0	AUTO	PART_KIT01_FRONT_BUMPER	STAG
+0	AUTO	LANG_HUNGARIAN_NO_TRANSLATION	MAGYAR
+0	AUTO	MC_CREATE	Vytvořit
+0	AUTO	CUST_RIDE_HEIGHT_DROP	Snížení podvozku
+0	AUTO	HELP_CAREER_CONTROLS	Ovládání Kariéry
+0	AUTO	PART_KIT07_SKIRT	SLIPSTREAM
+0	AUTO	MENU_CREW_STYLE	STYL PARTY
+0	AUTO	POST_RACE_PURSUIT_STATS	Statistika honičky
+0	AUTO	MC_DELETE	Smazat
+0	AUTO	MENU_QUICKRACE_GHOST_TIME	Skóre (stín)
+0	AUTO	CUST_VINYL_GRADIENT_0_0	PŘECHOD 0
+0	AUTO	CUST_VINYL_GRADIENT_1_0	PŘECHOD 1
+0	AUTO	RC_NAME_104	10 policajtů
+0	AUTO	LANG_SWEDISH	Švédsky
+0	AUTO	PART_KIT07_REAR_BUMPER	SLIPSTREAM
+0	AUTO	MARKER_NAME_PAINT	Vzácné laky
+0	AUTO	GAME_OVER_WINGMEN_BUSTED_DESC	Všichni vaši parťáci šli bručet a vy ani nemáte peníze na kauci, abyste je dostali ven.
+0	AUTO	CUST_VINYL_INNER_GLOW_0	VNITŘNÍ ZÁŘ
+0	AUTO	MARKER_NAME_BRAKES	Vzácná vylepšení brzd
+0	AUTO	CUST_VINYL_GROUP_CAMOUFLAGE	KAMUFLÁŽ
+0	AUTO	CARNAME_JAGUAR_XK	Jaguar XK
+0	AUTO	DEF_RACE_INFO_OWNERSHIP	Kdo:
+0	AUTO	CUST_PERF_MENU_TIRES	PNEUMATIKY
+0	AUTO	CUST_PERF_MENU_TURBO	TURBO
+0	AUTO	CUST_PERF_MENU_TRANSMISSION	PŘEVODOVKA
+0	AUTO	CARNAME_PORSCHE_CARRERA_GT	Porsche Carrera GT
+0	AUTO	MARKER_NAME_CHASSI	Vzácné vylepšení podvozku
+0	AUTO	STAT_INFRACTIONS_TOTAL	Přestupky (celkem)
+0	AUTO	MARKER_NAME_DESCRIPTION_PINKSLIP	Získali jste papíry k autu bosse konkurenční party! Až se příště mrknete do garáže, bude tam na vás čekat.
+0	AUTO	CAR_SELECT_BUY_CAR	Koupit auto
+0	AUTO	CAR_SELECT_DIALOG_GARAGE_FULL_NOTIFICATION	Vaše garáž je plná. Budete muset prodat nějaká auta, abyste měli místo pro nová.
+0	AUTO	CHAL_CREW_CHALLENGE	Kooperativní soutěž
+0	AUTO	MARKER_NAME_DECALS	Vzácné potisky
+0	AUTO	MENU_CAREER_SAVE_LOAD	ULOŽIT
+0	AUTO	CARNAME_BMW_M3_GTRE46	BMW M3 GTR
+0	AUTO	LANG_POLISH_NO_TRANSLATION	POLSKI
+0	AUTO	STAT_TOTAL_CASH	Celkem vyděláno peněz
+0	AUTO	CHALLENGE_SERIES_DESC_079	Poražte slabého protivníka v Duelu v kaňonu na Journeyman's Bane.
+0	AUTO	CHALLENGE_SERIES_DESC_080	Poražte průměrného protivníka v Duelu v kaňonu v Gold Valley.
+0	AUTO	CHALLENGE_SERIES_DESC_081	Poražte obtížného protivníka v Duelu v kaňonu na Eternity Pass.
+0	AUTO	CHALLENGE_SERIES_DESC_082	Vyhrajte závod v kaňonu v Gold Valley proti slabým protivníkům.
+0	AUTO	CHALLENGE_SERIES_DESC_083	Vyhrajte závod v kaňonu na Copper Ridge proti průměrným protivníkům.
+0	AUTO	CHALLENGE_SERIES_DESC_084	Vyhrajte závod v kaňonu na Deadfall Junction proti obtížným protivníkům.
+0	AUTO	CHALLENGE_SERIES_DESC_085	Dojeďte závod na Kontrolní body na Eskuri Plaza pod 3:44.
+0	AUTO	CHALLENGE_SERIES_DESC_086	Dojeďte závod na Kontrolní body na Rabinowitz Drive pod 3:02.
+0	AUTO	CHALLENGE_SERIES_DESC_087	Dojeďte závod na Kontrolní body na Blackwell Road pod 3:21.
+0	AUTO	CHALLENGE_SERIES_DESC_088	Dojeďte závod na Kontrolní body v kaňonu na Lofty Heights pod 2:39.
+0	AUTO	CHALLENGE_SERIES_DESC_089	Dojeďte závod na Kontrolní body v kaňonu na Knife's Edge pod 1:25.
+0	AUTO	CHALLENGE_SERIES_DESC_090	Dojeďte závod na Kontrolní body v kaňonu na Desperation Ridge pod 1:55.
+0	AUTO	CHALLENGE_SERIES_DESC_091	Drift v kaňonu - musíte nahrát alespoň 25 000 bodů.
+0	AUTO	CHALLENGE_SERIES_DESC_092	Drift v kaňonu - musíte nahrát alespoň 100 000 bodů.
+0	AUTO	CHALLENGE_SERIES_DESC_093	Drift v kaňonu - musíte nahrát alespoň 150 000 bodů.
+0	AUTO	CHALLENGE_SERIES_DESC_094	Po dobu alespoň %s minut vás nesmí chytit policie.
+0	AUTO	CHALLENGE_SERIES_DESC_095	Po dobu alespoň %s minut vás nesmí chytit policie.
+0	AUTO	CHALLENGE_SERIES_DESC_096	Po dobu alespoň %s minut vás nesmí chytit policie.
+0	AUTO	CHALLENGE_SERIES_DESC_097	Vyřaďte alespoň %s policejních aut, aniž by vás policie zastavila.
+0	AUTO	CHALLENGE_SERIES_DESC_098	Vyřaďte alespoň %s policejních aut, aniž by vás policie zastavila.
+0	AUTO	CHALLENGE_SERIES_DESC_099	Vyřaďte alespoň %s policejních aut, aniž by vás policie zastavila.
+0	AUTO	CHALLENGE_SERIES_DESC_100	Vyhrajte závod na Okruhu na  Dover St. proti slabým protivníkům.
+0	AUTO	CHALLENGE_SERIES_DESC_101	Vyhrajte závod na Okruhu na Ocean View proti průměrným protivníkům.
+0	AUTO	CHALLENGE_SERIES_DESC_102	Vyhrajte závod na Okruhu na Starlight Street proti obtížným protivníkům.
+0	AUTO	CHALLENGE_SERIES_DESC_103	Vyhrajte Sprint na Condo Row proti slabým protivníkům.
+0	AUTO	CHALLENGE_SERIES_DESC_104	Vyhrajte Sprint v Kings Park proti průměrným protivníkům.
+0	AUTO	CHALLENGE_SERIES_DESC_105	Vyhrajte Sprint na Canmor Road proti obtížným protivníkům.
+0	AUTO	CHALLENGE_SERIES_DESC_106	Nahrajte v tomto Driftu přes 50 000 bodů.
+0	AUTO	CHALLENGE_SERIES_DESC_107	Nahrajte v tomto Driftu přes 140 000 bodů.
+0	AUTO	CHALLENGE_SERIES_DESC_108	Nahrajte v tomto Driftu přes 250 000 bodů.
+0	AUTO	CHALLENGE_SERIES_DESC_109	Vyhrajte honičku mezi radary na Million Dollar Run proti slabým protivníkům.
+0	AUTO	CHALLENGE_SERIES_DESC_110	Vyhrajte honičku mezi radary v Infinity Park proti průměrným protivníkům.
+0	AUTO	CHALLENGE_SERIES_DESC_111	Vyhrajte honičku mezi radary na Eskuri Way proti obtížným protivníkům.
+0	AUTO	CHALLENGE_SERIES_DESC_112	Vyhrajte Bitvu v ulicích v Downtownu proti slabým protivníkům.
+0	AUTO	CHALLENGE_SERIES_DESC_113	Vyhrajte Bitvu v ulicích ve Fortuně proti průměrným protivníkům.
+0	AUTO	CHALLENGE_SERIES_DESC_114	Vyhrajte Bitvu v ulicích v Silvertonu proti obtížným protivníkům.
+0	AUTO	LANG_GERMAN_NO_TRANSLATION	DEUTSCH
+0	AUTO	OL_BUTTON_TIME_PERIOD	Časové omezení
+0	AUTO	CLASS_TUNER_DESCRIPTION	Tuner dominuje v zatáčkách, kde uplatní citlivé a přesné řízení. Co ztratíte na rovinkách, si bohatě vynahradíte při projíždění zatáček,kdy hodíte cihlu na plyn,zatímco ostatní už budou líbat svodidla.
+0	AUTO	CUST_VISUAL_RIMS_WARNING	Na kola, která máte právě k dispozici, nelze aplikovat lak.
+0	AUTO	STAT_COPS_DISABLED_SINGLE	Zničená policejní auta (za honičku)
+0	AUTO	CUST_MAINMENU_RIDE_HEIGHT	SNÍŽENÍ PODVOZKU
+0	AUTO	MARKER_NAME_ENGINE	Vzácné vylepšení motoru
+0	AUTO	MC_PROMPT_SAVE_PROFILE	Chcete zapnout funkci automatického ukládání a současně hned uložit svůj profil?
+0	AUTO	LANG_SPANISH_NO_TRANSLATION	ESPAÑOL
+0	AUTO	CUST_PARTS_TOP_TITLE	*VYCHYTÁVKY*
+0	AUTO	CARNAME_FORD_MUSTANGGT	Ford Mustang GT
+0	AUTO	STAT_KNOCKOUT_WINS	Výhry ve vyřazovacích soubojích
+0	AUTO	SECONDARY_ROLE_HEAT_MAGNET_DESC	DELETE
+0	AUTO	CREW_VINYL_WARNING	Varování: Pokud odstraníte tento vinyl, nebudete jej moci znovu nainstalovat. Přejete si pokračovat?
+0	AUTO	MENU_CAREER_CREW	PARTA
+0	AUTO	MENU_CAREER_LOAD	NAČÍST
+0	AUTO	CUST_PARTS_REARBUMPER	ZADNÍ NÁRAZNÍK
+0	AUTO	CUST_CHANGE_PAINT_SWATCH	Změnit vzorek
+0	AUTO	SHOPPING_CART_DLG_DELETE_ALL	Opravdu chcete vyprázdnit nákupní košík?
+0	AUTO	DEBUG_ARRAYSCROLLER	Posuvník
+0	AUTO	STAT_PEAK_SCORE	Nejvyšší skóre
+0	AUTO	PART_KIT10_REAR_BUMPER	KLASICKÝ
+0	AUTO	STAT_BEST_PERCENT_AS_RACER	Nejlepší procento závodníka
+0	AUTO	CARNAME_LAMBORGHINI_GALLARDO	Lamborghini Gallardo
+0	AUTO	STAT_BOUNTY_SINGLE	Zvláštní odměna (za honičku)
+0	AUTO	MC_AUTOSAVE_WARNING2_XENON	Pokud je zobrazena ikona automatického ukládání, nevypínejte prosím konzoli Xbox 360.
+0	AUTO	VINYLS_MEMORY_WARNING	Již nemůžete přidat další vrstvy. Dosáhli jste maximálního povoleného počtu.
+0	AUTO	CUST_EXHAUST_WARNING	Výfuk vyžaduje nárazník, který není na skladě.
+0	AUTO	CUST_PARTS_ROOFSCOOPS	STŘEŠNÍ SÁNÍ
+0	AUTO	PART_KIT04_REAR_BUMPER	BORRILLO
+0	AUTO	OL_SUBTITLE_GAME_TAG	Přezdívka
+0	AUTO	MC_AUTOSAVE_WARNING2_PS2	Pokud je zobrazena ikona automatického ukládání, nevyjímejte memory card (PS2), ovladač ani neresetujte/nevypínejte konzoli.
+0	AUTO	MC_AUTOSAVE_WARNING2_PS3	
+0	AUTO	CUST_PAINT_GROUP_CANDY	CUKRÁTKO
+0	AUTO	CUST_PAINT_GROUP_GLOSS	LESKLÝ
+0	AUTO	CUST_PARTS_SPOILERS_TITLE	*SPOJLERY*
+0	AUTO	COMMON_RACETYPE_PURSUIT_TAG	Sám proti všem
+0	AUTO	CUST_PAINT_GROUP_MATTE	MATNÝ
+0	AUTO	OL_BUTTON_RACE_TYPE	Typ závodu
+0	AUTO	CROSS_SELL_MADDEN07	MADDEN NFL 07
+0	AUTO	CUST_PAINT_GROUP_PEARL	PERLEŤOVÝ
+0	AUTO	QR_NOT_ONLINE_FOR_GHOST	Chcete-li si stáhnout stín jednoho z vedoucích hráčů žebříčku EA Nation, musíte se přihlásit k účtu EA On-line. Přihlásit se můžete ručně v sekci On-line Options.
+0	AUTO	TITLE_STATISTICS	*ÚDAJE*
+0	AUTO	STAT_HIGHEST_FINE	Nejvyšší pokuta
+0	AUTO	EA_TRAX_CAR_CLASS_FILTER_USE	Specifické pro hru
+0	AUTO	WII_OPT_ERROR	
+0	AUTO	MC_AUTOSAVE_WARNING_XBOX	Need for Speed™ Carbon používá funkci automatického ukládání. Pokud bliká tato ikona, hra se právě ukládá na pevný disk XBoxu.
+0	AUTO	WINGMAN_DESC_RACE_SAMSON	Hotovostní bonus +10%% za každou výhru^
+0	AUTO	CUST_VINYL_GROUP_PINSTRIPE	PROUŽKY
+0	AUTO	PART_KIT04_SKIRT	BORRILLO
+0	AUTO	CHAL_CREW_MODE_ONLINE	On-line
+0	AUTO	PART_WHEEL_GIOVANNA_1	GIOVANNA BRAKE
+0	AUTO	PART_WHEEL_GIOVANNA_2	GIOVANNA GELLO
+0	AUTO	PART_WHEEL_GIOVANNA_3	GIOVANNA ARARAT
+0	AUTO	FABRICATOR_2_POPUP	Pokud si do party přidáte Colina, budete moci upravovat tyto předměty Autoscuplt.
+0	AUTO	PART_WHEEL_ADR_1	ADR ADRENALINE
+0	AUTO	PART_WHEEL_ADR_2	ADR EMPIRE
+0	AUTO	PART_WHEEL_ADR_3	ADR GT-SPORT
+0	AUTO	PART_WHEEL_ADR_4	ADR M SPORT
+0	AUTO	PART_WHEEL_ADR_5	ADR SOKUDO8
+0	AUTO	PART_WHEEL_BBS_1	BBS GT
+0	AUTO	PART_WHEEL_BBS_2	BBS RS GT
+0	AUTO	PART_WHEEL_BBS_3	BBS LM
+0	AUTO	PART_WHEEL_BBS_4	BBS CH
+0	AUTO	PART_WHEEL_BBS_5	BBS RK
+0	AUTO	PART_WHEEL_BBS_6	BBS RX
+0	AUTO	QR_ERROR_DOWNLOADING_GHOST_DATA	Chyba při stahování stínu
+0	AUTO	PART_WHEEL_HRE_1	HRE 943R
+0	AUTO	PART_WHEEL_HRE_2	HRE 541R
+0	AUTO	PART_WHEEL_HRE_3	HRE 549R
+0	AUTO	OL_BUTTON_PLAYER_FILTER	Filtr na hráče
+0	AUTO	MENU_QUICKRACE_OPTIONS_WINGMEN	Parťák
+0	AUTO	PART_WHEEL_TSW_1	TSW MONDELLO
+0	AUTO	PART_WHEEL_TSW_2	TSW ROCKET 5
+0	AUTO	PART_WHEEL_TSW_3	TSW LAGUNA
+0	AUTO	ON_ERROR_BAD_USERNAME	Uživatelské jméno je neplatné. Musí obsahovat minimálně 4 znaky bez mezer a maximálně 14 znaků včetně mezer. Ve jméně můžete používat písmena, číslice a mezery.
+0	AUTO	STAT_COST_TO_STATE_SINGLE	Veřejná škoda (za honičku)
+0	AUTO	CHAL_SPLIT_MODE_TRANSMISSION_PROMPT	%s - budete chtít používat automatickou nebo manuální převodovku?
+0	AUTO	WINGMAN_DESC_CAREER_NEVILLE	Hotovostní bonus +200 za každou výhru^
+0	AUTO	MARKER_CATEGORY_DESC_PARTS	Mezi tyto bonusy patří cokoliv od body kitů, střešních sání, kol a kapot, až po spojlery a jiná vylepšení.
+0	AUTO	MC_CONFIRM_CREATE_PROFILE_AUTOLOGIN	Chcete vytvořit nový profil pro ukládání informací o automatickém přihlašování?
+0	AUTO	CREW_MENU_VIEW_BIO_VIDEO	Přehrát životopis
+0	AUTO	STAT_BEST_DRIFT_DISTANCE	Nejdelší vzdálenost smyku
+0	AUTO	CARNAME_RENAULT_CLIO	Renault Clio V6
+0	AUTO	ON_PC_MSG_GAMESETUP_INSTRUCTION	Na obrazovce Přípravy ke hře můžete posílat soukromá pozvání do hry svým kamarádům, vybírat auta a diskutovat s ostatními hráči. Vedoucí hry může provést nastavení hry a stisknutím MEZERNÍKU přejít do herní místnosti. V herní místnosti se ke hře mohou připojit další hráči on-line a poté začne závod.
+0	AUTO	STAT_PERC_AS_RACER	%% jako závodník
+0	AUTO	CARNAME_TOYOTA_SUPRA	Toyota Supra
+0	AUTO	CUST_PARTS_DIALOG_TITLE	Vyberte standardní díl nebo díl pro Autosculpt
+0	AUTO	MC_CONFIRM_DESTRUCTIVE_LOAD	Pokud nahrajete nový profil, veškeré neuložené změny pod stávajícím profilem budou ztraceny. Opravdu chcete nahrát nový profil?
+0	AUTO	RC_WIN_25_CAREER_RACES_DESCRIPTION	Musíte vyhrát 25 závodů v Kariéře
+0	AUTO	CUST_PARTS_TOP	TOP CHOP
+0	AUTO	CUST_PARTS_EXHAUST	KONCOVKY VÝFUKŮ
+0	AUTO	RC_WIN_10_CAREER_RACES_DESCRIPTION	Musíte vyhrát deset závodů v Kariéře
+0	AUTO	CUST_PARTSELECT_TITLE	*DÍL PRO AUTOSCULPT*
+0	AUTO	CHAL_HEADER_BRONZE	Bronz
+0	AUTO	CUST_VINYL_GROUP_DECALS	POTISKY
+0	AUTO	CUST_PARTS_RIMS	KOLA
+0	AUTO	PERFORMANCE_TUNE_HELP_SUPERCHARGER	Seřízením dílů superchargeru můžete ovládat velikost superchargeru. Chcete-li aby supercharger produkovat energii rychleji, ale s menším výsledným posílením, seřiďte jej směrem k menším dílům. Pokud chcete, aby nabití superchargeru trvalo déle, ale vyprodukovalo vyšší posílení, seřiďte jej směrem k větším dílům.
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_PS2	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game on the memory card (PS2) in MEMORY CARD slot 1 when the Autosave icon flashes as follows.
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_PS3	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game to the HDD when the Autosave icon flashes as follows.
+0	AUTO	PART_KIT01_REAR_BUMPER	STAG
+0	AUTO	MENU_CAR_CLASS_MODE_TEST_RACE	Zkušební závod
+0	AUTO	PART_KIT06_FRONT_BUMPER	CHICANE
+0	AUTO	EA_TRAX_CAR_CLASS_FILTER_DO_NOT_USE	Použít všechnu hudbu
+0	AUTO	LANG_MEXICAN_NO_TRANSLATION	ESPAÑOL
+0	AUTO	CUST_VINYL_GROUP_SPECIAL	SPECIÁL
+0	AUTO	NGC_ALIAS_MAX	
+0	AUTO	MENU_MAIN_CAREER	KARIÉRA
+0	AUTO	CUST_VISUAL_NOLAYERS	PŘIDEJTE PROSÍM VRSTVU
+0	AUTO	MENU_MAIN_CHALLENGE	VÝZVY
+0	AUTO	CHAL_UNLOCK_REQUIREMENT	Nejdříve musíte dojet %s %s.
+0	AUTO	QR_INFO_CAR_NAME	Auto
+0	AUTO	QR_INFO_CAR_TYPE	Typ auta
+0	AUTO	CUST_VINYL_GROUP_BONUS	BONUS
+0	AUTO	CHAL_CREW_MODE_SPLIT	Rozdělená obrazovka
+0	AUTO	STAT_CARS_SOLD	Počet prodaných aut
+0	AUTO	WII_CONTROLLER_SAFETY	
+0	AUTO	STAT_BEST_SCORE	Nejvyšší poč. bodů za závod
+0	AUTO	CREW_VINYL_EDIT	Nemůžete upravovat vinyly, které jsou na autě parťáka přednastavené.
+0	AUTO	CARNAME_ASTON_MARTIN_DB9	Aston Martin DB9
+0	AUTO	CM_SET_AS_WINGMAN	Nastavit jako aktivního
+0	AUTO	STAT_BEST_LAP_TIME	Nejlepší čas za 1 kolo
+0	AUTO	CART_ITEM_DESC_AS_FRONT_WHEEL	KOLA AUTOSCULPT
+0	AUTO	PART_WHEEL_5ZIGEN_1	5ZIGEN FN01R
+0	AUTO	PART_WHEEL_5ZIGEN_2	5ZIGEN SUPERSIX
+0	AUTO	PART_WHEEL_5ZIGEN_3	5ZIGEN 5ZR
+0	AUTO	PART_WHEEL_5ZIGEN_4	5ZIGEN GN+
+0	AUTO	PART_WHEEL_5ZIGEN_5	5ZIGEN GRAVIS 1
+0	AUTO	MENU_CM_UNLOCK_NEW_CREW	Máte k dispozici nového parťáka. Můžete si ho najmout v nabídce Moje parta.
+0	AUTO	CARNAME_NISSAN_SKYLINE	Nissan Skyline GT-R R34
+0	AUTO	PART_SPA_DECAL_141	Carbono Logo
+0	AUTO	CUST_PERF_MENU_NITROUS	NITRO
+0	AUTO	MC_CONFIRM_SAVE_PROFILE	Opravdu chcete uložit váš profil?
+0	AUTO	MENU_MAIN_STATISTICS	STATISTIKA
+0	AUTO	MENU_QUICKRACE_OPTIONS_MAX_OPPONENTS	Max. poč. soupeřů
+0	AUTO	WINGMAN_DESC_CAREER_SAL	Odemkne součástky karosérie, kapoty a střešní díly Autosculpt.^
+0	AUTO	CUST_MAINMENU_RIDEHEIGHT_TITLE	*SNÍŽENÍ PODVOZKU*
+0	AUTO	PART_KIT01_SKIRT	STAG
+0	AUTO	MARKER_NAME_VINYLS	Vzácné vinyly
+0	AUTO	QUICK_RACE_TITLE_SPEEDTRAP	*RADAR*
+0	AUTO	MENU_CM_POOL_EMTPY	K dispozici momentálně nejsou žádní lidé vhodní pro přijetí do party.
+0	AUTO	STAT_SPIKE_STRIPS_DODGED_TOTAL	Objeté pásy s hřebíky (celkem)
+0	AUTO	MARKER_NAME_DESCRIPTION_BODYKIT	Vzácný body kit pro jedno z vašich aut.
+0	AUTO	WINGMAN_DESC_RACE_YUMI	25%% posílení nitra^
+0	AUTO	CARNAME_MERCEDES_SL65	Mercedes-Benz SL65 AMG
+0	AUTO	CUST_AUTOSCULPT_ZONE10	Zóna 10
+0	AUTO	STAT_RACES_LOST	Prohrané závody
+0	AUTO	CUST_MAINMENU_VISUALS_TITLE	*NASTAVENÍ VZHLEDU*
+0	AUTO	MARKER_NAME_RELEASE	Vrátit konfiskované auto
+0	AUTO	MARKER_NAME_REDUCE_HEAT	Snížení dusna
+0	AUTO	PART_WHEEL_CL_1	CENTER LINE DAGGER
+0	AUTO	PART_WHEEL_CL_2	CENTER LINE INDY
+0	AUTO	PART_WHEEL_CL_3	CENTER LINE RETRO
+0	AUTO	PART_WHEEL_CL_4	CENTER LINE VIKING
+0	AUTO	PART_WHEEL_OZ_1	O.Z. SUPERLEGGERA
+0	AUTO	PART_WHEEL_OZ_2	O.Z. SUPERTURISMO
+0	AUTO	PART_WHEEL_OZ_3	O.Z. OPERA
+0	AUTO	PART_WHEEL_OZ_4	O.Z. SUPERLEGGERA III
+0	AUTO	PART_WHEEL_OZ_5	O.Z. LEONARDO
+0	AUTO	STAT_NUM_BUSTS	Počet chycení
+0	AUTO	CREW_MENU_FIRE	Propustit
+0	AUTO	PART_KIT02_FRONT_BUMPER	SWEEPER
+0	AUTO	CREW_BIO_INFO_HEIGHT	Výška:
+0	AUTO	CREW_TITLE_HIRE_CREW_MEMBER	*NAJMOUT DO PARTY*
+0	AUTO	CUST_MAINMENU_WHEEL_PAINT_TITLE	*BARVA KOL*
+0	AUTO	STAT_ROADBLOCKS_DODGED_TOTAL	Objeté zátarasy (celkem)
+0	AUTO	WII_SPLIT_PROMPT	
+0	AUTO	HELP_CREW_STYLE	Styl party
+0	AUTO	PART_WHEEL_FOOSE_1	FOOSE SPEEDSTER
+0	AUTO	PART_WHEEL_FOOSE_2	FOOSE SPLITZ
+0	AUTO	PART_WHEEL_FOOSE_3	FOOSE NITROUS SILVER
+0	AUTO	CUST_VINYL_GROUP_NUMBER	ČÍSLA
+0	AUTO	MENU_QUICKRACE_OPTIONS_TRACKING_MODE	Stopovací režim
+0	AUTO	RC_WIN_01_CAREER_RACES_DESCRIPTION	Musíte vyhrát jeden závod v Kariéře
+0	AUTO	MENU_MAIN_MY_CARS	MÁ AUTA
+0	AUTO	CUST_VINYL_GROUP_TRIBALBODY	KAROSÉRIE - TRIBAL
+0	AUTO	MARKER_CATEGORY_VISUAL	Vzácné díly pro vylepšení vzhledu
+0	AUTO	MC_PROMPT_SAVE_AUTOLOGIN_INFO	Chcete do svého profilu uložit informace o automatickém přihlašování?
+0	AUTO	DEBUG_MENUSCREEN	Menu Screen
+0	AUTO	MY_CARS_TITLE	*MÁ AUTA*
+0	AUTO	CUST_VINYLS_MIRROR_OFF	Zrcadlově - zap.
+0	AUTO	MARKER_CATEGORY_PARTS	Vzácné doplňky
+0	AUTO	CARNAME_DODGE_VIPER	Dodge Viper SRT-10
+0	AUTO	BOSS_BONUS_CARDS_INFO	Nyní si od bosse %s můžete vybrat %$d karty.
+0	AUTO	CAREER_SELECT_CAR_CLASS_TITLE	*VYBERTE SI TŘÍDU*
+0	AUTO	CAR_SELECT_DIALOG_CANNOT_AFFORD_CAR_NOTIFICATION	Na toto auto nemáte peníze. Zkuste vyhrát ještě pár závodů.
+0	AUTO	OL_STAT_LOSSES	Hodnocené prohry
+0	AUTO	CARNAME_SHELBY_GT500_67	Shelby GT500
+0	AUTO	STATS_DOWNLOADING	Probíhá stahování údajů o hráči on-line...
+0	AUTO	CAR_CLASS_TESTING_SKIP_TRANSMISSION	Tohle je jenom test, nemusíte se snažit vyhrát. Užijte si to!
+0	AUTO	CUST_VINYL_INNER_SHADOW_0	VNITŘNÍ STÍN
+0	AUTO	CUST_MAINMENU_RIM_PAINT	BARVA KOL
+0	AUTO	MARKER_NAME_DESCRIPTION_TRANSMISSION	Vzácné vylepšení převodovky pro jedno z vašich aut.
+0	AUTO	REWARDS_OBJECTIVE_HEADER	Sekundární cíl
+0	AUTO	STAT_FINISH_TIME	Čas v cíli
+0	AUTO	MAIN_CARSELECT	VÝBĚR AUTA
+0	AUTO	HELP_OFFLINE_REWARDS	Hlavní karty odměn
+0	AUTO	CARNAME_CHEVROLET_CAMARO	Chevrolet Camaro SS
+0	AUTO	STAT_BEST_SPEEDTRAP	Nejvyšší naměřená rychlost
+0	AUTO	CART_ITEM_DESC_AS_ROOF_SCOOP	STŘEŠNÍ DÍLY AUTOSCULPT
+0	AUTO	WINGMAN_DESC_CAREER_COLIN	Odemkne kola, spojlery, výfuky a vychytávky  Autoscuplt.^
+0	AUTO	WINGMAN_DESC_CAREER_YUMI	10%% sleva na všechny výkonnostní díly^
+0	AUTO	WINGMAN_DESC_CAREER_NIKKI	10%% sleva na všechny nákupy aut^
+0	AUTO	CROSS_SELL_NBA_LIVE	NBA LIVE 07
+0	AUTO	CHAL_HEADER_SILVER	Stříbro
+0	AUTO	STAT_ROADBLOCKS_DODGED	Objeté zátarasy (za honičku)
+0	AUTO	CARNAME_SUBARU_IMPREZZAWRX	Subaru Impreza WRX STi
+0	AUTO	CUST_MAINMENU_WINDOW_TINT_TITLE	*FÓLIE*
+0	AUTO	CUST_PARTS_EXHAUST_TITLE	*ŠPIČKY VÝFUKU*
+0	AUTO	PART_KIT08_SKIRT	SPEEDWAY
+0	AUTO	MARKER_NAME_DESCRIPTION_IMPOUND	U jednoho ze svých aut můžete zvýšit  počet dovolených konfiskací o 1 bod. Maximální počet konfiskací každého auta je 5.
+0	AUTO	CUST_MAINMENU_PAINT	LAK
+0	AUTO	CUST_MAINMENU_PARTS	AUTOPŘÍSLUŠENSTVÍ
+0	AUTO	PART_WHEEL_ROJA_1	RO_JA FORMULA 1
+0	AUTO	PART_WHEEL_ROJA_2	RO_JA FORMULA 7
+0	AUTO	PART_WHEEL_ROJA_3	RO_JA FORMULA 2
+0	AUTO	CUST_MAINMENU_TITLE	*VLASTNÍ NASTAVENÍ*
+0	AUTO	MENU_QUICKRACE_TOP_ONLINE_GHOST	Stín vedoucího soupeře
+0	AUTO	CARNAME_MAZDA_MAZDASPEED3	Mazda3 MPS
+0	AUTO	CAR_SELECT_DIALOG_RETURN_TO_FREE_ROAM	Chcete se vrátit zpět na Volnou jízdu městem?
+0	AUTO	CAR_SELECT_LEAVE_SHOP	Opustit obchod
+0	AUTO	MENU_CREW_LOGO_SAVE_CONFIRM	Chcete uložit toto logo?
+0	AUTO	MENU_CAREER_CUSTOMIZE_LOGO	UPRAVIT LOGO
+0	AUTO	PART_KIT08_REAR_BUMPER	SPEEDWAY
+0	AUTO	CUST_PERF_SLIDERS_TITLE	*TUNING %s*
+0	AUTO	STAT_RACE_TITLE	*ZÁVOD*
+0	AUTO	STAT_TOP_SPEED	Nejvyšší max. rychlost
+0	AUTO	VINYLS_MEMORY_WARNING2	Nelze přidat tento vinyl. Budete muset odstranit některé dřívější vinyly, abyste získali volné místo.
+0	AUTO	CART_ITEM_DESC_AS_SKIRT	BOČNÍ OPLÁŠTĚNÍ AUTOSCULPT
+0	AUTO	CASTROL_CHEAT_UNLOCK_MSG	Odemkl jsi Castrol Cash!
+0	AUTO	STAT_BEST_CHAIN_DRIFT_SCORE	Nejlepší zřetězený drift
+0	AUTO	QR_INFO_TYPE	Typ
+0	AUTO	MAIN_MENU_TITLE_CREWS	*PARTY*
+0	AUTO	MARKER_NAME_DESCRIPTION_SPOILER	Vzácný spojler pro jedno z vašich aut.
+0	AUTO	QUICK_RACE_TITLE_CAR_SELECT	*VÝBĚR AUTA*
+0	AUTO	PART_WHEEL_VOLK_1	VOLK TE37
+0	AUTO	PART_WHEEL_VOLK_2	VOLK CE28
+0	AUTO	PART_WHEEL_VOLK_3	VOLK GT-P
+0	AUTO	DEMO_AUTOMOTIVE_LEGAL2_PAL	
+0	AUTO	CUST_AUTOSCULPT	Autosculpt
+0	AUTO	CUST_PAINT_GROUP_IRIDESCENT	DUHOVÝ
+0	AUTO	STAT_RACES_WON	Vítězné závody
+0	AUTO	CUST_VINYL_GROUP_FLAMEBODY	KAROSÉRIE - PLAMENY
+0	AUTO	PART_WHEEL_WORK_1	WORK VS SS
+0	AUTO	PART_WHEEL_WORK_2	WORK VS-KF
+0	AUTO	PART_WHEEL_WORK_3	WORK EUROLINE S2H
+0	AUTO	PART_WHEEL_WORK_4	WORK EUROLINE FE
+0	AUTO	STAT_BEST_SINGLE_SCORE	Nejlepší průjezd rychlostním detektorem
+0	AUTO	CREW_BIO_INFO_RACE_STYLE	Styl jízdy:
+0	AUTO	MARKER_NAME_PINKSLIP	Papíry k autu bosse
+0	AUTO	PART_WHEEL_TENZO_1	TENZO PSYCHO
+0	AUTO	PART_WHEEL_TENZO_2	TENZO RS-5
+0	AUTO	PART_WHEEL_TENZO_3	TENZO SHU 10
+0	AUTO	WINGMAN_DESC_CAREER_SAMSON	Snižuje úroveň napětí ve všech vašich zónách.^
+0	AUTO	STATS_ERROR_DOWNLOADING_XBOX	Chyba stahování údajů o hráči Xbox Live...
+0	AUTO	CHEAT_UNLOCK_1	Odemknutý Aston Martin DB9 2005!
+0	AUTO	CHEAT_UNLOCK_2	Odemknutý Dodge Charger SRT8 2006!
+0	AUTO	CHEAT_UNLOCK_3	Všechny tratě odemknuté!
+0	AUTO	CHAL_INFO_TRACK	Trať
+0	AUTO	CART_ITEM_DESC_VINYLS	NOVÉ ROZVRŽENÍ
+0	AUTO	STAT_BEST_LAP	Nejrychlejší kolo
+0	AUTO	CTRL_UNPLUGGED_BOOT_PS2	Ovladač nebyl připojen.^Pro pokračování, prosím, připojte ovladač.
+0	AUTO	CLASS_EXOTIC_DESCRIPTION	Auta třídy Exotic jsou pro čistokrevné závodníky vyžívající se v maximální rychlosti. Rizikovým faktorem je zde jen řidič, pokud ale zvládnete precizní práci s plynem a brzdami, auto za vás udělá zbytek.
+0	AUTO	HELP_VIEW_GAMER_CARD	Zobrazit kartu hráče
+0	AUTO	MY_CARS_DELETE_CAR_HELP	Smazat auto
+0	AUTO	STAT_CARS_UNLOCKED	Počet odemknutých aut
+0	AUTO	WII_CONTROL_SCREEN_INFO_6	
+0	AUTO	CUST_MAINMENU_PAINT_TITLE	*LAK*
+0	AUTO	STAT_HEADER_GAMES_PLAYED	Odehrané hry
+0	AUTO	CUST_AUTOSCULPT_ERROR	Broken Autosculpt Art
+0	AUTO	CUST_AUTOSCULPT_TITLE	*AUTOSCULPT*
+0	AUTO	CUST_AUTOSCULPT_ZONE1	Zóna 1
+0	AUTO	CUST_AUTOSCULPT_ZONE2	Zóna 2
+0	AUTO	CUST_AUTOSCULPT_ZONE3	Zóna 3
+0	AUTO	CUST_AUTOSCULPT_ZONE4	Zóna 4
+0	AUTO	CUST_AUTOSCULPT_ZONE5	Zóna 5
+0	AUTO	CUST_AUTOSCULPT_ZONE6	Zóna 6
+0	AUTO	CUST_AUTOSCULPT_ZONE7	Zóna 7
+0	AUTO	CUST_AUTOSCULPT_ZONE8	Zóna 8
+0	AUTO	CUST_AUTOSCULPT_ZONE9	Zóna 9
+0	AUTO	CAREER_SELECT_CAR_CLASS_HELP	Vyberte třídu
+0	AUTO	CUST_PART_MISSINGSTRING	Missing Part String
+0	AUTO	CUST_PAINT_GROUP_METALLIC	KOVOVÝ
+0	AUTO	LANG_FINNISH_NO_TRANSLATION	SUOMI
+0	AUTO	PART_KIT07_FRONT_BUMPER	SLIPSTREAM
+0	AUTO	COMMON_RACETYPE_PURSUIT_KNOCKOUT	Knockout honička
+0	AUTO	CAR_CLASS_INTRO	Při útěku před Crossem bylo vaše auto zcela zničeno. Vyberte třídu aut, se kterou chcete začít vaši Kariéru. Tato volba určí, jaká auta a jaké díly vám budou nabídnuty, když se zmocníte území.
+0	AUTO	GAME_OVER_TITLE	*KONEC HRY*
+0	AUTO	CAR_CLASS_TUNER	Tuner
+0	AUTO	PART_KIT05_REAR_BUMPER	ARASHI
+0	AUTO	DEF_RACE_INFO_LAPS	Poč. kol:
+0	AUTO	DEF_RACE_INFO_TYPE	Typ:
+0	AUTO	BOSS_BONUS_CARDS_SELECTIONS_LEFT	Zbývající karty: %$d
+0	AUTO	PS2_START_MESSAGE	Stiskněte, prosím, tlačítko START na druhém ovladači.
+0	AUTO	MARKER_CATEGORY_DESC_PERFORMANCE	Mezi bonusy pro zvýšení výkonu patří veškerá vylepšení podvozku, pneumatik, brzd, motoru, převodovky, nitra, turba nebo superchargeru.
+0	AUTO	DIALOG_MSG_CONFIRM_START_NEW_CAREER	Opravdu chcete začít novou hru? Vaše Kariéra bude ztracena.
+0	AUTO	STAT_BEST_CLOCKED_SPEEDTRAP	Nejvyšší naměřená rychlost
+0	AUTO	PART_KIT10_FRONT_BUMPER	KLASICKÝ
+0	AUTO	PART_KIT05_SKIRT	ARASHI
+0	AUTO	OL_TITLE_LEADERBOARD	*ŽEBŘÍČEK*
+0	AUTO	OL_CD_KEY_REGISTRATION_TITLE	*CD KLÍČ*
+0	AUTO	COMMON_FINISHED	Hotovo
+0	AUTO	CREW_BIO_INFO_SKILL	ZKUŠENOST:
+0	AUTO	MENU_QUICKRACE_OPTIONS_PRACTICE	Nezařazený
+0	AUTO	BOSS_BONUS_CARDS_TITLE	*BONUSOVÉ KARTY BOSSŮ*
+0	AUTO	CARNAME_MITSUBISHI_LANCEREVO9	Mitsubishi Lancer
+0	AUTO	OL_STAT_TOTAL_DISCONNECT_PERCENT	Odpojeno celkem %
+0	AUTO	ON_TITLE_SELECT_TRANSMISSION	*VYBERTE SI TYP PŘEVODOVKY*
+0	AUTO	LANG_DUTCH	Holandsky
+0	AUTO	LANG_ITALIAN_NO_TRANSLATION	ITALIANO
+0	AUTO	MARKER_NAME_DESCRIPTION_FREEBAIL	Až vás příště zatkne policie, tímhle se můžete vyplatit.
+0	AUTO	MC_PROMPT_CREATE_CAREER	Než začnete novou Kariéru, musíte si vytvořit nový profil. Přejete si vytvořit nový profil?
+0	AUTO	MARKER_NAME_CASH	Extra peníze
+0	AUTO	MARKER_NAME_HOOD	Vzácná kapota
+0	AUTO	MARKER_NAME_RIMS	Vzácná kola
+0	AUTO	MARKER_NAME_TIRE	Vzácné pneumatiky
+0	AUTO	LEADERBOARD_TOP_SPEED	Max. rychlost
+0	AUTO	STATS_ERROR_DOWNLOADING	Chyba stahování údajů o hráči on-line...
+0	AUTO	MENU_CREW_LOGO_HELP	Zde si můžete vybrat logo posádky. Bude se zobrazovat na mapě apod. Můžete si ho také umístit na své auto.
+0	AUTO	SELECT_LANGUAGE	ZVOLTE JAZYK
+0	AUTO	CUST_VINYL_GROUP_BOSS	BOSS
+0	AUTO	CUST_VINYL_GROUP_CREW	Logo party
+0	AUTO	CUST_VINYL_GROUP_LOGO	LOGO
+0	AUTO	CUST_PART_PURCHASED	ZAKOUPENO
+0	AUTO	CUST_MAINMENU_AUTOSCULPT	AUTOSCULPT
+0	AUTO	DEBUG_ICONSCROLLER	ICON SCROLLER(DEBUG)
+0	AUTO	CART_ITEM_DESC_AS_HOOD	KAPOTA AUTOSCULPT
+0	AUTO	CART_ITEM_DESC_AS_ROOF	SNÍŽENÍ PROFILU AUTOSCULPT
+0	AUTO	CREW_BIO_INFO_NAME	Jméno:
+0	AUTO	CREW_BIO_INFO_ROLE	FUNKCE:
+0	AUTO	CREW_BIO_INFO_TYPE	TYP.
+0	AUTO	MENU_CAREER_CUSTOMIZE	VLASTNÍ NASTAVENÍ
+0	AUTO	CUST_MAINMENU_HEADLIGHT_COLOR	BARVA SVĚTEL
+0	AUTO	CARNAME_DODGE_CHARGER06	Dodge Charger SRT8
+0	AUTO	CARNAME_DODGE_CHARGER69	Dodge Charger R/T
+0	AUTO	MARKER_NAME_DESCRIPTION_PAINT	Vzácný lak pro jedno z vašich aut.
+0	AUTO	CUST_PERF_MENU_BRAKES	BRZDY
+0	AUTO	OL_TITLE_ONLINE_REWARD_CARDS	*ON-LINE BONUSOVÁ KARTA*
+0	AUTO	COMMON_CAMERA_CONTROLS_EXIT	OPUSTIT OVLÁDÁNÍ KAMERY
+0	AUTO	CUST_MAINMENU_HEADLIGHT_TITLE	*BARVA SVĚTEL*
+0	AUTO	CAR_SELECT_DIALOG_ADD_IMPOUND_BOX_NO_CARD	Nemáte žádné karty zvýšení maximální konfiskace. Ty získáte dokončením závodů.
+0	AUTO	CUST_VINYL_DROP_SHADOW_0	Přidat stín 0
+0	AUTO	SHOPPING_CART_DLG_INSTALL	Opravdu chcete nakoupit všechny tyto díly?
+0	AUTO	LANG_DANISH_NO_TRANSLATION	DANSK
+0	AUTO	PART_KIT03_FRONT_BUMPER	SHADOW
+0	AUTO	DEBUG_TEXTSCROLLER	Text Scroller
+0	AUTO	OL_STAT_WINS	Hodnocená vítězství
+0	AUTO	CUST_MAINMENU_VISUALS	VZHLED
+0	AUTO	PART_KIT02_REAR_BUMPER	SWEEPER
+0	AUTO	ON_MESSENGER_GAME_INVITE_CANCELLED	%s zrušil pozvánku do hry.^
+0	AUTO	MC_OLD_SAVE_REWARD	Děkujeme, že jste si zahráli i předchozí díly Need for Speed™. Máme pro vás odměnu 10 000 v režimu Kariéry.
+0	AUTO	STAT_COPS_DISABLED_TOTAL	Zničená policejní auta (celkem)
+0	AUTO	PART_WHEEL_AMERICAN_1	AMERICAN RACING SHELBY RAZOR
+0	AUTO	PART_WHEEL_AMERICAN_2	AMERICAN RACING TORQ-THRUST II
+0	AUTO	PART_WHEEL_AMERICAN_3	AMERICAN RACING TORQ-THRUST ST
+0	AUTO	STAT_QUICK_RACE_WINS	Poč. vítězství v Rychlých závodech
+0	AUTO	MARKER_NAME_DESCRIPTION_BRAKES	Vzácné vylepšení brzd pro jedno z vašich aut.
+0	AUTO	CAR_CLASS_EXOTIC	Exotic
+0	AUTO	MARKER_NAME_DESCRIPTION_REDUCE_HEAT	Pro jedno ze svých aut můžete zařídit kompletní shovívavost policajtů a snížit tak napětí, které vaše kára v ulicích vyvolává.
+0	AUTO	CHAL_INFO_BEST_SCORE	Nejvyšší skóre
+0	AUTO	CHAL_INFO_BEST_SPEED	Nejvyšší rychlost
+0	AUTO	MARKER_NAME_DESCRIPTION_CHASSI	Vzácné vylepšení podvozku pro jedno z vašich aut.
+0	AUTO	MENU_RESUME_CAREER	POKRAČOVAT V KARIÉŘE
+0	AUTO	MENU_QUICKRACE_OPTIONS_CATCH_UP	Dohánění
+0	AUTO	QUICK_RACE_INFO_ACCELERATION	ZRYCHLENÍ
+0	AUTO	CUST_PERF_MENU_ENGINE	MOTOR
+0	AUTO	PART_WHEEL_AUTOSCULPT_1	CARBON MO5
+0	AUTO	PART_WHEEL_AUTOSCULPT_2	CARBON HEX
+0	AUTO	PART_WHEEL_AUTOSCULPT_3	CARBON REDLINE
+0	AUTO	PART_WHEEL_AUTOSCULPT_4	CARBON GLITZ
+0	AUTO	PART_WHEEL_AUTOSCULPT_5	CARBON ST-8
+0	AUTO	PART_WHEEL_AUTOSCULPT_6	CARBON MULTI
+0	AUTO	PART_WHEEL_AUTOSCULPT_7	CARBON SF15
+0	AUTO	PART_WHEEL_AUTOSCULPT_8	CARBON RAZOR
+0	AUTO	PART_WHEEL_AUTOSCULPT_9	CARBON ST-5
+0	AUTO	WINGMAN_DESC_RACE_NEVILLE	Po závodech nestoupá úroveň napětí.^
+0	AUTO	STAT_TIMES_BUSTED	Počet zatčení
+0	AUTO	PART_WHEEL_IFORGED_1	IFORGED AERO
+0	AUTO	PART_WHEEL_IFORGED_2	IFORGED EVOLUTION
+0	AUTO	PART_WHEEL_IFORGED_3	IFORGED MARQUIS
+0	AUTO	CART_ITEM_DESC_BODY	VÝBAVA KAROSERIE
+0	AUTO	CUST_MOVELAYER_UP	Posunout vrstvu výš
+0	AUTO	MARKER_NAME_DESCRIPTION_DECALS	Vzácný potisk pro jedno z vašich aut.
+0	AUTO	CARNAME_FORD_FORDGT	Ford GT
+0	AUTO	CUST_IN_SHOPPING_CART	V KOŠÍKU
+0	AUTO	MC_CONFIRM_DESTRUCTIVE_CREATE_PROFILE	Pokud vytvoříte nový profil, veškeré neuložené změny pod stávajícím profilem budou ztraceny. Opravdu chcete nový profil vytvořit?
+0	AUTO	XBOX_START_MESSAGE	Stiskněte prosím tlačítko START na druhém ovladači.
+0	AUTO	CARNAME_LEXUS_IS300	Lexus IS300
+0	AUTO	CUSTOMIZATION_MEMORY_WARNING	Již nemůžete provádět další úpravy. Abyste mohli upravovat další vozy, budete se muset zbavit jednoho z vašich existujících aut.
+0	AUTO	ON_PROTO_DLC	DLC
+0	AUTO	MARKER_NAME_DESCRIPTION_ENGINE	Vzácné vylepšení motoru jednoho z vašich aut.
+0	AUTO	MENU_CM_CANT_FIRE	Musíte mít alespoň jednoho člena party.
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_PC	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game when the Autosave icon flashes as follows.
+0	AUTO	MARKER_NAME_BODYKIT	Vzácná vylepšení body kitu
+0	AUTO	PART_KIT02_SKIRT	SWEEPER
+0	AUTO	STAT_CHALLENGE_SERIES_COMPLETION	Dokončení série Výzev
+0	AUTO	OL_STAT_WINS_PERCENT	Vítězství v %
+0	AUTO	VINYL_PART_MANUFACTURER_SHELBYVINTAGE	SHELBY
+0	AUTO	MARKER_NAME_ROOFSCOOPS	Vzácná střešní sání
+0	AUTO	LANG_CZECH_NO_TRANSLATION	ČEŠTINA
+0	AUTO	MENU_CM_CREW_FULL	Už máte úplnou partu. Dalšího parťáka si můžete najmout jedině poté, co vyhodíte jednoho ze současných parťáků.
+0	AUTO	SECONDARY_ROLE_MECHANIC_DESC	kicks your car when broken
+0	AUTO	STAT_DRIFT_LENGTH	Délka driftu
+0	AUTO	MC_ENTER_NAME	*ZADEJTE JMÉNO*
+0	AUTO	MENU_CAREER_CHALLENGES	VÝZVY
+0	AUTO	NGC_START_MESSAGE	Hráč 2 stiskne START.
+0	AUTO	CUST_MAINMENU_PERFORMANCE	VÝKON
+0	AUTO	CAR_SELECT_HEAT_COST	Úplatek za zklidnění napětí
+0	AUTO	CUST_MAINMENU_MARKETPLACE	TRH  XBOX LIVE
+0	AUTO	QUICK_RACE_INFO_HANDLING	OVLÁDÁNÍ
+0	AUTO	MENU_CAR_CLASS_MODE_TYPE	Chcete zvolit tuto třídu auta nebo si ji raději nejdřív vyzkoušíte?
+0	AUTO	CONTROLLER_CFG_STEER_LEFT	Zatáčet doleva
+0	AUTO	MENU_CAREER_START_NEW_CAREER	ZAČÍT NOVOU KARIÉRU
+0	AUTO	MC_AUTOSAVE_WARNING2_XBOX	Pokud je zobrazena ikona automatického ukládání, nevypínejte/nerestartujte konzoli Xbox, ani nevyndávejte ovladač, jinak může dojít k poškození konzole.
+0	AUTO	MARKER_CATEGORY_PERFORMANCE	Vzácné doplňky pro ladění výkonu
+0	AUTO	CUST_VINYL_GROUP_TWOTONE	DVOJTÓN
+0	AUTO	CHAL_UNLOCKS	Odemyká %s
+0	AUTO	CARNAME_MCLAREN_SLR	Mercedes-Benz SLR McLaren
+0	AUTO	MENU_COMMON_PM_SHOWCASE	PŘEDVÁDĚCÍ MÍSTNOST
+0	AUTO	MARKER_NAME_SUPERCHARGER	Vzácné superchargery
+0	AUTO	MARKER_NAME_HUD	Vzácná vylepšení přístrojové desky
+0	AUTO	MARKER_NAME_NOS	Vzácné vylepšení nitra
+0	AUTO	STAT_LONGEST_PURSUIT	Nejdelší honička
+0	AUTO	MENU_QUICKRACE_OPTIONS_AI_OPPONENTS	Protivníci (CPU)
+0	AUTO	CHALLENGE_SERIES_DESC_112_CG	Vyhrajte závod na Okruhu Downtown proti slabým protivníkům.
+0	AUTO	CHALLENGE_SERIES_DESC_113_CG	Vyhrajte závod na Okruhu Fortuna proti středním protivníkům.
+0	AUTO	CHALLENGE_SERIES_DESC_114_CG	Vyhrajte závod na Okruhu Silverton proti silným protivníkům.
+0	AUTO	OL_SUBTITLE_RANK	Hodnost
+0	AUTO	MC_NO_PROFILES_FOUND	Nebyl nalezen žádný profil.
+0	AUTO	CHALLENGE_SERIES_DESC_130_CG	Vyhrajte závod na Okruhu Dálnice 142 proti slabým protivníkům.
+0	AUTO	CHALLENGE_SERIES_DESC_131_CG	Vyhrajte závod na Okruhu Garcia Street proti středním protivníkům.
+0	AUTO	CHALLENGE_SERIES_DESC_132_CG	Vyhrajte závod na Okruhu Route 21 proti silným protivníkům.
+0	AUTO	CAR_CLASS_MUSCLE	Muscle
+0	AUTO	CREW_TITLE_YOUR_CREW	*MOJE PARTA*
+0	AUTO	CREW_MENU_VIEW_CREW_CAR	Ukázat auto
+0	AUTO	QUICK_RACE_OPTIONS	Možnosti
+0	AUTO	LANG_SWEDISH_NO_TRANSLATION	SVENSKA
+0	AUTO	LANG_ENGLISH_NO_TRANSLATION	ENGLISH
+0	AUTO	STAT_WINS	Výhry
+0	AUTO	CHAL_INFO_LENGTH	Délka
+0	AUTO	PC_INSTALLER_01	Nelze najít jednotku CD-ROM
+0	AUTO	PC_INSTALLER_02	Nelze najít soubor
+0	AUTO	PC_INSTALLER_03	Nesprávná verze Windows
+0	AUTO	PC_INSTALLER_04	Byl zjištěn ladící software
+0	AUTO	PC_INSTALLER_05	Vložte správný disk CD-ROM a klepněte na OK pro opakování
+0	AUTO	PC_INSTALLER_06	Vložte správný disk CD-ROM, klepněte na OK a restartujte aplikaci
+0	AUTO	PC_INSTALLER_07	Ukončete ladící software a zkuste to znovu
+0	AUTO	PC_INSTALLER_08	Promiňte, tento produkt není podporován na systémech Win32
+0	AUTO	PC_INSTALLER_09	Přihlašte se s právy správce a zkuste to znovu
+0	AUTO	PC_INSTALLER_10	Přístup odepřen
+0	AUTO	PC_INSTALLER_11	Vysuňte a znovu vložte disk CD-ROM, klepněte na OK a restartujte aplikaci
+0	AUTO	PC_INSTALLER_12	Nelze najít jednotku DVD-ROM
+0	AUTO	PC_INSTALLER_13	Vložte správný disk DVD-ROM a klepněte na OK pro opakování
+0	AUTO	PC_INSTALLER_14	Vložte správný disk DVD-ROM, klepněte na OK a restartujte aplikaci
+0	AUTO	PC_INSTALLER_15	Byl zjištěn sofware emulující CD/DVD. Ukončete veškerý software emulující CD/DVD a spusťte hru znovu
+0	AUTO	PC_INSTALLER_16	Klepněte sem pro více informací o této chybě
+0	AUTO	MARKER_CATEGORY_MISC	Bonusy
+0	AUTO	CUST_PAINT_GROUP_CHROME	CHRÓM
+0	AUTO	CUST_VINYL_STROKE_0	ČRTA
+0	AUTO	CUST_VINYL_STROKE_1	ČRTA 1
+0	AUTO	CUST_VINYL_STROKE_2	ČRTA 2
+0	AUTO	CUST_VINYL_STROKE_3	ČRTA 3
+0	AUTO	CUST_VINYL_STROKE_4	ČRTA 4
+0	AUTO	CUST_VINYL_STROKE_5	ČRTA 5
+0	AUTO	CAREER_TEST_CAR_HELP	Testovací auto
+0	AUTO	CREW_BIO_INFO_AGE	Věk:
+0	AUTO	CREW_BIO_INFO_CAR	Auto
+0	AUTO	WII_BOOT_START	
+0	AUTO	STARTADVANCE_REV	pro pokračování
+0	AUTO	CUST_PARTS_HOODS	KAPOTA
+0	AUTO	MENU_CM_FIRE_CONFIRMATION	Opravdu chcete parťáka (%s) nechat jít?
+0	AUTO	CUST_PARTS_SKIRT	PRÁH
+0	AUTO	CUST_PARTS_TITLE	*DÍLY*
+0	AUTO	STAT_NUM_SAFEHOUSES_FOUND	Nalezené garáže
+0	AUTO	GAME_OVER_CARS_IMPOUNDED_DESC	Všechna vaše auta byla zabavena.
+0	AUTO	QUICK_RACE_TITLE_SPRINT	*SPRINT*
+0	AUTO	STAT_SPIKE_STRIPS_DODGED	Objeté pásy s hřebíky (za honičku)
+0	AUTO	MARKER_NAME_IMPOUND	Extra konfiskační bonus
+0	AUTO	STATS_DOWNLOADING_XBOX	Probíhá stahování údajů o hráči Xbox Live...
+0	AUTO	LANG_DANISH	Dánsky
+0	AUTO	DEMO_HELP_CLASS_INFO	Informace o třídě
+0	AUTO	CART_ITEM_DESC_AS_REAR_BUMPER	ZADNÍ NÁRAZNÍK AUTOSCULPT
+0	AUTO	CUST_PARTS_HOODS_TITLE	*KAPOTY*
+0	AUTO	CUST_MAINMENU_INSTALL	NÁKUPNÍ KOŠÍK
+0	AUTO	STAT_PURSUITS_ESCAPED	Počet úspěšných útěků před policií
+0	AUTO	REWARDS_COMPLETE_HEADER	Dokončením ikony odemknete:
+0	AUTO	QUICK_RACE_TITLE_KEEPAWAY	*Z DOSAHU VŠECH*
+0	AUTO	STAT_CAREER_TIME	Celkový čas Kariéry
+0	AUTO	STAT_CAREER_WINS	Počet vítězství v Kariéře
+0	AUTO	GAME_OVER_RELOAD_CURRENT_ALIAS	Načíst stávající profil
+0	AUTO	ON_LOGIN_NOT_REQUIRED	Není vyžadováno
+0	AUTO	CREW_MENU_CUSTOMIZE	Upravit
+0	AUTO	PART_KIT09_SKIRT	G-FORCE
+0	AUTO	HELP_TEST_DRIVE	Testovací jízda
+0	AUTO	QUICK_RACE_TITLE_TIMETRIAL	*JÍZDA NA ČAS*
+0	AUTO	PART_KIT08_FRONT_BUMPER	SPEEDWAY
+0	AUTO	LANG_FRENCH	Francouzsky
+0	AUTO	CUST_INSTALL	Instalovat
+0	AUTO	MARKER_NAME_SPOILER	Vzácné spojlery
+0	AUTO	LANG_GERMAN	Německy
+0	AUTO	STAT_BEST_TIME_AS_RACER	Nejlepší čas (jako závodník)
+0	AUTO	CART_ITEM_NAME_VINYLS	Vinyly
+0	AUTO	CUST_PARTS_ROOFSCOOPS_TITLE	*STŘEŠNÍ DÍLY*
+0	AUTO	MC_CONFIRM_TOO_MANY_PROFILES_TO_CREATE	Překročili jste maximální počet uložených profilů.
+0	AUTO	QUICK_RACE_TITLE_PURSUIT_TAG	*SÁM PROTI VŠEM*
+0	AUTO	GAME_OVER_PLAYER_BUSTED_DESC	Sbalili vás a vy nemáte ani propustku z vězení, ani peníze na zaplacení pokuty
+0	AUTO	MC_CONFIRM_TOO_MANY_PROFILES_TO_LIST	Máte více profilů než je možné zobrazit. Zobrazí se pouze posledních 10 vytvořených profilů.
+0	AUTO	PART_KIT09_REAR_BUMPER	G-FORCE
+0	AUTO	MENU_OPTIONS_EATRAX	EA TRAX
+0	AUTO	MC_AUTOSAVE_WARNING_PC	Need for Speed™ Carbon používá automatické ukládání během hry. Pokud bliká tato ikona, hra se právě ukládá.
+0	AUTO	CAR_CLASS_EXIT_DIALOGUE	Opuštěním této obrazvky se vrátíte do hlavní nabídky. Váš postup v Kariéře tím ztracen nebude.
+0	AUTO	PART_WHEEL_LOWENHART_1	LÖWENHART XIR
+0	AUTO	PART_WHEEL_LOWENHART_2	LÖWENHART BR5
+0	AUTO	PART_WHEEL_LOWENHART_3	LÖWENHART LDR
+0	AUTO	PART_WHEEL_LOWENHART_4	LÖWENHART LC1
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_XBOX	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game on the Xbox hard disk when the Autosave icon flashes as follows.
+0	AUTO	ON_LOGIN_TOO_YOUNG	Nemáte dostatečný věk pro vytvoření účtu!
+0	AUTO	MENU_QUICKRACE_OPTIONS_PLAYER_GHOST	Možnosti stínu
+0	AUTO	CUST_VINYL_GROUP_MANUFACTURER	VÝROBCE
+0	AUTO	OL_STAT_TOTAL_GAMES	Celkem hodnocených her
+0	AUTO	CUST_TUNING	Seřízení
+0	AUTO	MC_AUTOSAVE_WARNING2_PC	Pokud je zobrazena ikona automatického ukládání, nevypínejte ani nerestartujte počítač.
+0	AUTO	MC_AUTOSAVE_WARNING_NGC	Během hry můžete využívat automatické ukládání vašeho postupu ve hře, které zároveň uloží i všechna vaše nastavení. Během automatického ukládání se veškeré změny přepisují. Pokud bliká tato ikona, nemačkejte tlačítko Power, ani se nedotýkejte paměťové karty.
+0	AUTO	MC_AUTOSAVE_WARNING_PS2	Need for Speed™ Carbon používá funkci automatického ukládání. Pokud bliká tato ikona, hra se právě ukládá na memory card (PS2)^ve slotu pro MEMORY CARD 1.
+0	AUTO	MC_AUTOSAVE_WARNING_PS3	
+0	AUTO	STAT_NUMBER_BUSTS	Poč. zatčení
+0	AUTO	MARKER_NAME_DESCRIPTION_VINYLS	Vzácný vinyl pro jedno z vašich aut.
+0	AUTO	CUST_PARTS_BODY_KIT	BODY KIT
+0	AUTO	CART_ITEM_DESC_AS_FRONT_BUMPER	PŘEDNÍ NÁRAZNÍK AUTOSCULPT
+0	AUTO	MENU_CM_UNLOCK_NEW_CREW_NO_ROOM	Máte k dispozici nového parťáka, ale ve vaší partě už je plno. Nového parťáka si můžete najmout poté, co na stránce Moje parta vyhodíte někoho jiného.
+0	AUTO	CARNAME_DODGE_VINTAGE_CHALLENGER71	Dodge Challenger
+0	AUTO	DEBUG_WIDGETMENU	Widget Menu
+0	AUTO	STAT_COLLISIONS	Bouračky
+0	AUTO	STAT_TITLE_PKO_RACE	KO v honičce (jezdec)
+0	AUTO	MENU_CREW_LOGO_DISCARD_CONFIRM	Opravdu chcete toto logo zrušit a ponechat si vaše předchozí logo?
+0	AUTO	COMMON_RACETYPE_ALL	Vše
+0	AUTO	CAR_SELECT_DIALOG_BUY_CAR_CONFIRMATION	Opravdu chcete koupit toto auto?
+0	AUTO	H_REORDER	Změnit pořadí
+0	AUTO	MENU_QUICKRACE_GHOST_CAR	Stín:
+0	AUTO	MY_CARS_ADD_CUST_HELP	Přidat / Upravit
+0	AUTO	QR_DOWNLOADING_GHOST_DATA	Stahuji stín z NeedforSpeed.com
+0	AUTO	HELP_HIRE_CREW_MEMEBER	Přibrat parťáka
+0	AUTO	QR_DOWNLOADING_GHOST_INFO	Probíhá stahování informací o stínu ze serveru NeedforSpeed.com
+0	AUTO	CAR_SELECT_DIALOG_CANNOT_REDUCE_HEAT	Nemáte dost peněz ani žádné karty, kterými byste mohli uplatit poldy a zklidnit napětí vyvolané kolem vašeho auta.
+0	AUTO	CART_ITEM_NAME_WHEEL_PAINT_SWATCH	LAK NA KOLA
+0	AUTO	CUST_PARTS_DIALOG_STANDARD	Autopříslušenství
+0	AUTO	TITLE_PLAYERS_STATISTICS	STATISTIKA ON-LINE HRÁČŮ
+0	AUTO	MENU_MAIN_CUSTOM_MATCH	VLASTNÍ UTKÁNÍ
+0	AUTO	DEF_RACE_INFO_REWARDS	ODMĚNY:
+0	AUTO	CUST_VINYL_GROUP_STRIPEBODY	KAROSÉRIE - PRUHY
+0	AUTO	STARTADVANCE_XBOX	Tlačítko START postoupíte dál.
+0	AUTO	CUST_VINYL_GROUP_AFTERMARKET	AUTOPŘÍSLUŠENSTVÍ
+0	AUTO	PART_KIT04_FRONT_BUMPER	BORRILLO
+0	AUTO	MARKER_NAME_DESCRIPTION_ROOFSCOOPS	Vzácné střešní sání pro jedno z vašich aut.
+0	AUTO	STAT_CAREER_REP	Reputace za Kariéru
+0	AUTO	CUST_MAINMENU_LICENSE_PLATE	SPZ
+0	AUTO	MENU_MAIN_REWARD_CARDS	BONUSOVÉ KARTY
+0	AUTO	CARNAME_MAZDA_MAZDASPEED3_EUROPE	Mazda3 MPS
+0	AUTO	PART_KIT06_REAR_BUMPER	CHICANE
+0	AUTO	CART_ITEM_DESC_AS_EXHAUST	KONCOVKA VÝFUKU AUTOSCULP
+0	AUTO	PART_KIT06_SKIRT	CHICANE
+0	AUTO	HELP_ONLINE_REWARDS	Exkluzivní odměny on-line
+0	AUTO	STAT_CARS_PURCHASED	Počet zakoupených aut
+0	AUTO	LANG_POLISH	Polsky
+0	AUTO	STAT_BEST_MOVE	Nejlepší trik
+0	AUTO	STAT_BEST_TIME	Nejlepší čas závodu
+0	AUTO	CHAL_TIME_TRIAL	Jízda na čas
+0	AUTO	STAT_BEST_CAREER_COMPLETION_TIME	Nejlepší čas dokončení Kariéry
+0	AUTO	CHAL_HEADER_GOLD	Zlato
+0	AUTO	DEMO_PSA	Triky, které spolu se svojí partou ve hře provádíte, by měly zůstat jen na obrazovce. Ve skutečném světě řiďte bezpečně, podle pravidel a vždy používejte bezpečnostní pás.
+0	AUTO	QUICK_RACE_TITLE_SELECT_WINGMAN	*VYBERTE ČLENA PARTY*
+0	AUTO	CARNAME_CORVETTE_Z06	Chevrolet Corvette Z06
+0	AUTO	LANG_ENGLISH	Anglicky
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_XENON	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game when the Autosave icon flashes as follows.
+0	AUTO	MENU_CM_HIRE_CONFIRMATION	Chcete opravdu přibrat tohoto parťáka (%s)?
+0	AUTO	HELP_GET_ONLINE_HELP	On-line kooperace
+0	AUTO	DEMO_MUSIC_LEGAL	Použité skladby ^^"Bounce" ^Performed by Dynamite MC^Written by D. Smith/D. Taylor^Produced by Dave Taylor for Solid Groove Productions^Published by Copyright Control/Haripa Music^Recording courtesy of Strong Records^^"Don't Speak (I Came To Make A Bang!)"^Performed by Eagles Of Death Metal^Written by Jesse "Boots Electric" Hughes and Joshua "Baby Duck" Homme^© 2005 Fabulous Weapons Music (BMI) and Board Stiff Music (BMI)^Recording courtesy of Downtown Recordings^^"Sugar (Jagz Kooner Mix)"^Performed by Ladytron ^Written by Daniel Hunt^Published by Universal-Polygram Int. Publishing, Inc. (ASCAP) obo Universal Music Publishing Ltd. ^(p) & © 2005 Ladytron ^Recording courtesy of Rykodisc
+0	AUTO	CROSS_SELL_FIFA	FIFA 07
+0	AUTO	ON_STAT_HEADER_BEST_DRIFT	Nejlepší drift
+0	AUTO	STAT_INFRACTIONS_SINGLE	Přestupky (za honičku)
+0	AUTO	CUST_PARTS_SPOILERS	SPOJLER
+0	AUTO	MENU_MAIN_QUICK_MATCH	RYCHLÉ UTKÁNÍ
+0	AUTO	STAT_GAME_COMPLETION	Dokončení hry
+0	AUTO	MENU_CREW_NEED_TO_SET_CREW_STYLE_TARGET	Nenastavili jste cílové auto stylu party. Přejděte do garáže a vyberte si cílové auto.
+0	AUTO	TITLE_REWARD_CARDS	*KARTY ODMĚN*
+0	AUTO	CUST_RIDE_HEIGHT_PITCH	Sklon podvozku
+0	AUTO	STAT_HIGHEST_FINE_PAID	Nejvyšší zaplacená pokuta
+0	AUTO	PART_WHEEL_KONIG_1	KÖNIG BLATANT
+0	AUTO	PART_WHEEL_KONIG_2	KÖNIG IMAGINE
+0	AUTO	PART_WHEEL_KONIG_3	KÖNIG THEORY
+0	AUTO	CLASS_MUSCLE_DESCRIPTION	Muscle, to je nekompromisní akcelerace. Až za sebou necháte ostatní stát na čáře,radši si je ve zpětném zrcátku moc neprohlížejte a věnujte se volantu,protože v tomhle vám může zadek ujet raz dva.
+0	AUTO	CUST_MAIN_CART_CONFIRM	Máte v nákupním košíku nějaké předměty, opravdu chcete odejít? (Přijdete o všechny předměty v košíku.)
+0	AUTO	STAT_TOTAL_CLOCKED_SPEEDTRAP	Součet naměřených rychlostí
+0	AUTO	MARKER_NAME_FREEBAIL	Propustka z vězení
+0	AUTO	EA_TRAX_PLAY_TRACK	Přehrát skladbu
+0	AUTO	CART_ITEM_DESC_ROOF_SCOOP	STŘEŠNÍ DÍLY
+0	AUTO	MENU_CREW_MANAGEMENT	MOJE PARTA
+0	AUTO	CUST_PARTS_SKIRT_TITLE	*PLÁŠŤ*
+0	AUTO	CHAL_INFO_YOUR_TIME	Nejlepší čas
+0	AUTO	CUST_ADD_TO_CART	Přidat do košíku
+0	AUTO	WII_CONTROLS_WARNING	
+0	AUTO	STAT_TRACKS_UNLOCKED	Počet odemknutých tratí
+0	AUTO	MENU_CAREER_TURF_WARS	MAPA
+0	AUTO	CHAL_INFO_DESCRIPTION	Popis
+0	AUTO	DIALOG_MSG_NO_CREW_SOURCE	Nevybral jste výchozí auto pro vaši partu.
+0	AUTO	MENU_CM_HIRE	Přibrat
+0	AUTO	CAR_SELECT_CAR_VALUE	Cena:
+0	AUTO	STAT_LAP_SCORE	Poč. bodů za kolo
+0	AUTO	BULLET_TUTORIAL_TERRITORY_01_A	Tohle je mapa města.
+0	AUTO	BULLET_TUTORIAL_TERRITORY_01_B	Na ní je zobrazeno, jak se mění vlastnictví území.
+0	AUTO	PART_KIT00_FRONT_BUMPER	STANDARD
+0	AUTO	MYCARS_DIALOG_DELTE_CAR_CONFIRMATION	Opravdu chcete toto auto smazat?
+0	AUTO	STAT_BOUNTY_TOTAL	Zvláštní odměna (celkem)
+0	AUTO	CUST_PARTSELECT_PART	Díl
+0	AUTO	PART_KIT03_REAR_BUMPER	SHADOW
+0	AUTO	MC_NO_GHOST	Na této trati nebyl uložen žádný stín.
+0	AUTO	PART_WHEEL_RACINGHART_1	RACINGHART MULTI C4
+0	AUTO	PART_WHEEL_RACINGHART_2	RACINGHART CX
+0	AUTO	PART_WHEEL_RACINGHART_3	RACINGHART CP
+0	AUTO	PART_WHEEL_RACINGHART_4	RACINGHART CR
+0	AUTO	MC_PROFILE_MANAGER	Manažer profilů
+0	AUTO	CARNAME_CHRYSLER_300C	Chrysler 300C Hemi SRT8
+0	AUTO	MC_PROMPT_CREATE_CHALLENGE	Než rozehrajete sérii výzev, musíte mít načtený profil. Můžete si buď načíst profil v nabídce Kariéry nebo si vytvořit nový profil. Přejete si nyní vytvořit nový profil?
+0	AUTO	CHAL_LOCKED	Zamknuto
+0	AUTO	CAR_CLASS_TESTING_TRANSMISSION	Chcete auto s manuální nebo automatickou převodovkou?
+0	AUTO	ON_LOGIN_MSG_PARENTAL_CONSENT	Chystáte se odeslat své osobní informace společnosti EA. Je-li vám 18 let nebo méně, potřebujete k odeslání osobních informací souhlas rodičů. Chcete odeslat své informace?
+0	AUTO	STAT_BEST_SECTION_1_TIME	Nejlepší čas v sekci 1
+0	AUTO	CARNAME_ALFA_ROMEO_BRERA	Alfa Romeo Brera
+0	AUTO	LANG_DUTCH_NO_TRANSLATION	NEDERLANDS
+0	AUTO	STAT_WIN_PERCENTAGE	Procento úspěšnosti
+0	AUTO	PART_KIT03_SKIRT	SHADOW
+0	AUTO	MENU_QUICKRACE_OPTIONS_COMPETITIVE	Zařazený
+0	AUTO	FABRICATOR_1_POPUP	Pokud si do party přidáte Sala, budete moct upravovat tyto předměty Autoscuplt.
+0	AUTO	STAT_BEST_SECTION_2_TIME	Nejlepší čas v sekci 2
+0	AUTO	STAT_BEST_LAP_SCORE	Nejvyšší poč. bodů za kolo
+0	AUTO	CUST_PARTS_CARBON	KARBONOVÁ VLÁKNA
+0	AUTO	MARKER_CATEGORY_DESC_VISUAL	Tyto bonusy mohou představovat cokoliv, např. unikátní vinyly.
+0	AUTO	CARNAME_DODGE_CHALLENGERN	Dodge Challenger Concept
+0	AUTO	OL_STAT_REP	On-line zkušenost
+0	AUTO	QUICK_RACE_TITLE_PURSUIT_KNOCKOUT	*HONIČKA - KNOCKOUT*
+0	AUTO	MC_LOAD	Načíst
+0	AUTO	STAT_BEST_SECTION_3_TIME	Nejlepší čas v sekci 3
+0	AUTO	MENU_CM_CURRENT_WINGMAN	Wingman:
+0	AUTO	CUST_MAINMENU_MARKETPLACE_MIXEDCASE	Xbox Live Marketplace
+0	AUTO	HELP_SELECT_CAR_FOR_CAREER	Zvolte auto pro Kariéru
+0	AUTO	PART_KIT10_SKIRT	KLASICKÝ
+0	AUTO	TITLE_CHALLENGE_SERIES	*VÝZVY*
+0	AUTO	MENU_CM_BIO_VIDEO	ŽIVOTOPIS - video
+0	AUTO	CUST_PARTS_REARBUMPER_TITLE	*ZADNÍ NÁRAZNÍK*
+0	AUTO	WINGMAN_DESC_RACE_COLIN	Větší smyková oblast za parťákem^
+0	AUTO	MENU_QUICKRACE_PLAYER_RECORD_GHOST	Zaznamenat stín
+0	AUTO	WINGMAN_DESC_RACE_NIKKI	50%% posílení zpomalení času a nitra^
+0	AUTO	ALL_SPECIAL_CHARACTERS	á à â ä ą å æ ª č ç ć ď é è ě ë ê ę í ì ï î ł ń ň ñ ó ò ø ö ô ő œ ř š ś ť ů ú ù ü û ű ý ž ż ź º °¿ ¡ ^Á À Â Å Ä Ą Æ Č Ć Ç Ď É È Ě Ë Ê Ę Í Ì Î Ï Ł Ň Ñ Ő Ó Ò Ø Ö Ô Œ Ř Ś Š Ť Ů Ú Ù Ü Ú Ű Û Ý Ż Ź Ž ß
+0	AUTO	CUST_PERF_MENU_SUSPENSION	PODVOZEK
+0	AUTO	CROSS_SELL_NHL07	NHL® 07
+0	AUTO	WINGMAN_DESC_RACE_SAL	Vyhrávání závodů má za následek snížení pozornosti policie.
+0	AUTO	CROSS_SELL_TIGER	Tiger Woods PGA TOUR® 07
+0	AUTO	CUST_MOVELAYER_DOWN	Posunout vrstvu níž
+0	AUTO	CHAL_AVAILABLE	Dostupné
+0	AUTO	MENU_CM_TUTORIAL	Neville se připojil k vaší partě!^^Toto je obrazovka správy party. Zde můžete:^Vybrat člena party, který s vámi bude jezdit závody.^Upravovat auta členů party.^Zobrazit video-biografie členů party. ^Vyhodit členy party (musí zbýt aspoň 1).^Najmout nové členy do party (nesmí jich být dohromady víc než 3).
+0	AUTO	SECONDARY_ROLE_FABRICATOR_DESC	DELETE
+0	AUTO	PART_KIT00_REAR_BUMPER	STANDARD
+0	AUTO	CART_ITEM_DESC_AS_SPOILER	SPOJLER AUTOSCULPT
+0	AUTO	QR_NO_GHOST_DATA	Na této trati není uložen stín žádného auta.
+0	AUTO	CUST_VINYL_GROUP_PRIMITIVE	TVARY
+0	AUTO	MARKER_NAME_DESCRIPTION_SUPERCHARGER	Vzácný supercharger pro jedno z vašich aut.
+0	AUTO	PART_KIT09_FRONT_BUMPER	G-FORCE
+0	AUTO	ON_MESSENGER_LISTS_SEARCH	Výsledky hledání
+0	AUTO	RC_DESCRIPTION_104	Zbavit se 10 policajtů při volné jízdě během kariéry.
+0	AUTO	STAT_COPS_RAMMED_TOTAL	Potlučená policejní auta (celkem)
+0	AUTO	MENU_CM_EMPYT	BEZ PARTY
+0	AUTO	OL_NFS_WEBSITE_ADDRESS_LEADERBOARD	Daší statistiky najdete na adrese www.NeedForSpeed.com.
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_1	CARBONO MO5
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_2	CARBONO HEX
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_3	CARBONO REDLINE
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_4	CARBONO GLITZ
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_5	CARBONO ST-8
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_6	CARBONO MULTI
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_7	CARBONO SF15
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_8	CARBONO RAZOR
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_9	CARBONO ST-5
+0	AUTO	CREW_LOGO_LAYER_1	Vrstva 1
+0	AUTO	CREW_LOGO_LAYER_2	Vrstva 2
+0	AUTO	CREW_LOGO_LAYER_3	Vrstva 3
+0	AUTO	CUST_PERF_STAGE	Edice %d
+0	AUTO	CUST_VINYLS_MIRROR_ON	Zrcadlově - vyp.
+0	AUTO	CUST_PARTS_FRONTBUMPER	PŘEDNÍ NÁRAZNÍK
+0	AUTO	STAT_BEST_JUMP_AIR_TIME	Nejdelší doba skoku
+0	AUTO	MENU_BOSS_DEFEATED	*BOSS PORAŽEN!*
+0	AUTO	STAT_TITLE_PKO_PURSUIT	KO v honičce (policie)
+0	AUTO	CREW_TITLE_LOGOS	*LOGO PARTY*
+0	AUTO	CREW_BIO_INFO_BIRTHPLACE	Místo narození
+0	AUTO	CAR_CLASS_SELECTED_TRANSMISSION	Vybrali jste si třídu auta pro svou Kariéru. Chcete používat ruční nebo automatickou převodovku?
+0	AUTO	STAT_COST_TO_STATE_TOTAL	Veřejná škoda (celkem)
+0	AUTO	CHAL_CREW_MODE_SOLO	Jeden hráč
+0	AUTO	TITLE_QUICK_RACE_OPTIONS	*MOŽNOSTI RYCHLÉHO ZÁVODU*
+0	AUTO	PART_KIT00_SKIRT	STANDARD
+0	AUTO	GAME_WON_TITLE	*VYHRÁL JSI*
+0	AUTO	STAT_COMBO_SCORE	Comba
+0	AUTO	CUST_VINYL_FILL_0	VÝPLŇ
+0	AUTO	CUST_VINYL_FILL_1	POZADÍ
+0	AUTO	CUST_VINYL_FILL_2	VYPLNIT 2
+0	AUTO	CUST_VINYL_FILL_3	VYPLNIT 3
+0	AUTO	LANG_FRENCH_NO_TRANSLATION	FRANCAIS
+0	AUTO	STAT_RANDOM_ENCOUNTERS_WON	Vítězné nečekané závody
+0	AUTO	SHOPPING_CART_DLG_EMPTY	Váš nákupní košík je prázdný
+0	AUTO	CUST_PARTS_FRONTBUMPER_TITLE	*PŘEDNÍ NÁRAZNÍK*
+0	AUTO	MENU_QUICKRACE_PLAYER_SAVED_GHOST	Váš uložený stín
+0	AUTO	DEF_RACE_INFO_RECORD	Rekord:
+0	AUTO	MENU_MAIN_QUICK_RACE	RYCHLÝ ZÁVOD
+0	AUTO	CUST_PARTS_NORMAL	NORMÁLNÍ
+0	AUTO	CARNAME_NISSAN_350Z	Nissan 350Z
+0	AUTO	MENU_CAR_CLASS_MODE_SELECT_CLASS	Vyberte třídu
+0	AUTO	MENU_RESUME_FREE_ROAM	VOLNÁ JÍZDA
+0	AUTO	STAT_COPS_RAMMED_SINGLE	Potlučená policejní auta (za honičku)
+0	AUTO	MENU_QUICKRACE_OPTIONS_TRAFFIC_LEVEL	Hustota dopravy
+0	AUTO	PART_KIT05_FRONT_BUMPER	ARASHI
+0	AUTO	CARNAME_PORSCHE_CAYMANS	Porsche Cayman S
+0	AUTO	CARNAME_MITSUBISHI_ECLIPSEGT	Mitsubishi Eclipse GT
+0	AUTO	CART_ITEM_NAME_BODY_PAINT_SWATCH	LAK KAROSERIE
+0	AUTO	STAT_RANK_POINTS	Body umístění
+0	AUTO	PART_WHEEL_ENKEI_1	ENKEI NT03+M
+0	AUTO	PART_WHEEL_ENKEI_2	ENKEI J SPEED 3
+0	AUTO	PART_WHEEL_ENKEI_3	ENKEI ES-TARMAC
+0	AUTO	PART_WHEEL_ENKEI_4	ENKEI WRC TARMAC
+0	AUTO	HELP_RECRUIT	Přibrat
+0	AUTO	COPCAR_TIER_1	Policejní průzkumný vůz
+0	AUTO	COPCAR_TIER_2	Policejní hlídkový vůz
+0	AUTO	COPCAR_TIER_3	Policejní Corvette Z06
+0	AUTO	STAT_BEST_AVERAGE_SPEED	Nejvyšší kumulativní rychlost
+0	AUTO	MC_AUTOSAVE_WARNING_XENON	Need for Speed™ Carbon používá funkci automatického ukládání. Pokud bliká tato ikona, hra se právě ukládá.
+0	AUTO	STAT_MOST_CARS_RAMMED	Nejvíce bouraná auta
+0	AUTO	GAME_OVER_EXIT_TO_MAIN_MENU	Odejít do hlavního menu
+0	AUTO	MARKER_NAME_DESCRIPTION_RELEASE	Dostanete zpátky jedno ze zabavených aut.
+0	AUTO	STAT_HIGHEST_HEAT_LEVEL	Nejvyšší úroveň napětí
+0	AUTO	CARNAME_PLYMOUTH_CUDA	Plymouth Hemi Cuda
+0	AUTO	CUST_VINYL_GROUP_ONLINE1	ON-LINE
+0	AUTO	CUST_VINYL_GROUP_ONLINE2	
+0	AUTO	CUST_VINYL_GROUP_ONLINE3	VIR
+0	AUTO	STAT_SHORTEST_PURSUIT	Nejkratší honička
+0	AUTO	MENU_CAREER_START	ZAČÍT KARIÉRU
+0	AUTO	CONTROLLER_CFG_STEER_RIGHT	Zatáčet doprava

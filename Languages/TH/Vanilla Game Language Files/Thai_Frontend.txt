@@ -1,0 +1,851 @@
+#	Labrune - C:\Users\FH\OneDrive\Games\NFSCO\Project Localization\Organiaztion\vanilla_loc\LANGUAGE\Thai_Frontend.bin
+#	File created on: 19.04.2026 16:50:08
+#
+#Chunk	Hash (HEX)	Label	Value
+# ---------------------------------------------------------------------------------------------------------
+# Chunk 0 - Frontend
+0	AUTO	CUST_VINYLS_TRANSFORM_TITLE	*เปลี่ยนรูปร่างไวนิล*
+0	AUTO	ON_STAT_HEADER_KNOCKOUTS	น็อคเอาท์
+0	AUTO	MENU_CREW_LOGO	โลโก้ทีม
+0	AUTO	CARNAME_MAZDA_RX7	Mazda RX-7
+0	AUTO	MARKER_CATEGORY_DESC_MISC	การ์ดปราบบอสเหล่านี้ประกอบไปด้วย โบนัสเงินสด, การ์ดออกจากคุก, เพิ่มจำนวนครั้งที่ถูกทำเครื่องหมายก่อนถูกยึดรถ และใบเดิมพันรถของคู่แข่งที่คุณเอาชนะได้
+0	AUTO	DEMO_CUSTOMIZATION_SELL	Autosculpt™ ให้คุณได้ปรับแต่งรถของคุณตามชอบด้วยการประดิษฐ์ชิ้นส่วนอะไหล่ของคุณเอง^คุณสามารถแก้ไขตัวถังรถ ล้อ กระโปรงหน้า สปอยเลอร์ และหลังคาเพื่อสร้างอะไหล่อย่างที่คุณต้องการ^การปรับแต่งตามใจชอบไม่ได้หยุดอยู่แค่นั้น เพราะคุณสามารถพ่นสีตามที่คุณชอบ เพิ่มไวนิลและสติ๊กเกอร์ที่ปรับแต่งได้ และติดตั้งอะไหล่ประสิทธิภาพสูงเพื่อสร้างรูปแบบทีมที่เป็นเอกลักษณ์ ไม่ว่าจะเป็นจูนเนอร์ มัสเซิล หรือเอ็กโซติค
+0	AUTO	CHAL_COMPLETED	เสร็จสิ้นแล้ว
+0	AUTO	MC_CONFIRM_CREATE_PROFILE	สร้างสมญานามใหม่ไหม? ถ้าคุณไม่สร้างสมญานามใหม่ การเปลี่ยนแปลงต่างๆ จะสูญหาย
+0	AUTO	CHAL_SELECT_CREW_MODE	เลือกโหมดท้าทายแบบร่วมมือ
+0	AUTO	CUST_PARTS_WHEELS_TITLE	*ล้อ*
+0	AUTO	MARKER_NAME_TRANSMISSION	ชุดอัพเกรดระบบส่งกำลังรุ่นพิเศษ
+0	AUTO	CUST_VINYLS_COLOUR_TITLE	*สีไวนิล*
+0	AUTO	CARNAME_DODGE_VINTAGE_CHARGER69	Dodge Charger R/T
+0	AUTO	SHOPPING_CART_DLG_NO_CASH	คุณมีเงินไม่พอซื้ออะไหล่พวกนี้ทั้งหมด กรุณาหยิบสินค้าบางชิ้นออกจากรถเข็น
+0	AUTO	CARNAME_MERCEDES_CLK500	Mercedes-Benz CLK 500
+0	AUTO	LANG_FINNISH	Finnish
+0	AUTO	MARKER_NAME_DESCRIPTION_HUD	หน้าปัดรุ่นพิเศษไว้ใช้กับรถคันใดก็ได้ที่คุณมี
+0	AUTO	MARKER_NAME_DESCRIPTION_NOS	ชุดอัพเกรดไนตรัสรุ่นพิเศษไว้ใช้กับรถคันใดก็ได้ที่คุณมี
+0	AUTO	STAT_PERC_AS_POLICE	เป็นตำรวจ % %
+0	AUTO	HELP_RACE	แข่ง
+0	AUTO	RC_WIN_05_CAREER_RACES_DESCRIPTION	ต้องชนะการแข่งอาชีพห้าครั้ง
+0	AUTO	CHAL_SOLO_CHALLENGE	การท้าทายเดี่ยว
+0	AUTO	MENU_MAIN_TITLE_CAREER	*อาชีพ *
+0	AUTO	STAT_NUM_TIMES_BUSTED	จำนวนครั้งที่โดนจับ
+0	AUTO	CUST_PARTS_WHEELS	ล้อ
+0	AUTO	STAT_NUM_CREW_MEMEBERS_HIRED	ลูกทีมที่จ้าง
+0	AUTO	MARKER_NAME_DESCRIPTION_CASH	คุณได้รับเงินสดพิเศษ %$d
+0	AUTO	MARKER_NAME_DESCRIPTION_HOOD	ชุดอัพเกรดกระโปรงหน้ารุ่นพิเศษไว้ใช้กับรถคันใดก็ได้ที่คุณมี
+0	AUTO	MARKER_NAME_DESCRIPTION_RIMS	ชุดอัพเกรดล้อรุ่นพิเศษไว้ใช้กับรถคันใดก็ได้ที่คุณมี
+0	AUTO	MARKER_NAME_DESCRIPTION_TIRE	ชุดอัพเกรดยางรุ่นพิเศษไว้ใช้กับรถคันใดก็ได้ที่คุณมี
+0	AUTO	PART_KIT01_FRONT_BUMPER	STAG
+0	AUTO	LANG_HUNGARIAN_NO_TRANSLATION	MAGYAR
+0	AUTO	MC_CREATE	สร้าง
+0	AUTO	CUST_RIDE_HEIGHT_DROP	ลดความสูงรถ
+0	AUTO	HELP_CAREER_CONTROLS	การควบคุมของอาชีพ
+0	AUTO	PART_KIT07_SKIRT	SLIPSTREAM
+0	AUTO	MENU_CREW_STYLE	สไตล์ทีม
+0	AUTO	POST_RACE_PURSUIT_STATS	สถิติการหลบหนีการไล่ล่า
+0	AUTO	MC_DELETE	ลบ
+0	AUTO	MENU_QUICKRACE_GHOST_TIME	คะแนนของเงา
+0	AUTO	CUST_VINYL_GRADIENT_0_0	ไล่สี 0
+0	AUTO	CUST_VINYL_GRADIENT_1_0	ไล่สี 1
+0	AUTO	RC_NAME_104	นักปราบหัวปิงปอง
+0	AUTO	LANG_SWEDISH	Swedish
+0	AUTO	PART_KIT07_REAR_BUMPER	SLIPSTREAM
+0	AUTO	MARKER_NAME_PAINT	ชุดอัพเกรดสีรถรุ่นพิเศษ
+0	AUTO	GAME_OVER_WINGMEN_BUSTED_DESC	ลูกทีมของคุณถูกจับไปหมดแล้วและคุณก็ไม่มีเงินพอจะประกันตัวพวกเขาออกมา
+0	AUTO	CUST_VINYL_INNER_GLOW_0	เรืองแสงภายใน
+0	AUTO	MARKER_NAME_BRAKES	ชุดอัพเกรดเบรกรุ่นพิเศษ
+0	AUTO	CUST_VINYL_GROUP_CAMOUFLAGE	ลายพราง
+0	AUTO	CARNAME_JAGUAR_XK	Jaguar XK
+0	AUTO	DEF_RACE_INFO_OWNERSHIP	เจ้าของ:
+0	AUTO	CUST_PERF_MENU_TIRES	ยางรถ
+0	AUTO	CUST_PERF_MENU_TURBO	เทอร์โบ
+0	AUTO	CUST_PERF_MENU_TRANSMISSION	ระบบส่งกำลัง
+0	AUTO	CARNAME_PORSCHE_CARRERA_GT	Porsche Carrera GT
+0	AUTO	MARKER_NAME_CHASSI	ชุดอัพเกรดช่วงล่างรุ่นพิเศษ
+0	AUTO	STAT_INFRACTIONS_TOTAL	ข้อหา (ทั้งหมด)
+0	AUTO	MARKER_NAME_DESCRIPTION_PINKSLIP	คุณเพิ่งได้ใบเดิมพันรถของหัวหน้า ครั้งต่อไปที่คุณเข้าไปที่เซฟเฮาส์ รถจะจอดรอคุณอยู่ที่นั่น
+0	AUTO	CAR_SELECT_BUY_CAR	ซื้อรถ
+0	AUTO	CAR_SELECT_DIALOG_GARAGE_FULL_NOTIFICATION	โรงรถคุณเต็มแล้ว คุณจะต้องขายรถของคุณทิ้งซักคันถ้าคุณอยากจะมีรถเพิ่ม
+0	AUTO	CHAL_CREW_CHALLENGE	การท้าทายแบบร่วมมือ
+0	AUTO	MARKER_NAME_DECALS	ชุดอัพเกรดสติ๊กเกอร์รุ่นพิเศษ
+0	AUTO	MENU_CAREER_SAVE_LOAD	บันทึก
+0	AUTO	CARNAME_BMW_M3_GTRE46	BMW M3 GTR
+0	AUTO	LANG_POLISH_NO_TRANSLATION	POLSKI
+0	AUTO	STAT_TOTAL_CASH	จำนวนเงินทั้งหมดที่หาได้
+0	AUTO	CHALLENGE_SERIES_DESC_079	เอาชนะคู่ต่อสู้ระดับง่ายในการดวลในหุบเขา^ที่เจอร์นีแมนส์เบน
+0	AUTO	CHALLENGE_SERIES_DESC_080	เอาชนะคู่ต่อสู้ระดับปานกลางในการดวล^ในหุบเขาที่โกลด์วัลเลย์
+0	AUTO	CHALLENGE_SERIES_DESC_081	เอาชนะคู่ต่อสู้ระดับยากในการดวลในหุบเขา^ที่อีเทอร์นิตี้พาส
+0	AUTO	CHALLENGE_SERIES_DESC_082	ชนะคู่ต่อสู้ระดับง่ายในการแข่งในหุบเขา^ที่โกลด์วัลเลย์
+0	AUTO	CHALLENGE_SERIES_DESC_083	ชนะคู่ต่อสู้ระดับปานกลางในการแข่งในหุบเขา^ที่คอปเปอร์ริดจ์
+0	AUTO	CHALLENGE_SERIES_DESC_084	ชนะคู่ต่อสู้ระดับยากในการแข่งในหุบเขา^ที่เดดฟอลล์จังค์ชัน
+0	AUTO	CHALLENGE_SERIES_DESC_085	ทำเวลาในการท้าทายจุดเช็คเอสคูริพลาซ่า^ให้ได้น้อยกว่า 3:44
+0	AUTO	CHALLENGE_SERIES_DESC_086	ทำเวลาในการท้าทายจุดเช็คราบิโนวิตซ์ให้ได้^น้อยกว่า 3:02
+0	AUTO	CHALLENGE_SERIES_DESC_087	ทำเวลาในการท้าทายจุดเช็คแบล็คเวลล์โรด^ให้ได้น้อยกว่า 3:21
+0	AUTO	CHALLENGE_SERIES_DESC_088	ทำเวลาในการท้าทายจุดเช็คลอฟตี้ไฮท์^ให้ได้น้อยกว่า 2:39
+0	AUTO	CHALLENGE_SERIES_DESC_089	ทำเวลาในการท้าทายจุดเช็คไนฟส์เอดจ์ให้ได้^น้อยกว่า 1:25
+0	AUTO	CHALLENGE_SERIES_DESC_090	ทำเวลาในการท้าทายจุดเช็คเดสเพอเรชั่นริดจ์^ให้ได้น้อยกว่า 1:55
+0	AUTO	CHALLENGE_SERIES_DESC_091	ทำคะแนนในการดริฟต์ในหุบเขานี้ให้ได้มากกว่า^25,000
+0	AUTO	CHALLENGE_SERIES_DESC_092	ทำคะแนนในการดริฟต์ในหุบเขานี้ให้ได้มากกว่า^100,000
+0	AUTO	CHALLENGE_SERIES_DESC_093	ทำคะแนนในการดริฟต์ในหุบเขานี้ให้ได้มากกว่า^150,000
+0	AUTO	CHALLENGE_SERIES_DESC_094	หลบหนีจากการไล่ล่าของตำรวจให้ได้^หลังจากไล่ล่าไปอย่างน้อย %s นาที
+0	AUTO	CHALLENGE_SERIES_DESC_095	หลบหนีจากการไล่ล่าของตำรวจให้ได้^หลังจากไล่ล่าไปอย่างน้อย %s นาที
+0	AUTO	CHALLENGE_SERIES_DESC_096	หลบหนีจากการไล่ล่าของตำรวจให้ได้^หลังจากไล่ล่าไปอย่างน้อย %s นาที
+0	AUTO	CHALLENGE_SERIES_DESC_097	ทำรถตำรวจพังอย่างน้อย %s คัน^และหลบหนีการไล่ล่าได้สำเร็จ
+0	AUTO	CHALLENGE_SERIES_DESC_098	ทำรถตำรวจพังอย่างน้อย %s คัน^และหลบหนีการไล่ล่าได้สำเร็จ
+0	AUTO	CHALLENGE_SERIES_DESC_099	ทำรถตำรวจพังอย่างน้อย %s คัน^และหลบหนีการไล่ล่าได้สำเร็จ
+0	AUTO	CHALLENGE_SERIES_DESC_100	ชนะคู่ต่อสู้ระดับง่ายในการแข่งเซอร์กิต^ที่โดเวอร์สตรีท
+0	AUTO	CHALLENGE_SERIES_DESC_101	ชนะคู่ต่อสู้ระดับปานกลางในการแข่ง^เซอร์กิตที่โอเชียนวิว
+0	AUTO	CHALLENGE_SERIES_DESC_102	ชนะคู่ต่อสู้ระดับยากในการแข่งเซอร์กิต^ที่สตาร์ไลท์สตรีท
+0	AUTO	CHALLENGE_SERIES_DESC_103	ชนะคู่ต่อสู้ระดับง่ายในการแข่งสปรินต์^ที่คอนโดโรว์
+0	AUTO	CHALLENGE_SERIES_DESC_104	ชนะคู่ต่อสู้ระดับปานกลางในการแข่งสปรินต์^ที่คิงส์พาร์ค
+0	AUTO	CHALLENGE_SERIES_DESC_105	ชนะคู่ต่อสู้ระดับยากในการแข่งสปรินต์^ที่แคนมอร์โรด
+0	AUTO	CHALLENGE_SERIES_DESC_106	ทำคะแนนในการดริฟต์นี้ให้ได้มากกว่า^50,000
+0	AUTO	CHALLENGE_SERIES_DESC_107	ทำคะแนนในการดริฟต์นี้ให้ได้มากกว่า^140,000
+0	AUTO	CHALLENGE_SERIES_DESC_108	ทำคะแนนในการดริฟต์นี้ให้ได้มากกว่า^250,000
+0	AUTO	CHALLENGE_SERIES_DESC_109	ชนะคู่ต่อสู้ระดับง่ายในการแข่งตรวจจับ^ความเร็วที่มิลเลียนดอลล่าร์
+0	AUTO	CHALLENGE_SERIES_DESC_110	ชนะคู่ต่อสู้ระดับปานกลางในการแข่ง^ตรวจจับความเร็วที่อินฟินิตี้พาร์ค
+0	AUTO	CHALLENGE_SERIES_DESC_111	ชนะคู่ต่อสู้ระดับยากในการแข่งตรวจจับ^ความเร็วที่เอสคูริเวย์
+0	AUTO	CHALLENGE_SERIES_DESC_112	ชนะคู่ต่อสู้ระดับง่ายในสงครามแข่งรถ^ที่ดาวน์ทาวน์
+0	AUTO	CHALLENGE_SERIES_DESC_113	ชนะคู่ต่อสู้ระดับปานกลางในสงครามแข่งรถ^ที่ฟอร์จูนา
+0	AUTO	CHALLENGE_SERIES_DESC_114	ชนะคู่ต่อสู้ระดับยากในสงครามแข่งรถ^ที่ซิลเวอร์ตัน
+0	AUTO	LANG_GERMAN_NO_TRANSLATION	DEUTSCH
+0	AUTO	OL_BUTTON_TIME_PERIOD	ระยะเวลาแข่ง
+0	AUTO	CLASS_TUNER_DESCRIPTION	จูนเนอร์เป็นเจ้าแห่งการเข้าโค้งด้วยการตอบสนองการควบคุมที่แม่นยำ แม้ว่าจะวิ่งทางตรงสู้ไม่ได้แต่จูนเนอร์ก็แซงจนทิ้งห่างได้ตอนเข้าโค้ง ด้วยสมรรถนะการยึดเกาะถนนในระดับนี้ทำให้คุณไม่ต้องผ่อนคันเร่ง เมื่อเข้าโค้งและปล่อยให้คู่ต่อสู้ของคุณเบียดกำแพงไป
+0	AUTO	CUST_VISUAL_RIMS_WARNING	คุณต้องมีล้อที่ไม่ใช่ล้อดั้งเดิมเพื่อปรับใช้สีล้อ
+0	AUTO	STAT_COPS_DISABLED_SINGLE	รถตำรวจที่พัง (ในการไล่ล่าครั้งเดียว)
+0	AUTO	CUST_MAINMENU_RIDE_HEIGHT	ความสูงรถ
+0	AUTO	MARKER_NAME_ENGINE	ชุดอัพเกรดเครื่องยนต์รุ่นพิเศษ
+0	AUTO	MC_PROMPT_SAVE_PROFILE	คุณต้องการจะเปิดใช้ การบันทึกอัตโนมัติ แล้วบันทึกสมญานามของคุณตอนนี้เลยหรือไม่?
+0	AUTO	LANG_SPANISH_NO_TRANSLATION	ESPAÑOL
+0	AUTO	CUST_PARTS_TOP_TITLE	*ช็อปท็อป*
+0	AUTO	CARNAME_FORD_MUSTANGGT	Ford Mustang GT
+0	AUTO	STAT_KNOCKOUT_WINS	ชนะน็อคเอาท์
+0	AUTO	SECONDARY_ROLE_HEAT_MAGNET_DESC	DELETE
+0	AUTO	CREW_VINYL_WARNING	คำเตือน หากคุณเอาไวนิลนี้ออกคุณจะไม่สามารถนำมาติดตั้งใหม่ได้ คุณต้องการทำต่อหรือไม่?
+0	AUTO	MENU_CAREER_CREW	ทีม
+0	AUTO	MENU_CAREER_LOAD	โหลด
+0	AUTO	CUST_PARTS_REARBUMPER	กันชนหลัง
+0	AUTO	CUST_CHANGE_PAINT_SWATCH	เปลี่ยนชิ้นตัวอย่าง
+0	AUTO	SHOPPING_CART_DLG_DELETE_ALL	คุณกำลังจะเอาของออกจากรถเข็นจนหมด คุณแน่ใจหรือว่าต้องการทำต่อ?
+0	AUTO	DEBUG_ARRAYSCROLLER	ตัวเลื่อนเรียงลำดับ
+0	AUTO	STAT_PEAK_SCORE	คะแนนสูงสุด
+0	AUTO	PART_KIT10_REAR_BUMPER	คลาสสิค
+0	AUTO	STAT_BEST_PERCENT_AS_RACER	เปอร์เซนต์ดีที่สุดในฐานะนักแข่ง
+0	AUTO	CARNAME_LAMBORGHINI_GALLARDO	Lamborghini Gallardo
+0	AUTO	STAT_BOUNTY_SINGLE	ค่าหัว (ในการไล่ล่าครั้งเดียว)
+0	AUTO	MC_AUTOSAVE_WARNING2_XENON	กรุณอย่าปิดเครื่องเกม Xbox 360 ของคุณระหว่างที่มีไอคอนบันทึกอัตโนมัติแสดงอยู่
+0	AUTO	VINYLS_MEMORY_WARNING	คุณไม่สามารถเพิ่มชั้นได้อีก ชั้นของคุณมีจำนวนสูงสุดแล้ว
+0	AUTO	CUST_EXHAUST_WARNING	ท่อไอเสียนี้ต้องติดตั้งกับกันชนที่ไม่ใช่ชิ้นส่วนดั้งเดิม
+0	AUTO	CUST_PARTS_ROOFSCOOPS	ชุดแต่งหลังคา
+0	AUTO	PART_KIT04_REAR_BUMPER	BORRILLO
+0	AUTO	OL_SUBTITLE_GAME_TAG	เกมเมอร์แท็ก
+0	AUTO	MC_AUTOSAVE_WARNING2_PS2	ห้ามถอดเมมโมรี่ การ์ด (PS2), คอนโทรลเลอร์ หรือรีเซ็ต/ปิดเครื่องเล่นเกมระหว่างที่มีไอคอนบันทึกอัตโนมัติแสดงอยู่ การกระทำดังกล่าวจะทำให้ข้อมูลเสียหาย
+0	AUTO	MC_AUTOSAVE_WARNING2_PS3	ห้ามถอด HDD, คอนโทรลเลอร์ หรือรีเซ็ต/ปิดเครื่องเล่นเกมระหว่างที่มีไอคอนบันทึกอัตโนมัติแสดงอยู่ การกระทำดังกล่าวจะทำให้ข้อมูลเสียหาย
+0	AUTO	CUST_PAINT_GROUP_CANDY	ลูกกวาด
+0	AUTO	CUST_PAINT_GROUP_GLOSS	มันวาว
+0	AUTO	CUST_PARTS_SPOILERS_TITLE	*สปอยเลอร์*
+0	AUTO	COMMON_RACETYPE_PURSUIT_TAG	หลบหนีการไล่ล่าแบบไล่จับ
+0	AUTO	CUST_PAINT_GROUP_MATTE	ด้าน
+0	AUTO	OL_BUTTON_RACE_TYPE	ประเภทการแข่ง
+0	AUTO	CROSS_SELL_MADDEN07	MADDEN NFL 07
+0	AUTO	CUST_PAINT_GROUP_PEARL	มุก
+0	AUTO	QR_NOT_ONLINE_FOR_GHOST	คุณต้องได้ลงชื่อเข้าใช้แอคเคานท์อีเอออนไลน์ของคุณเสียก่อนเพื่อทำการดาวน์โหลดเงาจาก กระดานผู้นำอีเอเนชั่น คุณสามารถลงชื่อเข้าใช้ด้วยตัวเองได้ที่ ตัวเลือกออนไลน์
+0	AUTO	TITLE_STATISTICS	*สถิติ*
+0	AUTO	STAT_HIGHEST_FINE	ค่าปรับแพงที่สุด
+0	AUTO	EA_TRAX_CAR_CLASS_FILTER_USE	เฉพาะในการเล่นเกม
+0	AUTO	WII_OPT_ERROR	มีข้อผิดพลาดเกิดขึ้น โปรดปิดเครื่องและดูเครื่องมือการใช้เครื่อง Wii เพื่อหาวิธีแก้ไขต่อไป
+0	AUTO	MC_AUTOSAVE_WARNING_XBOX	นีดฟอร์สปีด™ คาร์บอน ใช้ระบบบันทึกอัตโนมัติ ข้อมูลในเกมจะถูกบันทึกโดยอัตโนมัติระหว่างเกมลงบนฮาร์ดดิสก์ของเอ็กซ์บ็อกซ์ เมื่อไอคอนบันทึกอัตโนมัติกระพริบขึ้นดังนี้
+0	AUTO	WINGMAN_DESC_RACE_SAMSON	โบนัสเงินสด +10%% ต่อการชนะแต่ละครั้ง
+0	AUTO	CUST_VINYL_GROUP_PINSTRIPE	แถบข้าง
+0	AUTO	PART_KIT04_SKIRT	BORRILLO
+0	AUTO	CHAL_CREW_MODE_ONLINE	ออนไลน์
+0	AUTO	PART_WHEEL_GIOVANNA_1	GIOVANNA BRAKE
+0	AUTO	PART_WHEEL_GIOVANNA_2	GIOVANNA GELLO
+0	AUTO	PART_WHEEL_GIOVANNA_3	GIOVANNA ARARAT
+0	AUTO	FABRICATOR_2_POPUP	เมื่อเพิ่ม โคลิน เข้าไปในทีมแล้ว คุณจะสามารถปรับแต่งชิ้นส่วน Autosculpt เหล่านี้ได้
+0	AUTO	PART_WHEEL_ADR_1	ADR ADRENALINE
+0	AUTO	PART_WHEEL_ADR_2	ADR EMPIRE
+0	AUTO	PART_WHEEL_ADR_3	ADR GT-SPORT
+0	AUTO	PART_WHEEL_ADR_4	ADR M SPORT
+0	AUTO	PART_WHEEL_ADR_5	ADR SOKUDO8
+0	AUTO	PART_WHEEL_BBS_1	BBS GT
+0	AUTO	PART_WHEEL_BBS_2	BBS RS GT
+0	AUTO	PART_WHEEL_BBS_3	BBS LM
+0	AUTO	PART_WHEEL_BBS_4	BBS CH
+0	AUTO	PART_WHEEL_BBS_5	BBS RK
+0	AUTO	PART_WHEEL_BBS_6	BBS RX
+0	AUTO	QR_ERROR_DOWNLOADING_GHOST_DATA	เกิดความผิดพลาดในการดาวน์โหลดเงา
+0	AUTO	PART_WHEEL_HRE_1	HRE 943R
+0	AUTO	PART_WHEEL_HRE_2	HRE 541R
+0	AUTO	PART_WHEEL_HRE_3	HRE 549R
+0	AUTO	OL_BUTTON_PLAYER_FILTER	ตัวกรองผู้เล่น
+0	AUTO	MENU_QUICKRACE_OPTIONS_WINGMEN	ลูกทีม
+0	AUTO	PART_WHEEL_TSW_1	TSW MONDELLO
+0	AUTO	PART_WHEEL_TSW_2	TSW ROCKET 5
+0	AUTO	PART_WHEEL_TSW_3	TSW LAGUNA
+0	AUTO	ON_ERROR_BAD_USERNAME	ชื่อผู้ใช้ไม่ถูกต้อง โดยต้องมีตัวอักษรติดกัน 4 ตัวอักษรจนถึง 14 ตัวอักษรรวมช่องว่าง ตัวหนังสือ ตัวเลข และช่องว่างคือตัวอักษรที่สามารถใช้ได้
+0	AUTO	STAT_COST_TO_STATE_SINGLE	ระดับความเสียหาย (ในการไล่ล่าครั้งเดียว)
+0	AUTO	CHAL_SPLIT_MODE_TRANSMISSION_PROMPT	%s คุณอยากจะใช้เกียร์ธรรมดาหรือเกียร์อัตโนมัติ?
+0	AUTO	WINGMAN_DESC_CAREER_NEVILLE	โบนัสเงินสด +200 ต่อการชนะแต่ละครั้ง
+0	AUTO	MARKER_CATEGORY_DESC_PARTS	การ์ดปราบบอสเหล่านี้สามารถเพิ่มชุดตัวถัง, ชุดแต่งหลังคา, ล้อ, กระโปรงหน้าและสปอยเลอร์
+0	AUTO	MC_CONFIRM_CREATE_PROFILE_AUTOLOGIN	สร้างสมญานามใหม่เพื่อเก็บข้อมูลลงชื่อเข้าอัตโนมัติไหม?
+0	AUTO	CREW_MENU_VIEW_BIO_VIDEO	ดูวิดีโอประวัติ
+0	AUTO	STAT_BEST_DRIFT_DISTANCE	ดริฟต์ที่ไกลที่สุด
+0	AUTO	CARNAME_RENAULT_CLIO	Renault Clio V6
+0	AUTO	ON_PC_MSG_GAMESETUP_INSTRUCTION	หน้าจอการตั้งค่าเกม จะเป็นที่ที่คุณสามารถส่ง คำเชิญเล่นเกมส่วนตัวไปยังเพื่อน, เลือกรถ, และสนทนากับผู้เล่นคนอื่นๆ ผู้นำเล่นเกมสามารถตั้งค่าตัวเลือกในเกม จากนั้นกดปุ่ม SPACE เพื่อไปยังห้องเกม ห้องเกมนี้จะให้ผู้เล่นออนไลน์คนอื่นๆ ได้เข้าร่วมเกมก่อนที่การแข่งจะเริ่ม
+0	AUTO	STAT_PERC_AS_RACER	เป็นนักแข่ง % %
+0	AUTO	CARNAME_TOYOTA_SUPRA	Toyota Supra
+0	AUTO	CUST_PARTS_DIALOG_TITLE	เลือกอะไหล่มาตรฐานหรืออะไหล่ Autosculpt
+0	AUTO	MC_CONFIRM_DESTRUCTIVE_LOAD	การโหลดสมญานามใหม่ จะส่งผลให้เกิดการสูญหาย ของการเปลี่ยนแปลงใดๆ ที่ยังไม่ได้ถูกบันทึก ลงในสมญานามปัจจุบัน คุณแน่ใจหรือว่าต้องการ โหลดสมญานามใหม่?
+0	AUTO	RC_WIN_25_CAREER_RACES_DESCRIPTION	ต้องชนะการแข่งอาชีพ 25 ครั้ง
+0	AUTO	CUST_PARTS_TOP	ช็อปท็อป
+0	AUTO	CUST_PARTS_EXHAUST	ท่อไอเสีย
+0	AUTO	RC_WIN_10_CAREER_RACES_DESCRIPTION	ต้องชนะการแข่งอาชีพ 10 ครั้ง
+0	AUTO	CUST_PARTSELECT_TITLE	*อะไหล่ AUTOSCULPT*
+0	AUTO	CHAL_HEADER_BRONZE	ทองแดง
+0	AUTO	CUST_VINYL_GROUP_DECALS	สติ๊กเกอร์
+0	AUTO	CUST_PARTS_RIMS	ล้อ
+0	AUTO	PERFORMANCE_TUNE_HELP_SUPERCHARGER	การปรับแต่งซุปเปอร์ชาร์จเจอร์สามารถทำให้คุณควบคุณขนาดของซูปเปอร์ชาร์จเจอร์^ใช้ซุปเปอร์ชาร์จเจอร์ขนาดเล็กเพื่อสร้างกำลังได้เร็วขึ้นแต่จะทำให้กำลังรวมลดลง^หรือจะเลือกใช้ซุปเปอร์ชาร์จเจอร์ขนาดใหญ่ที่จะใช้เวลาในการชาร์จที่นานกว่า^แต่จะให้การเพิ่มแรงได้มากกว่าตามไปด้วย
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_PS2	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game on the memory card (PS2) in MEMORY CARD slot 1 when the Autosave icon flashes as follows.
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_PS3	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game to the HDD when the Autosave icon flashes as follows.
+0	AUTO	PART_KIT01_REAR_BUMPER	STAG
+0	AUTO	MENU_CAR_CLASS_MODE_TEST_RACE	การแข่งทดสอบ
+0	AUTO	PART_KIT06_FRONT_BUMPER	CHICANE
+0	AUTO	EA_TRAX_CAR_CLASS_FILTER_DO_NOT_USE	ใช้แทร็กซ์ทั้งหมด
+0	AUTO	LANG_MEXICAN_NO_TRANSLATION	ESPAÑOL
+0	AUTO	CUST_VINYL_GROUP_SPECIAL	พิเศษ
+0	AUTO	NGC_ALIAS_MAX	สมญานามที่คุณเซฟไว้มีเกินจำนวนสูงสุดแล้ว คุณต้องการจะดำเนินการต่อหรือไม่?
+0	AUTO	MENU_MAIN_CAREER	อาชีพ
+0	AUTO	CUST_VISUAL_NOLAYERS	กรุณาเพิ่มชั้น
+0	AUTO	MENU_MAIN_CHALLENGE	ซีรี่ส์การท้าทาย
+0	AUTO	CHAL_UNLOCK_REQUIREMENT	ทำ %s %s ให้สำเร็จเพื่อปลดล็อคการท้าทายนี้
+0	AUTO	QR_INFO_CAR_NAME	ชื่อรถ
+0	AUTO	QR_INFO_CAR_TYPE	ประเภทรถ
+0	AUTO	CUST_VINYL_GROUP_BONUS	โบนัส
+0	AUTO	CHAL_CREW_MODE_SPLIT	แยกจอ
+0	AUTO	STAT_CARS_SOLD	จำนวนรถที่ขาย
+0	AUTO	WII_CONTROLLER_SAFETY	โปรดแน่ใจว่ารีโมตของ Wii ได้ต่อเชื่อมอยู่ และไม่มีสิ่งของเครื่องใช้ในใกล้เคียงอยู่ในระยะที่จะถูกคุณชนตก
+0	AUTO	STAT_BEST_SCORE	คะแนนการแข่งขันที่ดีที่สุด
+0	AUTO	CREW_VINYL_EDIT	คุณไม่สามารถแก้ไขไวนิลที่ติดมาพร้อมกับรถของลูกทีมได้
+0	AUTO	CARNAME_ASTON_MARTIN_DB9	Aston Martin DB9
+0	AUTO	CM_SET_AS_WINGMAN	ตั้งให้ทำงาน
+0	AUTO	STAT_BEST_LAP_TIME	เวลาต่อรอบที่ดีที่สุด
+0	AUTO	CART_ITEM_DESC_AS_FRONT_WHEEL	ล้อ AUTOSCULPT
+0	AUTO	PART_WHEEL_5ZIGEN_1	5ZIGEN FN01R
+0	AUTO	PART_WHEEL_5ZIGEN_2	5ZIGEN SUPERSIX
+0	AUTO	PART_WHEEL_5ZIGEN_3	5ZIGEN 5ZR
+0	AUTO	PART_WHEEL_5ZIGEN_4	5ZIGEN GN+
+0	AUTO	PART_WHEEL_5ZIGEN_5	5ZIGEN GRAVIS 1
+0	AUTO	MENU_CM_UNLOCK_NEW_CREW	คุณได้ปลดล็อคลูกทีมคนใหม่ คุณสามารถเพิ่มลูกทีมใหม่เข้าไปในทีมของคุณได้จาก หน้า ทีม ของฉัน
+0	AUTO	CARNAME_NISSAN_SKYLINE	Nissan Skyline GT-R R34
+0	AUTO	PART_SPA_DECAL_141	Carbono Logo
+0	AUTO	CUST_PERF_MENU_NITROUS	ไนตรัส
+0	AUTO	MC_CONFIRM_SAVE_PROFILE	คุณแน่ใจหรือว่าต้องการบันทึกสมญานามของคุณ?
+0	AUTO	MENU_MAIN_STATISTICS	สถิติ
+0	AUTO	MENU_QUICKRACE_OPTIONS_MAX_OPPONENTS	จำนวนคู่ต่อสู้สูงสุด
+0	AUTO	WINGMAN_DESC_CAREER_SAL	ปลดล็อค ชุดตัวถัง กระโปรงหน้าและชุดแต่งหลังคา ของ Autosculpt
+0	AUTO	CUST_MAINMENU_RIDEHEIGHT_TITLE	*ความสูงรถ*
+0	AUTO	PART_KIT01_SKIRT	STAG
+0	AUTO	MARKER_NAME_VINYLS	ชุดอัพเกรดเทอร์โบรุ่นพิเศษ
+0	AUTO	QUICK_RACE_TITLE_SPEEDTRAP	*การตรวจจับความเร็ว*
+0	AUTO	MENU_CM_POOL_EMTPY	ไม่มีลูกทีมให้จ้าง
+0	AUTO	STAT_SPIKE_STRIPS_DODGED_TOTAL	จำนวนครั้งที่หลบหลีกแผงตะปู (ทั้งหมด)
+0	AUTO	MARKER_NAME_DESCRIPTION_BODYKIT	ชุดอัพเกรดตัวถังรุ่นพิเศษไว้ใช้กับรถคันใดก็ได้ที่คุณมี
+0	AUTO	WINGMAN_DESC_RACE_YUMI	เพิ่มระดับไนตรัส 25%%
+0	AUTO	CARNAME_MERCEDES_SL65	Mercedes-Benz SL65 AMG
+0	AUTO	CUST_AUTOSCULPT_ZONE10	โซน 10
+0	AUTO	STAT_RACES_LOST	แข่งแพ้
+0	AUTO	CUST_MAINMENU_VISUALS_TITLE	*เมนูรูปลักษณ์*
+0	AUTO	MARKER_NAME_RELEASE	ไถ่รถจากการถูกยึด
+0	AUTO	MARKER_NAME_REDUCE_HEAT	ลดความร้อนแรง
+0	AUTO	PART_WHEEL_CL_1	CENTER LINE DAGGER
+0	AUTO	PART_WHEEL_CL_2	CENTER LINE INDY
+0	AUTO	PART_WHEEL_CL_3	CENTER LINE RETRO
+0	AUTO	PART_WHEEL_CL_4	CENTER LINE VIKING
+0	AUTO	PART_WHEEL_OZ_1	O.Z. SUPERLEGGERA
+0	AUTO	PART_WHEEL_OZ_2	O.Z. SUPERTURISMO
+0	AUTO	PART_WHEEL_OZ_3	O.Z. OPERA
+0	AUTO	PART_WHEEL_OZ_4	O.Z. SUPERLEGGERA III
+0	AUTO	PART_WHEEL_OZ_5	O.Z. LEONARDO
+0	AUTO	STAT_NUM_BUSTS	จำนวนครั้งที่จับ
+0	AUTO	CREW_MENU_FIRE	ไล่ออก
+0	AUTO	PART_KIT02_FRONT_BUMPER	SWEEPER
+0	AUTO	CREW_BIO_INFO_HEIGHT	ส่วนสูง:
+0	AUTO	CREW_TITLE_HIRE_CREW_MEMBER	*จ้างลูกทีม*
+0	AUTO	CUST_MAINMENU_WHEEL_PAINT_TITLE	*สีล้อแม็ก*
+0	AUTO	STAT_ROADBLOCKS_DODGED_TOTAL	จำนวนครั้งที่ฝ่าการปิดกั้นถนน (ทั้งหมด)
+0	AUTO	WII_SPLIT_PROMPT	ผู้เล่น 2 กดปุ่ม +
+0	AUTO	HELP_CREW_STYLE	สไตล์ทีม
+0	AUTO	PART_WHEEL_FOOSE_1	FOOSE SPEEDSTER
+0	AUTO	PART_WHEEL_FOOSE_2	FOOSE SPLITZ
+0	AUTO	PART_WHEEL_FOOSE_3	FOOSE NITROUS SILVER
+0	AUTO	CUST_VINYL_GROUP_NUMBER	ตัวเลข
+0	AUTO	MENU_QUICKRACE_OPTIONS_TRACKING_MODE	โหมดติดตาม
+0	AUTO	RC_WIN_01_CAREER_RACES_DESCRIPTION	ต้องชนะการแข่งอาชีพหนึ่งครั้ง
+0	AUTO	MENU_MAIN_MY_CARS	รถของฉัน
+0	AUTO	CUST_VINYL_GROUP_TRIBALBODY	ไทรบัลบอดี้
+0	AUTO	MARKER_CATEGORY_VISUAL	ชุดอัพเกรดรูปลักษณ์รถรุ่นพิเศษ
+0	AUTO	MC_PROMPT_SAVE_AUTOLOGIN_INFO	คุณต้องการบันทึกข้อมูลลงชื่อเข้าอัตโนมัติ ไปยังสมญานามหรือไม่?
+0	AUTO	DEBUG_MENUSCREEN	Menu Screen
+0	AUTO	MY_CARS_TITLE	รถของฉัน
+0	AUTO	CUST_VINYLS_MIRROR_OFF	ปิดการกลับซ้ายเป็นขวา
+0	AUTO	MARKER_CATEGORY_PARTS	ชุดอัพเกรดอะไหล่รุ่นพิเศษ
+0	AUTO	CARNAME_DODGE_VIPER	Dodge Viper SRT-10
+0	AUTO	BOSS_BONUS_CARDS_INFO	ตอนนี้คุณสามารถเลือกการ์ดปราบบอส %$d ใบจาก %s
+0	AUTO	CAREER_SELECT_CAR_CLASS_TITLE	*เลือกคลาสรถ*
+0	AUTO	CAR_SELECT_DIALOG_CANNOT_AFFORD_CAR_NOTIFICATION	คุณไม่มีเงินสดพอซื้อรถคันนี้ ไปแข่งรถให้ชนะซะจะได้มีเงิน!
+0	AUTO	OL_STAT_LOSSES	จำนวนครั้งที่แพ้จัดอันดับ
+0	AUTO	CARNAME_SHELBY_GT500_67	Shelby GT500
+0	AUTO	STATS_DOWNLOADING	กำลังดาวน์โหลดสถิติออนไลน์ของผู้เล่น
+0	AUTO	CAR_CLASS_TESTING_SKIP_TRANSMISSION	นี่เป็นเพียงการทดลองขับ ไม่จำเป็นต้องรู้สึกกดดันว่าต้องชนะ ขอให้สนุก
+0	AUTO	CUST_VINYL_INNER_SHADOW_0	เงาภายใน
+0	AUTO	CUST_MAINMENU_RIM_PAINT	สีล้อแม็ก
+0	AUTO	MARKER_NAME_DESCRIPTION_TRANSMISSION	ชุดอัพเกรดระบบส่งกำลังรุ่นพิเศษไว้ใช้กับรถคันใดก็ได้ที่คุณมี
+0	AUTO	REWARDS_OBJECTIVE_HEADER	เป้าหมายรอง
+0	AUTO	STAT_FINISH_TIME	เวลาถึงเส้นชัย
+0	AUTO	MAIN_CARSELECT	เลือกรถ
+0	AUTO	HELP_OFFLINE_REWARDS	การ์ดรางวัลหลัก
+0	AUTO	CARNAME_CHEVROLET_CAMARO	Chevrolet Camaro SS
+0	AUTO	STAT_BEST_SPEEDTRAP	สปีดแทรปที่ดีที่สุด
+0	AUTO	CART_ITEM_DESC_AS_ROOF_SCOOP	ชุดแต่งหลังคา AUTOSCULPT
+0	AUTO	WINGMAN_DESC_CAREER_COLIN	ปลดล็อค ล้อ สปอยเลอร์ ท่อไอเสีย และช็อปท็อป ของ Autosculpt
+0	AUTO	WINGMAN_DESC_CAREER_YUMI	ส่วนลด 10%% ให้กับชิ้นส่วนเสริมประสิทธิภาพ
+0	AUTO	WINGMAN_DESC_CAREER_NIKKI	ส่วนลด 10%% ให้กับรถทุกคันที่ซื้อ
+0	AUTO	CROSS_SELL_NBA_LIVE	NBA LIVE 07
+0	AUTO	CHAL_HEADER_SILVER	เงิน
+0	AUTO	STAT_ROADBLOCKS_DODGED	จำนวนครั้งที่ฝ่าการปิดกั้นถนน (ในการไล่ล่าครั้งเดียว)
+0	AUTO	CARNAME_SUBARU_IMPREZZAWRX	Subaru Impreza WRX STi
+0	AUTO	CUST_MAINMENU_WINDOW_TINT_TITLE	*ฟิล์มติดกระจก*
+0	AUTO	CUST_PARTS_EXHAUST_TITLE	*ท่อไอเสีย*
+0	AUTO	PART_KIT08_SKIRT	SPEEDWAY
+0	AUTO	MARKER_NAME_DESCRIPTION_IMPOUND	คุณได้ตัวเลือกที่จะเพิ่มจำนวนการเตือนก่อนถูกยึดรถ ไว้ใช้กับรถคันใดก็ได้ของคุณ รถคันหนึ่งสามารถเพิ่มจนมี จำนวนครั้งที่ถูกจับได้สูงสุดที่ 5 ครั้ง
+0	AUTO	CUST_MAINMENU_PAINT	สี
+0	AUTO	CUST_MAINMENU_PARTS	อะไหล่มาตรฐาน
+0	AUTO	PART_WHEEL_ROJA_1	RO_JA FORMULA 1
+0	AUTO	PART_WHEEL_ROJA_2	RO_JA FORMULA 7
+0	AUTO	PART_WHEEL_ROJA_3	RO_JA FORMULA 2
+0	AUTO	CUST_MAINMENU_TITLE	*ปรับแต่งตามชอบ*
+0	AUTO	MENU_QUICKRACE_TOP_ONLINE_GHOST	เงาของผู้ที่นำอยู่ในปัจจุบัน
+0	AUTO	CARNAME_MAZDA_MAZDASPEED3	Mazda Mazdaspeed3
+0	AUTO	CAR_SELECT_DIALOG_RETURN_TO_FREE_ROAM	คุณอยากจะกลับไปขับรถอิสระไหม?
+0	AUTO	CAR_SELECT_LEAVE_SHOP	ออกจากร้าน
+0	AUTO	MENU_CREW_LOGO_SAVE_CONFIRM	คุณแน่ใจหรือว่าต้องการบันทึกโลโก้นี้?
+0	AUTO	MENU_CAREER_CUSTOMIZE_LOGO	ปรับแต่งโลโก้
+0	AUTO	PART_KIT08_REAR_BUMPER	SPEEDWAY
+0	AUTO	CUST_PERF_SLIDERS_TITLE	*ปรับแต่ง %s*
+0	AUTO	STAT_RACE_TITLE	*การแข่ง*
+0	AUTO	STAT_TOP_SPEED	ความเร็วสูงสุด
+0	AUTO	VINYLS_MEMORY_WARNING2	คุณไม่สามารถเพิ่มไวนิลนี้ได้ คุณต้องทำการถอดไวนิลบางตัวออกเพื่อจะได้มีพื้นที่ในการเพิ่มไวนิลนี้
+0	AUTO	CART_ITEM_DESC_AS_SKIRT	สเกิร์ตข้าง AUTOSCULPT
+0	AUTO	CASTROL_CHEAT_UNLOCK_MSG	คุณได้รับคาสตรอลแคช!
+0	AUTO	STAT_BEST_CHAIN_DRIFT_SCORE	คะแนนดริฟต์ต่อเนื่องสูงสุด
+0	AUTO	QR_INFO_TYPE	ประเภท
+0	AUTO	MAIN_MENU_TITLE_CREWS	*ทีม*
+0	AUTO	MARKER_NAME_DESCRIPTION_SPOILER	ชุดอัพเกรดสปอยเลอร์รุ่นพิเศษไว้ใช้กับรถคันใดก็ได้ที่คุณมี
+0	AUTO	QUICK_RACE_TITLE_CAR_SELECT	*เลือกรถ*
+0	AUTO	PART_WHEEL_VOLK_1	VOLK TE37
+0	AUTO	PART_WHEEL_VOLK_2	VOLK CE28
+0	AUTO	PART_WHEEL_VOLK_3	VOLK GT-P
+0	AUTO	DEMO_AUTOMOTIVE_LEGAL2_PAL	Cooper and the Cooper Tires logo are trademarks of Cooper Tire & Rubber Company. Dodge and HEMI are trademarks of DaimlerChrysler Corporation. Dodge Challenger Concept, Dodge HEMI and their trade dress are used under license by Electronic Arts. © DaimlerChrysler Corporation 2006 The trademarks Lamborghini, Gallardo and all associated logos are used under license of Lamborghini ArtiMarca S.p.A., Italy. Mazda, RX-8, RX-7, Mazda3 MPS and all other associated marks, emblems and designs are used under approval of Mazda Motor Corporation. Mitsubishi and Lancer Evolution names, emblems and body designs are trademarks and/or intellectual property rights of MITSUBISHI MOTORS CORPORATION and used under license to Electronic Arts Inc. The names and logos of all after market car part companies are trademarks of their respective owners and are used by permission.
+0	AUTO	CUST_AUTOSCULPT	Autosculpt
+0	AUTO	CUST_PAINT_GROUP_IRIDESCENT	เหลือบรุ้ง
+0	AUTO	STAT_RACES_WON	แข่งชนะ
+0	AUTO	CUST_VINYL_GROUP_FLAMEBODY	เฟลมบอดี้
+0	AUTO	PART_WHEEL_WORK_1	WORK VS SS
+0	AUTO	PART_WHEEL_WORK_2	WORK VS-KF
+0	AUTO	PART_WHEEL_WORK_3	WORK EUROLINE S2H
+0	AUTO	PART_WHEEL_WORK_4	WORK EUROLINE FE
+0	AUTO	STAT_BEST_SINGLE_SCORE	การเล่นสปีดแทรปครั้งเดียวที่ดีที่สุด
+0	AUTO	CREW_BIO_INFO_RACE_STYLE	สไตล์การแข่ง:
+0	AUTO	MARKER_NAME_PINKSLIP	ใบเดิมพันรถหัวหน้า
+0	AUTO	PART_WHEEL_TENZO_1	TENZO PSYCHO
+0	AUTO	PART_WHEEL_TENZO_2	TENZO RS-5
+0	AUTO	PART_WHEEL_TENZO_3	TENZO SHU 10
+0	AUTO	WINGMAN_DESC_CAREER_SAMSON	ลดความร้อนแรงในพื้นที่ในทุกพื้นที่ของคุณ
+0	AUTO	STATS_ERROR_DOWNLOADING_XBOX	Error downloading player's Xbox Livestats.
+0	AUTO	CHEAT_UNLOCK_1	ปลดล็อค 2005 Aston Martin DB9 ได้แล้ว!
+0	AUTO	CHEAT_UNLOCK_2	ปลดล็อค 2006 Dodge Charger SRT8 ได้แล้ว!
+0	AUTO	CHEAT_UNLOCK_3	ปลดล็อคสนามแข่งได้ทั้งหมดแล้ว!
+0	AUTO	CHAL_INFO_TRACK	สนามแข่ง
+0	AUTO	CART_ITEM_DESC_VINYLS	จัดใหม่
+0	AUTO	STAT_BEST_LAP	เวลาต่อรอบที่ดีที่สุด
+0	AUTO	CTRL_UNPLUGGED_BOOT_PS2	ไม่มีคอนโทรลเลอร์เสียบอยู่^กรุณาเสียบคอนโทรลเลอร์เพื่อทำต่อ
+0	AUTO	CLASS_EXOTIC_DESCRIPTION	เอ็กโซติคเหมาะที่สุดสำหรับนักซิ่งพันธุ์แท้ที่รักความเร็วสูง จุดอ่อนเพียงอย่างเดียว ของเอ็กโซติคคือคนขับ ดังนั้นถ้าคุณคิดว่าเก่งพอที่จะควบคุมคันเร่งและเบรก ให้สมดุลย์เพื่อรีดความเร็วสูงสุดออกมาล่ะก็ ที่เหลือก็ปล่อยให้รถคันนี้จัดการได้
+0	AUTO	HELP_VIEW_GAMER_CARD	ดูเกมเมอร์การ์ด
+0	AUTO	MY_CARS_DELETE_CAR_HELP	ลบรถ
+0	AUTO	STAT_CARS_UNLOCKED	จำนวนรถที่ปลดล็อค
+0	AUTO	WII_CONTROL_SCREEN_INFO_6	
+0	AUTO	CUST_MAINMENU_PAINT_TITLE	*สี*
+0	AUTO	STAT_HEADER_GAMES_PLAYED	เกมที่เล่น
+0	AUTO	CUST_AUTOSCULPT_ERROR	งาน Autosculpt เสียหาย
+0	AUTO	CUST_AUTOSCULPT_TITLE	*AUTOSCULPT*
+0	AUTO	CUST_AUTOSCULPT_ZONE1	โซน 1
+0	AUTO	CUST_AUTOSCULPT_ZONE2	โซน 2
+0	AUTO	CUST_AUTOSCULPT_ZONE3	โซน 3
+0	AUTO	CUST_AUTOSCULPT_ZONE4	โซน 4
+0	AUTO	CUST_AUTOSCULPT_ZONE5	โซน 5
+0	AUTO	CUST_AUTOSCULPT_ZONE6	โซน 6
+0	AUTO	CUST_AUTOSCULPT_ZONE7	โซน 7
+0	AUTO	CUST_AUTOSCULPT_ZONE8	โซน 8
+0	AUTO	CUST_AUTOSCULPT_ZONE9	โซน 9
+0	AUTO	CAREER_SELECT_CAR_CLASS_HELP	เลือกคลาสของรถ
+0	AUTO	CUST_PART_MISSINGSTRING	Missing Part String
+0	AUTO	CUST_PAINT_GROUP_METALLIC	โลหะ
+0	AUTO	LANG_FINNISH_NO_TRANSLATION	SUOMI
+0	AUTO	PART_KIT07_FRONT_BUMPER	SLIPSTREAM
+0	AUTO	COMMON_RACETYPE_PURSUIT_KNOCKOUT	หลบหนีการไล่ล่าแบบน็อคเอาท์
+0	AUTO	CAR_CLASS_INTRO	รถของคุณพังยับระหว่างหลบหนีจากครอส เลือกคลาสของรถที่คุณอยากจะเริ่มใช้ในอาชีพของคุณ การเลือกนี้จะเป็นตัวตัดสินว่ารถหรืออะไหล่ใด ที่คุณจะปลดล็อคได้เมื่อคุณพิชิตเขตแดน
+0	AUTO	GAME_OVER_TITLE	*เกมโอเวอร์*
+0	AUTO	CAR_CLASS_TUNER	จูนเนอร์
+0	AUTO	PART_KIT05_REAR_BUMPER	ARASHI
+0	AUTO	DEF_RACE_INFO_LAPS	จำนวนรอบ:
+0	AUTO	DEF_RACE_INFO_TYPE	ประเภท:
+0	AUTO	BOSS_BONUS_CARDS_SELECTIONS_LEFT	เลือกได้อีก: %$d
+0	AUTO	PS2_START_MESSAGE	กรุณากดปุ่ม START บนคอนโทรลเลอร์ตัวที่สอง
+0	AUTO	MARKER_CATEGORY_DESC_PERFORMANCE	การ์ดเพิ่มประสิทธิภาพ สามารถอัพเกรดช่วงล่าง, ล้อ, เบรก, เครื่องยนต์, ระบบส่งกำลัง, ไนตรัส, เทอร์โบหรือซุปเปอร์ชาร์จเจอร์
+0	AUTO	DIALOG_MSG_CONFIRM_START_NEW_CAREER	คุณแน่ใจหรือว่าต้องการจะเริ่มเกมใหม่? สถานะอาชีพของคุณในปัจจุบันจะสูญหาย
+0	AUTO	STAT_BEST_CLOCKED_SPEEDTRAP	ความเร็วสูงสุดที่ผ่านเครื่องตรวจจับความเร็ว
+0	AUTO	PART_KIT10_FRONT_BUMPER	คลาสสิค
+0	AUTO	PART_KIT05_SKIRT	ARASHI
+0	AUTO	OL_TITLE_LEADERBOARD	*กระดานผู้นำ*
+0	AUTO	OL_CD_KEY_REGISTRATION_TITLE	*ซีดีคีย์*
+0	AUTO	COMMON_FINISHED	จบ
+0	AUTO	CREW_BIO_INFO_SKILL	ทักษะ:
+0	AUTO	MENU_QUICKRACE_OPTIONS_PRACTICE	ไม่จัดอันดับ
+0	AUTO	BOSS_BONUS_CARDS_TITLE	*การ์ดปราบบอส*
+0	AUTO	CARNAME_MITSUBISHI_LANCEREVO9	Mitsubishi Lancer
+0	AUTO	OL_STAT_TOTAL_DISCONNECT_PERCENT	% การสูญเสียการเชื่อมต่อ
+0	AUTO	ON_TITLE_SELECT_TRANSMISSION	*เลือกระบบส่งกำลัง*
+0	AUTO	LANG_DUTCH	Dutch
+0	AUTO	LANG_ITALIAN_NO_TRANSLATION	ITALIANO
+0	AUTO	MARKER_NAME_DESCRIPTION_FREEBAIL	หากคุณถูกจับ คุณจะออกจากคุกได้โดยไม่ต้องชดใช้
+0	AUTO	MC_PROMPT_CREATE_CAREER	คุณต้องสร้างสมญานามใหม่เพื่อเริ่มอาชีพใหม่ คุณต้องการสร้างสมญานามใหม่หรือไม่?
+0	AUTO	MARKER_NAME_CASH	รางวัลเงินสดพิเศษ
+0	AUTO	MARKER_NAME_HOOD	ชุดอัพเกรดกระโปรงหน้ารุ่นพิเศษ
+0	AUTO	MARKER_NAME_RIMS	ชุดอัพเกรดล้อรุ่นพิเศษ
+0	AUTO	MARKER_NAME_TIRE	ชุดอัพเกรดยางรุ่นพิเศษ
+0	AUTO	LEADERBOARD_TOP_SPEED	ความเร็วสูงสุด
+0	AUTO	STATS_ERROR_DOWNLOADING	เกิดข้อผิดพลาดขณะดาวน์โหลดสถิติออนไลน์ของผู้เล่น
+0	AUTO	MENU_CREW_LOGO_HELP	นี่คือที่ที่คุณสามารถเลือกโลโก้ให้ทีม มันจะถูกแสดงบนแผนที่และที่อื่นๆ คุณสามารถเอามันไปแปะบนรถคุณ ในพื้นที่ปรับแต่งไวนิลตามชอบได้อีกด้วย
+0	AUTO	SELECT_LANGUAGE	เลือกภาษา
+0	AUTO	CUST_VINYL_GROUP_BOSS	บอส
+0	AUTO	CUST_VINYL_GROUP_CREW	โลโก้ทีม
+0	AUTO	CUST_VINYL_GROUP_LOGO	โลโก้
+0	AUTO	CUST_PART_PURCHASED	ซื้อแล้ว
+0	AUTO	CUST_MAINMENU_AUTOSCULPT	AUTOSCULPT
+0	AUTO	DEBUG_ICONSCROLLER	ICON SCROLLER(DEBUG)
+0	AUTO	CART_ITEM_DESC_AS_HOOD	กระโปรงหน้า AUTOSCULPT
+0	AUTO	CART_ITEM_DESC_AS_ROOF	ช็อปท็อป AUTOSCULPT
+0	AUTO	CREW_BIO_INFO_NAME	ชื่อ:
+0	AUTO	CREW_BIO_INFO_ROLE	หน้าที่:
+0	AUTO	CREW_BIO_INFO_TYPE	ประเภท:
+0	AUTO	MENU_CAREER_CUSTOMIZE	ปรับแต่งตามชอบ
+0	AUTO	CUST_MAINMENU_HEADLIGHT_COLOR	สีไฟหน้ารถ
+0	AUTO	CARNAME_DODGE_CHARGER06	Dodge Charger SRT8
+0	AUTO	CARNAME_DODGE_CHARGER69	Dodge Charger R/T
+0	AUTO	MARKER_NAME_DESCRIPTION_PAINT	ชุดอัพเกรดสีรถรุ่นพิเศษไว้ใช้กับรถคันใดก็ได้ที่คุณมี
+0	AUTO	CUST_PERF_MENU_BRAKES	เบรก
+0	AUTO	OL_TITLE_ONLINE_REWARD_CARDS	*การ์ดรางวัลออนไลน์*
+0	AUTO	COMMON_CAMERA_CONTROLS_EXIT	ออกจากการควบคุมมุมกล้อง
+0	AUTO	CUST_MAINMENU_HEADLIGHT_TITLE	*สีไฟหน้ารถ*
+0	AUTO	CAR_SELECT_DIALOG_ADD_IMPOUND_BOX_NO_CARD	คุณไม่มีการ์ดเพิ่มพื้นที่เครื่องหมายเตือนก่อนถูกยึดรถ ออกไปแข่งเพื่อหาการ์ดนี้
+0	AUTO	CUST_VINYL_DROP_SHADOW_0	ทิ้งเงา 0
+0	AUTO	SHOPPING_CART_DLG_INSTALL	คุณแน่ใจหรือว่าต้องการซื้ออะไหล่พวกนี้ทั้งหมด?
+0	AUTO	LANG_DANISH_NO_TRANSLATION	DANSK
+0	AUTO	PART_KIT03_FRONT_BUMPER	SHADOW
+0	AUTO	DEBUG_TEXTSCROLLER	Text Scroller
+0	AUTO	OL_STAT_WINS	ชนะการแข่งจัดอันดับ
+0	AUTO	CUST_MAINMENU_VISUALS	รูปลักษณ์
+0	AUTO	PART_KIT02_REAR_BUMPER	SWEEPER
+0	AUTO	ON_MESSENGER_GAME_INVITE_CANCELLED	%sได้ยกเลิกคำเชิญเข้าร่วมเกมของคุณ
+0	AUTO	MC_OLD_SAVE_REWARD	ขอบคุณที่เล่นนีดฟอร์สปีด™ ภาคที่ผ่านๆ มา เราได้มอบรางวัล 10 000 ให้แก่คุณในโหมดอาชีพแล้ว
+0	AUTO	STAT_COPS_DISABLED_TOTAL	รถตำรวจที่พัง (ทั้งหมด)
+0	AUTO	PART_WHEEL_AMERICAN_1	AMERICAN RACING SHELBY RAZOR
+0	AUTO	PART_WHEEL_AMERICAN_2	AMERICAN RACING TORQ-THRUST II
+0	AUTO	PART_WHEEL_AMERICAN_3	AMERICAN RACING TORQ-THRUST ST
+0	AUTO	STAT_QUICK_RACE_WINS	จำนวนครั้งที่ชนะควิกเรซ
+0	AUTO	MARKER_NAME_DESCRIPTION_BRAKES	ชุดอัพเกรดเบรกรุ่นพิเศษไว้ใช้กับรถคันใดก็ได้ที่คุณมี
+0	AUTO	CAR_CLASS_EXOTIC	เอ็กโซติค
+0	AUTO	MARKER_NAME_DESCRIPTION_REDUCE_HEAT	คุณสามารถลบความร้อนแรงทั้งหมดออกจากรถของคุณได้หนึ่งคัน
+0	AUTO	CHAL_INFO_BEST_SCORE	คะแนนดีที่สุด
+0	AUTO	CHAL_INFO_BEST_SPEED	ความเร็วที่เร็วที่สุด
+0	AUTO	MARKER_NAME_DESCRIPTION_CHASSI	ชุดอัพเกรดช่วงล่างรุ่นพิเศษไว้ใช้กับรถคันใดก็ได้ที่คุณมี
+0	AUTO	MENU_RESUME_CAREER	เล่นอาชีพต่อ
+0	AUTO	MENU_QUICKRACE_OPTIONS_CATCH_UP	ตามทัน
+0	AUTO	QUICK_RACE_INFO_ACCELERATION	อัตราเร่ง
+0	AUTO	CUST_PERF_MENU_ENGINE	เครื่องยนต์
+0	AUTO	PART_WHEEL_AUTOSCULPT_1	CARBON MO5
+0	AUTO	PART_WHEEL_AUTOSCULPT_2	CARBON HEX
+0	AUTO	PART_WHEEL_AUTOSCULPT_3	CARBON REDLINE
+0	AUTO	PART_WHEEL_AUTOSCULPT_4	CARBON GLITZ
+0	AUTO	PART_WHEEL_AUTOSCULPT_5	CARBON ST-8
+0	AUTO	PART_WHEEL_AUTOSCULPT_6	CARBON MULTI
+0	AUTO	PART_WHEEL_AUTOSCULPT_7	CARBON SF15
+0	AUTO	PART_WHEEL_AUTOSCULPT_8	CARBON RAZOR
+0	AUTO	PART_WHEEL_AUTOSCULPT_9	CARBON ST-5
+0	AUTO	WINGMAN_DESC_RACE_NEVILLE	ความร้อนแรงในพื้นที่ไม่เพิ่มขึ้นหลังการแข่ง
+0	AUTO	STAT_TIMES_BUSTED	จำนวนครั้งที่ถูกจับ
+0	AUTO	PART_WHEEL_IFORGED_1	IFORGED AERO
+0	AUTO	PART_WHEEL_IFORGED_2	IFORGED EVOLUTION
+0	AUTO	PART_WHEEL_IFORGED_3	IFORGED MARQUIS
+0	AUTO	CART_ITEM_DESC_BODY	ชุดโครง
+0	AUTO	CUST_MOVELAYER_UP	เลื่อนชั้นขึ้น
+0	AUTO	MARKER_NAME_DESCRIPTION_DECALS	ชุดอัพเกรดสติ๊กเกอร์รุ่นพิเศษไว้ใช้กับรถคันใดก็ได้ที่คุณมี
+0	AUTO	CARNAME_FORD_FORDGT	Ford GT
+0	AUTO	CUST_IN_SHOPPING_CART	อยู่ในรถเข็น
+0	AUTO	MC_CONFIRM_DESTRUCTIVE_CREATE_PROFILE	การสร้างสมญานามใหม่จะส่งผลให้การเปลี่ยนแปลงใดๆ ที่ยังไม่ได้ถูกบันทึกลงในสมญานามปัจจุบันสูญหาย คุณแน่ใจหรือว่าต้องการสร้างสมญานามใหม่?
+0	AUTO	XBOX_START_MESSAGE	กรุณากดปุ่ม START บนคอนโทรลเลอร์ตัวที่สอง
+0	AUTO	CARNAME_LEXUS_IS300	Lexus IS300
+0	AUTO	CUSTOMIZATION_MEMORY_WARNING	คุณไม่สามารถเพิ่มเติมการปรับแต่งตามชอบได้อีก คุณจำเป็นต้องลบรถของคุณทิ้งอย่างน้อยหนึ่งคัน เพื่อคุณจะได้สามารถปรับแต่งรถคันอื่นได้
+0	AUTO	ON_PROTO_DLC	DLC
+0	AUTO	MARKER_NAME_DESCRIPTION_ENGINE	ชุดอัพเกรดเครื่องยนต์รุ่นพิเศษไว้ใช้กับรถคันใดก็ได้ที่คุณมี
+0	AUTO	MENU_CM_CANT_FIRE	คุณต้องมีลูกทีมอย่างน้อยหนึ่งคน
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_PC	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game when the Autosave icon flashes as follows.
+0	AUTO	MARKER_NAME_BODYKIT	ชุดอัพเกรดตัวถังรุ่นพิเศษ
+0	AUTO	PART_KIT02_SKIRT	SWEEPER
+0	AUTO	STAT_CHALLENGE_SERIES_COMPLETION	ความสำเร็จในซีรี่ส์การท้าทาย
+0	AUTO	OL_STAT_WINS_PERCENT	% ชนะ
+0	AUTO	VINYL_PART_MANUFACTURER_SHELBYVINTAGE	SHELBY
+0	AUTO	MARKER_NAME_ROOFSCOOPS	ชุดอัพเกรดหลังคารุ่นพิเศษ
+0	AUTO	LANG_CZECH_NO_TRANSLATION	ČEŠTINA
+0	AUTO	MENU_CM_CREW_FULL	ทีมของคุณเต็มแล้ว คุณสามารถจ้างลูกทีมคนใหม่ได้ ด้วยการไล่ลูกทีมคนปัจจุบันออกสักคนหนึ่ง
+0	AUTO	SECONDARY_ROLE_MECHANIC_DESC	kicks your car when broken
+0	AUTO	STAT_DRIFT_LENGTH	ระยะดริฟต์
+0	AUTO	MC_ENTER_NAME	*ใส่ชื่อ*
+0	AUTO	MENU_CAREER_CHALLENGES	การท้าทาย
+0	AUTO	NGC_START_MESSAGE	ผู้เล่นที่ 2 กดปุ่ม START
+0	AUTO	CUST_MAINMENU_PERFORMANCE	ประสิทธิภาพ
+0	AUTO	CAR_SELECT_HEAT_COST	ค่าลดความร้อนแรง:
+0	AUTO	CUST_MAINMENU_MARKETPLACE	XBOX LIVE MARKETPLACE
+0	AUTO	QUICK_RACE_INFO_HANDLING	การควบคุมรถ
+0	AUTO	MENU_CAR_CLASS_MODE_TYPE	คุณอยากจะแข่งทดสอบคลาสหรือต้องการจะเลือกรถคันนี้?
+0	AUTO	CONTROLLER_CFG_STEER_LEFT	หมุนพวงมาลัยไปทางซ้าย
+0	AUTO	MENU_CAREER_START_NEW_CAREER	เริ่มต้นอาชีพใหม่
+0	AUTO	MC_AUTOSAVE_WARNING2_XBOX	ห้ามถอดคอนโทรลเลอร์หรือปิดเครื่องเอ็กซ์บอกซ์ระหว่างที่มีไอคอนบันทึกอัตโนมัติแสดงอยู่ การกระทำดังกล่าวจะทำให้ข้อมูลเสียหาย
+0	AUTO	MARKER_CATEGORY_PERFORMANCE	ชุดอัพเกรดสมรรถนะรถรุ่นพิเศษ
+0	AUTO	CUST_VINYL_GROUP_TWOTONE	ทูโทน
+0	AUTO	CHAL_UNLOCKS	ปลดล็อค %s
+0	AUTO	CARNAME_MCLAREN_SLR	Mercedes-Benz SLR McLaren
+0	AUTO	MENU_COMMON_PM_SHOWCASE	ห้องดูรถ
+0	AUTO	MARKER_NAME_SUPERCHARGER	ชุดอัพเกรดซูเปอร์ชาร์จเจอร์รุ่นพิเศษ
+0	AUTO	MARKER_NAME_HUD	ชุดอัพเกรดหน้าปัดรุ่นพิเศษ
+0	AUTO	MARKER_NAME_NOS	ชุดอัพเกรดไนตรัสรุ่นพิเศษ
+0	AUTO	STAT_LONGEST_PURSUIT	การหลบหนีการไล่ล่าที่นานที่สุด
+0	AUTO	MENU_QUICKRACE_OPTIONS_AI_OPPONENTS	คู่ต่อสู้เอไอ
+0	AUTO	CHALLENGE_SERIES_DESC_112_CG	ชนะคู่ต่อสู้ระดับง่ายในการแข่ง^เซอร์กิตที่ดาวน์ทาวน์
+0	AUTO	CHALLENGE_SERIES_DESC_113_CG	ชนะคู่ต่อสู้ระดับปานกลางในการแข่ง^เซอร์กิตที่ฟอร์จูน่า
+0	AUTO	CHALLENGE_SERIES_DESC_114_CG	ชนะคู่ต่อสู้ระดับยากในการแข่ง^เซอร์กิตที่ซิลเวอร์ตัน
+0	AUTO	OL_SUBTITLE_RANK	อันดับ
+0	AUTO	MC_NO_PROFILES_FOUND	ไม่พบสมญานาม
+0	AUTO	CHALLENGE_SERIES_DESC_130_CG	ชนะคู่ต่อสู้ระดับง่ายในการแข่ง^เซอร์กิตบนไฮเวย์ 142
+0	AUTO	CHALLENGE_SERIES_DESC_131_CG	ชนะคู่ต่อสู้ระดับปานกลางในการ^แข่งเซอร์กิตบนการ์เซียสตรีท
+0	AUTO	CHALLENGE_SERIES_DESC_132_CG	ชนะคู่ต่อสู้ระดับยากในการแข่ง^เซอร์กิตบนรูท 21
+0	AUTO	CAR_CLASS_MUSCLE	มัสเซิล
+0	AUTO	CREW_TITLE_YOUR_CREW	*ทีมของฉัน*
+0	AUTO	CREW_MENU_VIEW_CREW_CAR	ดูรถ
+0	AUTO	QUICK_RACE_OPTIONS	ตัวเลือก
+0	AUTO	LANG_SWEDISH_NO_TRANSLATION	SVENSKA
+0	AUTO	LANG_ENGLISH_NO_TRANSLATION	ENGLISH
+0	AUTO	STAT_WINS	ชนะ
+0	AUTO	CHAL_INFO_LENGTH	ระยะทาง
+0	AUTO	PC_INSTALLER_01	ไม่พบซีดีรอม
+0	AUTO	PC_INSTALLER_02	ไม่พบไฟล์ที่ต้องการ
+0	AUTO	PC_INSTALLER_03	เวอร์ชั่นของวินโดวส์ไม่ถูกต้อง
+0	AUTO	PC_INSTALLER_04	ตรวจพบดีบักเกอร์
+0	AUTO	PC_INSTALLER_05	โปรดใส่แผ่นซีดีรอมให้ถูกต้อง แล้วเลือก ตกลง เพื่อลองใหม่
+0	AUTO	PC_INSTALLER_06	โปรดใส่แผ่นซีดีรอมให้ถูกต้อง แล้วเลือก ตกลง จากนั้นให้เริ่มโปรแกรมใหม่
+0	AUTO	PC_INSTALLER_07	ถอดการทำงานของดีบักเกอร์แล้วลองอีกครั้ง
+0	AUTO	PC_INSTALLER_08	ขออภัย ผลิตภัณฑ์นี้ไม่สนับสนุนการทำงานบน Win32s
+0	AUTO	PC_INSTALLER_09	โปรดเข้าสู่ระบบด้วยสิทธิผู้บริหารระบบแล้วลองอีกครั้ง
+0	AUTO	PC_INSTALLER_10	การเข้าถึงถูกปฏิเสธ
+0	AUTO	PC_INSTALLER_11	โปรดนำแผ่นซีดีรอมออกแล้วลองใส่แผ่นใหม่ดูอีกครั้ง จากนั้นให้เลือก ตกลง และเริ่มโปรแกรมใหม่
+0	AUTO	PC_INSTALLER_12	ไม่พบแผ่น ดีวีดีรอม
+0	AUTO	PC_INSTALLER_13	โปรดใส่แผ่นดีวีดีรอมให้ถูกต้อง แล้วเลือก ตกลง เพื่อลองใหม่
+0	AUTO	PC_INSTALLER_14	โปรดใส่แผ่นซีดีรอมให้ถูกต้อง แล้วเลือก ตกลง จากนั้นให้เริ่มโปรแกรมใหม่
+0	AUTO	PC_INSTALLER_15	ตรวจพบโปรแกรมจำลองไดร์ฟซีดี/ดีวีดี โปรดปิดการทำงานของโปรแกรมจำลองซีดี/ดีวีดีเหล่านี้ แล้วเริ่มเกมใหม่อีกครั้ง
+0	AUTO	PC_INSTALLER_16	คลิ๊กที่นี่เพื่อข้อมูลเพิ่มเติมเกี่ยวกับข้อผิดพลาดนี้
+0	AUTO	MARKER_CATEGORY_MISC	การ์ดโบนัส
+0	AUTO	CUST_PAINT_GROUP_CHROME	โครเมียม
+0	AUTO	CUST_VINYL_STROKE_0	เส้นหนัก
+0	AUTO	CUST_VINYL_STROKE_1	เส้นหนัก 1
+0	AUTO	CUST_VINYL_STROKE_2	เส้นหนัก 2
+0	AUTO	CUST_VINYL_STROKE_3	เส้นหนัก 3
+0	AUTO	CUST_VINYL_STROKE_4	เส้นหนัก 4
+0	AUTO	CUST_VINYL_STROKE_5	เส้นหนัก 5
+0	AUTO	CAREER_TEST_CAR_HELP	ทดลองรถ
+0	AUTO	CREW_BIO_INFO_AGE	อายุ:
+0	AUTO	CREW_BIO_INFO_CAR	รถ
+0	AUTO	WII_BOOT_START	กดปุ่ม A
+0	AUTO	STARTADVANCE_REV	เพื่อทำต่อ
+0	AUTO	CUST_PARTS_HOODS	กระโปรงหน้า
+0	AUTO	MENU_CM_FIRE_CONFIRMATION	คุณแน่ใจหรือว่าจะให้%s ออก?
+0	AUTO	CUST_PARTS_SKIRT	สเกิร์ต
+0	AUTO	CUST_PARTS_TITLE	*เมนูอะไหล่*
+0	AUTO	STAT_NUM_SAFEHOUSES_FOUND	เซฟเฮ้าส์ที่พบ
+0	AUTO	GAME_OVER_CARS_IMPOUNDED_DESC	รถทุกคันของคุณถูกยึดไว้หมด
+0	AUTO	QUICK_RACE_TITLE_SPRINT	*สปรินต์*
+0	AUTO	STAT_SPIKE_STRIPS_DODGED	จำนวนครั้งที่หลบหลีกแผงตะปู (ในการไล่ล่าครั้งเดียว)
+0	AUTO	MARKER_NAME_IMPOUND	เพิ่มจำนวนครั้งการเตือนก่อนถูกยึดรถ
+0	AUTO	STATS_DOWNLOADING_XBOX	Downloading player's Xbox Live stats...
+0	AUTO	LANG_DANISH	Danish
+0	AUTO	DEMO_HELP_CLASS_INFO	ข้อมูลของคลาส
+0	AUTO	CART_ITEM_DESC_AS_REAR_BUMPER	กันชนหลัง AUTOSCULPT
+0	AUTO	CUST_PARTS_HOODS_TITLE	*กระโปรงหน้า*
+0	AUTO	CUST_MAINMENU_INSTALL	รถเข็น
+0	AUTO	STAT_PURSUITS_ESCAPED	จำนวนครั้งที่หลบหนีการไล่ล่าได้
+0	AUTO	REWARDS_COMPLETE_HEADER	ทำไอคอนให้สำเร็จเพื่อปลดล็อค:
+0	AUTO	QUICK_RACE_TITLE_KEEPAWAY	*รักษาระยะห่าง*
+0	AUTO	STAT_CAREER_TIME	เวลาที่ใช้ในโหมดอาชีพทั้งหมด
+0	AUTO	STAT_CAREER_WINS	ครั้งที่ชนะในอาชีพ
+0	AUTO	GAME_OVER_RELOAD_CURRENT_ALIAS	โหลดสมญานามปัจจุบัน
+0	AUTO	ON_LOGIN_NOT_REQUIRED	ไม่จำเป็น
+0	AUTO	CREW_MENU_CUSTOMIZE	ปรับแต่งตามชอบ
+0	AUTO	PART_KIT09_SKIRT	G-FORCE
+0	AUTO	HELP_TEST_DRIVE	ทดลองขับ
+0	AUTO	QUICK_RACE_TITLE_TIMETRIAL	*แข่งจับเวลา*
+0	AUTO	PART_KIT08_FRONT_BUMPER	SPEEDWAY
+0	AUTO	LANG_FRENCH	French
+0	AUTO	CUST_INSTALL	ติดตั้ง
+0	AUTO	MARKER_NAME_SPOILER	ชุดอัพเกรดสปอยเลอร์รุ่นพิเศษ
+0	AUTO	LANG_GERMAN	German
+0	AUTO	STAT_BEST_TIME_AS_RACER	เวลาที่ดีที่สุดเมื่อเป็นนักแข่ง
+0	AUTO	CART_ITEM_NAME_VINYLS	ไวนิล
+0	AUTO	CUST_PARTS_ROOFSCOOPS_TITLE	*ชุดแต่งหลังคา*
+0	AUTO	MC_CONFIRM_TOO_MANY_PROFILES_TO_CREATE	คุณมีสมญานามที่ถูกบันทึกไว้เกินจำนวนสูงสุดแล้ว
+0	AUTO	QUICK_RACE_TITLE_PURSUIT_TAG	*หลบหนีการไล่ล่าแบบไล่จับ*
+0	AUTO	GAME_OVER_PLAYER_BUSTED_DESC	คุณถูกจับและไม่มี การ์ดออกจากคุก หรือมีเงินไม่พอจ่ายค่าปรับ
+0	AUTO	MC_CONFIRM_TOO_MANY_PROFILES_TO_LIST	คุณมีสมญานามมากเกินไปที่จะแสดง สามารถแสดงสมญานามที่ถูกสร้างขึ้นล่าสุด 10 สมญานามเท่านั้น
+0	AUTO	PART_KIT09_REAR_BUMPER	G-FORCE
+0	AUTO	MENU_OPTIONS_EATRAX	อีเอแทร็กซ์
+0	AUTO	MC_AUTOSAVE_WARNING_PC	นีดฟอร์สปีด™ คาร์บอน ใช้ระบบบันทึกอัตโนมัติ ข้อมูลในเกมจะถูกบันทึกโดยอัตโนมัติระหว่างเกม เมื่อไอคอนบันทึกอัตโนมัติกระพริบขึ้นดังนี้
+0	AUTO	CAR_CLASS_EXIT_DIALOGUE	การออกจากหน้าจอนี้จะพาคุณกลับไปสู่เมนูหลัก ความก้าวหน้าในอาชีพของคุณจะไม่สูญหาย
+0	AUTO	PART_WHEEL_LOWENHART_1	LÖWENHART XIR
+0	AUTO	PART_WHEEL_LOWENHART_2	LÖWENHART BR5
+0	AUTO	PART_WHEEL_LOWENHART_3	LÖWENHART LDR
+0	AUTO	PART_WHEEL_LOWENHART_4	LÖWENHART LC1
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_XBOX	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game on the Xbox hard disk when the Autosave icon flashes as follows.
+0	AUTO	ON_LOGIN_TOO_YOUNG	คุณยังอายุไม่ถึงที่จะสร้างแอคเคานท์ได้
+0	AUTO	MENU_QUICKRACE_OPTIONS_PLAYER_GHOST	ตัวเลือกเงา
+0	AUTO	CUST_VINYL_GROUP_MANUFACTURER	ผู้ผลิต
+0	AUTO	OL_STAT_TOTAL_GAMES	เกมจัดอันดับทั้งหมด
+0	AUTO	CUST_TUNING	การปรับแต่ง
+0	AUTO	MC_AUTOSAVE_WARNING2_PC	ห้ามรีเซตหรือปิดเครื่องคอมพิวเตอร์ ระหว่างที่มีไอคอนบันทึกอัตโนมัติแสดงอยู่ การกระทำดังกล่าวจะทำให้ข้อมูลเสียหาย
+0	AUTO	MC_AUTOSAVE_WARNING_NGC	ระบบบันทึกอัตโนมัตินี้จะบันทึกความก้าวหน้าของคุณและการเปลี่ยนแปลงการตั้งค่าต่างๆ ที่คุณทำในเกมโดยอัตโนมัติ การบันทึกอัตโนมัติจะเขียนทับข้อมูลโดยไม่ทำการยืนยัน เมื่อไอคอนต่อไปนี้กระพริบห้ามถอดเมมโมรี่การ์ดหรือกดปุ่มปิดเครื่องเด็ดขาด
+0	AUTO	MC_AUTOSAVE_WARNING_PS2	นีดฟอร์สปีด™ คาร์บอน ใช้ระบบบันทึกอัตโนมัติ ข้อมูลในเกมจะถูกบันทึกโดยอัตโนมัติระหว่างเกมลงบนเมมโมรี่\^การ์ด\^(PS2) ในช่องเมมโมรี่\^การ์ด\^ช่องที่\^ 1 เมื่อไอคอนบันทึกอัตโนมัติกระพริบขึ้นดังนี้
+0	AUTO	MC_AUTOSAVE_WARNING_PS3	นีดฟอร์สปีดคาร์บอน ใช้ระบบบันทึกอัตโนมัติ ข้อมูลในเกมจะถูกบันทึกโดยอัตโนมัติระหว่างเกมไปยัง HDD เมื่อไอคอนบันทึกอัตโนมัติกระพริบขึ้นดังนี้
+0	AUTO	STAT_NUMBER_BUSTS	ถูกจับ
+0	AUTO	MARKER_NAME_DESCRIPTION_VINYLS	ชุดอัพเกรดไวนิลรุ่นพิเศษไว้ใช้กับรถคันใดก็ได้ที่คุณมี
+0	AUTO	CUST_PARTS_BODY_KIT	ชุดโครง
+0	AUTO	CART_ITEM_DESC_AS_FRONT_BUMPER	กันชนหน้า AUTOSCULPT
+0	AUTO	MENU_CM_UNLOCK_NEW_CREW_NO_ROOM	คุณได้ปลดล็อคลูกทีมคนใหม่ แต่ทีมของคุณเต็มแล้ว คุณสามารถเพิ่มลูกทีมคนใหม่เข้าไปในทีมของคุณได้ ด้วยการไล่ลูกทีมคนปัจจุบันออกสักคนหนึ่ง จากหน้า ลูกทีมของฉัน
+0	AUTO	CARNAME_DODGE_VINTAGE_CHALLENGER71	Dodge Challenger
+0	AUTO	DEBUG_WIDGETMENU	Widget Menu
+0	AUTO	STAT_COLLISIONS	ชน
+0	AUTO	STAT_TITLE_PKO_RACE	หลบหนีการไล่ล่าน็อคเอาท์ (นข.)
+0	AUTO	MENU_CREW_LOGO_DISCARD_CONFIRM	คุณแน่ใจหรือว่าต้องการทิ้งโลโก้นี้แล้วเก็บโลโก้อันเดิมไว้?
+0	AUTO	COMMON_RACETYPE_ALL	ทั้งหมด
+0	AUTO	CAR_SELECT_DIALOG_BUY_CAR_CONFIRMATION	คุณแน่ใจหรือว่าต้องการซื้อรถคันนี้?
+0	AUTO	H_REORDER	จัดอันดับใหม่
+0	AUTO	MENU_QUICKRACE_GHOST_CAR	เงา:
+0	AUTO	MY_CARS_ADD_CUST_HELP	เพิ่ม / ปรับแต่ง
+0	AUTO	QR_DOWNLOADING_GHOST_DATA	กำลังดาวน์โหลดเงาจาก NeedforSpeed.com
+0	AUTO	HELP_HIRE_CREW_MEMEBER	จ้างลูกทีม
+0	AUTO	QR_DOWNLOADING_GHOST_INFO	กำลังดาวน์โหลดข้อมูลเงาจาก NeedforSpeed.com
+0	AUTO	CAR_SELECT_DIALOG_CANNOT_REDUCE_HEAT	คุณไม่มีเงินสดหรือการ์ดพอจะจ่ายค่าลดความร้อนแรง ไปแข่งรถให้ชนะซะจะได้มีเงิน!
+0	AUTO	CART_ITEM_NAME_WHEEL_PAINT_SWATCH	สีล้อแม็ก
+0	AUTO	CUST_PARTS_DIALOG_STANDARD	อะไหล่มาตรฐาน
+0	AUTO	TITLE_PLAYERS_STATISTICS	สถิติออนไลน์ของผู้เล่น
+0	AUTO	MENU_MAIN_CUSTOM_MATCH	ปรับแต่งการแข่งเอง
+0	AUTO	DEF_RACE_INFO_REWARDS	รางวัล:
+0	AUTO	CUST_VINYL_GROUP_STRIPEBODY	สไตรป์บอดี้
+0	AUTO	STARTADVANCE_XBOX	START เพื่อทำต่อ
+0	AUTO	CUST_VINYL_GROUP_AFTERMARKET	อะไหล่มาตรฐาน
+0	AUTO	PART_KIT04_FRONT_BUMPER	BORRILLO
+0	AUTO	MARKER_NAME_DESCRIPTION_ROOFSCOOPS	ชุดอัพเกรดหลังคารุ่นพิเศษไว้ใช้กับรถคันใดก็ได้ที่คุณมี
+0	AUTO	STAT_CAREER_REP	ชื่อเสียงในอาชีพ
+0	AUTO	CUST_MAINMENU_LICENSE_PLATE	ป้ายทะเบียนรถ
+0	AUTO	MENU_MAIN_REWARD_CARDS	การ์ดรางวัล
+0	AUTO	CARNAME_MAZDA_MAZDASPEED3_EUROPE	Mazda Mazdaspeed3 MPS
+0	AUTO	PART_KIT06_REAR_BUMPER	CHICANE
+0	AUTO	CART_ITEM_DESC_AS_EXHAUST	ท่อไอเสีย AUTOSCULPT
+0	AUTO	PART_KIT06_SKIRT	CHICANE
+0	AUTO	HELP_ONLINE_REWARDS	รางวัลการเล่นออนไลน์
+0	AUTO	STAT_CARS_PURCHASED	จำนวนรถที่ซื้อ
+0	AUTO	LANG_POLISH	Polish
+0	AUTO	STAT_BEST_MOVE	การขับที่ดีที่สุด
+0	AUTO	STAT_BEST_TIME	เวลาการแข่งขันที่ดีที่สุด
+0	AUTO	CHAL_TIME_TRIAL	การแข่งจับเวลา
+0	AUTO	STAT_BEST_CAREER_COMPLETION_TIME	เวลาในการเล่นอาชีพจนจบที่ดีที่สุด
+0	AUTO	CHAL_HEADER_GOLD	ทอง
+0	AUTO	DEMO_PSA	การขับรถที่คุณและลูกทีมทำในเกมนี้เป็นแค่การเล่นเกมเท่านั้น ในชีวิตจริง ต้องขับรถอย่างปลอดภัย เคารพกฏจราจรและคาดเข็มขัดนิรภัยเสมอ
+0	AUTO	QUICK_RACE_TITLE_SELECT_WINGMAN	*เลือกสมาชิกลูกทีม*
+0	AUTO	CARNAME_CORVETTE_Z06	Chevrolet Corvette Z06
+0	AUTO	LANG_ENGLISH	English
+0	AUTO	MC_AUTOSAVE_WARNING_SPA_XENON	Need for Speed™ Carbono uses an Autosave feature. Game information is automatically saved throughout the game when the Autosave icon flashes as follows.
+0	AUTO	MENU_CM_HIRE_CONFIRMATION	คุณแน่ใจหรือว่าต้องการจ้าง%s?
+0	AUTO	HELP_GET_ONLINE_HELP	ออนไลน์แบบร่วมมือ
+0	AUTO	DEMO_MUSIC_LEGAL	Licensed Music ^^"Bounce" ^Performed by Dynamite MC^Written by D. Smith/D. Taylor^Produced by Dave Taylor for Solid Groove Productions^Published by Copyright Control/Haripa Music^Recording courtesy of Strong Records^^"Don't Speak (I Came To Make A Bang!)"^Performed by Eagles Of Death Metal^Written by Jesse "Boots Electric" Hughes and Joshua "Baby Duck" Homme^© 2005 Fabulous Weapons Music (BMI) and Board Stiff Music (BMI)^Recording courtesy of Downtown Recordings^^"Sugar (Jagz Kooner Mix)"^Performed by Ladytron ^Written by Daniel Hunt^Published by Universal-Polygram Int. Publishing, Inc. (ASCAP) obo Universal Music Publishing Ltd. ^(p) & © 2005 Ladytron ^Recording courtesy of Rykodisc
+0	AUTO	CROSS_SELL_FIFA	FIFA 07
+0	AUTO	ON_STAT_HEADER_BEST_DRIFT	การดริฟต์ที่ดีที่สุด
+0	AUTO	STAT_INFRACTIONS_SINGLE	ข้อหา (ในการไล่ล่าครั้งเดียว)
+0	AUTO	CUST_PARTS_SPOILERS	สปอยเลอร์
+0	AUTO	MENU_MAIN_QUICK_MATCH	การแข่งแบบเร็ว
+0	AUTO	STAT_GAME_COMPLETION	ความเสร็จสมบูรณ์ของเกม
+0	AUTO	MENU_CREW_NEED_TO_SET_CREW_STYLE_TARGET	ยังไม่มีการเลือกรถเป้าหมายในสไตล์ของทีม ไปที่โรงรถเพื่อเลือกรถเป้าหมาย
+0	AUTO	TITLE_REWARD_CARDS	*การ์ดรางวัล*
+0	AUTO	CUST_RIDE_HEIGHT_PITCH	เพิ่มระดับความสูงรถ
+0	AUTO	STAT_HIGHEST_FINE_PAID	ค่าปรับสูงสุดที่จ่าย
+0	AUTO	PART_WHEEL_KONIG_1	KÖNIG BLATANT
+0	AUTO	PART_WHEEL_KONIG_2	KÖNIG IMAGINE
+0	AUTO	PART_WHEEL_KONIG_3	KÖNIG THEORY
+0	AUTO	CLASS_MUSCLE_DESCRIPTION	มัสเซิลวิ่งทางตรงได้เร็วปานจรวด เมื่อคุณทิ้งคู่แข่งไว้เบื้องหลังแล้ว อย่ามัวแต่สนใจมองกระจกหลังให้นานนักเพราะยากที่จะมีใครตามทัน ดังนั้นระวังทางโค้งไว้ดีกว่า!
+0	AUTO	CUST_MAIN_CART_CONFIRM	คุณมีสินค้าอยู่ในรถเข็น คุณแน่ใจหรือว่าต้องการจะออก? (สินค้าทั้งหมดในรถเข็นจะสูญหาย)
+0	AUTO	STAT_TOTAL_CLOCKED_SPEEDTRAP	ความเร็วสะสมในการผ่านเครื่องตรวจจับความเร็ว
+0	AUTO	MARKER_NAME_FREEBAIL	ออกจากคุกโดยไม่ต้องชดใช้
+0	AUTO	EA_TRAX_PLAY_TRACK	เล่นเพลง
+0	AUTO	CART_ITEM_DESC_ROOF_SCOOP	ชุดแต่งหลังคา
+0	AUTO	MENU_CREW_MANAGEMENT	ทีมของฉัน
+0	AUTO	CUST_PARTS_SKIRT_TITLE	*สเกิร์ต*
+0	AUTO	CHAL_INFO_YOUR_TIME	เวลาที่ดีที่สุด
+0	AUTO	CUST_ADD_TO_CART	เพิ่มใส่รถเข็น
+0	AUTO	WII_CONTROLS_WARNING	The Nunchuk is needed to play this title. Front End and Menu navigation is done with the Wii Remote pointed towards the screen. There are several other controller configs available to try out in the Options screen.
+0	AUTO	STAT_TRACKS_UNLOCKED	จำนวนสนามที่ปลดล็อคได้
+0	AUTO	MENU_CAREER_TURF_WARS	แผนที่โลก
+0	AUTO	CHAL_INFO_DESCRIPTION	รายละเอียด
+0	AUTO	DIALOG_MSG_NO_CREW_SOURCE	สไตล์ทีมของรถต้นฉบับยังไม่ได้ถูกเลือก
+0	AUTO	MENU_CM_HIRE	จ้าง
+0	AUTO	CAR_SELECT_CAR_VALUE	มูลค่ารถ:
+0	AUTO	STAT_LAP_SCORE	คะแนนในรอบ
+0	AUTO	BULLET_TUTORIAL_TERRITORY_01_A	นี่คือแผนที่ของคุณ
+0	AUTO	BULLET_TUTORIAL_TERRITORY_01_B	ใช้มันเพื่อติดตามดูว่า^เขตแดนใดถูกเปลี่ยนมือไปบ้าง
+0	AUTO	PART_KIT00_FRONT_BUMPER	ชิ้นส่วนดั้งเดิม
+0	AUTO	MYCARS_DIALOG_DELTE_CAR_CONFIRMATION	คุณแน่ใจหรือว่าต้องการลบรถคันนี้?
+0	AUTO	STAT_BOUNTY_TOTAL	ค่าหัว (ทั้งหมด)
+0	AUTO	CUST_PARTSELECT_PART	อะไหล่
+0	AUTO	PART_KIT03_REAR_BUMPER	SHADOW
+0	AUTO	MC_NO_GHOST	คุณไม่มีเงาบันทึกไว้ในสนามแข่งนี้
+0	AUTO	PART_WHEEL_RACINGHART_1	RACINGHART MULTI C4
+0	AUTO	PART_WHEEL_RACINGHART_2	RACINGHART CX
+0	AUTO	PART_WHEEL_RACINGHART_3	RACINGHART CP
+0	AUTO	PART_WHEEL_RACINGHART_4	RACINGHART CR
+0	AUTO	MC_PROFILE_MANAGER	ตัวจัดการสมญานาม
+0	AUTO	CARNAME_CHRYSLER_300C	Chrysler 300C Hemi SRT8
+0	AUTO	MC_PROMPT_CREATE_CHALLENGE	คุณจะต้องมีสมญานามเพื่อเข้าเล่นซีรี่ส์การท้าทาย คุณต้องการสร้างสมญานามใหม่หรือไม่?
+0	AUTO	CHAL_LOCKED	ล็อค
+0	AUTO	CAR_CLASS_TESTING_TRANSMISSION	คุณต้องการจะใช้เกียร์ธรรมดาหรือเกียร์อัตโนมัติ?
+0	AUTO	ON_LOGIN_MSG_PARENTAL_CONSENT	ข้อมูลส่วนตัวของคุณกำลังจะถูกส่งไปยังอีเอ หากคุณอายุต่ำกว่า 18 ปี คุณต้องได้รับการยินยอมจากผู้ปกครองในการให้ข้อมูลส่วนตัวกับอีเอ คุณต้องการจะส่งข้อมูลหรือไม่?
+0	AUTO	STAT_BEST_SECTION_1_TIME	เวลาดีที่สุดในส่วนที่ 1
+0	AUTO	CARNAME_ALFA_ROMEO_BRERA	Alfa Romeo Brera
+0	AUTO	LANG_DUTCH_NO_TRANSLATION	NEDERLANDS
+0	AUTO	STAT_WIN_PERCENTAGE	เปอร์เซนต์การชนะ
+0	AUTO	PART_KIT03_SKIRT	SHADOW
+0	AUTO	MENU_QUICKRACE_OPTIONS_COMPETITIVE	จัดอันดับ
+0	AUTO	FABRICATOR_1_POPUP	เมื่อเพิ่ม ซัลล์ เข้าไปในทีมแล้ว คุณจะสามารถปรับแต่งชิ้นส่วน Autosculpt เหล่านี้ได้
+0	AUTO	STAT_BEST_SECTION_2_TIME	เวลาดีที่สุดในส่วนที่ 2
+0	AUTO	STAT_BEST_LAP_SCORE	คะแนนต่อรอบที่ดีที่สุด
+0	AUTO	CUST_PARTS_CARBON	คาร์บอนไฟเบอร์
+0	AUTO	MARKER_CATEGORY_DESC_VISUAL	บัตรรางวัลเหล่านี้คือไอเทมเช่นไวนิลพิเศษ
+0	AUTO	CARNAME_DODGE_CHALLENGERN	Dodge Challenger Concept
+0	AUTO	OL_STAT_REP	ค่า XP ออนไลน์
+0	AUTO	QUICK_RACE_TITLE_PURSUIT_KNOCKOUT	*หลบหนีการไล่ล่าแบบน็อคเอาท์*
+0	AUTO	MC_LOAD	โหลด
+0	AUTO	STAT_BEST_SECTION_3_TIME	เวลาดีที่สุดในส่วนที่ 3
+0	AUTO	MENU_CM_CURRENT_WINGMAN	ลูกทีมปัจจุบัน:
+0	AUTO	CUST_MAINMENU_MARKETPLACE_MIXEDCASE	ตลาดสินค้า Xbox
+0	AUTO	HELP_SELECT_CAR_FOR_CAREER	เลือกรถสำหรับเล่นอาชีพ
+0	AUTO	PART_KIT10_SKIRT	คลาสสิค
+0	AUTO	TITLE_CHALLENGE_SERIES	*ซีรี่ส์การท้าทาย*
+0	AUTO	MENU_CM_BIO_VIDEO	วิดีโอประวัติ
+0	AUTO	CUST_PARTS_REARBUMPER_TITLE	*กันชนหลัง*
+0	AUTO	WINGMAN_DESC_RACE_COLIN	พื้นที่สำหรับดราฟต์เบื้องหลังลูกทีมเพิ่มขึ้น
+0	AUTO	MENU_QUICKRACE_PLAYER_RECORD_GHOST	บันทึกเงา
+0	AUTO	WINGMAN_DESC_RACE_NIKKI	เพิ่มระดับตัวหน่วงเวลาและไนตรัสอีก 50%%
+0	AUTO	ALL_SPECIAL_CHARACTERS	á à â ä ą å æ ª č ç ć ď é è ě ë ê ę í ì ï î ł ń ň ñ ó ò ø ö ô ő œ ř š ś ť ů ú ù ü û ű ý ž ż ź º °¿ ¡ ^Á À Â Å Ä Ą Æ Č Ć Ç Ď É È Ě Ë Ê Ę Í Ì Î Ï Ł Ň Ñ Ő Ó Ò Ø Ö Ô Œ Ř Ś Š Ť Ů Ú Ù Ü Ú Ű Û Ý Ż Ź Ž ß
+0	AUTO	CUST_PERF_MENU_SUSPENSION	ช่วงล่าง
+0	AUTO	CROSS_SELL_NHL07	NHL® 07
+0	AUTO	WINGMAN_DESC_RACE_SAL	การชนะการแข่งขันทำให้ตำรวจสนใจน้อยลง
+0	AUTO	CROSS_SELL_TIGER	Tiger Woods PGA TOUR® 07
+0	AUTO	CUST_MOVELAYER_DOWN	เลื่อนชั้นลง
+0	AUTO	CHAL_AVAILABLE	เข้าร่วมแข่งได้
+0	AUTO	MENU_CM_TUTORIAL	เนวิลล์เข้าร่วมเป็นลูกทีมคุณแล้ว!^^นี่คือหน้าจอการจัดการลูกทีม ที่นี่คุณสามารถ:^เลือกลูกทีมเพื่อร่วมกับคุณในการลงแข่ง^ปรับแต่งรถของลูกทีม^ดูวิดิโอประวัติของลูกทีม^ไล่ลูกทีมออก (จนกระทั่งเหลืออย่างน้อย 1 คน)^จ้างลูกทีมเพิ่ม (ได้มากที่สุด 3 คน)
+0	AUTO	SECONDARY_ROLE_FABRICATOR_DESC	DELETE
+0	AUTO	PART_KIT00_REAR_BUMPER	ชิ้นส่วนดั้งเดิม
+0	AUTO	CART_ITEM_DESC_AS_SPOILER	สปอยเลอร์ AUTOSCULPT
+0	AUTO	QR_NO_GHOST_DATA	ไม่มีเงาให้ใช้ในสนามแข่งนี้
+0	AUTO	CUST_VINYL_GROUP_PRIMITIVE	รูปทรง
+0	AUTO	MARKER_NAME_DESCRIPTION_SUPERCHARGER	ชุดอัพเกรดซุปเปอร์ชาร์จเจอร์รุ่นพิเศษไว้ใช้กับรถคันใดก็ได้ที่คุณมี
+0	AUTO	PART_KIT09_FRONT_BUMPER	G-FORCE
+0	AUTO	ON_MESSENGER_LISTS_SEARCH	ผลการค้นหา
+0	AUTO	RC_DESCRIPTION_104	ทำรถตำรวจพัง 10 คัน ในการขับรถอิสระ
+0	AUTO	STAT_COPS_RAMMED_TOTAL	รถตำรวจที่พุ่งชน (ทั้งหมด)
+0	AUTO	MENU_CM_EMPYT	ไม่มีทีม
+0	AUTO	OL_NFS_WEBSITE_ADDRESS_LEADERBOARD	เข้าไปที่ NeedForSpeed.com เพื่อดูสถิติเพิ่มเติม
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_1	CARBONO MO5
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_2	CARBONO HEX
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_3	CARBONO REDLINE
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_4	CARBONO GLITZ
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_5	CARBONO ST-8
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_6	CARBONO MULTI
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_7	CARBONO SF15
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_8	CARBONO RAZOR
+0	AUTO	PART_SPA_WHEEL_AUTOSCULPT_9	CARBONO ST-5
+0	AUTO	CREW_LOGO_LAYER_1	ชั้นที่ 1
+0	AUTO	CREW_LOGO_LAYER_2	ชั้นที่ 2
+0	AUTO	CREW_LOGO_LAYER_3	ชั้นที่ 3
+0	AUTO	CUST_PERF_STAGE	ขั้นที่ %d
+0	AUTO	CUST_VINYLS_MIRROR_ON	เปิดการกลับซ้ายเป็นขวา
+0	AUTO	CUST_PARTS_FRONTBUMPER	กันชนหน้า
+0	AUTO	STAT_BEST_JUMP_AIR_TIME	ลอยบนอากาศนานที่สุด
+0	AUTO	MENU_BOSS_DEFEATED	*กำจัดแล้ว*
+0	AUTO	STAT_TITLE_PKO_PURSUIT	หลบหนีการไล่ล่าน็อคเอาท์ (ตร.)
+0	AUTO	CREW_TITLE_LOGOS	*โลโก้ทีม*
+0	AUTO	CREW_BIO_INFO_BIRTHPLACE	สถานที่เกิด
+0	AUTO	CAR_CLASS_SELECTED_TRANSMISSION	คุณได้เลือกคลาสของรถสำหรับอาชีพของคุณแล้ว คุณอยากจะใช้เกียร์อัตโนมัติหรือเกียร์ธรรมดา?
+0	AUTO	STAT_COST_TO_STATE_TOTAL	ระดับความเสียหาย (ทั้งหมด)
+0	AUTO	CHAL_CREW_MODE_SOLO	เล่นคนเดียว
+0	AUTO	TITLE_QUICK_RACE_OPTIONS	*ตัวเลือกควิกเรซ*
+0	AUTO	PART_KIT00_SKIRT	ชิ้นส่วนดั้งเดิม
+0	AUTO	GAME_WON_TITLE	*คุณชนะ*
+0	AUTO	STAT_COMBO_SCORE	คอมโบ
+0	AUTO	CUST_VINYL_FILL_0	เติม
+0	AUTO	CUST_VINYL_FILL_1	เติม 1
+0	AUTO	CUST_VINYL_FILL_2	เติม 2
+0	AUTO	CUST_VINYL_FILL_3	เติม 3
+0	AUTO	LANG_FRENCH_NO_TRANSLATION	FRANCAIS
+0	AUTO	STAT_RANDOM_ENCOUNTERS_WON	จำนวนครั้งที่ชนะการเผชิญหน้าแบบสุ่ม
+0	AUTO	SHOPPING_CART_DLG_EMPTY	รถเข็นของคุณว่างเปล่า
+0	AUTO	CUST_PARTS_FRONTBUMPER_TITLE	*กันชนหน้า*
+0	AUTO	MENU_QUICKRACE_PLAYER_SAVED_GHOST	เงาที่ผู้เล่นบันทึก
+0	AUTO	DEF_RACE_INFO_RECORD	สถิติ:
+0	AUTO	MENU_MAIN_QUICK_RACE	ควิกเรซ
+0	AUTO	CUST_PARTS_NORMAL	ธรรมดา
+0	AUTO	CARNAME_NISSAN_350Z	Nissan 350Z
+0	AUTO	MENU_CAR_CLASS_MODE_SELECT_CLASS	เลือกคลาส
+0	AUTO	MENU_RESUME_FREE_ROAM	ขับอิสระ
+0	AUTO	STAT_COPS_RAMMED_SINGLE	รถตำรวจที่พุ่งชน (ในการไล่ล่าครั้งเดียว)
+0	AUTO	MENU_QUICKRACE_OPTIONS_TRAFFIC_LEVEL	ระดับสภาพจราจร
+0	AUTO	PART_KIT05_FRONT_BUMPER	ARASHI
+0	AUTO	CARNAME_PORSCHE_CAYMANS	Porsche Cayman S
+0	AUTO	CARNAME_MITSUBISHI_ECLIPSEGT	Mitsubishi Eclipse GT
+0	AUTO	CART_ITEM_NAME_BODY_PAINT_SWATCH	สีตัวถัง
+0	AUTO	STAT_RANK_POINTS	คะแนนอันดับ
+0	AUTO	PART_WHEEL_ENKEI_1	ENKEI NT03+M
+0	AUTO	PART_WHEEL_ENKEI_2	ENKEI J SPEED 3
+0	AUTO	PART_WHEEL_ENKEI_3	ENKEI ES-TARMAC
+0	AUTO	PART_WHEEL_ENKEI_4	ENKEI WRC TARMAC
+0	AUTO	HELP_RECRUIT	รับสมัคร
+0	AUTO	COPCAR_TIER_1	รถ SUV ของตำรวจ
+0	AUTO	COPCAR_TIER_2	รถลาดตระเวนของตำรวจ
+0	AUTO	COPCAR_TIER_3	รถ Corvette Z06 ของตำรวจ
+0	AUTO	STAT_BEST_AVERAGE_SPEED	ความเร็วสะสมที่ดีที่สุด
+0	AUTO	MC_AUTOSAVE_WARNING_XENON	นีดฟอร์สปีด™ คาร์บอน ใช้ระบบบันทึกอัตโนมัติ ข้อมูลในเกมจะถูกบันทึกโดยอัตโนมัติระหว่างเกมเมื่อไอคอนบันทึกอัตโนมัติกระพริบขึ้นดังนี้
+0	AUTO	STAT_MOST_CARS_RAMMED	จำนวนรถมากที่สุดที่ถูกชน
+0	AUTO	GAME_OVER_EXIT_TO_MAIN_MENU	กลับสู่เมนูหลัก
+0	AUTO	MARKER_NAME_DESCRIPTION_RELEASE	เอารถคันไหนก็ได้ที่คุณต้องการออกจากการถูกยึด
+0	AUTO	STAT_HIGHEST_HEAT_LEVEL	ระดับความร้อนแรงสูงสุด
+0	AUTO	CARNAME_PLYMOUTH_CUDA	Plymouth Hemi Cuda
+0	AUTO	CUST_VINYL_GROUP_ONLINE1	ออนไลน์
+0	AUTO	CUST_VINYL_GROUP_ONLINE2	
+0	AUTO	CUST_VINYL_GROUP_ONLINE3	ไวรัส
+0	AUTO	STAT_SHORTEST_PURSUIT	การหลบหนีการไล่ล่าที่สั้นที่สุด
+0	AUTO	MENU_CAREER_START	เริ่มต้นอาชีพ
+0	AUTO	CONTROLLER_CFG_STEER_RIGHT	หมุนพวงมาลัยไปทางขวา
