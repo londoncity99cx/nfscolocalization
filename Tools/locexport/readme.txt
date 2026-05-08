@@ -2,7 +2,7 @@
 | UTF‑8 Export for NFSCO Localiaztion Databases |
 +-----------------------------------------------+
 | Author: LondonCity                            |
-| Date:   26.04.2026                            |
+| Date:   08.05.2026                            |
 +-----------------------------------------------+
 
 Run this simple PowerShell skript within a NFSCO
