@@ -2,7 +2,7 @@
 # | UTF‑8 Export for NFSCO Localiaztion Databases |
 # +-----------------------------------------------+
 # | Author: LondonCity                            |
-# | Date:   26.04.2026                            |
+# | Date:   08.05.2026                            |
 # +-----------------------------------------------+
 
 $ErrorActionPreference = "Stop"
@@ -28,7 +28,7 @@ try {
         "KR"       = "korean"
         "MX"       = "mexican"
         "NL"       = "dutch"
-        "PO"       = "polish"
+        "PL"       = "polish"
         "RU"       = "russian"
         "SE"       = "swedish"
         "TH"       = "thai"

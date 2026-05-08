@@ -270,18 +270,18 @@ INSERT INTO sub."frontend.bin" SELECT "V","HexRank","Chunk","Hash (Hex)","Label"
 VACUUM sub;
 DETACH DATABASE sub;
 
-ATTACH DATABASE "./nfsco_loc_po.db" AS sub;
+ATTACH DATABASE "./nfsco_loc_pl.db" AS sub;
 PRAGMA sub.encoding = "UTF-8";
 CREATE TABLE sub."versionlist" ("Version" TEXT UNIQUE,"Date" TEXT,"Author" TEXT,"Status" TEXT,"Changelog" TEXT,PRIMARY KEY("Version"));
-CREATE TABLE sub."tracklist" ("Trackname (EN)" TEXT,"Version" TEXT,"Origin" TEXT,"Value_PO" TEXT,PRIMARY KEY("Trackname (EN)"));
-CREATE TABLE sub."ingame.bin" ("V" TEXT,"HexRank" TEXT,"Chunk" TEXT,"Hash (Hex)" TEXT,"Label" TEXT UNIQUE,"Value_EN" TEXT,"Value_PO" TEXT,PRIMARY KEY("Label"));
-CREATE TABLE sub."global.bin" ("V" TEXT,"HexRank" TEXT,"Chunk" TEXT,"Hash (Hex)" TEXT,"Label" TEXT UNIQUE,"Value_EN" TEXT,"Value_PO" TEXT,PRIMARY KEY("Label"));
-CREATE TABLE sub."frontend.bin" ("V" TEXT,"HexRank" TEXT,"Chunk" TEXT,"Hash (Hex)" TEXT,"Label" TEXT UNIQUE,"Value_EN" TEXT,"Value_PO" TEXT,PRIMARY KEY("Label"));
+CREATE TABLE sub."tracklist" ("Trackname (EN)" TEXT,"Version" TEXT,"Origin" TEXT,"Value_PL" TEXT,PRIMARY KEY("Trackname (EN)"));
+CREATE TABLE sub."ingame.bin" ("V" TEXT,"HexRank" TEXT,"Chunk" TEXT,"Hash (Hex)" TEXT,"Label" TEXT UNIQUE,"Value_EN" TEXT,"Value_PL" TEXT,PRIMARY KEY("Label"));
+CREATE TABLE sub."global.bin" ("V" TEXT,"HexRank" TEXT,"Chunk" TEXT,"Hash (Hex)" TEXT,"Label" TEXT UNIQUE,"Value_EN" TEXT,"Value_PL" TEXT,PRIMARY KEY("Label"));
+CREATE TABLE sub."frontend.bin" ("V" TEXT,"HexRank" TEXT,"Chunk" TEXT,"Hash (Hex)" TEXT,"Label" TEXT UNIQUE,"Value_EN" TEXT,"Value_PL" TEXT,PRIMARY KEY("Label"));
 INSERT INTO sub."versionlist" SELECT "Version","Date","Author","Status","Changelog" FROM versionlist;
-INSERT INTO sub."tracklist" SELECT "Trackname (EN)","Version","Origin","Value_PO" FROM tracklist;
-INSERT INTO sub."ingame.bin" SELECT "V","HexRank","Chunk","Hash (Hex)","Label","Value_EN","Value_PO" FROM "ingame.bin";
-INSERT INTO sub."global.bin" SELECT "V","HexRank","Chunk","Hash (Hex)","Label","Value_EN","Value_PO" FROM "global.bin";
-INSERT INTO sub."frontend.bin" SELECT "V","HexRank","Chunk","Hash (Hex)","Label","Value_EN","Value_PO" FROM "frontend.bin";
+INSERT INTO sub."tracklist" SELECT "Trackname (EN)","Version","Origin","Value_PL" FROM tracklist;
+INSERT INTO sub."ingame.bin" SELECT "V","HexRank","Chunk","Hash (Hex)","Label","Value_EN","Value_PL" FROM "ingame.bin";
+INSERT INTO sub."global.bin" SELECT "V","HexRank","Chunk","Hash (Hex)","Label","Value_EN","Value_PL" FROM "global.bin";
+INSERT INTO sub."frontend.bin" SELECT "V","HexRank","Chunk","Hash (Hex)","Label","Value_EN","Value_PL" FROM "frontend.bin";
 VACUUM sub;
 DETACH DATABASE sub;
 
