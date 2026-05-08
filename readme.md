@@ -1,6 +1,6 @@
 # NFSCO Localization
 
-Welcome to the NFSCO Localization project. This project focused on creating and maintaining translations for the Need for Speed: Carbon modification [NFSCO](https://github.com/NFSCO).
+Welcome to the NFSCO Localization project. This project is focused on creating and maintaining translations for the Need for Speed: Carbon modification [NFSCO](https://github.com/NFSCO).
 
 Please note, that this is no official localization & that the available translations are fan made.
 
