@@ -5,7 +5,7 @@
 | :------------------- | ---- | :-------------------------------------------------------------------------------------------------- | ------------- | :------------------- |
 | German               | DE   | [LondonCity](https://github.com/londoncity99cx)                                                     | 2888          | published            |
 | Italian              | IT   | BigBoss                                                                                             | 2888          | published            |
-| Dutch                | NL   | Sen                                                                                                 | /             | work in progress     |
+| Dutch                | NL   | [Sen](https://github.com/sifsen)                                                                    | /             | work in progress     |
 | Spanish              | ES   | ola ola                                                                                             | /             | work in progress     |
 | Brazilian-Portuguese | BR   | Polar                                                                                               | /             | work in progress     |
 | Russian              | RU   | viphyperboy                                                                                         | /             | work in progress     |
