@@ -1,6 +1,6 @@
 # NFSCO Localization
 
-Welcome to the NFSCO Localization project. This project is focused on creating and maintaining translations for the Need for Speed: Carbon modification [NFSCO](https://github.com/NFSCO).
+Welcome to the NFSCO Localization project. This project focused on creating and maintaining translations for the Need for Speed: Carbon modification [NFSCO](https://github.com/NFSCO).
 
 Please note, that this is no official localization & that the available translations are fan made.
 
@@ -20,7 +20,8 @@ See [instructions.md](https://github.com/londoncity99cx/nfscolocalization/blob/m
 | Language             | Code | Translated by                                                                                       | Download                                                                                            | Supported Version(s) |
 | :------------------- | ---- | :-------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- | :------------------- |
 | German               | DE   | [LondonCity](https://github.com/londoncity99cx)                                                     | [OneDrive](https://1drv.ms/f/c/e8ab278086f1150c/IgArpsI1N36ZRb-6TNKmVPW0AQrO5ML8-gLgXFHar5WqNtE)    | NFSCO 2777 - 2888    |
-| Italian              | IT   | BigBoss                                                                                             | [OneDrive](https://1drv.ms/f/c/e8ab278086f1150c/IgA90Vj6doG8S7bJwC3Jk18oAfb3knyLBaxKG_9qPk4OXEM)    | NFSCO 2777 - 2888    |
+| Italian              | IT   | [BigBoss](https://github.com/NakedSnake95)                                                          | [OneDrive](https://1drv.ms/f/c/e8ab278086f1150c/IgA90Vj6doG8S7bJwC3Jk18oAfb3knyLBaxKG_9qPk4OXEM)    | NFSCO 2777 - 2888    |
+| Brazilian-Portuguese | BR   | [PolarDog](https://github.com/polard0g)                                                             | [OneDrive](https://1drv.ms/f/c/e8ab278086f1150c/IgAotw7BVl0bRISjvGz_vJJ3AdrkLjnR_uTz01D7M1D1ijc)    | NFSCO 2777 - 2888    |
 
 See [download.md](https://github.com/londoncity99cx/nfscolocalization/blob/main/Docs/download.md) for instructions on how to download and install.
 

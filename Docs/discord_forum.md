@@ -4,9 +4,11 @@ Since NFSCO describes itself as "The definitive Need for Speed: Carbon experienc
 
 ## **LOCALIZATIONS**
 :flag_de:  - for NFSCO 2777-2888 - by: @londoncity99 
-Download:  [OneDrive](https://1drv.ms/f/c/e8ab278086f1150c/IgArpsI1N36ZRb-6TNKmVPW0AQrO5ML8-gLgXFHar5WqNtE)
+Download: [OneDrive](https://1drv.ms/f/c/e8ab278086f1150c/IgArpsI1N36ZRb-6TNKmVPW0AQrO5ML8-gLgXFHar5WqNtE)
 :flag_it:  - for NFSCO 2777-2888 - by: @luckyluke2376 
 Download: [OneDrive](https://1drv.ms/f/c/e8ab278086f1150c/IgA90Vj6doG8S7bJwC3Jk18oAfb3knyLBaxKG_9qPk4OXEM)
+:flag_br:  - for NFSCO 2777-2888 - by: @polard0g 
+Download: [OneDrive](https://1drv.ms/f/c/e8ab278086f1150c/IgAotw7BVl0bRISjvGz_vJJ3AdrkLjnR_uTz01D7M1D1ijc)
 :flag_um:  - for NFSCO 2777-2888 - by: the NFSCO authors
 Download: [OneDrive](https://1drv.ms/f/c/e8ab278086f1150c/IgAPwog7qlR7Trt50RvcPW06AXSdCjHDvpLWMN0KnwSk6Qc)
 
@@ -30,5 +32,3 @@ To revert to English, download the conversion pack from :flag_um: & extract it o
 Every comment is much appreciated!
 
 Cheers
-
-
