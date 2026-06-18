@@ -3,14 +3,16 @@ This post is all about the localization of NFSCO. *Please note, that as of right
 Since NFSCO describes itself as "The definitive Need for Speed: Carbon experience", the available translations reflect that concept of authenticity of the game & will blend in seamlessly. All reward cards, Challenge Series events & every other NFSCO-related string has been translated carefully. Some strings from the base game language files that contained spelling errors in the UI were corrected too.
 
 ## **LOCALIZATIONS**
+:flag_um:  - for NFSCO 2777-2888 - by: the NFSCO authors
+Download: [OneDrive](https://1drv.ms/f/c/e8ab278086f1150c/IgAPwog7qlR7Trt50RvcPW06AXSdCjHDvpLWMN0KnwSk6Qc)
 :flag_de:  - for NFSCO 2777-2888 - by: @londoncity99 
 Download: [OneDrive](https://1drv.ms/f/c/e8ab278086f1150c/IgArpsI1N36ZRb-6TNKmVPW0AQrO5ML8-gLgXFHar5WqNtE)
 :flag_it:  - for NFSCO 2777-2888 - by: @luckyluke2376 
 Download: [OneDrive](https://1drv.ms/f/c/e8ab278086f1150c/IgA90Vj6doG8S7bJwC3Jk18oAfb3knyLBaxKG_9qPk4OXEM)
 :flag_br:  - for NFSCO 2777-2888 - by: @polard0g 
 Download: [OneDrive](https://1drv.ms/f/c/e8ab278086f1150c/IgAotw7BVl0bRISjvGz_vJJ3AdrkLjnR_uTz01D7M1D1ijc)
-:flag_um:  - for NFSCO 2777-2888 - by: the NFSCO authors
-Download: [OneDrive](https://1drv.ms/f/c/e8ab278086f1150c/IgAPwog7qlR7Trt50RvcPW06AXSdCjHDvpLWMN0KnwSk6Qc)
+:flag_es:  - for NFSCO 2777-2888 - by: @ola_ola._. 
+Download: [OneDrive](https://1drv.ms/f/c/e8ab278086f1150c/IgB-DhIIv76ITJJ6ptTJH4mzAbf77pdHU_lpyZYXcFhtoQI)
 
 ## **HOW TO INSTALL CONVERSION PACK (RECOMMENDED)**
 1. Create a backup of your installation.

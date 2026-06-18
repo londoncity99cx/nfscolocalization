@@ -22,6 +22,7 @@ See [instructions.md](https://github.com/londoncity99cx/nfscolocalization/blob/m
 | German               | DE   | [LondonCity](https://github.com/londoncity99cx)                                                     | [OneDrive](https://1drv.ms/f/c/e8ab278086f1150c/IgArpsI1N36ZRb-6TNKmVPW0AQrO5ML8-gLgXFHar5WqNtE)    | NFSCO 2777 - 2888    |
 | Italian              | IT   | [BigBoss](https://github.com/NakedSnake95)                                                          | [OneDrive](https://1drv.ms/f/c/e8ab278086f1150c/IgA90Vj6doG8S7bJwC3Jk18oAfb3knyLBaxKG_9qPk4OXEM)    | NFSCO 2777 - 2888    |
 | Brazilian-Portuguese | BR   | [PolarDog](https://github.com/polard0g)                                                             | [OneDrive](https://1drv.ms/f/c/e8ab278086f1150c/IgAotw7BVl0bRISjvGz_vJJ3AdrkLjnR_uTz01D7M1D1ijc)    | NFSCO 2777 - 2888    |
+| Spanish              | ES   | [ola ola](https://github.com/ola-ola39s)                                                            | [OneDrive](https://1drv.ms/f/c/e8ab278086f1150c/IgB-DhIIv76ITJJ6ptTJH4mzAbf77pdHU_lpyZYXcFhtoQI)    | NFSCO 2777 - 2888    |
 
 See [download.md](https://github.com/londoncity99cx/nfscolocalization/blob/main/Docs/download.md) for instructions on how to download and install.
 
